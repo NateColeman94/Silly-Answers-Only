@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Silly Answers Only</title>
+  <meta name="description" content="Enter a book title and receive a completely ridiculous synopsis." />
+  <style>
+    :root {
+      --ink: #2b2434;
+      --paper: #fffaf0;
+      --accent: #ff7a59;
+      --accent-dark: #df5638;
+      --purple: #7d5fff;
+      --gold: #ffd166;
+      --mint: #b8f2e6;
+      --shadow: 0 18px 45px rgba(43, 36, 52, 0.18);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Inter, ui-rounded, "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 15% 15%, rgba(255, 209, 102, .58), transparent 28%),
+        radial-gradient(circle at 85% 25%, rgba(184, 242, 230, .65), transparent 25%),
+        linear-gradient(135deg, #fff7e6 0%, #f4ecff 100%);
+      overflow-x: hidden;
+    }
+
+    .floating-book {
+      position: fixed;
+      font-size: clamp(2rem, 5vw, 4rem);
+      opacity: .18;
+      user-select: none;
+      pointer-events: none;
+      animation: float 7s ease-in-out infinite;
+    }
+
+    .book-one { left: 3vw; top: 14vh; }
+    .book-two { right: 4vw; top: 18vh; animation-delay: -2s; }
+    .book-three { left: 8vw; bottom: 8vh; animation-delay: -4s; }
+    .book-four { right: 8vw; bottom: 7vh; animation-delay: -1s; }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0) rotate(-4deg); }
+      50% { transform: translateY(-18px) rotate(4deg); }
+    }
+
+    main {
+      width: min(920px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 56px 0 44px;
+    }
+
+    .hero { text-align: center; margin-bottom: 30px; }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.82);
+      border: 2px solid rgba(43,36,52,.08);
+      font-weight: 800;
+      box-shadow: 0 8px 22px rgba(43,36,52,.08);
+    }
+
+    h1 {
+      margin: 18px 0 10px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(3rem, 9vw, 6.6rem);
+      line-height: .92;
+      letter-spacing: -0.055em;
+    }
+
+    h1 span { color: var(--accent); text-shadow: 4px 4px 0 var(--gold); }
+
+    .subtitle {
+      width: min(680px, 100%);
+      margin: 0 auto;
+      font-size: clamp(1rem, 2.4vw, 1.25rem);
+      line-height: 1.65;
+    }
+
+    .app-card {
+      position: relative;
+      background: rgba(255,250,240,.94);
+      border: 3px solid var(--ink);
+      border-radius: 28px;
+      padding: clamp(22px, 5vw, 42px);
+      box-shadow: var(--shadow), 10px 10px 0 var(--purple);
+    }
+
+    .app-card::before {
+      content: "ABSOLUTELY UNRELIABLE";
+      position: absolute;
+      top: -16px;
+      right: 22px;
+      background: var(--gold);
+      border: 2px solid var(--ink);
+      border-radius: 8px;
+      padding: 7px 10px;
+      font-size: .72rem;
+      font-weight: 900;
+      letter-spacing: .08em;
+      transform: rotate(3deg);
+    }
+
+    label {
+      display: block;
+      margin-bottom: 10px;
+      font-weight: 900;
+      font-size: 1.08rem;
+    }
+
+    .input-row {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+    }
+
+    input {
+      width: 100%;
+      min-height: 56px;
+      border: 3px solid var(--ink);
+      border-radius: 14px;
+      padding: 0 18px;
+      font-size: 1rem;
+      color: var(--ink);
+      background: #fff;
+      outline: none;
+      transition: transform .15s ease, box-shadow .15s ease;
+    }
+
+    input:focus {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 0 rgba(125,95,255,.25);
+    }
+
+    button {
+      border: 3px solid var(--ink);
+      border-radius: 14px;
+      min-height: 56px;
+      padding: 0 20px;
+      font-size: 1rem;
+      font-weight: 900;
+      color: #fff;
+      background: var(--accent);
+      cursor: pointer;
+      box-shadow: 5px 5px 0 var(--ink);
+      transition: transform .15s ease, box-shadow .15s ease, background .15s ease;
+    }
+
+    button:hover { background: var(--accent-dark); transform: translate(-1px, -1px); box-shadow: 7px 7px 0 var(--ink); }
+    button:active { transform: translate(3px, 3px); box-shadow: 2px 2px 0 var(--ink); }
+
+    .examples {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+
+    .example-btn {
+      min-height: auto;
+      padding: 8px 11px;
+      border-width: 2px;
+      border-radius: 999px;
+      background: #fff;
+      color: var(--ink);
+      box-shadow: none;
+      font-size: .84rem;
+    }
+
+    .example-btn:hover { background: var(--mint); box-shadow: none; transform: translateY(-1px); }
+
+    .result {
+      display: none;
+      margin-top: 28px;
+      border: 3px dashed var(--ink);
+      border-radius: 20px;
+      padding: 24px;
+      background: #fff;
+      animation: pop .3s ease both;
+    }
+
+    @keyframes pop {
+      from { opacity: 0; transform: scale(.97) rotate(-.5deg); }
+      to { opacity: 1; transform: scale(1) rotate(0); }
+    }
+
+    .result.show { display: block; }
+
+    .result-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: flex-start;
+      margin-bottom: 12px;
+    }
+
+    .result h2 {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(1.45rem, 4vw, 2.15rem);
+      line-height: 1.15;
+    }
+
+    .rating {
+      white-space: nowrap;
+      background: var(--mint);
+      border: 2px solid var(--ink);
+      border-radius: 999px;
+      padding: 7px 10px;
+      font-size: .78rem;
+      font-weight: 900;
+    }
+
+    #synopsis {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(1.08rem, 2.5vw, 1.3rem);
+      line-height: 1.75;
+    }
+
+    .result-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .secondary {
+      min-height: 44px;
+      padding: 0 14px;
+      font-size: .88rem;
+      color: var(--ink);
+      background: var(--gold);
+      box-shadow: 4px 4px 0 var(--ink);
+    }
+
+    .secondary:hover { background: #ffc43d; box-shadow: 5px 5px 0 var(--ink); }
+
+    .footer-note {
+      text-align: center;
+      margin-top: 32px;
+      font-size: .88rem;
+      opacity: .75;
+    }
+
+    @media (max-width: 650px) {
+      main { padding-top: 34px; }
+      .input-row { grid-template-columns: 1fr; }
+      .input-row > button { width: 100%; }
+      .result-top { flex-direction: column; }
+      .app-card { box-shadow: var(--shadow), 6px 6px 0 var(--purple); }
+      .app-card::before { right: 12px; font-size: .62rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="floating-book book-one">📕</div>
+  <div class="floating-book book-two">📘</div>
+  <div class="floating-book book-three">📙</div>
+  <div class="floating-book book-four">📗</div>
+
+  <main>
+    <section class="hero">
+      <div class="badge">📚 Literature, but incorrect</div>
+      <h1>Silly <span>Answers</span> Only</h1>
+      <p class="subtitle">Type in any book title and receive a ridiculous, wildly inaccurate synopsis that no librarian would approve.</p>
+    </section>
+
+    <section class="app-card">
+      <label for="bookTitle">What book are we misunderstanding today?</label>
+      <div class="input-row">
+        <input id="bookTitle" type="text" placeholder="Example: The Fellowship of the Ring" autocomplete="off" maxlength="100" />
+        <button id="generateBtn" type="button">Make It Silly</button>
+      </div>
+
+      <div class="examples" aria-label="Example book titles">
+        <button class="example-btn" data-title="The Fellowship of the Ring">The Fellowship of the Ring</button>
+        <button class="example-btn" data-title="Pride and Prejudice">Pride and Prejudice</button>
+        <button class="example-btn" data-title="The Great Gatsby">The Great Gatsby</button>
+        <button class="example-btn" data-title="Harry Potter and the Sorcerer's Stone">Harry Potter</button>
+      </div>
+
+      <article id="result" class="result" aria-live="polite">
+        <div class="result-top">
+          <h2 id="resultTitle"></h2>
+          <span id="rating" class="rating">Accuracy: 0%</span>
+        </div>
+        <p id="synopsis"></p>
+        <div class="result-actions">
+          <button id="againBtn" class="secondary" type="button">Give Me Another</button>
+          <button id="copyBtn" class="secondary" type="button">Copy Synopsis</button>
+        </div>
+      </article>
+    </section>
+
+    <p class="footer-note">No books were responsibly summarized in the making of this application.</p>
+  </main>
+
+  <script>
+    const openings = [
+      "A deeply confused hero discovers that",
+      "In a shocking breach of common sense,",
+      "After ignoring several perfectly reasonable warning signs,",
+      "A group of people with no business working together learns that",
+      "In what is clearly an overreaction to a minor inconvenience,",
+      "A local citizen accidentally uncovers the fact that"
+    ];
+
+    const goals = [
+      "the fate of the world depends on returning an overdue library book",
+      "an ancient prophecy is actually a badly written grocery list",
+      "the kingdom's greatest treasure is a coupon that expired three Tuesdays ago",
+      "a mysterious object must be delivered to someone who refuses to answer the door",
+      "the villain can only be defeated by winning a very tense bake sale",
+      "everyone has been arguing for hundreds of pages because nobody checked the group chat",
+      "a magical artifact is mostly useful as an unusually dramatic paperweight",
+      "the entire conflict could be solved by one calm adult asking a follow-up question"
+    ];
+
+    const companions = [
+      "They are joined by a suspiciously confident goose",
+      "Their companions include a retired wizard, two interns, and a horse with trust issues",
+      "A fellowship forms around them, mostly because everyone else missed the bus",
+      "They recruit a baker, a poet, and one person who keeps claiming to know a shortcut",
+      "Along the way, they befriend a dragon who is mainly interested in office supplies",
+      "Their only guide is a raccoon wearing a tiny waistcoat"
+    ];
+
+    const complications = [
+      "Unfortunately, every map is upside down",
+      "Things become complicated when the chosen one takes a snack break lasting six chapters",
+      "The plan falls apart after someone presses the obviously forbidden button",
+      "Their journey is delayed by a committee meeting about the journey",
+      "The villain keeps sending passive-aggressive postcards",
+      "Nobody can remember the password to the secret fortress",
+      "A prophecy-related typo sends everyone to the wrong mountain",
+      "The final battle is rescheduled due to light rain"
+    ];
+
+    const endings = [
+      "In the end, friendship wins, logic loses, and someone definitely needs to replace a door.",
+      "Peace is restored after a dramatic apology and an unnecessarily expensive brunch.",
+      "The heroes succeed, although historians agree they should not have.",
+      "Everyone goes home wiser, dustier, and permanently banned from one very specific tavern.",
+      "The kingdom is saved and immediately launches an investigation into who approved this plan.",
+      "The story ends with a lesson about courage, teamwork, and reading the instructions first."
+    ];
+
+    const titleSpecific = {
+      "the fellowship of the ring": "Nine coworkers are assigned to dispose of a very fashionable ring, but the project suffers from unclear leadership, aggressive cave tourism, and one employee who keeps whispering about his jewelry. After several walking meetings, the team concludes that eagles would have made the entire trip much shorter.",
+      "pride and prejudice": "Two people spend an entire book refusing to admit they like each other while their relatives compete to become the most embarrassing person in England. Eventually, a large house solves most of the emotional problems.",
+      "the great gatsby": "A man throws increasingly expensive parties because one woman once liked his shirt. His neighbor watches the situation unfold and learns that rich people should not be trusted with symbolism, automobiles, or swimming pools.",
+      "harry potter and the sorcerer's stone": "A neglected child discovers he is famous, attends a school with no meaningful safety regulations, and spends the year investigating why the staff keep hiding a dangerous object behind a series of puzzles designed for eleven-year-olds.",
+      "moby dick": "A sea captain turns a workplace grudge against one whale into the longest mandatory team-building exercise in maritime history.",
+      "romeo and juliet": "Two teenagers meet, skip several important conversations, and create an emergency so dramatic that their families finally consider conflict resolution.",
+      "the hobbit": "A quiet homeowner is pressured into joining thirteen strangers on a burglary expedition. He returns with improved confidence, severe travel fatigue, and far fewer dinner plates.",
+      "1984": "A government employee starts keeping a diary, which becomes a major problem because his workplace has taken micromanagement to an extremely literal level."
+    };
+
+    const pick = arr => arr[Math.floor(Math.random() * arr.length)];
+
+    function cleanTitle(value) {
+      return value.trim().replace(/\s+/g, " ");
+    }
+
+    function makeSynopsis(title) {
+      const key = title.toLowerCase();
+      if (titleSpecific[key]) return titleSpecific[key];
+      return `${pick(openings)} ${pick(goals)}. ${pick(companions)}. ${pick(complications)}. ${pick(endings)}`;
+    }
+
+    function generate() {
+      const input = document.getElementById("bookTitle");
+      const title = cleanTitle(input.value);
+      if (!title) {
+        input.focus();
+        input.placeholder = "Please enter a real title—or at least a convincing fake one.";
+        return;
+      }
+
+      document.getElementById("resultTitle").textContent = `The totally accurate plot of “${title}”`;
+      document.getElementById("synopsis").textContent = makeSynopsis(title);
+      document.getElementById("rating").textContent = `Accuracy: ${Math.floor(Math.random() * 4)}%`;
+      const result = document.getElementById("result");
+      result.classList.remove("show");
+      void result.offsetWidth;
+      result.classList.add("show");
+      result.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    }
+
+    document.getElementById("generateBtn").addEventListener("click", generate);
+    document.getElementById("againBtn").addEventListener("click", generate);
+    document.getElementById("bookTitle").addEventListener("keydown", event => {
+      if (event.key === "Enter") generate();
+    });
+
+    document.querySelectorAll(".example-btn").forEach(button => {
+      button.addEventListener("click", () => {
+        document.getElementById("bookTitle").value = button.dataset.title;
+        generate();
+      });
+    });
+
+    document.getElementById("copyBtn").addEventListener("click", async () => {
+      const title = document.getElementById("resultTitle").textContent;
+      const synopsis = document.getElementById("synopsis").textContent;
+      const copyBtn = document.getElementById("copyBtn");
+      try {
+        await navigator.clipboard.writeText(`${title}\n\n${synopsis}`);
+        copyBtn.textContent = "Copied!";
+      } catch {
+        copyBtn.textContent = "Copy failed";
+      }
+      setTimeout(() => copyBtn.textContent = "Copy Synopsis", 1300);
+    });
+  </script>
+</body>
+</html>
