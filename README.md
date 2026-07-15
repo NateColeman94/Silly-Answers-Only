@@ -1,10 +1,16 @@
-# Silly Answers Only
+# Silly Answers Only v1.5
 
-A playful GitHub Pages web application that turns book titles into wildly inaccurate, silly synopses.
+A GitHub Pages-ready single-file app built around one rule: it may recognize a book, series, author, or character, but it may never explain it accurately.
+
+## Features
+- Book, series, author, and character recognition
+- Related clickable recommendations
+- Three silliness levels
+- Local voting saved in the browser with localStorage
+- Random awards and lightweight confetti
+- No API key, backend, or build process required
 
 ## Publish on GitHub Pages
-1. Create a new GitHub repository.
-2. Upload `index.html` to the repository root.
-3. Open **Settings → Pages**.
-4. Choose **Deploy from a branch**, then select `main` and `/root`.
-5. Save and open the Pages link GitHub provides.
+Upload `index.html` to the root of your repository, then enable GitHub Pages from the repository settings.
+
+Note: votes are stored only in each visitor's browser. Shared community totals would require a backend or hosted database.
