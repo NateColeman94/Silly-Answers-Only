@@ -57,7 +57,9 @@
       </aside>
     </section>
 
-    <section id="notFound" class="card notice hidden">
+    <section id="apiLoading" class="card notice hidden"><h2>🪿 Penelope is checking the public shelves…</h2><p>Handcrafted catalog miss. Searching Open Library for a likely book match.</p></section>
+
+<section id="notFound" class="card notice hidden">
       <h2>📚 Checked Out Notice</h2>
       <p>Penelope checked every shelf. This title may be checked out or it has not entered the misinformation system yet.</p>
       <div id="notFoundSuggestions" class="button-row"></div>
@@ -66,7 +68,7 @@
     <article id="result" class="card result hidden">
       <header class="result-header">
         <div>
-          <span id="entityType" class="pill"></span>
+          <span id="entityType" class="pill"></span> <span id="sourceBadge" class="source-badge hidden"></span>
           <h2 id="resultTitle"></h2>
         </div>
         <span id="award" class="award"></span>
@@ -97,9 +99,16 @@
         <div id="related" class="button-row"></div>
       </section>
 
-      <section class="subcard">
-        <h3>📇 My Library Card</h3>
-        <button id="saveBtn">Save This Misunderstanding</button>
+      <section class="subcard library-card-panel">
+        <div class="library-card-heading">
+          <div><h3>📇 My Library Card</h3><p>Save exact explanations to personal shelves stored in this browser.</p></div>
+          <button id="openCardBtn" class="secondary">Open My Card</button>
+        </div>
+        <div class="save-actions">
+          <button class="save-shelf" data-shelf="approved">🪿 Goose Approved</button>
+          <button class="save-shelf" data-shelf="favorites">📚 Save to My Favorites</button>
+          <button class="save-shelf" data-shelf="shame">🏆 Add to My Hall of Shame</button>
+        </div>
         <span id="saveStatus" class="save-status" aria-live="polite"></span>
         <div id="savedItems" class="saved-items"></div>
       </section>
@@ -114,7 +123,7 @@
       <strong>📚 LIBRARY NOTICE</strong>
       <p>No books were responsibly summarized in the making of this application.</p>
       <p>✓ Accurate Answers have been permanently checked out.</p>
-      <small>Build 6.1 — Restored Collection & Library Polish</small>
+      <small>Build 6.2 — Hybrid Search & Personal Library Card</small>
     </footer>
   </main>
 
@@ -125,6 +134,7 @@
   <script src="js/search.js"></script>
   <script src="js/penelope.js"></script>
   <script src="js/library-card.js"></script>
+  <script src="js/open-library.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

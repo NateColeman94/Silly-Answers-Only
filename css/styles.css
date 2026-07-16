@@ -95,3 +95,10 @@ body.dark .mascot-button img{filter:brightness(.88) contrast(1.05)}
 @media(prefers-reduced-motion:reduce){
   *,*::before,*::after{animation-duration:.001ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.001ms!important}
 }
+
+.source-badge{display:inline-block;margin-left:6px;border:2px solid var(--ink);border-radius:999px;padding:5px 9px;background:var(--mint);font-size:.75rem;font-weight:900}
+.library-card-heading,.saved-shelf-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.library-card-heading p{margin:.2rem 0 .8rem}.save-actions{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:12px}
+.save-actions button:nth-child(1){background:var(--mint)}.save-actions button:nth-child(2){background:var(--blue)}.save-actions button:nth-child(3){background:var(--pink)}
+.saved-shelf{margin-top:14px;border:2px dashed var(--ink);border-radius:13px;padding:12px}.saved-shelf h4{font-family:Georgia,serif;margin:0}
+#apiLoading{background:linear-gradient(135deg,rgba(223,244,223,.96),rgba(238,228,255,.96))}

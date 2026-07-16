@@ -1,28 +1,9 @@
-# Penelope's Misinformation Library 6.1
+# Penelope's Misinformation Library 6.2
 
-## Restored collection
-The modular 6.0 merge omitted several previously completed records. Version 6.1 restores the missing featured material, including:
+## Handcrafted audit
+Compared available historical collection builds, restored missing keys, promoted shared profile fields into each record, and validated every final handcrafted record.
 
-- Gandalf
-- J.R.R. Tolkien
-- Harry Potter
-- The Hunger Games
-- Percy Jackson
-- The Lightning Thief
-- Rick Riordan
-- Annabeth Chase
-
-## Library polish
-- Saved light/dark appearance toggle
-- Animated bookshelf banner
-- Smoother result and notice transitions
-- Improved mobile layout
-- Strong keyboard focus indicators
-- Reduced-motion accessibility support
-- Existing Penelope mascot, honks, Smart Search, My Library Card, and witty title-specific dialogue preserved
-
-## Collection
-Total handcrafted records: 159
+Final handcrafted records: 159
 
 {
   "Book": 69,
@@ -31,5 +12,19 @@ Total handcrafted records: 159
   "Author": 23
 }
 
+## Hybrid search
+1. Handcrafted collection first.
+2. Open Library Search API second.
+3. Checked-out notice if no result or the API is unavailable.
+
+API-found results are labeled `Open Library metadata`.
+
+## My Library Card shelves
+- 🪿 Goose Approved
+- 📚 My Favorites
+- 🏆 Hall of Shame
+
+Saved explanations stay in the visitor's browser. Older saved items migrate to My Favorites.
+
 ## Upload
-Upload and replace every file and folder from this ZIP because data, styling, HTML, and application logic changed.
+Replace all files and folders from this ZIP.

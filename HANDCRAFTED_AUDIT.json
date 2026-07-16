@@ -1,0 +1,19 @@
+{
+  "historical_sources_compared": [
+    "index.html",
+    "index.html",
+    "index.html",
+    "v5.2 library.js"
+  ],
+  "historical_union_count": 156,
+  "missing_from_6_1_before_restore": [],
+  "restored_count": 0,
+  "final_handcrafted_count": 159,
+  "counts_by_type": {
+    "Book": 69,
+    "Character": 58,
+    "Book Series": 9,
+    "Author": 23
+  },
+  "full_independent_subsection_audit": "PASS"
+}

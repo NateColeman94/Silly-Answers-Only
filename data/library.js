@@ -8065,6 +8065,36 @@ window.PENELOPE_LIBRARY = {
     "wild": [
       "A dyslexic demigod turns every museum visit into an insurance claim.",
       "Mount Olympus outsources crisis management to teenagers armed with snacks and unresolved family issues."
+    ],
+    "audiences": [
+      "camp counselors updating liability forms",
+      "Greek gods avoiding customer service",
+      "students with alarming field trips"
+    ],
+    "genres": [
+      "Mythological Summer Camp",
+      "Divine Family Drama",
+      "Sword-Based Tutoring"
+    ],
+    "quotes": [
+      "My family tree requires a warning label.",
+      "Has anyone seen the waiver form?"
+    ],
+    "reviews": [
+      "Excellent mythology. Terrible supervision.",
+      "The camp brochure omitted several monsters."
+    ],
+    "trailers": [
+      "One teenager. Twelve gods. Zero calm vacations."
+    ],
+    "morals": [
+      "Always read the summer-camp waiver."
+    ],
+    "endings": [
+      "The gods attend mediation and return all borrowed lightning."
+    ],
+    "questions": [
+      "Which adult should have supervised this quest?"
     ]
   },
   "the lightning thief": {
@@ -8087,6 +8117,36 @@ window.PENELOPE_LIBRARY = {
     "wild": [
       "A divine thunderbolt goes missing and every immortal immediately blames the nearest twelve-year-old.",
       "The national power grid is nearly destroyed by one extremely complicated family reunion."
+    ],
+    "audiences": [
+      "thunderbolt insurance adjusters",
+      "cross-country quest planners",
+      "Greek gods reviewing evidence"
+    ],
+    "genres": [
+      "Weather Equipment Recovery",
+      "Mythological Road Trip",
+      "Divine Accusation Management"
+    ],
+    "quotes": [
+      "I did not steal the sky's extension cord.",
+      "Please direct all thunderbolt claims to Olympus."
+    ],
+    "reviews": [
+      "Strong road trip. Weak evidence chain.",
+      "The gods skipped basic investigation procedures."
+    ],
+    "trailers": [
+      "One missing thunderbolt. One accused teenager. No reasonable adults."
+    ],
+    "morals": [
+      "Check the evidence before blaming the nearest demigod."
+    ],
+    "endings": [
+      "Olympus opens a formal lost-and-found department."
+    ],
+    "questions": [
+      "How does Percy's loyalty shape his choices during the quest?"
     ]
   },
   "rick riordan": {
@@ -8109,6 +8169,36 @@ window.PENELOPE_LIBRARY = {
     "wild": [
       "A mythology department becomes sentient and starts publishing field-trip incident reports.",
       "One writer turns every pantheon into a youth leadership program with catastrophic liability exposure."
+    ],
+    "audiences": [
+      "mythology teachers",
+      "camp counselors",
+      "readers updating pantheon charts"
+    ],
+    "genres": [
+      "Modern Mythology",
+      "Youth Quest Design",
+      "Pantheon Project Management"
+    ],
+    "quotes": [
+      "Ancient gods, meet middle-school scheduling.",
+      "Every pantheon now requires a summer program."
+    ],
+    "reviews": [
+      "Fast, funny, and surprisingly educational about monsters.",
+      "The mythology curriculum became highly interactive."
+    ],
+    "trailers": [
+      "One author. Several pantheons. Unlimited field trips."
+    ],
+    "morals": [
+      "Old myths can become new stories without losing their roots."
+    ],
+    "endings": [
+      "Every quest includes a properly trained chaperone."
+    ],
+    "questions": [
+      "How does Riordan use humor to make mythology approachable?"
     ]
   },
   "annabeth chase": {
@@ -8131,6 +8221,36 @@ window.PENELOPE_LIBRARY = {
     "wild": [
       "A human blueprint attempts to manage several walking disasters with swords.",
       "The only person in mythology who brought a project schedule."
+    ],
+    "audiences": [
+      "architects reviewing quest plans",
+      "demigods ignoring instructions",
+      "strategists carrying the group project"
+    ],
+    "genres": [
+      "Architectural Heroism",
+      "Strategic Questing",
+      "Plan-Based Survival"
+    ],
+    "quotes": [
+      "I made a plan. Please stop improvising on it.",
+      "The maze would be easier if everyone listened."
+    ],
+    "reviews": [
+      "Excellent strategist. Surrounded by chaos.",
+      "She brought the project plan and most of the common sense."
+    ],
+    "trailers": [
+      "One architect. Several monsters. No patience for bad planning."
+    ],
+    "morals": [
+      "Intelligence matters most when paired with courage and loyalty."
+    ],
+    "endings": [
+      "Everyone follows Annabeth's plan on the first attempt."
+    ],
+    "questions": [
+      "How do Annabeth's ambition and loyalty strengthen—and complicate—her choices?"
     ]
   },
   "harry potter": {
@@ -8153,6 +8273,36 @@ window.PENELOPE_LIBRARY = {
     "wild": [
       "An owl-powered institution survives seven audits by hiding evidence inside a moving castle.",
       "A teenager defeats evil using friendship and the world's least reliable faculty."
+    ],
+    "audiences": [
+      "concerned school inspectors",
+      "owls waiting on delivery updates",
+      "students filing safety complaints"
+    ],
+    "genres": [
+      "Educational Horror",
+      "Bird Ownership",
+      "Wizard Administration",
+      "Property Damage"
+    ],
+    "quotes": [
+      "I specifically requested a normal school year."
+    ],
+    "reviews": [
+      "The school desperately needs an inspection.",
+      "My owl still has not arrived."
+    ],
+    "trailers": [
+      "One student. Seven years. Zero guidance counselors."
+    ],
+    "morals": [
+      "Read enrollment forms carefully."
+    ],
+    "endings": [
+      "The parents form a school board and close the dangerous corridor."
+    ],
+    "questions": [
+      "Why was this school allowed to reopen every September?"
     ]
   },
   "gandalf": {
@@ -8239,6 +8389,35 @@ window.PENELOPE_LIBRARY = {
     "wild": [
       "A volcano receives a surprise jewelry return after nine pedestrians reject transportation.",
       "A wizard outsources hazardous-waste disposal to short interns and calls it destiny."
+    ],
+    "audiences": [
+      "exhausted hikers",
+      "concerned jewelers",
+      "hobbits who packed too lightly"
+    ],
+    "genres": [
+      "Jewelry Management",
+      "Competitive Walking",
+      "Volcano Tourism",
+      "Friendship Logistics"
+    ],
+    "quotes": [
+      "Could someone please just mail the ring?"
+    ],
+    "reviews": [
+      "I came for jewelry and stayed for cardio."
+    ],
+    "trailers": [
+      "One ring. Nine walkers. Zero parking."
+    ],
+    "morals": [
+      "Never trust inherited jewelry."
+    ],
+    "endings": [
+      "They overnight the ring."
+    ],
+    "questions": [
+      "Could this have been solved with one group email?"
     ]
   },
   "the lord of the rings series": {
@@ -8259,6 +8438,35 @@ window.PENELOPE_LIBRARY = {
     ],
     "wild": [
       "Middle-earth experiences an accessories recall managed entirely by pedestrians."
+    ],
+    "audiences": [
+      "exhausted hikers",
+      "concerned jewelers",
+      "hobbits who packed too lightly"
+    ],
+    "genres": [
+      "Jewelry Management",
+      "Competitive Walking",
+      "Volcano Tourism",
+      "Friendship Logistics"
+    ],
+    "quotes": [
+      "Could someone please just mail the ring?"
+    ],
+    "reviews": [
+      "I came for jewelry and stayed for cardio."
+    ],
+    "trailers": [
+      "One ring. Nine walkers. Zero parking."
+    ],
+    "morals": [
+      "Never trust inherited jewelry."
+    ],
+    "endings": [
+      "They overnight the ring."
+    ],
+    "questions": [
+      "Could this have been solved with one group email?"
     ]
   },
   "j.r.r. tolkien": {
@@ -8279,6 +8487,35 @@ window.PENELOPE_LIBRARY = {
     ],
     "wild": [
       "A map enthusiast accidentally creates literature while justifying footnotes."
+    ],
+    "audiences": [
+      "exhausted hikers",
+      "concerned jewelers",
+      "hobbits who packed too lightly"
+    ],
+    "genres": [
+      "Jewelry Management",
+      "Competitive Walking",
+      "Volcano Tourism",
+      "Friendship Logistics"
+    ],
+    "quotes": [
+      "Could someone please just mail the ring?"
+    ],
+    "reviews": [
+      "I came for jewelry and stayed for cardio."
+    ],
+    "trailers": [
+      "One ring. Nine walkers. Zero parking."
+    ],
+    "morals": [
+      "Never trust inherited jewelry."
+    ],
+    "endings": [
+      "They overnight the ring."
+    ],
+    "questions": [
+      "Could this have been solved with one group email?"
     ]
   },
   "the hunger games": {
@@ -8299,6 +8536,35 @@ window.PENELOPE_LIBRARY = {
     ],
     "wild": [
       "A costume department accidentally starts a revolution during a televised camping trip."
+    ],
+    "audiences": [
+      "alarmed sponsors",
+      "archery camp counselors",
+      "parents questioning the waiver"
+    ],
+    "genres": [
+      "Government Reality TV",
+      "Archery Administration",
+      "Costume-Based Rebellion"
+    ],
+    "quotes": [
+      "May the odds be reviewed by legal counsel."
+    ],
+    "reviews": [
+      "Worst summer camp ever. Memorable costumes.",
+      "The brochure was extremely misleading."
+    ],
+    "trailers": [
+      "One bow. Twelve districts. Zero responsible adults."
+    ],
+    "morals": [
+      "Never let the government plan youth entertainment."
+    ],
+    "endings": [
+      "Everyone refuses to sign the release form."
+    ],
+    "questions": [
+      "At what point should a responsible adult have cancelled the event?"
     ]
   },
   "the great gatsby": {
@@ -8319,6 +8585,34 @@ window.PENELOPE_LIBRARY = {
     ],
     "wild": [
       "Champagne, symbolism, and poor driving collaborate on the least effective reunion plan ever."
+    ],
+    "audiences": [
+      "party guests who never met the host",
+      "West Egg zoning officials",
+      "green-light enthusiasts"
+    ],
+    "genres": [
+      "Luxury Networking",
+      "Emotional Real Estate",
+      "Champagne Logistics"
+    ],
+    "quotes": [
+      "Perhaps one more party will fix communication."
+    ],
+    "reviews": [
+      "Beautiful house. Host seemed distracted."
+    ],
+    "trailers": [
+      "One mansion. One light. Too many feelings."
+    ],
+    "morals": [
+      "Parties are not a substitute for honesty."
+    ],
+    "endings": [
+      "Gatsby sends one clear message."
+    ],
+    "questions": [
+      "Could this have been solved with one honest text?"
     ]
   }
 };
