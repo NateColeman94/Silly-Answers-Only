@@ -23,6 +23,12 @@
     "the screwtape letters":["The correspondence has been intercepted by the theology desk.","Temptation should not use office stationery.","I have marked the sender as spiritually suspicious."]
   };
 
+  exact["be prepared"]=[
+    "Nala and Scar on the same mission? I have moved the Pride Lands emergency manual closer.",
+    "This alliance has been cataloged under Necessary but Deeply Uncomfortable.",
+    "Nala has accepted the mission. Trust has not."
+  ];
+
   const honks=[
     "HONK!","Double honk! HONK HONK!","Librarian honk.","Quiet-library honk.",
     "Concerned honk.","Professional honk.","Tiny offended honk.","Happy checkout honk.",
@@ -132,29 +138,60 @@
     return pick(byType[entry.type]||libraryRemarks,cycle+searchCount);
   }
 
+  let lastClickWasDouble=false;
   function clickLine(honkCount,searchCount,visitCount){
-    if(honkCount%5===0)return "Double honk! HONK HONK!";
-    if(visitCount>2&&honkCount%7===0)return pick(repeat,honkCount+visitCount);
-    if(searchCount>=5&&honkCount%5===0)return pick(busy,honkCount+searchCount);
-    if(honkCount%3===0)return pick(honks,honkCount);
-    return pick(libraryRemarks,honkCount+searchCount+visitCount);
+    const doubleChance=Math.random()<0.18 && !lastClickWasDouble;
+    lastClickWasDouble=doubleChance;
+    if(doubleChance)return "Double honk! HONK HONK!";
+    if(visitCount>2&&Math.random()<0.12)return pick(repeat,honkCount+visitCount);
+    if(searchCount>=5&&Math.random()<0.14)return pick(busy,honkCount+searchCount);
+    if(Math.random()<0.36)return pick(honks,honkCount+Math.floor(Math.random()*honks.length));
+    return pick(libraryRemarks,honkCount+searchCount+visitCount+Math.floor(Math.random()*libraryRemarks.length));
   }
 
-  function sound(doubleHonk=false){
+  async function sound(doubleHonk=false){
     try{
       const AudioCtx=window.AudioContext||window.webkitAudioContext;
-      const ctx=new AudioCtx(),count=doubleHonk?2:1;
+      if(!AudioCtx)return false;
+      const ctx=new AudioCtx();
+      if(ctx.state==="suspended")await ctx.resume();
+
+      const profiles=[
+        {name:"classic",type:"sawtooth",start:350,end:185,duration:.30,gain:.23,gap:.28},
+        {name:"librarian",type:"triangle",start:285,end:175,duration:.38,gain:.17,gap:.34},
+        {name:"quiet",type:"sine",start:245,end:165,duration:.24,gain:.10,gap:.25},
+        {name:"concerned",type:"square",start:410,end:205,duration:.34,gain:.16,gap:.31},
+        {name:"cheerful",type:"triangle",start:390,end:240,duration:.22,gain:.19,gap:.24}
+      ];
+      const profile=profiles[Math.floor(Math.random()*profiles.length)];
+      const count=doubleHonk?2:1;
+
       for(let i=0;i<count;i++){
-        const osc=ctx.createOscillator(),gain=ctx.createGain(),start=ctx.currentTime+i*.22;
-        osc.type="square";
-        osc.frequency.setValueAtTime(310,start);
-        osc.frequency.exponentialRampToValueAtTime(190,start+.18);
+        const osc=ctx.createOscillator();
+        const gain=ctx.createGain();
+        const start=ctx.currentTime+i*profile.gap;
+        const pitchShift=doubleHonk&&i===1?1.08:1;
+
+        osc.type=profile.type;
+        osc.frequency.setValueAtTime(profile.start*pitchShift,start);
+        osc.frequency.exponentialRampToValueAtTime(profile.end*pitchShift,start+profile.duration*.72);
+
         gain.gain.setValueAtTime(.0001,start);
-        gain.gain.exponentialRampToValueAtTime(.2,start+.02);
-        gain.gain.exponentialRampToValueAtTime(.0001,start+.24);
-        osc.connect(gain);gain.connect(ctx.destination);osc.start(start);osc.stop(start+.25);
+        gain.gain.exponentialRampToValueAtTime(profile.gain,start+.025);
+        gain.gain.exponentialRampToValueAtTime(.0001,start+profile.duration);
+
+        osc.connect(gain);
+        gain.connect(ctx.destination);
+        osc.start(start);
+        osc.stop(start+profile.duration+.03);
       }
-    }catch(error){console.warn("Honk unavailable",error)}
+
+      setTimeout(()=>ctx.close().catch(()=>{}),doubleHonk?1100:750);
+      return true;
+    }catch(error){
+      console.warn("Honk unavailable",error);
+      return false;
+    }
   }
 
   window.PenelopePersonality={lineFor,clickLine,sound};

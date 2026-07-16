@@ -7248,52 +7248,59 @@ window.PENELOPE_LIBRARY = {
     "key": "twisted",
     "related": [
       "The Lion King",
+      "Nala",
+      "Scar",
+      "Farrah Rochon",
       "Disney Twisted Tales"
     ],
     "mild": [
-      "What if Scar raised Simba after Mufasa's death? is treated as a manageable story until every character chooses the most dramatic available option."
+      "Nala is forced to work with Scar on a secret mission across the Pride Lands, creating an alliance built on necessity rather than trust."
     ],
     "silly": [
-      "What if Scar raised Simba after Mufasa's death? becomes a full-scale administrative emergency involving Scar guardianship, Simba manipulation, and one avoidable misunderstanding.",
-      "A familiar tale about what if scar raised simba after mufasa's death? is reclassified as a high-risk group project with unusually musical stakeholders."
+      "Nala reluctantly teams up with Scar for a secret mission and spends the journey wondering whether saving Pride Rock really requires this much villain supervision.",
+      "The Pride Lands assign their most responsible lioness to a classified mission with their least trustworthy lion, then act surprised when teamwork becomes complicated.",
+      "Nala and Scar form a temporary alliance where every plan includes courage, suspicion, and at least one sentence that needs independent verification."
     ],
     "wild": [
-      "Scar guardianship collides with Simba manipulation and creates the least efficient happily-ever-after process on record.",
-      "One fairy-tale problem turns into a kingdom-wide compliance incident involving Pride Lands politics."
+      "Pride Rock creates a covert task force consisting of one heroic lioness, one theatrical villain, and absolutely no neutral chaperone.",
+      "A secret mission forces Nala to trust Scar just enough to save the kingdom—but not enough to stop checking every shadow for a second agenda."
     ],
     "audiences": [
-      "readers studying Scar guardianship",
-      "librarians tracking Simba manipulation",
-      "fans debating Pride Lands politics"
+      "readers studying reluctant alliances",
+      "librarians reviewing classified Pride Lands missions",
+      "fans exploring Nala as the central hero"
     ],
     "genres": [
-      "Scar Guardianship",
-      "Simba Manipulation",
-      "Pride Lands Politics",
-      "Fairy-Tale Operations"
+      "Reluctant Villain Team-Up",
+      "Pride Lands Espionage",
+      "Secret Mission Management",
+      "Trust-Issue Adventure"
     ],
     "quotes": [
-      "Penelope's scenario card: What if Scar raised Simba after Mufasa's death?",
-      "One changed choice has now affected the entire kingdom."
+      "Nala has agreed to the mission. She has not agreed to trust Scar.",
+      "Please keep all secret plans where the villain cannot revise them.",
+      "This alliance is temporary, supervised, and deeply uncomfortable."
     ],
     "reviews": [
-      "Excellent Scar guardianship. Concerning Simba manipulation.",
-      "The character work was strong; the operational controls were not."
+      "A much stronger Nala-centered premise with an alliance nobody should accept casually.",
+      "Excellent secret mission. Extremely questionable teammate.",
+      "The Pride Lands needed saving, but pairing Nala with Scar still required several warning labels."
     ],
     "trailers": [
-      "One story. One twist. Unlimited Pride Lands politics."
+      "One lioness. One villain. One secret mission that could save Pride Rock—or hand Scar another opportunity.",
+      "This season, Nala must cross the Pride Lands with the one lion she has every reason not to trust."
     ],
     "morals": [
-      "Scar guardianship works best when paired with judgment.",
-      "A familiar story can change completely when one decision changes."
+      "Working with an enemy may be necessary, but trust should still be earned through actions.",
+      "Courage can include cooperation without ignoring danger or abandoning judgment."
     ],
     "endings": [
-      "Everyone discusses Simba manipulation before the final act.",
-      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+      "Nala completes the mission, saves Pride Rock, and submits a detailed report explaining why Scar should never receive unsupervised access to classified plans.",
+      "Scar tries to claim the victory, but Nala arrives with witnesses, evidence, and a much better version of events."
     ],
     "questions": [
-      "How does this alternate premise change the meaning of The Lion King?",
-      "Which original character trait matters most in the new timeline?"
+      "Why would Nala agree to work with Scar, and what boundaries would she need to protect herself and Pride Rock?",
+      "Does the mission reveal anything genuine about Scar, or does it simply give him another opportunity to manipulate events?"
     ]
   },
   "cruel truth": {
