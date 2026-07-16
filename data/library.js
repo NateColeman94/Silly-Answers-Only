@@ -20038,5 +20038,2417 @@ window.PENELOPE_LIBRARY = {
       "How does translation magic shape the central choices?",
       "Would the story work without academic rebellion?"
     ]
+  },
+  "fairest of all": {
+    "name": "Fairest of All",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "The Evil Queen",
+      "Serena Valentino",
+      "Snow White"
+    ],
+    "mild": [
+      "The Evil Queen turns mirror feedback into a kingdom-wide performance review."
+    ],
+    "silly": [
+      "The Evil Queen turns mirror feedback into a kingdom-wide performance review.",
+      "Fairest of All turns mirror-based management into a library incident involving royal jealousy and insufficient supervision.",
+      "A routine case of beauty-ranking governance becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Mirror-Based Management acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of royal jealousy becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring mirror-based management",
+      "librarians suspicious of royal jealousy",
+      "fans debating beauty-ranking governance"
+    ],
+    "genres": [
+      "Mirror-Based Management",
+      "Royal Jealousy",
+      "Beauty-Ranking Governance",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that mirror-based management was not in the approved itinerary.",
+      "I have placed royal jealousy under enchanted review."
+    ],
+    "reviews": [
+      "Excellent mirror-based management. Concerning royal jealousy.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited beauty-ranking governance. No neutral chaperone."
+    ],
+    "morals": [
+      "Mirror-Based Management should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses royal jealousy before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does mirror-based management shape the central choices?",
+      "Would the story work without royal jealousy?"
+    ]
+  },
+  "the beast within": {
+    "name": "The Beast Within",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "The Beast",
+      "Belle",
+      "Serena Valentino"
+    ],
+    "mild": [
+      "A prince receives a curse, a castle, and absolutely no useful customer-service training."
+    ],
+    "silly": [
+      "A prince receives a curse, a castle, and absolutely no useful customer-service training.",
+      "The Beast Within turns curse administration into a library incident involving castle isolation and insufficient supervision.",
+      "A routine case of romantic compliance becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Curse Administration acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of castle isolation becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring curse administration",
+      "librarians suspicious of castle isolation",
+      "fans debating romantic compliance"
+    ],
+    "genres": [
+      "Curse Administration",
+      "Castle Isolation",
+      "Romantic Compliance",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that curse administration was not in the approved itinerary.",
+      "I have placed castle isolation under enchanted review."
+    ],
+    "reviews": [
+      "Excellent curse administration. Concerning castle isolation.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited romantic compliance. No neutral chaperone."
+    ],
+    "morals": [
+      "Curse Administration should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses castle isolation before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does curse administration shape the central choices?",
+      "Would the story work without castle isolation?"
+    ]
+  },
+  "poor unfortunate soul": {
+    "name": "Poor Unfortunate Soul",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "Ursula",
+      "Ariel",
+      "Serena Valentino"
+    ],
+    "mild": [
+      "Ursula converts underwater contract law into a highly theatrical small business."
+    ],
+    "silly": [
+      "Ursula converts underwater contract law into a highly theatrical small business.",
+      "Poor Unfortunate Soul turns sea-witch contracts into a library incident involving voice acquisition and insufficient supervision.",
+      "A routine case of underwater entrepreneurship becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Sea-Witch Contracts acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of voice acquisition becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring sea-witch contracts",
+      "librarians suspicious of voice acquisition",
+      "fans debating underwater entrepreneurship"
+    ],
+    "genres": [
+      "Sea-Witch Contracts",
+      "Voice Acquisition",
+      "Underwater Entrepreneurship",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that sea-witch contracts was not in the approved itinerary.",
+      "I have placed voice acquisition under enchanted review."
+    ],
+    "reviews": [
+      "Excellent sea-witch contracts. Concerning voice acquisition.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited underwater entrepreneurship. No neutral chaperone."
+    ],
+    "morals": [
+      "Sea-Witch Contracts should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses voice acquisition before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does sea-witch contracts shape the central choices?",
+      "Would the story work without voice acquisition?"
+    ]
+  },
+  "mistress of all evil": {
+    "name": "Mistress of All Evil",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "Maleficent",
+      "Aurora",
+      "Serena Valentino"
+    ],
+    "mild": [
+      "Maleficent responds to a missing invitation with an aggressively long-term event-planning complaint."
+    ],
+    "silly": [
+      "Maleficent responds to a missing invitation with an aggressively long-term event-planning complaint.",
+      "Mistress of All Evil turns invitation disputes into a library incident involving curse logistics and insufficient supervision.",
+      "A routine case of dragon escalation becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Invitation Disputes acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of curse logistics becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring invitation disputes",
+      "librarians suspicious of curse logistics",
+      "fans debating dragon escalation"
+    ],
+    "genres": [
+      "Invitation Disputes",
+      "Curse Logistics",
+      "Dragon Escalation",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that invitation disputes was not in the approved itinerary.",
+      "I have placed curse logistics under enchanted review."
+    ],
+    "reviews": [
+      "Excellent invitation disputes. Concerning curse logistics.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited dragon escalation. No neutral chaperone."
+    ],
+    "morals": [
+      "Invitation Disputes should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses curse logistics before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does invitation disputes shape the central choices?",
+      "Would the story work without curse logistics?"
+    ]
+  },
+  "mother knows best": {
+    "name": "Mother Knows Best",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "Mother Gothel",
+      "Rapunzel",
+      "Serena Valentino"
+    ],
+    "mild": [
+      "Mother Gothel turns unauthorized tower living into a beauty-maintenance subscription."
+    ],
+    "silly": [
+      "Mother Gothel turns unauthorized tower living into a beauty-maintenance subscription.",
+      "Mother Knows Best turns tower parenting into a library incident involving hair-based youth management and insufficient supervision.",
+      "A routine case of maternal manipulation becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Tower Parenting acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of hair-based youth management becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring tower parenting",
+      "librarians suspicious of hair-based youth management",
+      "fans debating maternal manipulation"
+    ],
+    "genres": [
+      "Tower Parenting",
+      "Hair-Based Youth Management",
+      "Maternal Manipulation",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that tower parenting was not in the approved itinerary.",
+      "I have placed hair-based youth management under enchanted review."
+    ],
+    "reviews": [
+      "Excellent tower parenting. Concerning hair-based youth management.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited maternal manipulation. No neutral chaperone."
+    ],
+    "morals": [
+      "Tower Parenting should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses hair-based youth management before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does tower parenting shape the central choices?",
+      "Would the story work without hair-based youth management?"
+    ]
+  },
+  "the odd sisters": {
+    "name": "The Odd Sisters",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "The Odd Sisters",
+      "Serena Valentino",
+      "Disney Villains"
+    ],
+    "mild": [
+      "Three sisters manage curses, gossip, and inter-kingdom disruption from one extremely suspicious family office."
+    ],
+    "silly": [
+      "Three sisters manage curses, gossip, and inter-kingdom disruption from one extremely suspicious family office.",
+      "The Odd Sisters turns curse consulting into a library incident involving sisterly interference and insufficient supervision.",
+      "A routine case of fairy-tale disruption becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Curse Consulting acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of sisterly interference becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring curse consulting",
+      "librarians suspicious of sisterly interference",
+      "fans debating fairy-tale disruption"
+    ],
+    "genres": [
+      "Curse Consulting",
+      "Sisterly Interference",
+      "Fairy-Tale Disruption",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that curse consulting was not in the approved itinerary.",
+      "I have placed sisterly interference under enchanted review."
+    ],
+    "reviews": [
+      "Excellent curse consulting. Concerning sisterly interference.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited fairy-tale disruption. No neutral chaperone."
+    ],
+    "morals": [
+      "Curse Consulting should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses sisterly interference before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does curse consulting shape the central choices?",
+      "Would the story work without sisterly interference?"
+    ]
+  },
+  "evil thing": {
+    "name": "Evil Thing",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "Cruella de Vil",
+      "Serena Valentino",
+      "One Hundred and One Dalmatians"
+    ],
+    "mild": [
+      "Cruella treats fashion planning as a reason for the animal-control department to intervene."
+    ],
+    "silly": [
+      "Cruella treats fashion planning as a reason for the animal-control department to intervene.",
+      "Evil Thing turns fashion extremism into a library incident involving dog-related risk and insufficient supervision.",
+      "A routine case of glamorous villainy becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Fashion Extremism acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of dog-related risk becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring fashion extremism",
+      "librarians suspicious of dog-related risk",
+      "fans debating glamorous villainy"
+    ],
+    "genres": [
+      "Fashion Extremism",
+      "Dog-Related Risk",
+      "Glamorous Villainy",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that fashion extremism was not in the approved itinerary.",
+      "I have placed dog-related risk under enchanted review."
+    ],
+    "reviews": [
+      "Excellent fashion extremism. Concerning dog-related risk.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited glamorous villainy. No neutral chaperone."
+    ],
+    "morals": [
+      "Fashion Extremism should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses dog-related risk before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does fashion extremism shape the central choices?",
+      "Would the story work without dog-related risk?"
+    ]
+  },
+  "cold hearted": {
+    "name": "Cold Hearted",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "Lady Tremaine",
+      "Cinderella",
+      "Serena Valentino"
+    ],
+    "mild": [
+      "Lady Tremaine manages a blended family using social ambition and a deeply unequal chore chart."
+    ],
+    "silly": [
+      "Lady Tremaine manages a blended family using social ambition and a deeply unequal chore chart.",
+      "Cold Hearted turns stepfamily governance into a library incident involving social climbing and insufficient supervision.",
+      "A routine case of household labor disputes becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Stepfamily Governance acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of social climbing becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring stepfamily governance",
+      "librarians suspicious of social climbing",
+      "fans debating household labor disputes"
+    ],
+    "genres": [
+      "Stepfamily Governance",
+      "Social Climbing",
+      "Household Labor Disputes",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that stepfamily governance was not in the approved itinerary.",
+      "I have placed social climbing under enchanted review."
+    ],
+    "reviews": [
+      "Excellent stepfamily governance. Concerning social climbing.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited household labor disputes. No neutral chaperone."
+    ],
+    "morals": [
+      "Stepfamily Governance should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses social climbing before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does stepfamily governance shape the central choices?",
+      "Would the story work without social climbing?"
+    ]
+  },
+  "never never": {
+    "name": "Never Never",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "Captain Hook",
+      "Peter Pan",
+      "Serena Valentino"
+    ],
+    "mild": [
+      "Captain Hook converts one crocodile incident into a lifetime maritime grievance."
+    ],
+    "silly": [
+      "Captain Hook converts one crocodile incident into a lifetime maritime grievance.",
+      "Never Never turns pirate resentment into a library incident involving crocodile scheduling and insufficient supervision.",
+      "A routine case of Neverland management becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Pirate Resentment acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of crocodile scheduling becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring pirate resentment",
+      "librarians suspicious of crocodile scheduling",
+      "fans debating Neverland management"
+    ],
+    "genres": [
+      "Pirate Resentment",
+      "Crocodile Scheduling",
+      "Neverland Management",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that pirate resentment was not in the approved itinerary.",
+      "I have placed crocodile scheduling under enchanted review."
+    ],
+    "reviews": [
+      "Excellent pirate resentment. Concerning crocodile scheduling.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited Neverland management. No neutral chaperone."
+    ],
+    "morals": [
+      "Pirate Resentment should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses crocodile scheduling before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does pirate resentment shape the central choices?",
+      "Would the story work without crocodile scheduling?"
+    ]
+  },
+  "fire and fate": {
+    "name": "Fire and Fate",
+    "type": "Book",
+    "key": "disney-villains",
+    "related": [
+      "Hades",
+      "Hercules",
+      "Serena Valentino"
+    ],
+    "mild": [
+      "Hades runs the Underworld like an overworked department with flames, contracts, and no meaningful succession plan."
+    ],
+    "silly": [
+      "Hades runs the Underworld like an overworked department with flames, contracts, and no meaningful succession plan.",
+      "Fire and Fate turns underworld administration into a library incident involving fiery ambition and insufficient supervision.",
+      "A routine case of Olympian workplace conflict becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Underworld Administration acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of fiery ambition becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring underworld administration",
+      "librarians suspicious of fiery ambition",
+      "fans debating Olympian workplace conflict"
+    ],
+    "genres": [
+      "Underworld Administration",
+      "Fiery Ambition",
+      "Olympian Workplace Conflict",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that underworld administration was not in the approved itinerary.",
+      "I have placed fiery ambition under enchanted review."
+    ],
+    "reviews": [
+      "Excellent underworld administration. Concerning fiery ambition.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited Olympian workplace conflict. No neutral chaperone."
+    ],
+    "morals": [
+      "Underworld Administration should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses fiery ambition before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does underworld administration shape the central choices?",
+      "Would the story work without fiery ambition?"
+    ]
+  },
+  "kingdom keepers disney after dark": {
+    "name": "Kingdom Keepers: Disney After Dark",
+    "type": "Book",
+    "key": "kingdom-keepers",
+    "related": [
+      "Finn Whitman",
+      "Ridley Pearson",
+      "Maleficent"
+    ],
+    "mild": [
+      "Five holographic park hosts discover that closing time is more of a suggestion than a safety policy."
+    ],
+    "silly": [
+      "Five holographic park hosts discover that closing time is more of a suggestion than a safety policy.",
+      "Kingdom Keepers: Disney After Dark turns theme-park night shifts into a library incident involving holographic heroism and insufficient supervision.",
+      "A routine case of villain after-hours access becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Theme-Park Night Shifts acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of holographic heroism becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring theme-park night shifts",
+      "librarians suspicious of holographic heroism",
+      "fans debating villain after-hours access"
+    ],
+    "genres": [
+      "Theme-Park Night Shifts",
+      "Holographic Heroism",
+      "Villain After-Hours Access",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that theme-park night shifts was not in the approved itinerary.",
+      "I have placed holographic heroism under enchanted review."
+    ],
+    "reviews": [
+      "Excellent theme-park night shifts. Concerning holographic heroism.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited villain after-hours access. No neutral chaperone."
+    ],
+    "morals": [
+      "Theme-Park Night Shifts should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses holographic heroism before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does theme-park night shifts shape the central choices?",
+      "Would the story work without holographic heroism?"
+    ]
+  },
+  "kingdom keepers disney at dawn": {
+    "name": "Kingdom Keepers II: Disney at Dawn",
+    "type": "Book",
+    "key": "kingdom-keepers",
+    "related": [
+      "Finn Whitman",
+      "Amanda Lockhart",
+      "Ridley Pearson"
+    ],
+    "mild": [
+      "The Kingdom Keepers attempt to remain awake while the parks develop increasingly ambitious nighttime problems."
+    ],
+    "silly": [
+      "The Kingdom Keepers attempt to remain awake while the parks develop increasingly ambitious nighttime problems.",
+      "Kingdom Keepers II: Disney at Dawn turns sleep deprivation into a library incident involving park security and insufficient supervision.",
+      "A routine case of animal-kingdom emergencies becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Sleep Deprivation acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of park security becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring sleep deprivation",
+      "librarians suspicious of park security",
+      "fans debating animal-kingdom emergencies"
+    ],
+    "genres": [
+      "Sleep Deprivation",
+      "Park Security",
+      "Animal-Kingdom Emergencies",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that sleep deprivation was not in the approved itinerary.",
+      "I have placed park security under enchanted review."
+    ],
+    "reviews": [
+      "Excellent sleep deprivation. Concerning park security.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited animal-kingdom emergencies. No neutral chaperone."
+    ],
+    "morals": [
+      "Sleep Deprivation should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses park security before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does sleep deprivation shape the central choices?",
+      "Would the story work without park security?"
+    ]
+  },
+  "kingdom keepers disney in shadow": {
+    "name": "Kingdom Keepers III: Disney in Shadow",
+    "type": "Book",
+    "key": "kingdom-keepers",
+    "related": [
+      "Finn Whitman",
+      "Maleficent",
+      "Ridley Pearson"
+    ],
+    "mild": [
+      "A school trip, a theme park, and several villains combine into the least relaxing educational experience available."
+    ],
+    "silly": [
+      "A school trip, a theme park, and several villains combine into the least relaxing educational experience available.",
+      "Kingdom Keepers III: Disney in Shadow turns shadowy villains into a library incident involving student logistics and insufficient supervision.",
+      "A routine case of theme-park espionage becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Shadowy Villains acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of student logistics becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring shadowy villains",
+      "librarians suspicious of student logistics",
+      "fans debating theme-park espionage"
+    ],
+    "genres": [
+      "Shadowy Villains",
+      "Student Logistics",
+      "Theme-Park Espionage",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that shadowy villains was not in the approved itinerary.",
+      "I have placed student logistics under enchanted review."
+    ],
+    "reviews": [
+      "Excellent shadowy villains. Concerning student logistics.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited theme-park espionage. No neutral chaperone."
+    ],
+    "morals": [
+      "Shadowy Villains should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses student logistics before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does shadowy villains shape the central choices?",
+      "Would the story work without student logistics?"
+    ]
+  },
+  "kingdom keepers power play": {
+    "name": "Kingdom Keepers IV: Power Play",
+    "type": "Book",
+    "key": "kingdom-keepers",
+    "related": [
+      "Finn Whitman",
+      "Wayne Kresky",
+      "Ridley Pearson"
+    ],
+    "mild": [
+      "The parks experience a hostile magical takeover during what should have been a normal operating day."
+    ],
+    "silly": [
+      "The parks experience a hostile magical takeover during what should have been a normal operating day.",
+      "Kingdom Keepers IV: Power Play turns park takeover into a library incident involving magical infrastructure and insufficient supervision.",
+      "A routine case of teen crisis management becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Park Takeover acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of magical infrastructure becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring park takeover",
+      "librarians suspicious of magical infrastructure",
+      "fans debating teen crisis management"
+    ],
+    "genres": [
+      "Park Takeover",
+      "Magical Infrastructure",
+      "Teen Crisis Management",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that park takeover was not in the approved itinerary.",
+      "I have placed magical infrastructure under enchanted review."
+    ],
+    "reviews": [
+      "Excellent park takeover. Concerning magical infrastructure.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited teen crisis management. No neutral chaperone."
+    ],
+    "morals": [
+      "Park Takeover should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses magical infrastructure before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does park takeover shape the central choices?",
+      "Would the story work without magical infrastructure?"
+    ]
+  },
+  "kingdom keepers shell game": {
+    "name": "Kingdom Keepers V: Shell Game",
+    "type": "Book",
+    "key": "kingdom-keepers",
+    "related": [
+      "Finn Whitman",
+      "Disney Cruise Line",
+      "Ridley Pearson"
+    ],
+    "mild": [
+      "The Kingdom Keepers board a cruise and discover the villains have ignored the passenger conduct agreement."
+    ],
+    "silly": [
+      "The Kingdom Keepers board a cruise and discover the villains have ignored the passenger conduct agreement.",
+      "Kingdom Keepers V: Shell Game turns cruise-ship security into a library incident involving villain stowaways and insufficient supervision.",
+      "A routine case of maritime holograms becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Cruise-Ship Security acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of villain stowaways becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring cruise-ship security",
+      "librarians suspicious of villain stowaways",
+      "fans debating maritime holograms"
+    ],
+    "genres": [
+      "Cruise-Ship Security",
+      "Villain Stowaways",
+      "Maritime Holograms",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that cruise-ship security was not in the approved itinerary.",
+      "I have placed villain stowaways under enchanted review."
+    ],
+    "reviews": [
+      "Excellent cruise-ship security. Concerning villain stowaways.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited maritime holograms. No neutral chaperone."
+    ],
+    "morals": [
+      "Cruise-Ship Security should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses villain stowaways before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does cruise-ship security shape the central choices?",
+      "Would the story work without villain stowaways?"
+    ]
+  },
+  "kingdom keepers dark passage": {
+    "name": "Kingdom Keepers VI: Dark Passage",
+    "type": "Book",
+    "key": "kingdom-keepers",
+    "related": [
+      "Finn Whitman",
+      "Chernabog",
+      "Ridley Pearson"
+    ],
+    "mild": [
+      "The park's nighttime risk assessment expands from concerning to mythologically unacceptable."
+    ],
+    "silly": [
+      "The park's nighttime risk assessment expands from concerning to mythologically unacceptable.",
+      "Kingdom Keepers VI: Dark Passage turns dark magic into a library incident involving park rescue operations and insufficient supervision.",
+      "A routine case of teen leadership becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Dark Magic acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of park rescue operations becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring dark magic",
+      "librarians suspicious of park rescue operations",
+      "fans debating teen leadership"
+    ],
+    "genres": [
+      "Dark Magic",
+      "Park Rescue Operations",
+      "Teen Leadership",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that dark magic was not in the approved itinerary.",
+      "I have placed park rescue operations under enchanted review."
+    ],
+    "reviews": [
+      "Excellent dark magic. Concerning park rescue operations.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited teen leadership. No neutral chaperone."
+    ],
+    "morals": [
+      "Dark Magic should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses park rescue operations before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does dark magic shape the central choices?",
+      "Would the story work without park rescue operations?"
+    ]
+  },
+  "kingdom keepers the insider": {
+    "name": "Kingdom Keepers VII: The Insider",
+    "type": "Book",
+    "key": "kingdom-keepers",
+    "related": [
+      "Finn Whitman",
+      "Ridley Pearson",
+      "Kingdom Keepers"
+    ],
+    "mild": [
+      "The final park emergency requires insider knowledge, teamwork, and several departments pretending the attractions are normal."
+    ],
+    "silly": [
+      "The final park emergency requires insider knowledge, teamwork, and several departments pretending the attractions are normal.",
+      "Kingdom Keepers VII: The Insider turns insider access into a library incident involving final confrontations and insufficient supervision.",
+      "A routine case of park-wide coordination becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Insider Access acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of final confrontations becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring insider access",
+      "librarians suspicious of final confrontations",
+      "fans debating park-wide coordination"
+    ],
+    "genres": [
+      "Insider Access",
+      "Final Confrontations",
+      "Park-Wide Coordination",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that insider access was not in the approved itinerary.",
+      "I have placed final confrontations under enchanted review."
+    ],
+    "reviews": [
+      "Excellent insider access. Concerning final confrontations.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited park-wide coordination. No neutral chaperone."
+    ],
+    "morals": [
+      "Insider Access should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses final confrontations before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does insider access shape the central choices?",
+      "Would the story work without final confrontations?"
+    ]
+  },
+  "the isle of the lost": {
+    "name": "The Isle of the Lost",
+    "type": "Book",
+    "key": "descendants",
+    "related": [
+      "Mal",
+      "Evie",
+      "Carlos",
+      "Jay",
+      "Melissa de la Cruz"
+    ],
+    "mild": [
+      "Four villain children discover that inherited reputations come with terrible housing and complicated friendship assignments."
+    ],
+    "silly": [
+      "Four villain children discover that inherited reputations come with terrible housing and complicated friendship assignments.",
+      "The Isle of the Lost turns villain-kid teamwork into a library incident involving island isolation and insufficient supervision.",
+      "A routine case of parental reputation management becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Villain-Kid Teamwork acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of island isolation becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring villain-kid teamwork",
+      "librarians suspicious of island isolation",
+      "fans debating parental reputation management"
+    ],
+    "genres": [
+      "Villain-Kid Teamwork",
+      "Island Isolation",
+      "Parental Reputation Management",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that villain-kid teamwork was not in the approved itinerary.",
+      "I have placed island isolation under enchanted review."
+    ],
+    "reviews": [
+      "Excellent villain-kid teamwork. Concerning island isolation.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited parental reputation management. No neutral chaperone."
+    ],
+    "morals": [
+      "Villain-Kid Teamwork should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses island isolation before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does villain-kid teamwork shape the central choices?",
+      "Would the story work without island isolation?"
+    ]
+  },
+  "return to the isle of the lost": {
+    "name": "Return to the Isle of the Lost",
+    "type": "Book",
+    "key": "descendants",
+    "related": [
+      "Mal",
+      "Evie",
+      "Carlos",
+      "Jay"
+    ],
+    "mild": [
+      "The villain kids return home and find that personal growth has not improved the island's municipal services."
+    ],
+    "silly": [
+      "The villain kids return home and find that personal growth has not improved the island's municipal services.",
+      "Return to the Isle of the Lost turns return-home complications into a library incident involving villain family pressure and insufficient supervision.",
+      "A routine case of Auradon adjustment becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Return-Home Complications acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of villain family pressure becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring return-home complications",
+      "librarians suspicious of villain family pressure",
+      "fans debating Auradon adjustment"
+    ],
+    "genres": [
+      "Return-Home Complications",
+      "Villain Family Pressure",
+      "Auradon Adjustment",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that return-home complications was not in the approved itinerary.",
+      "I have placed villain family pressure under enchanted review."
+    ],
+    "reviews": [
+      "Excellent return-home complications. Concerning villain family pressure.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited Auradon adjustment. No neutral chaperone."
+    ],
+    "morals": [
+      "Return-Home Complications should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses villain family pressure before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does return-home complications shape the central choices?",
+      "Would the story work without villain family pressure?"
+    ]
+  },
+  "rise of the isle of the lost": {
+    "name": "Rise of the Isle of the Lost",
+    "type": "Book",
+    "key": "descendants",
+    "related": [
+      "Uma",
+      "Mal",
+      "King Triton's Trident"
+    ],
+    "mild": [
+      "A race for a magical trident turns island rivalry into an aquatic leadership assessment."
+    ],
+    "silly": [
+      "A race for a magical trident turns island rivalry into an aquatic leadership assessment.",
+      "Rise of the Isle of the Lost turns trident competition into a library incident involving island rivalry and insufficient supervision.",
+      "A routine case of underwater succession becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Trident Competition acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of island rivalry becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring trident competition",
+      "librarians suspicious of island rivalry",
+      "fans debating underwater succession"
+    ],
+    "genres": [
+      "Trident Competition",
+      "Island Rivalry",
+      "Underwater Succession",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that trident competition was not in the approved itinerary.",
+      "I have placed island rivalry under enchanted review."
+    ],
+    "reviews": [
+      "Excellent trident competition. Concerning island rivalry.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited underwater succession. No neutral chaperone."
+    ],
+    "morals": [
+      "Trident Competition should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses island rivalry before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does trident competition shape the central choices?",
+      "Would the story work without island rivalry?"
+    ]
+  },
+  "escape from the isle of the lost": {
+    "name": "Escape from the Isle of the Lost",
+    "type": "Book",
+    "key": "descendants",
+    "related": [
+      "Mal",
+      "Uma",
+      "Evie",
+      "Carlos"
+    ],
+    "mild": [
+      "Graduation planning is interrupted by unresolved island politics and a general shortage of calm adults."
+    ],
+    "silly": [
+      "Graduation planning is interrupted by unresolved island politics and a general shortage of calm adults.",
+      "Escape from the Isle of the Lost turns graduation logistics into a library incident involving island escape plans and insufficient supervision.",
+      "A routine case of villain-kid diplomacy becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Graduation Logistics acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of island escape plans becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring graduation logistics",
+      "librarians suspicious of island escape plans",
+      "fans debating villain-kid diplomacy"
+    ],
+    "genres": [
+      "Graduation Logistics",
+      "Island Escape Plans",
+      "Villain-Kid Diplomacy",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that graduation logistics was not in the approved itinerary.",
+      "I have placed island escape plans under enchanted review."
+    ],
+    "reviews": [
+      "Excellent graduation logistics. Concerning island escape plans.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited villain-kid diplomacy. No neutral chaperone."
+    ],
+    "morals": [
+      "Graduation Logistics should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses island escape plans before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does graduation logistics shape the central choices?",
+      "Would the story work without island escape plans?"
+    ]
+  },
+  "beyond the isle of the lost": {
+    "name": "Beyond the Isle of the Lost",
+    "type": "Book",
+    "key": "descendants",
+    "related": [
+      "Red",
+      "Queen of Hearts",
+      "Melissa de la Cruz"
+    ],
+    "mild": [
+      "Wonderland sends another highly dramatic young person into a school system already operating above capacity."
+    ],
+    "silly": [
+      "Wonderland sends another highly dramatic young person into a school system already operating above capacity.",
+      "Beyond the Isle of the Lost turns Wonderland rebellion into a library incident involving royal parenting and insufficient supervision.",
+      "A routine case of Auradon enrollment becomes an all-kingdom emergency because everyone chose the dramatic entrance."
+    ],
+    "wild": [
+      "Wonderland Rebellion acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of royal parenting becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring Wonderland rebellion",
+      "librarians suspicious of royal parenting",
+      "fans debating Auradon enrollment"
+    ],
+    "genres": [
+      "Wonderland Rebellion",
+      "Royal Parenting",
+      "Auradon Enrollment",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that Wonderland rebellion was not in the approved itinerary.",
+      "I have placed royal parenting under enchanted review."
+    ],
+    "reviews": [
+      "Excellent Wonderland rebellion. Concerning royal parenting.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited Auradon enrollment. No neutral chaperone."
+    ],
+    "morals": [
+      "Wonderland Rebellion should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses royal parenting before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does Wonderland rebellion shape the central choices?",
+      "Would the story work without royal parenting?"
+    ]
+  },
+  "disney villains series": {
+    "name": "Disney Villains",
+    "type": "Book Series",
+    "key": "disney-villains",
+    "related": [
+      "Serena Valentino",
+      "The Odd Sisters",
+      "Fairest of All"
+    ],
+    "mild": [
+      "A series where every villain submits a revised explanation for why the original story was somebody else's fault."
+    ],
+    "silly": [
+      "A continuing collection where villain backstories repeatedly collides with curse administration and nobody closes the park on time.",
+      "Several books prove that kingdom-wide grievances can become a renewable source of sequels.",
+      "A series built from villain backstories, escalating curse administration, and extremely optimistic safety procedures."
+    ],
+    "wild": [
+      "Villain Backstories acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of curse administration becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring villain backstories",
+      "librarians suspicious of curse administration",
+      "fans debating kingdom-wide grievances"
+    ],
+    "genres": [
+      "Villain Backstories",
+      "Curse Administration",
+      "Kingdom-Wide Grievances",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that villain backstories was not in the approved itinerary.",
+      "I have placed curse administration under enchanted review."
+    ],
+    "reviews": [
+      "Excellent villain backstories. Concerning curse administration.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited kingdom-wide grievances. No neutral chaperone."
+    ],
+    "morals": [
+      "Villain Backstories should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses curse administration before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does villain backstories shape the central choices?",
+      "Would the story work without curse administration?"
+    ]
+  },
+  "kingdom keepers series": {
+    "name": "Kingdom Keepers",
+    "type": "Book Series",
+    "key": "kingdom-keepers",
+    "related": [
+      "Ridley Pearson",
+      "Finn Whitman",
+      "Disney After Dark"
+    ],
+    "mild": [
+      "A series proving theme parks require more after-hours security than anyone budgeted."
+    ],
+    "silly": [
+      "A continuing collection where theme-park defense repeatedly collides with holographic teenagers and nobody closes the park on time.",
+      "Several books prove that villain containment can become a renewable source of sequels.",
+      "A series built from theme-park defense, escalating holographic teenagers, and extremely optimistic safety procedures."
+    ],
+    "wild": [
+      "Theme-Park Defense acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of holographic teenagers becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring theme-park defense",
+      "librarians suspicious of holographic teenagers",
+      "fans debating villain containment"
+    ],
+    "genres": [
+      "Theme-Park Defense",
+      "Holographic Teenagers",
+      "Villain Containment",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that theme-park defense was not in the approved itinerary.",
+      "I have placed holographic teenagers under enchanted review."
+    ],
+    "reviews": [
+      "Excellent theme-park defense. Concerning holographic teenagers.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited villain containment. No neutral chaperone."
+    ],
+    "morals": [
+      "Theme-Park Defense should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses holographic teenagers before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does theme-park defense shape the central choices?",
+      "Would the story work without holographic teenagers?"
+    ]
+  },
+  "descendants novels": {
+    "name": "The Descendants Novels",
+    "type": "Book Series",
+    "key": "descendants",
+    "related": [
+      "Melissa de la Cruz",
+      "Mal",
+      "The Isle of the Lost"
+    ],
+    "mild": [
+      "A series about villain children attending school while every parent continues making reputation management difficult."
+    ],
+    "silly": [
+      "A continuing collection where villain legacies repeatedly collides with school diplomacy and nobody closes the park on time.",
+      "Several books prove that fairy-tale family systems can become a renewable source of sequels.",
+      "A series built from villain legacies, escalating school diplomacy, and extremely optimistic safety procedures."
+    ],
+    "wild": [
+      "Villain Legacies acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of school diplomacy becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring villain legacies",
+      "librarians suspicious of school diplomacy",
+      "fans debating fairy-tale family systems"
+    ],
+    "genres": [
+      "Villain Legacies",
+      "School Diplomacy",
+      "Fairy-Tale Family Systems",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that villain legacies was not in the approved itinerary.",
+      "I have placed school diplomacy under enchanted review."
+    ],
+    "reviews": [
+      "Excellent villain legacies. Concerning school diplomacy.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited fairy-tale family systems. No neutral chaperone."
+    ],
+    "morals": [
+      "Villain Legacies should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses school diplomacy before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does villain legacies shape the central choices?",
+      "Would the story work without school diplomacy?"
+    ]
+  },
+  "disney twisted tales series": {
+    "name": "Disney Twisted Tales",
+    "type": "Book Series",
+    "key": "twisted",
+    "related": [
+      "Liz Braswell",
+      "Elizabeth Lim",
+      "Farrah Rochon"
+    ],
+    "mild": [
+      "A series that changes one detail and immediately requires an entirely new emergency binder."
+    ],
+    "silly": [
+      "A continuing collection where alternate fairy tales repeatedly collides with what-if logistics and nobody closes the park on time.",
+      "Several books prove that enchanted consequences can become a renewable source of sequels.",
+      "A series built from alternate fairy tales, escalating what-if logistics, and extremely optimistic safety procedures."
+    ],
+    "wild": [
+      "Alternate Fairy Tales acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of what-if logistics becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring alternate fairy tales",
+      "librarians suspicious of what-if logistics",
+      "fans debating enchanted consequences"
+    ],
+    "genres": [
+      "Alternate Fairy Tales",
+      "What-If Logistics",
+      "Enchanted Consequences",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that alternate fairy tales was not in the approved itinerary.",
+      "I have placed what-if logistics under enchanted review."
+    ],
+    "reviews": [
+      "Excellent alternate fairy tales. Concerning what-if logistics.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited enchanted consequences. No neutral chaperone."
+    ],
+    "morals": [
+      "Alternate Fairy Tales should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses what-if logistics before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does alternate fairy tales shape the central choices?",
+      "Would the story work without what-if logistics?"
+    ]
+  },
+  "serena valentino": {
+    "name": "Serena Valentino",
+    "type": "Author",
+    "key": "disney-villains",
+    "related": [
+      "Disney Villains",
+      "The Odd Sisters",
+      "Fairest of All"
+    ],
+    "mild": [
+      "An author who gives Disney villains enough backstory to request their own legal representation."
+    ],
+    "silly": [
+      "Serena Valentino turns villain psychology into a publishing department with excellent dramatic timing.",
+      "An author who combines dark fairy tales, curse paperwork, and enough villain psychology to keep Penelope's catalog busy.",
+      "Serena Valentino has submitted another manuscript containing professionally managed chaos."
+    ],
+    "wild": [
+      "Villain Psychology acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of dark fairy tales becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring villain psychology",
+      "librarians suspicious of dark fairy tales",
+      "fans debating curse paperwork"
+    ],
+    "genres": [
+      "Villain Psychology",
+      "Dark Fairy Tales",
+      "Curse Paperwork",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that villain psychology was not in the approved itinerary.",
+      "I have placed dark fairy tales under enchanted review."
+    ],
+    "reviews": [
+      "Excellent villain psychology. Concerning dark fairy tales.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited curse paperwork. No neutral chaperone."
+    ],
+    "morals": [
+      "Villain Psychology should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses dark fairy tales before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does villain psychology shape the central choices?",
+      "Would the story work without dark fairy tales?"
+    ]
+  },
+  "ridley pearson": {
+    "name": "Ridley Pearson",
+    "type": "Author",
+    "key": "kingdom-keepers",
+    "related": [
+      "Kingdom Keepers",
+      "Finn Whitman",
+      "Disney After Dark"
+    ],
+    "mild": [
+      "An author who waits for the theme parks to close and then assigns teenagers the night shift."
+    ],
+    "silly": [
+      "Ridley Pearson turns park mythology into a publishing department with excellent dramatic timing.",
+      "An author who combines teen teamwork, after-hours danger, and enough park mythology to keep Penelope's catalog busy.",
+      "Ridley Pearson has submitted another manuscript containing professionally managed chaos."
+    ],
+    "wild": [
+      "Park Mythology acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of teen teamwork becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring park mythology",
+      "librarians suspicious of teen teamwork",
+      "fans debating after-hours danger"
+    ],
+    "genres": [
+      "Park Mythology",
+      "Teen Teamwork",
+      "After-Hours Danger",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that park mythology was not in the approved itinerary.",
+      "I have placed teen teamwork under enchanted review."
+    ],
+    "reviews": [
+      "Excellent park mythology. Concerning teen teamwork.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited after-hours danger. No neutral chaperone."
+    ],
+    "morals": [
+      "Park Mythology should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses teen teamwork before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does park mythology shape the central choices?",
+      "Would the story work without teen teamwork?"
+    ]
+  },
+  "melissa de la cruz": {
+    "name": "Melissa de la Cruz",
+    "type": "Author",
+    "key": "descendants",
+    "related": [
+      "The Isle of the Lost",
+      "Mal",
+      "Evie"
+    ],
+    "mild": [
+      "An author who turns villain family trees into a school enrollment problem."
+    ],
+    "silly": [
+      "Melissa de la Cruz turns villain descendants into a publishing department with excellent dramatic timing.",
+      "An author who combines friendship adventures, Auradon politics, and enough villain descendants to keep Penelope's catalog busy.",
+      "Melissa de la Cruz has submitted another manuscript containing professionally managed chaos."
+    ],
+    "wild": [
+      "Villain Descendants acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of friendship adventures becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring villain descendants",
+      "librarians suspicious of friendship adventures",
+      "fans debating Auradon politics"
+    ],
+    "genres": [
+      "Villain Descendants",
+      "Friendship Adventures",
+      "Auradon Politics",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that villain descendants was not in the approved itinerary.",
+      "I have placed friendship adventures under enchanted review."
+    ],
+    "reviews": [
+      "Excellent villain descendants. Concerning friendship adventures.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited Auradon politics. No neutral chaperone."
+    ],
+    "morals": [
+      "Villain Descendants should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses friendship adventures before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does villain descendants shape the central choices?",
+      "Would the story work without friendship adventures?"
+    ]
+  },
+  "stephanie kate strohm": {
+    "name": "Stephanie Kate Strohm",
+    "type": "Author",
+    "key": "twisted",
+    "related": [
+      "Part of Your World",
+      "Ariel",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "An author who revisits familiar kingdoms and quietly moves the emergency exits."
+    ],
+    "silly": [
+      "Stephanie Kate Strohm turns alternate Disney stories into a publishing department with excellent dramatic timing.",
+      "An author who combines character-centered twists, enchanted complications, and enough alternate Disney stories to keep Penelope's catalog busy.",
+      "Stephanie Kate Strohm has submitted another manuscript containing professionally managed chaos."
+    ],
+    "wild": [
+      "Alternate Disney Stories acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of character-centered twists becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring alternate Disney stories",
+      "librarians suspicious of character-centered twists",
+      "fans debating enchanted complications"
+    ],
+    "genres": [
+      "Alternate Disney Stories",
+      "Character-Centered Twists",
+      "Enchanted Complications",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that alternate Disney stories was not in the approved itinerary.",
+      "I have placed character-centered twists under enchanted review."
+    ],
+    "reviews": [
+      "Excellent alternate Disney stories. Concerning character-centered twists.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited enchanted complications. No neutral chaperone."
+    ],
+    "morals": [
+      "Alternate Disney Stories should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses character-centered twists before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does alternate Disney stories shape the central choices?",
+      "Would the story work without character-centered twists?"
+    ]
+  },
+  "the evil queen": {
+    "name": "The Evil Queen",
+    "type": "Character",
+    "key": "disney-villains",
+    "related": [
+      "Fairest of All",
+      "Snow White",
+      "The Magic Mirror"
+    ],
+    "mild": [
+      "A queen who outsources self-esteem to a mirror with no conflict-resolution training."
+    ],
+    "silly": [
+      "The Evil Queen treats royal vanity as a full-time occupation and mirror consultation as somebody else's paperwork.",
+      "A highly specific personality powered by royal vanity, apple-based escalation, and an unwillingness to follow the sensible plan.",
+      "The Evil Queen enters the library, reorganizes mirror consultation, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Royal Vanity acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of mirror consultation becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring royal vanity",
+      "librarians suspicious of mirror consultation",
+      "fans debating apple-based escalation"
+    ],
+    "genres": [
+      "Royal Vanity",
+      "Mirror Consultation",
+      "Apple-Based Escalation",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that royal vanity was not in the approved itinerary.",
+      "I have placed mirror consultation under enchanted review."
+    ],
+    "reviews": [
+      "Excellent royal vanity. Concerning mirror consultation.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited apple-based escalation. No neutral chaperone."
+    ],
+    "morals": [
+      "Royal Vanity should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses mirror consultation before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does royal vanity shape the central choices?",
+      "Would the story work without mirror consultation?"
+    ]
+  },
+  "mother gothel": {
+    "name": "Mother Gothel",
+    "type": "Character",
+    "key": "disney-villains",
+    "related": [
+      "Mother Knows Best",
+      "Rapunzel",
+      "Tangled"
+    ],
+    "mild": [
+      "A tower manager who confuses kidnapping, skincare, and parenting."
+    ],
+    "silly": [
+      "Mother Gothel treats tower control as a full-time occupation and youth preservation as somebody else's paperwork.",
+      "A highly specific personality powered by tower control, hair-related manipulation, and an unwillingness to follow the sensible plan.",
+      "Mother Gothel enters the library, reorganizes youth preservation, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Tower Control acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of youth preservation becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring tower control",
+      "librarians suspicious of youth preservation",
+      "fans debating hair-related manipulation"
+    ],
+    "genres": [
+      "Tower Control",
+      "Youth Preservation",
+      "Hair-Related Manipulation",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that tower control was not in the approved itinerary.",
+      "I have placed youth preservation under enchanted review."
+    ],
+    "reviews": [
+      "Excellent tower control. Concerning youth preservation.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited hair-related manipulation. No neutral chaperone."
+    ],
+    "morals": [
+      "Tower Control should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses youth preservation before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does tower control shape the central choices?",
+      "Would the story work without youth preservation?"
+    ]
+  },
+  "cruella de vil": {
+    "name": "Cruella de Vil",
+    "type": "Character",
+    "key": "disney-villains",
+    "related": [
+      "Evil Thing",
+      "One Hundred and One Dalmatians",
+      "Serena Valentino"
+    ],
+    "mild": [
+      "A fashion enthusiast whose material sourcing plan requires immediate ethical review."
+    ],
+    "silly": [
+      "Cruella de Vil treats fashion obsession as a full-time occupation and dog pursuit as somebody else's paperwork.",
+      "A highly specific personality powered by fashion obsession, automotive drama, and an unwillingness to follow the sensible plan.",
+      "Cruella de Vil enters the library, reorganizes dog pursuit, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Fashion Obsession acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of dog pursuit becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring fashion obsession",
+      "librarians suspicious of dog pursuit",
+      "fans debating automotive drama"
+    ],
+    "genres": [
+      "Fashion Obsession",
+      "Dog Pursuit",
+      "Automotive Drama",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that fashion obsession was not in the approved itinerary.",
+      "I have placed dog pursuit under enchanted review."
+    ],
+    "reviews": [
+      "Excellent fashion obsession. Concerning dog pursuit.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited automotive drama. No neutral chaperone."
+    ],
+    "morals": [
+      "Fashion Obsession should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses dog pursuit before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does fashion obsession shape the central choices?",
+      "Would the story work without dog pursuit?"
+    ]
+  },
+  "lady tremaine": {
+    "name": "Lady Tremaine",
+    "type": "Character",
+    "key": "disney-villains",
+    "related": [
+      "Cold Hearted",
+      "Cinderella",
+      "The Wicked Stepsisters"
+    ],
+    "mild": [
+      "A household manager who assigns chores according to an extremely suspicious favoritism policy."
+    ],
+    "silly": [
+      "Lady Tremaine treats stepfamily control as a full-time occupation and social ambition as somebody else's paperwork.",
+      "A highly specific personality powered by stepfamily control, domestic unfairness, and an unwillingness to follow the sensible plan.",
+      "Lady Tremaine enters the library, reorganizes social ambition, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Stepfamily Control acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of social ambition becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring stepfamily control",
+      "librarians suspicious of social ambition",
+      "fans debating domestic unfairness"
+    ],
+    "genres": [
+      "Stepfamily Control",
+      "Social Ambition",
+      "Domestic Unfairness",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that stepfamily control was not in the approved itinerary.",
+      "I have placed social ambition under enchanted review."
+    ],
+    "reviews": [
+      "Excellent stepfamily control. Concerning social ambition.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited domestic unfairness. No neutral chaperone."
+    ],
+    "morals": [
+      "Stepfamily Control should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses social ambition before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does stepfamily control shape the central choices?",
+      "Would the story work without social ambition?"
+    ]
+  },
+  "hades": {
+    "name": "Hades",
+    "type": "Character",
+    "key": "disney-villains",
+    "related": [
+      "Fire and Fate",
+      "Hercules",
+      "Megara"
+    ],
+    "mild": [
+      "An underworld executive with excellent hair and an unacceptable contract portfolio."
+    ],
+    "silly": [
+      "Hades treats underworld management as a full-time occupation and fiery sarcasm as somebody else's paperwork.",
+      "A highly specific personality powered by underworld management, Olympian ambition, and an unwillingness to follow the sensible plan.",
+      "Hades enters the library, reorganizes fiery sarcasm, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Underworld Management acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of fiery sarcasm becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring underworld management",
+      "librarians suspicious of fiery sarcasm",
+      "fans debating Olympian ambition"
+    ],
+    "genres": [
+      "Underworld Management",
+      "Fiery Sarcasm",
+      "Olympian Ambition",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that underworld management was not in the approved itinerary.",
+      "I have placed fiery sarcasm under enchanted review."
+    ],
+    "reviews": [
+      "Excellent underworld management. Concerning fiery sarcasm.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited Olympian ambition. No neutral chaperone."
+    ],
+    "morals": [
+      "Underworld Management should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses fiery sarcasm before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does underworld management shape the central choices?",
+      "Would the story work without fiery sarcasm?"
+    ]
+  },
+  "mal": {
+    "name": "Mal",
+    "type": "Character",
+    "key": "descendants",
+    "related": [
+      "The Isle of the Lost",
+      "Maleficent",
+      "Ben"
+    ],
+    "mild": [
+      "A villain's daughter balancing magic, leadership, and the exhausting expectation that she choose one identity permanently."
+    ],
+    "silly": [
+      "Mal treats purple magic as a full-time occupation and legacy pressure as somebody else's paperwork.",
+      "A highly specific personality powered by purple magic, Auradon leadership, and an unwillingness to follow the sensible plan.",
+      "Mal enters the library, reorganizes legacy pressure, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Purple Magic acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of legacy pressure becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring purple magic",
+      "librarians suspicious of legacy pressure",
+      "fans debating Auradon leadership"
+    ],
+    "genres": [
+      "Purple Magic",
+      "Legacy Pressure",
+      "Auradon Leadership",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that purple magic was not in the approved itinerary.",
+      "I have placed legacy pressure under enchanted review."
+    ],
+    "reviews": [
+      "Excellent purple magic. Concerning legacy pressure.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited Auradon leadership. No neutral chaperone."
+    ],
+    "morals": [
+      "Purple Magic should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses legacy pressure before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does purple magic shape the central choices?",
+      "Would the story work without legacy pressure?"
+    ]
+  },
+  "evie": {
+    "name": "Evie",
+    "type": "Character",
+    "key": "descendants",
+    "related": [
+      "The Isle of the Lost",
+      "The Evil Queen",
+      "Mal"
+    ],
+    "mild": [
+      "A designer and strategist who repeatedly proves mirrors are more useful when they are not ranking people."
+    ],
+    "silly": [
+      "Evie treats fashion intelligence as a full-time occupation and friendship loyalty as somebody else's paperwork.",
+      "A highly specific personality powered by fashion intelligence, royal expectations, and an unwillingness to follow the sensible plan.",
+      "Evie enters the library, reorganizes friendship loyalty, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Fashion Intelligence acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of friendship loyalty becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring fashion intelligence",
+      "librarians suspicious of friendship loyalty",
+      "fans debating royal expectations"
+    ],
+    "genres": [
+      "Fashion Intelligence",
+      "Friendship Loyalty",
+      "Royal Expectations",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that fashion intelligence was not in the approved itinerary.",
+      "I have placed friendship loyalty under enchanted review."
+    ],
+    "reviews": [
+      "Excellent fashion intelligence. Concerning friendship loyalty.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited royal expectations. No neutral chaperone."
+    ],
+    "morals": [
+      "Fashion Intelligence should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses friendship loyalty before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does fashion intelligence shape the central choices?",
+      "Would the story work without friendship loyalty?"
+    ]
+  },
+  "uma": {
+    "name": "Uma",
+    "type": "Character",
+    "key": "descendants",
+    "related": [
+      "Rise of the Isle of the Lost",
+      "Ursula",
+      "Harry Hook"
+    ],
+    "mild": [
+      "A pirate captain with a leadership plan, a seafood restaurant background, and no patience for Auradon's waiting list."
+    ],
+    "silly": [
+      "Uma treats pirate leadership as a full-time occupation and island inequality as somebody else's paperwork.",
+      "A highly specific personality powered by pirate leadership, trident ambition, and an unwillingness to follow the sensible plan.",
+      "Uma enters the library, reorganizes island inequality, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Pirate Leadership acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of island inequality becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring pirate leadership",
+      "librarians suspicious of island inequality",
+      "fans debating trident ambition"
+    ],
+    "genres": [
+      "Pirate Leadership",
+      "Island Inequality",
+      "Trident Ambition",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that pirate leadership was not in the approved itinerary.",
+      "I have placed island inequality under enchanted review."
+    ],
+    "reviews": [
+      "Excellent pirate leadership. Concerning island inequality.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited trident ambition. No neutral chaperone."
+    ],
+    "morals": [
+      "Pirate Leadership should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses island inequality before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does pirate leadership shape the central choices?",
+      "Would the story work without island inequality?"
+    ]
+  },
+  "red descendants": {
+    "name": "Red",
+    "type": "Character",
+    "key": "descendants",
+    "related": [
+      "Beyond the Isle of the Lost",
+      "Queen of Hearts",
+      "Chloe Charming"
+    ],
+    "mild": [
+      "A Wonderland princess attempting to manage rebellion, time travel, and a mother who treats decapitation as feedback."
+    ],
+    "silly": [
+      "Red treats Wonderland defiance as a full-time occupation and royal pressure as somebody else's paperwork.",
+      "A highly specific personality powered by Wonderland defiance, time-travel schoolwork, and an unwillingness to follow the sensible plan.",
+      "Red enters the library, reorganizes royal pressure, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Wonderland Defiance acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of royal pressure becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring Wonderland defiance",
+      "librarians suspicious of royal pressure",
+      "fans debating time-travel schoolwork"
+    ],
+    "genres": [
+      "Wonderland Defiance",
+      "Royal Pressure",
+      "Time-Travel Schoolwork",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that Wonderland defiance was not in the approved itinerary.",
+      "I have placed royal pressure under enchanted review."
+    ],
+    "reviews": [
+      "Excellent Wonderland defiance. Concerning royal pressure.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited time-travel schoolwork. No neutral chaperone."
+    ],
+    "morals": [
+      "Wonderland Defiance should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses royal pressure before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does Wonderland defiance shape the central choices?",
+      "Would the story work without royal pressure?"
+    ]
+  },
+  "finn whitman": {
+    "name": "Finn Whitman",
+    "type": "Character",
+    "key": "kingdom-keepers",
+    "related": [
+      "Kingdom Keepers",
+      "Disney After Dark",
+      "Ridley Pearson"
+    ],
+    "mild": [
+      "A holographic park guide who receives significantly more nighttime responsibility than the job description promised."
+    ],
+    "silly": [
+      "Finn Whitman treats holographic leadership as a full-time occupation and park rescue work as somebody else's paperwork.",
+      "A highly specific personality powered by holographic leadership, sleep deprivation, and an unwillingness to follow the sensible plan.",
+      "Finn Whitman enters the library, reorganizes park rescue work, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Holographic Leadership acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of park rescue work becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring holographic leadership",
+      "librarians suspicious of park rescue work",
+      "fans debating sleep deprivation"
+    ],
+    "genres": [
+      "Holographic Leadership",
+      "Park Rescue Work",
+      "Sleep Deprivation",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that holographic leadership was not in the approved itinerary.",
+      "I have placed park rescue work under enchanted review."
+    ],
+    "reviews": [
+      "Excellent holographic leadership. Concerning park rescue work.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited sleep deprivation. No neutral chaperone."
+    ],
+    "morals": [
+      "Holographic Leadership should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses park rescue work before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does holographic leadership shape the central choices?",
+      "Would the story work without park rescue work?"
+    ]
+  },
+  "amanda lockhart": {
+    "name": "Amanda Lockhart",
+    "type": "Character",
+    "key": "kingdom-keepers",
+    "related": [
+      "Kingdom Keepers II",
+      "Finn Whitman",
+      "Ridley Pearson"
+    ],
+    "mild": [
+      "A mysterious ally whose talents make the park's security cameras feel underqualified."
+    ],
+    "silly": [
+      "Amanda Lockhart treats unusual abilities as a full-time occupation and secret alliances as somebody else's paperwork.",
+      "A highly specific personality powered by unusual abilities, park investigations, and an unwillingness to follow the sensible plan.",
+      "Amanda Lockhart enters the library, reorganizes secret alliances, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Unusual Abilities acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of secret alliances becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring unusual abilities",
+      "librarians suspicious of secret alliances",
+      "fans debating park investigations"
+    ],
+    "genres": [
+      "Unusual Abilities",
+      "Secret Alliances",
+      "Park Investigations",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that unusual abilities was not in the approved itinerary.",
+      "I have placed secret alliances under enchanted review."
+    ],
+    "reviews": [
+      "Excellent unusual abilities. Concerning secret alliances.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited park investigations. No neutral chaperone."
+    ],
+    "morals": [
+      "Unusual Abilities should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses secret alliances before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does unusual abilities shape the central choices?",
+      "Would the story work without secret alliances?"
+    ]
+  },
+  "wayne kresky": {
+    "name": "Wayne Kresky",
+    "type": "Character",
+    "key": "kingdom-keepers",
+    "related": [
+      "Kingdom Keepers",
+      "Finn Whitman",
+      "Disney Parks"
+    ],
+    "mild": [
+      "A mentor who knows the parks, the villains, and apparently every secret door except the convenient one."
+    ],
+    "silly": [
+      "Wayne Kresky treats park mentorship as a full-time occupation and secret knowledge as somebody else's paperwork.",
+      "A highly specific personality powered by park mentorship, cryptic instructions, and an unwillingness to follow the sensible plan.",
+      "Wayne Kresky enters the library, reorganizes secret knowledge, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Park Mentorship acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of secret knowledge becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring park mentorship",
+      "librarians suspicious of secret knowledge",
+      "fans debating cryptic instructions"
+    ],
+    "genres": [
+      "Park Mentorship",
+      "Secret Knowledge",
+      "Cryptic Instructions",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that park mentorship was not in the approved itinerary.",
+      "I have placed secret knowledge under enchanted review."
+    ],
+    "reviews": [
+      "Excellent park mentorship. Concerning secret knowledge.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited cryptic instructions. No neutral chaperone."
+    ],
+    "morals": [
+      "Park Mentorship should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses secret knowledge before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does park mentorship shape the central choices?",
+      "Would the story work without secret knowledge?"
+    ]
+  },
+  "the odd sisters character": {
+    "name": "The Odd Sisters",
+    "type": "Character",
+    "key": "disney-villains",
+    "related": [
+      "The Odd Sisters",
+      "Serena Valentino",
+      "Disney Villains"
+    ],
+    "mild": [
+      "Three sisters who treat kingdom interference as a family hobby and curses as correspondence."
+    ],
+    "silly": [
+      "The Odd Sisters treats sisterly plotting as a full-time occupation and curse coordination as somebody else's paperwork.",
+      "A highly specific personality powered by sisterly plotting, magical gossip, and an unwillingness to follow the sensible plan.",
+      "The Odd Sisters enters the library, reorganizes curse coordination, and leaves before anyone can ask a follow-up question."
+    ],
+    "wild": [
+      "Sisterly Plotting acquires executive authority and immediately destabilizes the kingdom.",
+      "One case of curse coordination becomes a parade, a curse, and a mandatory staff meeting."
+    ],
+    "audiences": [
+      "readers monitoring sisterly plotting",
+      "librarians suspicious of curse coordination",
+      "fans debating magical gossip"
+    ],
+    "genres": [
+      "Sisterly Plotting",
+      "Curse Coordination",
+      "Magical Gossip",
+      "Disney Administrative Fantasy"
+    ],
+    "quotes": [
+      "Please note that sisterly plotting was not in the approved itinerary.",
+      "I have placed curse coordination under enchanted review."
+    ],
+    "reviews": [
+      "Excellent sisterly plotting. Concerning curse coordination.",
+      "The magic worked. The governance did not."
+    ],
+    "trailers": [
+      "One kingdom. Unlimited magical gossip. No neutral chaperone."
+    ],
+    "morals": [
+      "Sisterly Plotting should be paired with judgment.",
+      "Villainous confidence is not a substitute for a plan."
+    ],
+    "endings": [
+      "Everyone discusses curse coordination before the final musical number.",
+      "Penelope requires the kingdom to submit a revised safety policy."
+    ],
+    "questions": [
+      "How does sisterly plotting shape the central choices?",
+      "Would the story work without curse coordination?"
+    ]
   }
 };
