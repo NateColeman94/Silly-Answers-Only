@@ -13347,5 +13347,3253 @@ window.PENELOPE_LIBRARY = {
     "questions": [
       "How does Rivers connect spiritual transformation with emotional and relational healing?"
     ]
+  },
+  "1984": {
+    "name": "1984",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "George Orwell",
+      "Animal Farm",
+      "Fahrenheit 451"
+    ],
+    "mild": [
+      "1984 appears to involve surveillance, language control, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "1984 turns surveillance into a full-scale library incident involving language control and insufficient adult supervision.",
+      "A routine case of surveillance collides with government paperwork, and every character selects the least convenient solution.",
+      "Penelope shelved this under Surveillance, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Surveillance acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of language control becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring surveillance",
+      "book clubs debating language control",
+      "librarians suspicious of government paperwork"
+    ],
+    "genres": [
+      "Surveillance Management",
+      "Language Control Logistics",
+      "Government Paperwork Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that surveillance was not included in the original plan.",
+      "I have reviewed language control and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent surveillance. Concerning language control.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited government paperwork. No quiet afternoon."
+    ],
+    "morals": [
+      "Surveillance works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses language control before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does surveillance shape the central choices?",
+      "Would the story still work without language control?"
+    ]
+  },
+  "animal farm": {
+    "name": "Animal Farm",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "George Orwell",
+      "1984",
+      "Lord of the Flies"
+    ],
+    "mild": [
+      "Animal Farm appears to involve farm governance, revolutionary slogans, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Animal Farm turns farm governance into a full-scale library incident involving revolutionary slogans and insufficient adult supervision.",
+      "A routine case of farm governance collides with pig-led administration, and every character selects the least convenient solution.",
+      "Penelope shelved this under Farm Governance, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Farm Governance acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of revolutionary slogans becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring farm governance",
+      "book clubs debating revolutionary slogans",
+      "librarians suspicious of pig-led administration"
+    ],
+    "genres": [
+      "Farm Governance Management",
+      "Revolutionary Slogans Logistics",
+      "Pig-Led Administration Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that farm governance was not included in the original plan.",
+      "I have reviewed revolutionary slogans and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent farm governance. Concerning revolutionary slogans.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited pig-led administration. No quiet afternoon."
+    ],
+    "morals": [
+      "Farm Governance works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses revolutionary slogans before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does farm governance shape the central choices?",
+      "Would the story still work without revolutionary slogans?"
+    ]
+  },
+  "the odyssey": {
+    "name": "The Odyssey",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Odysseus",
+      "Homer",
+      "The Iliad"
+    ],
+    "mild": [
+      "The Odyssey appears to involve return-trip delays, mythological hazards, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Odyssey turns return-trip delays into a full-scale library incident involving mythological hazards and insufficient adult supervision.",
+      "A routine case of return-trip delays collides with extreme navigation, and every character selects the least convenient solution.",
+      "Penelope shelved this under Return-Trip Delays, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Return-Trip Delays acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of mythological hazards becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring return-trip delays",
+      "book clubs debating mythological hazards",
+      "librarians suspicious of extreme navigation"
+    ],
+    "genres": [
+      "Return-Trip Delays Management",
+      "Mythological Hazards Logistics",
+      "Extreme Navigation Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that return-trip delays was not included in the original plan.",
+      "I have reviewed mythological hazards and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent return-trip delays. Concerning mythological hazards.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited extreme navigation. No quiet afternoon."
+    ],
+    "morals": [
+      "Return-Trip Delays works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses mythological hazards before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does return-trip delays shape the central choices?",
+      "Would the story still work without mythological hazards?"
+    ]
+  },
+  "the iliad": {
+    "name": "The Iliad",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Achilles",
+      "Homer",
+      "The Odyssey"
+    ],
+    "mild": [
+      "The Iliad appears to involve warrior pride, camp conflict, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Iliad turns warrior pride into a full-scale library incident involving camp conflict and insufficient adult supervision.",
+      "A routine case of warrior pride collides with bronze-age escalation, and every character selects the least convenient solution.",
+      "Penelope shelved this under Warrior Pride, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Warrior Pride acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of camp conflict becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring warrior pride",
+      "book clubs debating camp conflict",
+      "librarians suspicious of bronze-age escalation"
+    ],
+    "genres": [
+      "Warrior Pride Management",
+      "Camp Conflict Logistics",
+      "Bronze-Age Escalation Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that warrior pride was not included in the original plan.",
+      "I have reviewed camp conflict and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent warrior pride. Concerning camp conflict.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited bronze-age escalation. No quiet afternoon."
+    ],
+    "morals": [
+      "Warrior Pride works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses camp conflict before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does warrior pride shape the central choices?",
+      "Would the story still work without camp conflict?"
+    ]
+  },
+  "don quixote": {
+    "name": "Don Quixote",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Miguel de Cervantes",
+      "Sancho Panza",
+      "The Odyssey"
+    ],
+    "mild": [
+      "Don Quixote appears to involve imaginative heroism, windmill disputes, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Don Quixote turns imaginative heroism into a full-scale library incident involving windmill disputes and insufficient adult supervision.",
+      "A routine case of imaginative heroism collides with reality interpretation, and every character selects the least convenient solution.",
+      "Penelope shelved this under Imaginative Heroism, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Imaginative Heroism acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of windmill disputes becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring imaginative heroism",
+      "book clubs debating windmill disputes",
+      "librarians suspicious of reality interpretation"
+    ],
+    "genres": [
+      "Imaginative Heroism Management",
+      "Windmill Disputes Logistics",
+      "Reality Interpretation Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that imaginative heroism was not included in the original plan.",
+      "I have reviewed windmill disputes and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent imaginative heroism. Concerning windmill disputes.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited reality interpretation. No quiet afternoon."
+    ],
+    "morals": [
+      "Imaginative Heroism works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses windmill disputes before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does imaginative heroism shape the central choices?",
+      "Would the story still work without windmill disputes?"
+    ]
+  },
+  "the count of monte cristo": {
+    "name": "The Count of Monte Cristo",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Alexandre Dumas",
+      "Les Misérables",
+      "Crime and Punishment"
+    ],
+    "mild": [
+      "The Count of Monte Cristo appears to involve long-term revenge, identity redesign, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Count of Monte Cristo turns long-term revenge into a full-scale library incident involving identity redesign and insufficient adult supervision.",
+      "A routine case of long-term revenge collides with financially supported plotting, and every character selects the least convenient solution.",
+      "Penelope shelved this under Long-Term Revenge, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Long-Term Revenge acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of identity redesign becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring long-term revenge",
+      "book clubs debating identity redesign",
+      "librarians suspicious of financially supported plotting"
+    ],
+    "genres": [
+      "Long-Term Revenge Management",
+      "Identity Redesign Logistics",
+      "Financially Supported Plotting Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that long-term revenge was not included in the original plan.",
+      "I have reviewed identity redesign and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent long-term revenge. Concerning identity redesign.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited financially supported plotting. No quiet afternoon."
+    ],
+    "morals": [
+      "Long-Term Revenge works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses identity redesign before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does long-term revenge shape the central choices?",
+      "Would the story still work without identity redesign?"
+    ]
+  },
+  "crime and punishment": {
+    "name": "Crime and Punishment",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Fyodor Dostoevsky",
+      "The Brothers Karamazov",
+      "1984"
+    ],
+    "mild": [
+      "Crime and Punishment appears to involve moral guilt, philosophical overthinking, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Crime and Punishment turns moral guilt into a full-scale library incident involving philosophical overthinking and insufficient adult supervision.",
+      "A routine case of moral guilt collides with apartment-based anxiety, and every character selects the least convenient solution.",
+      "Penelope shelved this under Moral Guilt, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Moral Guilt acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of philosophical overthinking becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring moral guilt",
+      "book clubs debating philosophical overthinking",
+      "librarians suspicious of apartment-based anxiety"
+    ],
+    "genres": [
+      "Moral Guilt Management",
+      "Philosophical Overthinking Logistics",
+      "Apartment-Based Anxiety Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that moral guilt was not included in the original plan.",
+      "I have reviewed philosophical overthinking and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent moral guilt. Concerning philosophical overthinking.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited apartment-based anxiety. No quiet afternoon."
+    ],
+    "morals": [
+      "Moral Guilt works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses philosophical overthinking before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does moral guilt shape the central choices?",
+      "Would the story still work without philosophical overthinking?"
+    ]
+  },
+  "the scarlet letter": {
+    "name": "The Scarlet Letter",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Nathaniel Hawthorne",
+      "The Crucible",
+      "Jane Eyre"
+    ],
+    "mild": [
+      "The Scarlet Letter appears to involve public judgment, symbolic embroidery, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Scarlet Letter turns public judgment into a full-scale library incident involving symbolic embroidery and insufficient adult supervision.",
+      "A routine case of public judgment collides with community hypocrisy, and every character selects the least convenient solution.",
+      "Penelope shelved this under Public Judgment, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Public Judgment acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of symbolic embroidery becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring public judgment",
+      "book clubs debating symbolic embroidery",
+      "librarians suspicious of community hypocrisy"
+    ],
+    "genres": [
+      "Public Judgment Management",
+      "Symbolic Embroidery Logistics",
+      "Community Hypocrisy Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that public judgment was not included in the original plan.",
+      "I have reviewed symbolic embroidery and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent public judgment. Concerning symbolic embroidery.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited community hypocrisy. No quiet afternoon."
+    ],
+    "morals": [
+      "Public Judgment works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses symbolic embroidery before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does public judgment shape the central choices?",
+      "Would the story still work without symbolic embroidery?"
+    ]
+  },
+  "the picture of dorian gray": {
+    "name": "The Picture of Dorian Gray",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Oscar Wilde",
+      "Dracula",
+      "Frankenstein"
+    ],
+    "mild": [
+      "The Picture of Dorian Gray appears to involve portrait maintenance, vanity management, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Picture of Dorian Gray turns portrait maintenance into a full-scale library incident involving vanity management and insufficient adult supervision.",
+      "A routine case of portrait maintenance collides with youth-preservation risk, and every character selects the least convenient solution.",
+      "Penelope shelved this under Portrait Maintenance, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Portrait Maintenance acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of vanity management becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring portrait maintenance",
+      "book clubs debating vanity management",
+      "librarians suspicious of youth-preservation risk"
+    ],
+    "genres": [
+      "Portrait Maintenance Management",
+      "Vanity Management Logistics",
+      "Youth-Preservation Risk Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that portrait maintenance was not included in the original plan.",
+      "I have reviewed vanity management and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent portrait maintenance. Concerning vanity management.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited youth-preservation risk. No quiet afternoon."
+    ],
+    "morals": [
+      "Portrait Maintenance works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses vanity management before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does portrait maintenance shape the central choices?",
+      "Would the story still work without vanity management?"
+    ]
+  },
+  "wuthering heights": {
+    "name": "Wuthering Heights",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Emily Brontë",
+      "Jane Eyre",
+      "Pride and Prejudice"
+    ],
+    "mild": [
+      "Wuthering Heights appears to involve stormy relationships, estate resentment, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Wuthering Heights turns stormy relationships into a full-scale library incident involving estate resentment and insufficient adult supervision.",
+      "A routine case of stormy relationships collides with moorland communication failure, and every character selects the least convenient solution.",
+      "Penelope shelved this under Stormy Relationships, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Stormy Relationships acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of estate resentment becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring stormy relationships",
+      "book clubs debating estate resentment",
+      "librarians suspicious of moorland communication failure"
+    ],
+    "genres": [
+      "Stormy Relationships Management",
+      "Estate Resentment Logistics",
+      "Moorland Communication Failure Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that stormy relationships was not included in the original plan.",
+      "I have reviewed estate resentment and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent stormy relationships. Concerning estate resentment.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited moorland communication failure. No quiet afternoon."
+    ],
+    "morals": [
+      "Stormy Relationships works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses estate resentment before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does stormy relationships shape the central choices?",
+      "Would the story still work without estate resentment?"
+    ]
+  },
+  "little women": {
+    "name": "Little Women",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Jo March",
+      "Louisa May Alcott",
+      "Anne of Green Gables"
+    ],
+    "mild": [
+      "Little Women appears to involve sisterhood, creative ambition, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Little Women turns sisterhood into a full-scale library incident involving creative ambition and insufficient adult supervision.",
+      "A routine case of sisterhood collides with household emotional logistics, and every character selects the least convenient solution.",
+      "Penelope shelved this under Sisterhood, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Sisterhood acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of creative ambition becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring sisterhood",
+      "book clubs debating creative ambition",
+      "librarians suspicious of household emotional logistics"
+    ],
+    "genres": [
+      "Sisterhood Management",
+      "Creative Ambition Logistics",
+      "Household Emotional Logistics Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that sisterhood was not included in the original plan.",
+      "I have reviewed creative ambition and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent sisterhood. Concerning creative ambition.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited household emotional logistics. No quiet afternoon."
+    ],
+    "morals": [
+      "Sisterhood works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses creative ambition before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does sisterhood shape the central choices?",
+      "Would the story still work without creative ambition?"
+    ]
+  },
+  "anne of green gables": {
+    "name": "Anne of Green Gables",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Anne Shirley",
+      "L.M. Montgomery",
+      "Little Women"
+    ],
+    "mild": [
+      "Anne of Green Gables appears to involve imaginative optimism, accidental adoption, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Anne of Green Gables turns imaginative optimism into a full-scale library incident involving accidental adoption and insufficient adult supervision.",
+      "A routine case of imaginative optimism collides with red-haired determination, and every character selects the least convenient solution.",
+      "Penelope shelved this under Imaginative Optimism, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Imaginative Optimism acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of accidental adoption becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring imaginative optimism",
+      "book clubs debating accidental adoption",
+      "librarians suspicious of red-haired determination"
+    ],
+    "genres": [
+      "Imaginative Optimism Management",
+      "Accidental Adoption Logistics",
+      "Red-Haired Determination Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that imaginative optimism was not included in the original plan.",
+      "I have reviewed accidental adoption and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent imaginative optimism. Concerning accidental adoption.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited red-haired determination. No quiet afternoon."
+    ],
+    "morals": [
+      "Imaginative Optimism works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses accidental adoption before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does imaginative optimism shape the central choices?",
+      "Would the story still work without accidental adoption?"
+    ]
+  },
+  "great expectations": {
+    "name": "Great Expectations",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Charles Dickens",
+      "Pip",
+      "A Tale of Two Cities"
+    ],
+    "mild": [
+      "Great Expectations appears to involve social ambition, mysterious benefactors, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Great Expectations turns social ambition into a full-scale library incident involving mysterious benefactors and insufficient adult supervision.",
+      "A routine case of social ambition collides with expectation management, and every character selects the least convenient solution.",
+      "Penelope shelved this under Social Ambition, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Social Ambition acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of mysterious benefactors becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring social ambition",
+      "book clubs debating mysterious benefactors",
+      "librarians suspicious of expectation management"
+    ],
+    "genres": [
+      "Social Ambition Management",
+      "Mysterious Benefactors Logistics",
+      "Expectation Management Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that social ambition was not included in the original plan.",
+      "I have reviewed mysterious benefactors and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent social ambition. Concerning mysterious benefactors.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited expectation management. No quiet afternoon."
+    ],
+    "morals": [
+      "Social Ambition works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses mysterious benefactors before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does social ambition shape the central choices?",
+      "Would the story still work without mysterious benefactors?"
+    ]
+  },
+  "a tale of two cities": {
+    "name": "A Tale of Two Cities",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Charles Dickens",
+      "Les Misérables",
+      "Great Expectations"
+    ],
+    "mild": [
+      "A Tale of Two Cities appears to involve revolutionary confusion, identity switching, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "A Tale of Two Cities turns revolutionary confusion into a full-scale library incident involving identity switching and insufficient adult supervision.",
+      "A routine case of revolutionary confusion collides with dramatic sacrifice, and every character selects the least convenient solution.",
+      "Penelope shelved this under Revolutionary Confusion, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Revolutionary Confusion acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of identity switching becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring revolutionary confusion",
+      "book clubs debating identity switching",
+      "librarians suspicious of dramatic sacrifice"
+    ],
+    "genres": [
+      "Revolutionary Confusion Management",
+      "Identity Switching Logistics",
+      "Dramatic Sacrifice Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that revolutionary confusion was not included in the original plan.",
+      "I have reviewed identity switching and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent revolutionary confusion. Concerning identity switching.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited dramatic sacrifice. No quiet afternoon."
+    ],
+    "morals": [
+      "Revolutionary Confusion works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses identity switching before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does revolutionary confusion shape the central choices?",
+      "Would the story still work without identity switching?"
+    ]
+  },
+  "les miserables": {
+    "name": "Les Misérables",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Victor Hugo",
+      "The Count of Monte Cristo",
+      "A Tale of Two Cities"
+    ],
+    "mild": [
+      "Les Misérables appears to involve bread-related legal escalation, redemption, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Les Misérables turns bread-related legal escalation into a full-scale library incident involving redemption and insufficient adult supervision.",
+      "A routine case of bread-related legal escalation collides with extremely persistent policing, and every character selects the least convenient solution.",
+      "Penelope shelved this under Bread-Related Legal Escalation, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Bread-Related Legal Escalation acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of redemption becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring bread-related legal escalation",
+      "book clubs debating redemption",
+      "librarians suspicious of extremely persistent policing"
+    ],
+    "genres": [
+      "Bread-Related Legal Escalation Management",
+      "Redemption Logistics",
+      "Extremely Persistent Policing Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that bread-related legal escalation was not included in the original plan.",
+      "I have reviewed redemption and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent bread-related legal escalation. Concerning redemption.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited extremely persistent policing. No quiet afternoon."
+    ],
+    "morals": [
+      "Bread-Related Legal Escalation works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses redemption before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does bread-related legal escalation shape the central choices?",
+      "Would the story still work without redemption?"
+    ]
+  },
+  "fahrenheit 451": {
+    "name": "Fahrenheit 451",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "Ray Bradbury",
+      "1984",
+      "The Handmaid's Tale"
+    ],
+    "mild": [
+      "Fahrenheit 451 appears to involve book burning, media distraction, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Fahrenheit 451 turns book burning into a full-scale library incident involving media distraction and insufficient adult supervision.",
+      "A routine case of book burning collides with firefighter job confusion, and every character selects the least convenient solution.",
+      "Penelope shelved this under Book Burning, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Book Burning acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of media distraction becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring book burning",
+      "book clubs debating media distraction",
+      "librarians suspicious of firefighter job confusion"
+    ],
+    "genres": [
+      "Book Burning Management",
+      "Media Distraction Logistics",
+      "Firefighter Job Confusion Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that book burning was not included in the original plan.",
+      "I have reviewed media distraction and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent book burning. Concerning media distraction.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited firefighter job confusion. No quiet afternoon."
+    ],
+    "morals": [
+      "Book Burning works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses media distraction before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does book burning shape the central choices?",
+      "Would the story still work without media distraction?"
+    ]
+  },
+  "lord of the flies": {
+    "name": "Lord of the Flies",
+    "type": "Book",
+    "key": "literary-classics",
+    "related": [
+      "William Golding",
+      "Animal Farm",
+      "The Hunger Games"
+    ],
+    "mild": [
+      "Lord of the Flies appears to involve unsupervised island governance, conch-based meetings, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Lord of the Flies turns unsupervised island governance into a full-scale library incident involving conch-based meetings and insufficient adult supervision.",
+      "A routine case of unsupervised island governance collides with child leadership failure, and every character selects the least convenient solution.",
+      "Penelope shelved this under Unsupervised Island Governance, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Unsupervised Island Governance acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of conch-based meetings becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring unsupervised island governance",
+      "book clubs debating conch-based meetings",
+      "librarians suspicious of child leadership failure"
+    ],
+    "genres": [
+      "Unsupervised Island Governance Management",
+      "Conch-Based Meetings Logistics",
+      "Child Leadership Failure Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that unsupervised island governance was not included in the original plan.",
+      "I have reviewed conch-based meetings and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent unsupervised island governance. Concerning conch-based meetings.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited child leadership failure. No quiet afternoon."
+    ],
+    "morals": [
+      "Unsupervised Island Governance works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses conch-based meetings before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does unsupervised island governance shape the central choices?",
+      "Would the story still work without conch-based meetings?"
+    ]
+  },
+  "gone girl": {
+    "name": "Gone Girl",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Gillian Flynn",
+      "The Silent Patient",
+      "Rebecca"
+    ],
+    "mild": [
+      "Gone Girl appears to involve marital suspicion, media manipulation, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Gone Girl turns marital suspicion into a full-scale library incident involving media manipulation and insufficient adult supervision.",
+      "A routine case of marital suspicion collides with diary-based warfare, and every character selects the least convenient solution.",
+      "Penelope shelved this under Marital Suspicion, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Marital Suspicion acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of media manipulation becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring marital suspicion",
+      "book clubs debating media manipulation",
+      "librarians suspicious of diary-based warfare"
+    ],
+    "genres": [
+      "Marital Suspicion Management",
+      "Media Manipulation Logistics",
+      "Diary-Based Warfare Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that marital suspicion was not included in the original plan.",
+      "I have reviewed media manipulation and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent marital suspicion. Concerning media manipulation.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited diary-based warfare. No quiet afternoon."
+    ],
+    "morals": [
+      "Marital Suspicion works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses media manipulation before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does marital suspicion shape the central choices?",
+      "Would the story still work without media manipulation?"
+    ]
+  },
+  "the silent patient": {
+    "name": "The Silent Patient",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Alex Michaelides",
+      "Gone Girl",
+      "The Woman in the Window"
+    ],
+    "mild": [
+      "The Silent Patient appears to involve therapeutic obsession, strategic silence, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Silent Patient turns therapeutic obsession into a full-scale library incident involving strategic silence and insufficient adult supervision.",
+      "A routine case of therapeutic obsession collides with psychological misdirection, and every character selects the least convenient solution.",
+      "Penelope shelved this under Therapeutic Obsession, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Therapeutic Obsession acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of strategic silence becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring therapeutic obsession",
+      "book clubs debating strategic silence",
+      "librarians suspicious of psychological misdirection"
+    ],
+    "genres": [
+      "Therapeutic Obsession Management",
+      "Strategic Silence Logistics",
+      "Psychological Misdirection Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that therapeutic obsession was not included in the original plan.",
+      "I have reviewed strategic silence and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent therapeutic obsession. Concerning strategic silence.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited psychological misdirection. No quiet afternoon."
+    ],
+    "morals": [
+      "Therapeutic Obsession works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses strategic silence before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does therapeutic obsession shape the central choices?",
+      "Would the story still work without strategic silence?"
+    ]
+  },
+  "the girl with the dragon tattoo": {
+    "name": "The Girl with the Dragon Tattoo",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Lisbeth Salander",
+      "Stieg Larsson",
+      "Gone Girl"
+    ],
+    "mild": [
+      "The Girl with the Dragon Tattoo appears to involve investigative hacking, family secrets, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Girl with the Dragon Tattoo turns investigative hacking into a full-scale library incident involving family secrets and insufficient adult supervision.",
+      "A routine case of investigative hacking collides with Swedish evidence management, and every character selects the least convenient solution.",
+      "Penelope shelved this under Investigative Hacking, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Investigative Hacking acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of family secrets becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring investigative hacking",
+      "book clubs debating family secrets",
+      "librarians suspicious of Swedish evidence management"
+    ],
+    "genres": [
+      "Investigative Hacking Management",
+      "Family Secrets Logistics",
+      "Swedish Evidence Management Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that investigative hacking was not included in the original plan.",
+      "I have reviewed family secrets and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent investigative hacking. Concerning family secrets.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited Swedish evidence management. No quiet afternoon."
+    ],
+    "morals": [
+      "Investigative Hacking works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses family secrets before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does investigative hacking shape the central choices?",
+      "Would the story still work without family secrets?"
+    ]
+  },
+  "rebecca": {
+    "name": "Rebecca",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Daphne du Maurier",
+      "Jane Eyre",
+      "The Haunting of Hill House"
+    ],
+    "mild": [
+      "Rebecca appears to involve gothic marriage, household comparison, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Rebecca turns gothic marriage into a full-scale library incident involving household comparison and insufficient adult supervision.",
+      "A routine case of gothic marriage collides with deceased-person influence, and every character selects the least convenient solution.",
+      "Penelope shelved this under Gothic Marriage, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Gothic Marriage acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of household comparison becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring gothic marriage",
+      "book clubs debating household comparison",
+      "librarians suspicious of deceased-person influence"
+    ],
+    "genres": [
+      "Gothic Marriage Management",
+      "Household Comparison Logistics",
+      "Deceased-Person Influence Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that gothic marriage was not included in the original plan.",
+      "I have reviewed household comparison and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent gothic marriage. Concerning household comparison.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited deceased-person influence. No quiet afternoon."
+    ],
+    "morals": [
+      "Gothic Marriage works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses household comparison before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does gothic marriage shape the central choices?",
+      "Would the story still work without household comparison?"
+    ]
+  },
+  "coraline": {
+    "name": "Coraline",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Neil Gaiman",
+      "The Graveyard Book",
+      "The Haunting of Hill House"
+    ],
+    "mild": [
+      "Coraline appears to involve alternate-parent screening, button-eye risk, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Coraline turns alternate-parent screening into a full-scale library incident involving button-eye risk and insufficient adult supervision.",
+      "A routine case of alternate-parent screening collides with doorway curiosity, and every character selects the least convenient solution.",
+      "Penelope shelved this under Alternate-Parent Screening, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Alternate-Parent Screening acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of button-eye risk becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring alternate-parent screening",
+      "book clubs debating button-eye risk",
+      "librarians suspicious of doorway curiosity"
+    ],
+    "genres": [
+      "Alternate-Parent Screening Management",
+      "Button-Eye Risk Logistics",
+      "Doorway Curiosity Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that alternate-parent screening was not included in the original plan.",
+      "I have reviewed button-eye risk and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent alternate-parent screening. Concerning button-eye risk.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited doorway curiosity. No quiet afternoon."
+    ],
+    "morals": [
+      "Alternate-Parent Screening works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses button-eye risk before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does alternate-parent screening shape the central choices?",
+      "Would the story still work without button-eye risk?"
+    ]
+  },
+  "pet sematary": {
+    "name": "Pet Sematary",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Stephen King",
+      "The Shining",
+      "It"
+    ],
+    "mild": [
+      "Pet Sematary appears to involve grief-driven decisions, unlicensed resurrection, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Pet Sematary turns grief-driven decisions into a full-scale library incident involving unlicensed resurrection and insufficient adult supervision.",
+      "A routine case of grief-driven decisions collides with property disclosure failure, and every character selects the least convenient solution.",
+      "Penelope shelved this under Grief-Driven Decisions, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Grief-Driven Decisions acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of unlicensed resurrection becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring grief-driven decisions",
+      "book clubs debating unlicensed resurrection",
+      "librarians suspicious of property disclosure failure"
+    ],
+    "genres": [
+      "Grief-Driven Decisions Management",
+      "Unlicensed Resurrection Logistics",
+      "Property Disclosure Failure Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that grief-driven decisions was not included in the original plan.",
+      "I have reviewed unlicensed resurrection and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent grief-driven decisions. Concerning unlicensed resurrection.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited property disclosure failure. No quiet afternoon."
+    ],
+    "morals": [
+      "Grief-Driven Decisions works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses unlicensed resurrection before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does grief-driven decisions shape the central choices?",
+      "Would the story still work without unlicensed resurrection?"
+    ]
+  },
+  "misery": {
+    "name": "Misery",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Stephen King",
+      "The Shining",
+      "Gone Girl"
+    ],
+    "mild": [
+      "Misery appears to involve author captivity, reader entitlement, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Misery turns author captivity into a full-scale library incident involving reader entitlement and insufficient adult supervision.",
+      "A routine case of author captivity collides with manuscript revision pressure, and every character selects the least convenient solution.",
+      "Penelope shelved this under Author Captivity, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Author Captivity acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of reader entitlement becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring author captivity",
+      "book clubs debating reader entitlement",
+      "librarians suspicious of manuscript revision pressure"
+    ],
+    "genres": [
+      "Author Captivity Management",
+      "Reader Entitlement Logistics",
+      "Manuscript Revision Pressure Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that author captivity was not included in the original plan.",
+      "I have reviewed reader entitlement and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent author captivity. Concerning reader entitlement.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited manuscript revision pressure. No quiet afternoon."
+    ],
+    "morals": [
+      "Author Captivity works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses reader entitlement before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does author captivity shape the central choices?",
+      "Would the story still work without reader entitlement?"
+    ]
+  },
+  "it": {
+    "name": "It",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Stephen King",
+      "The Shining",
+      "Coraline"
+    ],
+    "mild": [
+      "It appears to involve clown-related infrastructure, childhood fear, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "It turns clown-related infrastructure into a full-scale library incident involving childhood fear and insufficient adult supervision.",
+      "A routine case of clown-related infrastructure collides with small-town denial, and every character selects the least convenient solution.",
+      "Penelope shelved this under Clown-Related Infrastructure, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Clown-Related Infrastructure acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of childhood fear becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring clown-related infrastructure",
+      "book clubs debating childhood fear",
+      "librarians suspicious of small-town denial"
+    ],
+    "genres": [
+      "Clown-Related Infrastructure Management",
+      "Childhood Fear Logistics",
+      "Small-Town Denial Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that clown-related infrastructure was not included in the original plan.",
+      "I have reviewed childhood fear and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent clown-related infrastructure. Concerning childhood fear.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited small-town denial. No quiet afternoon."
+    ],
+    "morals": [
+      "Clown-Related Infrastructure works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses childhood fear before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does clown-related infrastructure shape the central choices?",
+      "Would the story still work without childhood fear?"
+    ]
+  },
+  "the haunting of hill house": {
+    "name": "The Haunting of Hill House",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Shirley Jackson",
+      "Rebecca",
+      "The Shining"
+    ],
+    "mild": [
+      "The Haunting of Hill House appears to involve haunted architecture, psychological uncertainty, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Haunting of Hill House turns haunted architecture into a full-scale library incident involving psychological uncertainty and insufficient adult supervision.",
+      "A routine case of haunted architecture collides with poorly supervised research, and every character selects the least convenient solution.",
+      "Penelope shelved this under Haunted Architecture, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Haunted Architecture acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of psychological uncertainty becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring haunted architecture",
+      "book clubs debating psychological uncertainty",
+      "librarians suspicious of poorly supervised research"
+    ],
+    "genres": [
+      "Haunted Architecture Management",
+      "Psychological Uncertainty Logistics",
+      "Poorly Supervised Research Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that haunted architecture was not included in the original plan.",
+      "I have reviewed psychological uncertainty and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent haunted architecture. Concerning psychological uncertainty.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited poorly supervised research. No quiet afternoon."
+    ],
+    "morals": [
+      "Haunted Architecture works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses psychological uncertainty before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does haunted architecture shape the central choices?",
+      "Would the story still work without psychological uncertainty?"
+    ]
+  },
+  "mexican gothic": {
+    "name": "Mexican Gothic",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Silvia Moreno-Garcia",
+      "Rebecca",
+      "The Haunting of Hill House"
+    ],
+    "mild": [
+      "Mexican Gothic appears to involve mushroom-based aristocracy, gothic investigation, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Mexican Gothic turns mushroom-based aristocracy into a full-scale library incident involving gothic investigation and insufficient adult supervision.",
+      "A routine case of mushroom-based aristocracy collides with family inheritance concerns, and every character selects the least convenient solution.",
+      "Penelope shelved this under Mushroom-Based Aristocracy, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Mushroom-Based Aristocracy acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of gothic investigation becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring mushroom-based aristocracy",
+      "book clubs debating gothic investigation",
+      "librarians suspicious of family inheritance concerns"
+    ],
+    "genres": [
+      "Mushroom-Based Aristocracy Management",
+      "Gothic Investigation Logistics",
+      "Family Inheritance Concerns Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that mushroom-based aristocracy was not included in the original plan.",
+      "I have reviewed gothic investigation and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent mushroom-based aristocracy. Concerning gothic investigation.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited family inheritance concerns. No quiet afternoon."
+    ],
+    "morals": [
+      "Mushroom-Based Aristocracy works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses gothic investigation before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does mushroom-based aristocracy shape the central choices?",
+      "Would the story still work without gothic investigation?"
+    ]
+  },
+  "the woman in white": {
+    "name": "The Woman in White",
+    "type": "Book",
+    "key": "mystery-horror",
+    "related": [
+      "Wilkie Collins",
+      "Rebecca",
+      "Gone Girl"
+    ],
+    "mild": [
+      "The Woman in White appears to involve identity confusion, inheritance schemes, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Woman in White turns identity confusion into a full-scale library incident involving inheritance schemes and insufficient adult supervision.",
+      "A routine case of identity confusion collides with Victorian surveillance, and every character selects the least convenient solution.",
+      "Penelope shelved this under Identity Confusion, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Identity Confusion acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of inheritance schemes becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring identity confusion",
+      "book clubs debating inheritance schemes",
+      "librarians suspicious of Victorian surveillance"
+    ],
+    "genres": [
+      "Identity Confusion Management",
+      "Inheritance Schemes Logistics",
+      "Victorian Surveillance Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that identity confusion was not included in the original plan.",
+      "I have reviewed inheritance schemes and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent identity confusion. Concerning inheritance schemes.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited Victorian surveillance. No quiet afternoon."
+    ],
+    "morals": [
+      "Identity Confusion works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses inheritance schemes before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does identity confusion shape the central choices?",
+      "Would the story still work without inheritance schemes?"
+    ]
+  },
+  "the giving tree": {
+    "name": "The Giving Tree",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "Shel Silverstein",
+      "Charlotte's Web",
+      "Goodnight Moon"
+    ],
+    "mild": [
+      "The Giving Tree appears to involve one-sided giving, tree resource management, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Giving Tree turns one-sided giving into a full-scale library incident involving tree resource management and insufficient adult supervision.",
+      "A routine case of one-sided giving collides with boundary discussions, and every character selects the least convenient solution.",
+      "Penelope shelved this under One-Sided Giving, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "One-Sided Giving acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of tree resource management becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring one-sided giving",
+      "book clubs debating tree resource management",
+      "librarians suspicious of boundary discussions"
+    ],
+    "genres": [
+      "One-Sided Giving Management",
+      "Tree Resource Management Logistics",
+      "Boundary Discussions Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that one-sided giving was not included in the original plan.",
+      "I have reviewed tree resource management and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent one-sided giving. Concerning tree resource management.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited boundary discussions. No quiet afternoon."
+    ],
+    "morals": [
+      "One-Sided Giving works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses tree resource management before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does one-sided giving shape the central choices?",
+      "Would the story still work without tree resource management?"
+    ]
+  },
+  "where the wild things are": {
+    "name": "Where the Wild Things Are",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "Maurice Sendak",
+      "The Gruffalo",
+      "Peter Pan"
+    ],
+    "mild": [
+      "Where the Wild Things Are appears to involve bedroom travel, wild-creature leadership, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Where the Wild Things Are turns bedroom travel into a full-scale library incident involving wild-creature leadership and insufficient adult supervision.",
+      "A routine case of bedroom travel collides with supper-related reconciliation, and every character selects the least convenient solution.",
+      "Penelope shelved this under Bedroom Travel, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Bedroom Travel acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of wild-creature leadership becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring bedroom travel",
+      "book clubs debating wild-creature leadership",
+      "librarians suspicious of supper-related reconciliation"
+    ],
+    "genres": [
+      "Bedroom Travel Management",
+      "Wild-Creature Leadership Logistics",
+      "Supper-Related Reconciliation Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that bedroom travel was not included in the original plan.",
+      "I have reviewed wild-creature leadership and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent bedroom travel. Concerning wild-creature leadership.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited supper-related reconciliation. No quiet afternoon."
+    ],
+    "morals": [
+      "Bedroom Travel works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses wild-creature leadership before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does bedroom travel shape the central choices?",
+      "Would the story still work without wild-creature leadership?"
+    ]
+  },
+  "green eggs and ham": {
+    "name": "Green Eggs and Ham",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "Dr. Seuss",
+      "The Cat in the Hat",
+      "Goodnight Moon"
+    ],
+    "mild": [
+      "Green Eggs and Ham appears to involve persistent food marketing, consent negotiations, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Green Eggs and Ham turns persistent food marketing into a full-scale library incident involving consent negotiations and insufficient adult supervision.",
+      "A routine case of persistent food marketing collides with rhyming sales pressure, and every character selects the least convenient solution.",
+      "Penelope shelved this under Persistent Food Marketing, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Persistent Food Marketing acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of consent negotiations becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring persistent food marketing",
+      "book clubs debating consent negotiations",
+      "librarians suspicious of rhyming sales pressure"
+    ],
+    "genres": [
+      "Persistent Food Marketing Management",
+      "Consent Negotiations Logistics",
+      "Rhyming Sales Pressure Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that persistent food marketing was not included in the original plan.",
+      "I have reviewed consent negotiations and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent persistent food marketing. Concerning consent negotiations.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited rhyming sales pressure. No quiet afternoon."
+    ],
+    "morals": [
+      "Persistent Food Marketing works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses consent negotiations before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does persistent food marketing shape the central choices?",
+      "Would the story still work without consent negotiations?"
+    ]
+  },
+  "goodnight moon": {
+    "name": "Goodnight Moon",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "Margaret Wise Brown",
+      "The Giving Tree",
+      "The Very Hungry Caterpillar"
+    ],
+    "mild": [
+      "Goodnight Moon appears to involve bedtime inventory, room-based farewells, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Goodnight Moon turns bedtime inventory into a full-scale library incident involving room-based farewells and insufficient adult supervision.",
+      "A routine case of bedtime inventory collides with moon acknowledgment, and every character selects the least convenient solution.",
+      "Penelope shelved this under Bedtime Inventory, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Bedtime Inventory acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of room-based farewells becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring bedtime inventory",
+      "book clubs debating room-based farewells",
+      "librarians suspicious of moon acknowledgment"
+    ],
+    "genres": [
+      "Bedtime Inventory Management",
+      "Room-Based Farewells Logistics",
+      "Moon Acknowledgment Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that bedtime inventory was not included in the original plan.",
+      "I have reviewed room-based farewells and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent bedtime inventory. Concerning room-based farewells.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited moon acknowledgment. No quiet afternoon."
+    ],
+    "morals": [
+      "Bedtime Inventory works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses room-based farewells before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does bedtime inventory shape the central choices?",
+      "Would the story still work without room-based farewells?"
+    ]
+  },
+  "the gruffalo": {
+    "name": "The Gruffalo",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "Julia Donaldson",
+      "Where the Wild Things Are",
+      "The Very Hungry Caterpillar"
+    ],
+    "mild": [
+      "The Gruffalo appears to involve forest bluffing, invented-monster risk, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Gruffalo turns forest bluffing into a full-scale library incident involving invented-monster risk and insufficient adult supervision.",
+      "A routine case of forest bluffing collides with mouse negotiation, and every character selects the least convenient solution.",
+      "Penelope shelved this under Forest Bluffing, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Forest Bluffing acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of invented-monster risk becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring forest bluffing",
+      "book clubs debating invented-monster risk",
+      "librarians suspicious of mouse negotiation"
+    ],
+    "genres": [
+      "Forest Bluffing Management",
+      "Invented-Monster Risk Logistics",
+      "Mouse Negotiation Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that forest bluffing was not included in the original plan.",
+      "I have reviewed invented-monster risk and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent forest bluffing. Concerning invented-monster risk.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited mouse negotiation. No quiet afternoon."
+    ],
+    "morals": [
+      "Forest Bluffing works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses invented-monster risk before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does forest bluffing shape the central choices?",
+      "Would the story still work without invented-monster risk?"
+    ]
+  },
+  "bridge to terabithia": {
+    "name": "Bridge to Terabithia",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "Katherine Paterson",
+      "The Secret Garden",
+      "Charlotte's Web"
+    ],
+    "mild": [
+      "Bridge to Terabithia appears to involve imaginative friendship, childhood grief, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Bridge to Terabithia turns imaginative friendship into a full-scale library incident involving childhood grief and insufficient adult supervision.",
+      "A routine case of imaginative friendship collides with rope-swing risk, and every character selects the least convenient solution.",
+      "Penelope shelved this under Imaginative Friendship, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Imaginative Friendship acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of childhood grief becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring imaginative friendship",
+      "book clubs debating childhood grief",
+      "librarians suspicious of rope-swing risk"
+    ],
+    "genres": [
+      "Imaginative Friendship Management",
+      "Childhood Grief Logistics",
+      "Rope-Swing Risk Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that imaginative friendship was not included in the original plan.",
+      "I have reviewed childhood grief and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent imaginative friendship. Concerning childhood grief.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited rope-swing risk. No quiet afternoon."
+    ],
+    "morals": [
+      "Imaginative Friendship works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses childhood grief before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does imaginative friendship shape the central choices?",
+      "Would the story still work without childhood grief?"
+    ]
+  },
+  "the secret garden": {
+    "name": "The Secret Garden",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "Frances Hodgson Burnett",
+      "Anne of Green Gables",
+      "Matilda"
+    ],
+    "mild": [
+      "The Secret Garden appears to involve hidden gardening, emotional restoration, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Secret Garden turns hidden gardening into a full-scale library incident involving emotional restoration and insufficient adult supervision.",
+      "A routine case of hidden gardening collides with estate key management, and every character selects the least convenient solution.",
+      "Penelope shelved this under Hidden Gardening, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Hidden Gardening acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of emotional restoration becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring hidden gardening",
+      "book clubs debating emotional restoration",
+      "librarians suspicious of estate key management"
+    ],
+    "genres": [
+      "Hidden Gardening Management",
+      "Emotional Restoration Logistics",
+      "Estate Key Management Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that hidden gardening was not included in the original plan.",
+      "I have reviewed emotional restoration and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent hidden gardening. Concerning emotional restoration.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited estate key management. No quiet afternoon."
+    ],
+    "morals": [
+      "Hidden Gardening works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses emotional restoration before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does hidden gardening shape the central choices?",
+      "Would the story still work without emotional restoration?"
+    ]
+  },
+  "winnie the pooh": {
+    "name": "Winnie-the-Pooh",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "A.A. Milne",
+      "Tigger",
+      "The Giving Tree"
+    ],
+    "mild": [
+      "Winnie-the-Pooh appears to involve honey procurement, gentle friendship, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Winnie-the-Pooh turns honey procurement into a full-scale library incident involving gentle friendship and insufficient adult supervision.",
+      "A routine case of honey procurement collides with woodland problem solving, and every character selects the least convenient solution.",
+      "Penelope shelved this under Honey Procurement, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Honey Procurement acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of gentle friendship becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring honey procurement",
+      "book clubs debating gentle friendship",
+      "librarians suspicious of woodland problem solving"
+    ],
+    "genres": [
+      "Honey Procurement Management",
+      "Gentle Friendship Logistics",
+      "Woodland Problem Solving Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that honey procurement was not included in the original plan.",
+      "I have reviewed gentle friendship and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent honey procurement. Concerning gentle friendship.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited woodland problem solving. No quiet afternoon."
+    ],
+    "morals": [
+      "Honey Procurement works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses gentle friendship before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does honey procurement shape the central choices?",
+      "Would the story still work without gentle friendship?"
+    ]
+  },
+  "the cat in the hat": {
+    "name": "The Cat in the Hat",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "Dr. Seuss",
+      "Green Eggs and Ham",
+      "Where the Wild Things Are"
+    ],
+    "mild": [
+      "The Cat in the Hat appears to involve indoor chaos, unauthorized visitors, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Cat in the Hat turns indoor chaos into a full-scale library incident involving unauthorized visitors and insufficient adult supervision.",
+      "A routine case of indoor chaos collides with rainy-day risk, and every character selects the least convenient solution.",
+      "Penelope shelved this under Indoor Chaos, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Indoor Chaos acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of unauthorized visitors becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring indoor chaos",
+      "book clubs debating unauthorized visitors",
+      "librarians suspicious of rainy-day risk"
+    ],
+    "genres": [
+      "Indoor Chaos Management",
+      "Unauthorized Visitors Logistics",
+      "Rainy-Day Risk Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that indoor chaos was not included in the original plan.",
+      "I have reviewed unauthorized visitors and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent indoor chaos. Concerning unauthorized visitors.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited rainy-day risk. No quiet afternoon."
+    ],
+    "morals": [
+      "Indoor Chaos works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses unauthorized visitors before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does indoor chaos shape the central choices?",
+      "Would the story still work without unauthorized visitors?"
+    ]
+  },
+  "the very hungry caterpillar": {
+    "name": "The Very Hungry Caterpillar",
+    "type": "Book",
+    "key": "childrens-books",
+    "related": [
+      "Eric Carle",
+      "Goodnight Moon",
+      "Charlotte's Web"
+    ],
+    "mild": [
+      "The Very Hungry Caterpillar appears to involve snack escalation, metamorphosis scheduling, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Very Hungry Caterpillar turns snack escalation into a full-scale library incident involving metamorphosis scheduling and insufficient adult supervision.",
+      "A routine case of snack escalation collides with fruit inventory, and every character selects the least convenient solution.",
+      "Penelope shelved this under Snack Escalation, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Snack Escalation acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of metamorphosis scheduling becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring snack escalation",
+      "book clubs debating metamorphosis scheduling",
+      "librarians suspicious of fruit inventory"
+    ],
+    "genres": [
+      "Snack Escalation Management",
+      "Metamorphosis Scheduling Logistics",
+      "Fruit Inventory Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that snack escalation was not included in the original plan.",
+      "I have reviewed metamorphosis scheduling and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent snack escalation. Concerning metamorphosis scheduling.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited fruit inventory. No quiet afternoon."
+    ],
+    "morals": [
+      "Snack Escalation works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses metamorphosis scheduling before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does snack escalation shape the central choices?",
+      "Would the story still work without metamorphosis scheduling?"
+    ]
+  },
+  "beach read": {
+    "name": "Beach Read",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Emily Henry",
+      "Book Lovers",
+      "People We Meet on Vacation"
+    ],
+    "mild": [
+      "Beach Read appears to involve writer rivalry, summer proximity, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Beach Read turns writer rivalry into a full-scale library incident involving summer proximity and insufficient adult supervision.",
+      "A routine case of writer rivalry collides with genre-based flirting, and every character selects the least convenient solution.",
+      "Penelope shelved this under Writer Rivalry, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Writer Rivalry acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of summer proximity becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring writer rivalry",
+      "book clubs debating summer proximity",
+      "librarians suspicious of genre-based flirting"
+    ],
+    "genres": [
+      "Writer Rivalry Management",
+      "Summer Proximity Logistics",
+      "Genre-Based Flirting Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that writer rivalry was not included in the original plan.",
+      "I have reviewed summer proximity and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent writer rivalry. Concerning summer proximity.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited genre-based flirting. No quiet afternoon."
+    ],
+    "morals": [
+      "Writer Rivalry works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses summer proximity before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does writer rivalry shape the central choices?",
+      "Would the story still work without summer proximity?"
+    ]
+  },
+  "book lovers": {
+    "name": "Book Lovers",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Emily Henry",
+      "Beach Read",
+      "The Notebook"
+    ],
+    "mild": [
+      "Book Lovers appears to involve publishing careers, small-town inconvenience, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Book Lovers turns publishing careers into a full-scale library incident involving small-town inconvenience and insufficient adult supervision.",
+      "A routine case of publishing careers collides with enemies-to-editors logistics, and every character selects the least convenient solution.",
+      "Penelope shelved this under Publishing Careers, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Publishing Careers acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of small-town inconvenience becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring publishing careers",
+      "book clubs debating small-town inconvenience",
+      "librarians suspicious of enemies-to-editors logistics"
+    ],
+    "genres": [
+      "Publishing Careers Management",
+      "Small-Town Inconvenience Logistics",
+      "Enemies-To-Editors Logistics Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that publishing careers was not included in the original plan.",
+      "I have reviewed small-town inconvenience and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent publishing careers. Concerning small-town inconvenience.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited enemies-to-editors logistics. No quiet afternoon."
+    ],
+    "morals": [
+      "Publishing Careers works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses small-town inconvenience before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does publishing careers shape the central choices?",
+      "Would the story still work without small-town inconvenience?"
+    ]
+  },
+  "happy place": {
+    "name": "Happy Place",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Emily Henry",
+      "Beach Read",
+      "People We Meet on Vacation"
+    ],
+    "mild": [
+      "Happy Place appears to involve fake relationship continuity, friend-group vacation, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Happy Place turns fake relationship continuity into a full-scale library incident involving friend-group vacation and insufficient adult supervision.",
+      "A routine case of fake relationship continuity collides with delayed honesty, and every character selects the least convenient solution.",
+      "Penelope shelved this under Fake Relationship Continuity, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Fake Relationship Continuity acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of friend-group vacation becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring fake relationship continuity",
+      "book clubs debating friend-group vacation",
+      "librarians suspicious of delayed honesty"
+    ],
+    "genres": [
+      "Fake Relationship Continuity Management",
+      "Friend-Group Vacation Logistics",
+      "Delayed Honesty Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that fake relationship continuity was not included in the original plan.",
+      "I have reviewed friend-group vacation and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent fake relationship continuity. Concerning friend-group vacation.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited delayed honesty. No quiet afternoon."
+    ],
+    "morals": [
+      "Fake Relationship Continuity works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses friend-group vacation before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does fake relationship continuity shape the central choices?",
+      "Would the story still work without friend-group vacation?"
+    ]
+  },
+  "people we meet on vacation": {
+    "name": "People We Meet on Vacation",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Emily Henry",
+      "Happy Place",
+      "Beach Read"
+    ],
+    "mild": [
+      "People We Meet on Vacation appears to involve annual travel, best-friend confusion, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "People We Meet on Vacation turns annual travel into a full-scale library incident involving best-friend confusion and insufficient adult supervision.",
+      "A routine case of annual travel collides with vacation scheduling, and every character selects the least convenient solution.",
+      "Penelope shelved this under Annual Travel, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Annual Travel acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of best-friend confusion becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring annual travel",
+      "book clubs debating best-friend confusion",
+      "librarians suspicious of vacation scheduling"
+    ],
+    "genres": [
+      "Annual Travel Management",
+      "Best-Friend Confusion Logistics",
+      "Vacation Scheduling Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that annual travel was not included in the original plan.",
+      "I have reviewed best-friend confusion and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent annual travel. Concerning best-friend confusion.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited vacation scheduling. No quiet afternoon."
+    ],
+    "morals": [
+      "Annual Travel works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses best-friend confusion before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does annual travel shape the central choices?",
+      "Would the story still work without best-friend confusion?"
+    ]
+  },
+  "love and other words": {
+    "name": "Love and Other Words",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Christina Lauren",
+      "The Notebook",
+      "Beach Read"
+    ],
+    "mild": [
+      "Love and Other Words appears to involve childhood friendship, book-based memory, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Love and Other Words turns childhood friendship into a full-scale library incident involving book-based memory and insufficient adult supervision.",
+      "A routine case of childhood friendship collides with second-chance timing, and every character selects the least convenient solution.",
+      "Penelope shelved this under Childhood Friendship, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Childhood Friendship acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of book-based memory becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring childhood friendship",
+      "book clubs debating book-based memory",
+      "librarians suspicious of second-chance timing"
+    ],
+    "genres": [
+      "Childhood Friendship Management",
+      "Book-Based Memory Logistics",
+      "Second-Chance Timing Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that childhood friendship was not included in the original plan.",
+      "I have reviewed book-based memory and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent childhood friendship. Concerning book-based memory.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited second-chance timing. No quiet afternoon."
+    ],
+    "morals": [
+      "Childhood Friendship works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses book-based memory before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does childhood friendship shape the central choices?",
+      "Would the story still work without book-based memory?"
+    ]
+  },
+  "twilight": {
+    "name": "Twilight",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Bella Swan",
+      "Edward Cullen",
+      "The Hunger Games"
+    ],
+    "mild": [
+      "Twilight appears to involve vampire dating, high-school secrecy, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Twilight turns vampire dating into a full-scale library incident involving high-school secrecy and insufficient adult supervision.",
+      "A routine case of vampire dating collides with weather-assisted staring, and every character selects the least convenient solution.",
+      "Penelope shelved this under Vampire Dating, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Vampire Dating acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of high-school secrecy becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring vampire dating",
+      "book clubs debating high-school secrecy",
+      "librarians suspicious of weather-assisted staring"
+    ],
+    "genres": [
+      "Vampire Dating Management",
+      "High-School Secrecy Logistics",
+      "Weather-Assisted Staring Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that vampire dating was not included in the original plan.",
+      "I have reviewed high-school secrecy and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent vampire dating. Concerning high-school secrecy.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited weather-assisted staring. No quiet afternoon."
+    ],
+    "morals": [
+      "Vampire Dating works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses high-school secrecy before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does vampire dating shape the central choices?",
+      "Would the story still work without high-school secrecy?"
+    ]
+  },
+  "outlander": {
+    "name": "Outlander",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Claire Fraser",
+      "Diana Gabaldon",
+      "The Time Traveler's Wife"
+    ],
+    "mild": [
+      "Outlander appears to involve time-travel marriage, historical survival, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Outlander turns time-travel marriage into a full-scale library incident involving historical survival and insufficient adult supervision.",
+      "A routine case of time-travel marriage collides with stone-circle scheduling, and every character selects the least convenient solution.",
+      "Penelope shelved this under Time-Travel Marriage, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Time-Travel Marriage acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of historical survival becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring time-travel marriage",
+      "book clubs debating historical survival",
+      "librarians suspicious of stone-circle scheduling"
+    ],
+    "genres": [
+      "Time-Travel Marriage Management",
+      "Historical Survival Logistics",
+      "Stone-Circle Scheduling Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that time-travel marriage was not included in the original plan.",
+      "I have reviewed historical survival and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent time-travel marriage. Concerning historical survival.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited stone-circle scheduling. No quiet afternoon."
+    ],
+    "morals": [
+      "Time-Travel Marriage works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses historical survival before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does time-travel marriage shape the central choices?",
+      "Would the story still work without historical survival?"
+    ]
+  },
+  "me before you": {
+    "name": "Me Before You",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Jojo Moyes",
+      "The Notebook",
+      "The Time Traveler's Wife"
+    ],
+    "mild": [
+      "Me Before You appears to involve unexpected caregiving, life-choice conflict, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Me Before You turns unexpected caregiving into a full-scale library incident involving life-choice conflict and insufficient adult supervision.",
+      "A routine case of unexpected caregiving collides with striped-tights optimism, and every character selects the least convenient solution.",
+      "Penelope shelved this under Unexpected Caregiving, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Unexpected Caregiving acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of life-choice conflict becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring unexpected caregiving",
+      "book clubs debating life-choice conflict",
+      "librarians suspicious of striped-tights optimism"
+    ],
+    "genres": [
+      "Unexpected Caregiving Management",
+      "Life-Choice Conflict Logistics",
+      "Striped-Tights Optimism Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that unexpected caregiving was not included in the original plan.",
+      "I have reviewed life-choice conflict and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent unexpected caregiving. Concerning life-choice conflict.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited striped-tights optimism. No quiet afternoon."
+    ],
+    "morals": [
+      "Unexpected Caregiving works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses life-choice conflict before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does unexpected caregiving shape the central choices?",
+      "Would the story still work without life-choice conflict?"
+    ]
+  },
+  "the time travelers wife": {
+    "name": "The Time Traveler's Wife",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Audrey Niffenegger",
+      "Outlander",
+      "The Notebook"
+    ],
+    "mild": [
+      "The Time Traveler's Wife appears to involve involuntary time travel, relationship scheduling, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Time Traveler's Wife turns involuntary time travel into a full-scale library incident involving relationship scheduling and insufficient adult supervision.",
+      "A routine case of involuntary time travel collides with chronological inconvenience, and every character selects the least convenient solution.",
+      "Penelope shelved this under Involuntary Time Travel, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Involuntary Time Travel acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of relationship scheduling becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring involuntary time travel",
+      "book clubs debating relationship scheduling",
+      "librarians suspicious of chronological inconvenience"
+    ],
+    "genres": [
+      "Involuntary Time Travel Management",
+      "Relationship Scheduling Logistics",
+      "Chronological Inconvenience Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that involuntary time travel was not included in the original plan.",
+      "I have reviewed relationship scheduling and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent involuntary time travel. Concerning relationship scheduling.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited chronological inconvenience. No quiet afternoon."
+    ],
+    "morals": [
+      "Involuntary Time Travel works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses relationship scheduling before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does involuntary time travel shape the central choices?",
+      "Would the story still work without relationship scheduling?"
+    ]
+  },
+  "the love hypothesis": {
+    "name": "The Love Hypothesis",
+    "type": "Book",
+    "key": "romance",
+    "related": [
+      "Ali Hazelwood",
+      "Beach Read",
+      "Red White and Royal Blue"
+    ],
+    "mild": [
+      "The Love Hypothesis appears to involve fake dating, academic politics, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Love Hypothesis turns fake dating into a full-scale library incident involving academic politics and insufficient adult supervision.",
+      "A routine case of fake dating collides with lab-based misunderstandings, and every character selects the least convenient solution.",
+      "Penelope shelved this under Fake Dating, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Fake Dating acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of academic politics becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring fake dating",
+      "book clubs debating academic politics",
+      "librarians suspicious of lab-based misunderstandings"
+    ],
+    "genres": [
+      "Fake Dating Management",
+      "Academic Politics Logistics",
+      "Lab-Based Misunderstandings Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that fake dating was not included in the original plan.",
+      "I have reviewed academic politics and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent fake dating. Concerning academic politics.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited lab-based misunderstandings. No quiet afternoon."
+    ],
+    "morals": [
+      "Fake Dating works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses academic politics before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does fake dating shape the central choices?",
+      "Would the story still work without academic politics?"
+    ]
+  },
+  "the case for christ": {
+    "name": "The Case for Christ",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "Lee Strobel",
+      "Mere Christianity",
+      "Knowing God"
+    ],
+    "mild": [
+      "The Case for Christ appears to involve investigative apologetics, evidence review, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Case for Christ turns investigative apologetics into a full-scale library incident involving evidence review and insufficient adult supervision.",
+      "A routine case of investigative apologetics collides with faith inquiry, and every character selects the least convenient solution.",
+      "Penelope shelved this under Investigative Apologetics, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Investigative Apologetics acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of evidence review becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring investigative apologetics",
+      "book clubs debating evidence review",
+      "librarians suspicious of faith inquiry"
+    ],
+    "genres": [
+      "Investigative Apologetics Management",
+      "Evidence Review Logistics",
+      "Faith Inquiry Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that investigative apologetics was not included in the original plan.",
+      "I have reviewed evidence review and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent investigative apologetics. Concerning evidence review.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited faith inquiry. No quiet afternoon."
+    ],
+    "morals": [
+      "Investigative Apologetics works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses evidence review before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does investigative apologetics shape the central choices?",
+      "Would the story still work without evidence review?"
+    ]
+  },
+  "crazy love": {
+    "name": "Crazy Love",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "Francis Chan",
+      "The Purpose Driven Life",
+      "Mere Christianity"
+    ],
+    "mild": [
+      "Crazy Love appears to involve devotional challenge, comfortable-faith disruption, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Crazy Love turns devotional challenge into a full-scale library incident involving comfortable-faith disruption and insufficient adult supervision.",
+      "A routine case of devotional challenge collides with wholehearted commitment, and every character selects the least convenient solution.",
+      "Penelope shelved this under Devotional Challenge, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Devotional Challenge acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of comfortable-faith disruption becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring devotional challenge",
+      "book clubs debating comfortable-faith disruption",
+      "librarians suspicious of wholehearted commitment"
+    ],
+    "genres": [
+      "Devotional Challenge Management",
+      "Comfortable-Faith Disruption Logistics",
+      "Wholehearted Commitment Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that devotional challenge was not included in the original plan.",
+      "I have reviewed comfortable-faith disruption and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent devotional challenge. Concerning comfortable-faith disruption.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited wholehearted commitment. No quiet afternoon."
+    ],
+    "morals": [
+      "Devotional Challenge works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses comfortable-faith disruption before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does devotional challenge shape the central choices?",
+      "Would the story still work without comfortable-faith disruption?"
+    ]
+  },
+  "the purpose driven life": {
+    "name": "The Purpose Driven Life",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "Rick Warren",
+      "Crazy Love",
+      "Experiencing God"
+    ],
+    "mild": [
+      "The Purpose Driven Life appears to involve purpose reflection, forty-day reading, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Purpose Driven Life turns purpose reflection into a full-scale library incident involving forty-day reading and insufficient adult supervision.",
+      "A routine case of purpose reflection collides with life-direction planning, and every character selects the least convenient solution.",
+      "Penelope shelved this under Purpose Reflection, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Purpose Reflection acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of forty-day reading becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring purpose reflection",
+      "book clubs debating forty-day reading",
+      "librarians suspicious of life-direction planning"
+    ],
+    "genres": [
+      "Purpose Reflection Management",
+      "Forty-Day Reading Logistics",
+      "Life-Direction Planning Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that purpose reflection was not included in the original plan.",
+      "I have reviewed forty-day reading and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent purpose reflection. Concerning forty-day reading.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited life-direction planning. No quiet afternoon."
+    ],
+    "morals": [
+      "Purpose Reflection works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses forty-day reading before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does purpose reflection shape the central choices?",
+      "Would the story still work without forty-day reading?"
+    ]
+  },
+  "knowing god": {
+    "name": "Knowing God",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "J.I. Packer",
+      "Mere Christianity",
+      "Celebration of Discipline"
+    ],
+    "mild": [
+      "Knowing God appears to involve Christian theology, knowledge and relationship, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Knowing God turns Christian theology into a full-scale library incident involving knowledge and relationship and insufficient adult supervision.",
+      "A routine case of Christian theology collides with spiritual formation, and every character selects the least convenient solution.",
+      "Penelope shelved this under Christian Theology, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Christian Theology acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of knowledge and relationship becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring Christian theology",
+      "book clubs debating knowledge and relationship",
+      "librarians suspicious of spiritual formation"
+    ],
+    "genres": [
+      "Christian Theology Management",
+      "Knowledge And Relationship Logistics",
+      "Spiritual Formation Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that Christian theology was not included in the original plan.",
+      "I have reviewed knowledge and relationship and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent Christian theology. Concerning knowledge and relationship.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited spiritual formation. No quiet afternoon."
+    ],
+    "morals": [
+      "Christian Theology works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses knowledge and relationship before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does Christian theology shape the central choices?",
+      "Would the story still work without knowledge and relationship?"
+    ]
+  },
+  "experiencing god": {
+    "name": "Experiencing God",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "Henry Blackaby",
+      "The Purpose Driven Life",
+      "Knowing God"
+    ],
+    "mild": [
+      "Experiencing God appears to involve discernment, spiritual attention, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Experiencing God turns discernment into a full-scale library incident involving spiritual attention and insufficient adult supervision.",
+      "A routine case of discernment collides with faithful response, and every character selects the least convenient solution.",
+      "Penelope shelved this under Discernment, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Discernment acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of spiritual attention becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring discernment",
+      "book clubs debating spiritual attention",
+      "librarians suspicious of faithful response"
+    ],
+    "genres": [
+      "Discernment Management",
+      "Spiritual Attention Logistics",
+      "Faithful Response Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that discernment was not included in the original plan.",
+      "I have reviewed spiritual attention and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent discernment. Concerning spiritual attention.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited faithful response. No quiet afternoon."
+    ],
+    "morals": [
+      "Discernment works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses spiritual attention before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does discernment shape the central choices?",
+      "Would the story still work without spiritual attention?"
+    ]
+  },
+  "hinds feet on high places": {
+    "name": "Hinds' Feet on High Places",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "Hannah Hurnard",
+      "The Pilgrim's Progress",
+      "Mere Christianity"
+    ],
+    "mild": [
+      "Hinds' Feet on High Places appears to involve allegorical journey, fear-to-courage growth, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Hinds' Feet on High Places turns allegorical journey into a full-scale library incident involving fear-to-courage growth and insufficient adult supervision.",
+      "A routine case of allegorical journey collides with mountain travel, and every character selects the least convenient solution.",
+      "Penelope shelved this under Allegorical Journey, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Allegorical Journey acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of fear-to-courage growth becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring allegorical journey",
+      "book clubs debating fear-to-courage growth",
+      "librarians suspicious of mountain travel"
+    ],
+    "genres": [
+      "Allegorical Journey Management",
+      "Fear-To-Courage Growth Logistics",
+      "Mountain Travel Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that allegorical journey was not included in the original plan.",
+      "I have reviewed fear-to-courage growth and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent allegorical journey. Concerning fear-to-courage growth.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited mountain travel. No quiet afternoon."
+    ],
+    "morals": [
+      "Allegorical Journey works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses fear-to-courage growth before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does allegorical journey shape the central choices?",
+      "Would the story still work without fear-to-courage growth?"
+    ]
+  },
+  "the screwtape letters": {
+    "name": "The Screwtape Letters",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "C.S. Lewis",
+      "Mere Christianity",
+      "The Great Divorce"
+    ],
+    "mild": [
+      "The Screwtape Letters appears to involve demonic correspondence, spiritual distraction, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "The Screwtape Letters turns demonic correspondence into a full-scale library incident involving spiritual distraction and insufficient adult supervision.",
+      "A routine case of demonic correspondence collides with bureaucratic temptation, and every character selects the least convenient solution.",
+      "Penelope shelved this under Demonic Correspondence, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Demonic Correspondence acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of spiritual distraction becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring demonic correspondence",
+      "book clubs debating spiritual distraction",
+      "librarians suspicious of bureaucratic temptation"
+    ],
+    "genres": [
+      "Demonic Correspondence Management",
+      "Spiritual Distraction Logistics",
+      "Bureaucratic Temptation Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that demonic correspondence was not included in the original plan.",
+      "I have reviewed spiritual distraction and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent demonic correspondence. Concerning spiritual distraction.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited bureaucratic temptation. No quiet afternoon."
+    ],
+    "morals": [
+      "Demonic Correspondence works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses spiritual distraction before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does demonic correspondence shape the central choices?",
+      "Would the story still work without spiritual distraction?"
+    ]
+  },
+  "celebration of discipline": {
+    "name": "Celebration of Discipline",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "Richard Foster",
+      "Knowing God",
+      "The Purpose Driven Life"
+    ],
+    "mild": [
+      "Celebration of Discipline appears to involve spiritual practices, inner transformation, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Celebration of Discipline turns spiritual practices into a full-scale library incident involving inner transformation and insufficient adult supervision.",
+      "A routine case of spiritual practices collides with disciplined attention, and every character selects the least convenient solution.",
+      "Penelope shelved this under Spiritual Practices, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Spiritual Practices acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of inner transformation becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring spiritual practices",
+      "book clubs debating inner transformation",
+      "librarians suspicious of disciplined attention"
+    ],
+    "genres": [
+      "Spiritual Practices Management",
+      "Inner Transformation Logistics",
+      "Disciplined Attention Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that spiritual practices was not included in the original plan.",
+      "I have reviewed inner transformation and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent spiritual practices. Concerning inner transformation.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited disciplined attention. No quiet afternoon."
+    ],
+    "morals": [
+      "Spiritual Practices works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses inner transformation before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does spiritual practices shape the central choices?",
+      "Would the story still work without inner transformation?"
+    ]
+  },
+  "heaven": {
+    "name": "Heaven",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "Randy Alcorn",
+      "Mere Christianity",
+      "The Case for Christ"
+    ],
+    "mild": [
+      "Heaven appears to involve Christian eschatology, eternal-life questions, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Heaven turns Christian eschatology into a full-scale library incident involving eternal-life questions and insufficient adult supervision.",
+      "A routine case of Christian eschatology collides with theological imagination, and every character selects the least convenient solution.",
+      "Penelope shelved this under Christian Eschatology, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Christian Eschatology acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of eternal-life questions becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring Christian eschatology",
+      "book clubs debating eternal-life questions",
+      "librarians suspicious of theological imagination"
+    ],
+    "genres": [
+      "Christian Eschatology Management",
+      "Eternal-Life Questions Logistics",
+      "Theological Imagination Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that Christian eschatology was not included in the original plan.",
+      "I have reviewed eternal-life questions and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent Christian eschatology. Concerning eternal-life questions.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited theological imagination. No quiet afternoon."
+    ],
+    "morals": [
+      "Christian Eschatology works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses eternal-life questions before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does Christian eschatology shape the central choices?",
+      "Would the story still work without eternal-life questions?"
+    ]
+  },
+  "love does": {
+    "name": "Love Does",
+    "type": "Book",
+    "key": "christian-books",
+    "related": [
+      "Bob Goff",
+      "Crazy Love",
+      "Redeeming Love"
+    ],
+    "mild": [
+      "Love Does appears to involve active compassion, adventurous faith, and several decisions Penelope has declined to verify."
+    ],
+    "silly": [
+      "Love Does turns active compassion into a full-scale library incident involving adventurous faith and insufficient adult supervision.",
+      "A routine case of active compassion collides with story-based encouragement, and every character selects the least convenient solution.",
+      "Penelope shelved this under Active Compassion, then quietly moved it to Avoidable Complications."
+    ],
+    "wild": [
+      "Active Compassion acquires narrative authority and immediately destabilizes the entire book.",
+      "One instance of adventurous faith becomes a genre-wide emergency with no approved evacuation plan."
+    ],
+    "audiences": [
+      "readers monitoring active compassion",
+      "book clubs debating adventurous faith",
+      "librarians suspicious of story-based encouragement"
+    ],
+    "genres": [
+      "Active Compassion Management",
+      "Adventurous Faith Logistics",
+      "Story-Based Encouragement Studies",
+      "Extremely Questionable Literature"
+    ],
+    "quotes": [
+      "Please note that active compassion was not included in the original plan.",
+      "I have reviewed adventurous faith and selected the least calm response."
+    ],
+    "reviews": [
+      "Excellent active compassion. Concerning adventurous faith.",
+      "The writing was memorable; the operational controls were not."
+    ],
+    "trailers": [
+      "One book. Unlimited story-based encouragement. No quiet afternoon."
+    ],
+    "morals": [
+      "Active Compassion works best when paired with judgment.",
+      "One honest conversation could have shortened this considerably."
+    ],
+    "endings": [
+      "Everyone discusses adventurous faith before the final chapter.",
+      "The characters receive clearer communication and one week off."
+    ],
+    "questions": [
+      "How does active compassion shape the central choices?",
+      "Would the story still work without adventurous faith?"
+    ]
   }
 };

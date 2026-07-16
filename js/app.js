@@ -57,14 +57,16 @@
     $("result").classList.remove("hidden");$("entityType").textContent=entry.type;$("resultTitle").textContent=entry.name;
     const source=$("sourceBadge"),preview=$("sourcePreview");
     if(entry.apiSource){
-      source.textContent=entry.apiMetadata&&entry.apiMetadata.descriptionAvailable?"Open Library work description + metadata":"Open Library metadata";
+      source.textContent="📚 Borrowed through Interlibrary Loan";
       source.classList.remove("hidden");
-      if(entry.sourcePreview){preview.textContent=entry.sourcePreview;preview.classList.remove("hidden")}else preview.classList.add("hidden");
     }else{
-      source.textContent="";source.classList.add("hidden");preview.textContent="";preview.classList.add("hidden");
+      source.textContent="";
+      source.classList.add("hidden");
     }
+    preview.textContent="";
+    preview.classList.add("hidden");
     $("award").textContent=pick(["🏆 Certified Librarian Nightmare","🪿 Goose-Approved Misinformation","📚 Book Club Menace","🚨 English Teacher Alert"],cycle+2);
-    const witty=entry.apiSource?"I found this on the public shelves. The metadata is real; my explanation remains irresponsible.":window.PenelopePersonality.lineFor(entry,key,cycle,searchCount,repeated,level);
+    const witty=entry.apiSource?"Good news! I found the book. Bad news! I misunderstood it.":window.PenelopePersonality.lineFor(entry,key,cycle,searchCount,repeated,level);
     $("penelopeLine").textContent="🪿 Penelope says: “"+witty+"”";bubble(witty);$("synopsis").textContent=pick(options,cycle);
     $("rating").textContent=(4.5+((entry.name.length*7+cycle*11)%49)/100).toFixed(2);
     $("audience").textContent="Based on "+(1250+((entry.name.length*643+cycle*977)%8750)).toLocaleString()+" "+pick(p.audiences,cycle+1);
@@ -165,7 +167,11 @@
   function startTournament(){
     const collection=(window.PENELOPE_COLLECTIONS||{})[$("tournamentCollection").value];
     if(!collection||collection.keys.length<2){$("tournamentStatus").textContent="This shelf needs at least two entries.";return}
-    tournamentQueue=[...collection.keys].sort(()=>Math.random()-.5).slice(0,8);
+    const requested=Number($("tournamentSize").value||16);
+    const available=Math.min(requested,collection.keys.length);
+    let bracket=1;
+    while(bracket*2<=available)bracket*=2;
+    tournamentQueue=[...collection.keys].sort(()=>Math.random()-.5).slice(0,Math.max(2,bracket));
     tournamentWinners=[];tournamentRound=0;tournamentPairIndex=0;showTournamentMatch();
     $("tournament").scrollIntoView({behavior:"smooth",block:"start"});
   }

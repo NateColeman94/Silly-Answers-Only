@@ -106,7 +106,7 @@
       </header>
 
       <div id="penelopeLine" class="penelope-line"></div>
-      <div id="sourcePreview" class="source-preview hidden"></div>
+      <div id="sourcePreview" class="source-preview hidden" aria-hidden="true"></div>
       <p id="synopsis" class="synopsis"></p>
 
       <div class="checkout-rule"><span>CHECKOUT CARD</span><span>Wonderfully misunderstood</span></div>
@@ -180,6 +180,12 @@
             <option value="romance">Romance</option>
             <option value="christian-books">Christian Books</option>
           </select>
+          <select id="tournamentSize" aria-label="Tournament size">
+            <option value="8">8 entries</option>
+            <option value="16" selected>16 entries</option>
+            <option value="32">32 entries</option>
+            <option value="64">64 entries</option>
+          </select>
           <button id="startTournamentBtn">Start Tournament</button>
         </div>
       </div>
@@ -191,7 +197,7 @@
       <strong>📚 LIBRARY NOTICE</strong>
       <p>No books were responsibly summarized in the making of this application.</p>
       <p>✓ Accurate Answers have been permanently checked out.</p>
-      <small>Build 7.0 — Storybook Visual Remaster</small>
+      <small>Build 7.1 — Penelope Personality 2.0 & Popular Shelves</small>
     </footer>
   </main>
 

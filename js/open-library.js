@@ -3,66 +3,98 @@
   "use strict";
   const SEARCH_URL="https://openlibrary.org/search.json";
   const clean=value=>String(value||"").replace(/\s+/g," ").trim();
-  const textDescription=value=>{
-    if(typeof value==="string")return clean(value);
-    if(value&&typeof value.value==="string")return clean(value.value);
-    return "";
-  };
-  const clip=(value,max=420)=>value.length>max?value.slice(0,max).replace(/\s+\S*$/,"")+"…":value;
   const titleCase=value=>String(value||"").replace(/\b\w/g,letter=>letter.toUpperCase());
-  async function fetchWork(key){
-    if(!key||!String(key).startsWith("/works/"))return null;
-    try{
-      const response=await fetch(`https://openlibrary.org${key}.json`,{headers:{Accept:"application/json"}});
-      if(!response.ok)return null;
-      return await response.json();
-    }catch(error){console.warn("Open Library work fetch failed",error);return null}
+
+  function usableSubjects(doc){
+    return [...new Set(Array.isArray(doc.subject)?doc.subject:[])]
+      .filter(value=>typeof value==="string"&&value.length>2&&value.length<52)
+      .slice(0,12);
   }
-  function entryFrom(doc,work,query){
+
+  function entryFrom(doc,query){
     const title=clean(doc.title)||clean(query)||"Unknown Book";
     const authors=Array.isArray(doc.author_name)?doc.author_name.slice(0,3):[];
-    const searchSubjects=Array.isArray(doc.subject)?doc.subject:[];
-    const workSubjects=work&&Array.isArray(work.subjects)?work.subjects:[];
-    const subjects=[...new Set([...workSubjects,...searchSubjects])].filter(v=>typeof v==="string"&&v.length<55).slice(0,12);
-    const description=clip(textDescription(work&&work.description),520);
-    const a=subjects[0]||"unexpected decisions",b=subjects[1]||"literary complications",c=subjects[2]||"questionable planning";
+    const subjects=usableSubjects(doc);
+    const a=subjects[0]||"unexpected decisions";
+    const b=subjects[1]||"literary complications";
+    const c=subjects[2]||"questionable planning";
     const authorText=authors.length?authors.join(", "):"an unidentified author";
-    const premise=description
-      ?description
-      :`${title} by ${authorText} involves ${a.toLowerCase()}, ${b.toLowerCase()}, and ${c.toLowerCase()}.`;
+    const year=doc.first_publish_year?String(doc.first_publish_year):"an undisclosed year";
+
     return {
-      name:title,type:"Book",key:"openLibrary",apiSource:"Open Library",
-      sourcePreview:premise,
-      apiMetadata:{authors,firstPublishYear:doc.first_publish_year||null,openLibraryKey:doc.key||null,coverId:doc.cover_i||null,subjects,descriptionAvailable:Boolean(description)},
+      name:title,
+      type:"Book",
+      key:"interlibrary",
+      apiSource:"Interlibrary Loan",
+      apiMetadata:{
+        authors,
+        firstPublishYear:doc.first_publish_year||null,
+        openLibraryKey:doc.key||null,
+        coverId:doc.cover_i||null,
+        subjects
+      },
       related:authors,
-      mild:[description?`${title} appears to follow ${description}`:`${title} by ${authorText} appears to involve ${a.toLowerCase()} and ${b.toLowerCase()}.`],
+      mild:[
+        `${title} appears to involve ${a.toLowerCase()}, ${b.toLowerCase()}, and several decisions Penelope has declined to verify.`,
+        `A book from ${year} combines ${a.toLowerCase()} with a manageable amount of ${c.toLowerCase()}.`
+      ],
       silly:[
         `${title} turns ${a.toLowerCase()} into a library incident involving ${b.toLowerCase()} and insufficient supervision.`,
         `${authorText} appears to have written a story where ${a.toLowerCase()} collides with ${c.toLowerCase()} and everyone ignores the simplest solution.`,
-        `Penelope reviewed the available ${description?"work description and ":""}subject metadata, then shelved the result under Avoidable Complications.`
+        `Penelope found the title through interlibrary loan and immediately shelved it under Avoidable Complications.`
       ],
-      wild:[`${titleCase(a)} acquires narrative authority and immediately destabilizes the entire book.`],
-      audiences:[`readers researching ${a.toLowerCase()}`,`librarians suspicious of ${b.toLowerCase()}`,`book clubs debating ${c.toLowerCase()}`],
-      genres:[`${titleCase(a)} Management`,`${titleCase(b)} Logistics`,`${titleCase(c)} Studies`,"Metadata-Based Misinformation"],
-      quotes:[`Please note that ${a.toLowerCase()} was not included in the circulation policy.`],
-      reviews:[`Strong ${a.toLowerCase()}. Concerning ${b.toLowerCase()}.`],
-      trailers:[`One title. ${authors.length||"Several"} credited author${authors.length===1?"":"s"}. Unlimited ${c.toLowerCase()}.`],
-      morals:[`Public metadata can identify a book, but it cannot make Penelope explain it responsibly.`],
-      endings:[`The book receives a handcrafted profile in a future collection update.`],
-      questions:[`How might ${a.toLowerCase()} shape the real story?`]
+      wild:[
+        `${titleCase(a)} acquires narrative authority and immediately destabilizes the entire book.`,
+        `One routine case of ${b.toLowerCase()} becomes an interlibrary emergency with no responsible adult in sight.`
+      ],
+      audiences:[
+        `readers researching ${a.toLowerCase()}`,
+        `librarians suspicious of ${b.toLowerCase()}`,
+        `book clubs debating ${c.toLowerCase()}`
+      ],
+      genres:[
+        `${titleCase(a)} Management`,
+        `${titleCase(b)} Logistics`,
+        `${titleCase(c)} Studies`,
+        "Interlibrary Misinformation"
+      ],
+      quotes:[
+        `Please note that ${a.toLowerCase()} was not included in the circulation policy.`,
+        `The neighboring library has declined responsibility for ${b.toLowerCase()}.`
+      ],
+      reviews:[
+        `Strong ${a.toLowerCase()}. Concerning ${b.toLowerCase()}.`,
+        `The title was located successfully. The meaning remains at large.`
+      ],
+      trailers:[
+        `One borrowed title. ${authors.length||"Several"} credited author${authors.length===1?"":"s"}. Unlimited ${c.toLowerCase()}.`
+      ],
+      morals:[
+        `${titleCase(a)} works best when paired with judgment.`,
+        `Interlibrary loan can find the book. It cannot make Penelope explain it responsibly.`
+      ],
+      endings:[
+        `Everyone discusses ${b.toLowerCase()} before the final chapter.`,
+        `The title is returned to the neighboring library with a polite apology.`
+      ],
+      questions:[
+        `How might ${a.toLowerCase()} shape the real story?`,
+        `Which part of this borrowed misunderstanding is most suspicious?`
+      ]
     };
   }
+
   async function search(query){
-    const params=new URLSearchParams({q:clean(query),limit:"5",fields:"key,title,author_name,first_publish_year,subject,cover_i,edition_count"});
+    const params=new URLSearchParams({
+      q:clean(query),
+      limit:"5",
+      fields:"key,title,author_name,first_publish_year,subject,cover_i,edition_count"
+    });
     const response=await fetch(`${SEARCH_URL}?${params}`,{headers:{Accept:"application/json"}});
-    if(!response.ok)throw new Error(`Open Library returned ${response.status}`);
-    const payload=await response.json(),docs=Array.isArray(payload.docs)?payload.docs:[];
-    const results=[];
-    for(const doc of docs.slice(0,5)){
-      const work=await fetchWork(doc.key);
-      results.push({doc,work,entry:entryFrom(doc,work,query)});
-    }
-    return results;
+    if(!response.ok)throw new Error(`Interlibrary catalog returned ${response.status}`);
+    const payload=await response.json();
+    return (Array.isArray(payload.docs)?payload.docs:[]).map(doc=>({doc,entry:entryFrom(doc,query)}));
   }
+
   window.PenelopeOpenLibrary={search};
 })();

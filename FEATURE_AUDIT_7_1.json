@@ -1,0 +1,50 @@
+{
+  "version": "7.1",
+  "total_handcrafted_records": 307,
+  "counts_by_type": {
+    "Book": 142,
+    "Character": 88,
+    "Book Series": 9,
+    "Author": 45,
+    "Graphic Novel": 3,
+    "Manga Series": 9,
+    "Comic Series": 5,
+    "Creator": 5,
+    "Graphic Novel Series": 1
+  },
+  "shelf_sizes": {
+    "penelope-favorites": 20,
+    "ya-favorites": 13,
+    "comics-graphic": 12,
+    "manga": 18,
+    "fantasy": 15,
+    "literary-classics": 25,
+    "mystery-horror": 17,
+    "childrens-books": 17,
+    "romance": 17,
+    "christian-books": 18
+  },
+  "new_popular_book_records": 59,
+  "personality": {
+    "honks": 30,
+    "library_and_witty_remarks": 60,
+    "busy_reactions": 10,
+    "repeat_visitor_reactions": 8,
+    "library_emergency_reactions": 10,
+    "seasonal_reactions": true,
+    "featured_exact_title_reactions": 24
+  },
+  "hybrid_search": {
+    "identification_metadata_only": true,
+    "real_synopsis_displayed": false,
+    "in_universe_label": "Borrowed through Interlibrary Loan"
+  },
+  "tournament_sizes": [
+    8,
+    16,
+    32,
+    64
+  ],
+  "javascript_syntax": "PASS",
+  "record_structure": "PASS"
+}

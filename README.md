@@ -1,40 +1,48 @@
-# Penelope's Misinformation Library 7.0
+# Penelope's Misinformation Library 7.1
 
-## Storybook Visual Remaster
+## Penelope Personality 2.0
+- 30 distinct honk styles
+- 60+ witty library remarks
+- Busy-day reactions
+- Repeat-visitor reactions
+- Seasonal comments
+- Expanded Library Emergency dialogue
+- More exact-title remarks for popular searches
 
-Version 7.0 changes the app's visual identity without removing the working features from Version 6.5.
+## Hybrid search change
+The interlibrary fallback uses title, author, subjects, publication year, and related catalog metadata only to create Penelope's silly material.
 
-### Visual direction
-- Hand-drawn watercolor Penelope
-- Oversized round glasses
-- Subtle knitted brown sweater vest
-- Librarian name badge
-- Warm paper textures
-- Cozy wooden shelves and catalog-card styling
-- Softer pastel colors
-- Notebook and checkout-card result panels
-- Quieter, bookish humor rather than glossy mascot styling
+It does **not** display a real synopsis or work description.
 
-### Identity language preserved
-- A very unreliable literary institution
-- Where every book is wonderfully misunderstood.
-- No books were responsibly summarized in the making of this application.
-- Accurate Answers have been permanently checked out.
+Visitors see:
+`📚 Borrowed through Interlibrary Loan`
 
-### Features preserved
-- Full handcrafted collection
-- Smart Search
-- Open Library hybrid fallback
-- Plain Open Library synopsis display
-- Browseable collections and Clear Shelf
-- My Library Card: Goose Approved, Favorites, Hall of Shame
-- Misunderstanding Tournament
-- Persistent search and honk counters
-- Penelope's exact-title and Library Emergency dialogue
-- Occasional honks and click reactions
-- Morning/evening reading-room appearance toggle
+They do not see Open Library source language in the explanation.
+
+## Popular-book expansion
+Added 59 popular handcrafted book records to the smallest shelves:
+- Literary Classics
+- Mystery & Horror
+- Children's Books
+- Romance
+- Christian Books
+
+Total handcrafted records: 307
+
+{
+  "Book": 142,
+  "Character": 88,
+  "Book Series": 9,
+  "Author": 45,
+  "Graphic Novel": 3,
+  "Manga Series": 9,
+  "Comic Series": 5,
+  "Creator": 5,
+  "Graphic Novel Series": 1
+}
+
+## Tournament
+Tournament sizes now support 8, 16, 32, or 64 entries when the selected shelf contains enough records.
 
 ## Upload
-Replace all files and folders from this ZIP. New required assets:
-- `assets/penelope-storybook.png`
-- `assets/storybook-paper.jpg`
+Replace every file and folder from this ZIP.

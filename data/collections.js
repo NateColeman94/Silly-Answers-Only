@@ -12,7 +12,17 @@ window.PENELOPE_COLLECTIONS = {
       "beauty and the beast",
       "one piece",
       "six of crows",
-      "fullmetal alchemist"
+      "fullmetal alchemist",
+      "1984",
+      "animal farm",
+      "the odyssey",
+      "the picture of dorian gray",
+      "gone girl",
+      "coraline",
+      "where the wild things are",
+      "green eggs and ham",
+      "twilight",
+      "the screwtape letters"
     ]
   },
   "ya-favorites": {
@@ -108,7 +118,24 @@ window.PENELOPE_COLLECTIONS = {
       "jane eyre character",
       "charlotte bronte",
       "the great gatsby",
-      "moby dick"
+      "moby dick",
+      "1984",
+      "animal farm",
+      "the odyssey",
+      "the iliad",
+      "don quixote",
+      "the count of monte cristo",
+      "crime and punishment",
+      "the scarlet letter",
+      "the picture of dorian gray",
+      "wuthering heights",
+      "little women",
+      "anne of green gables",
+      "great expectations",
+      "a tale of two cities",
+      "les miserables",
+      "fahrenheit 451",
+      "lord of the flies"
     ]
   },
   "mystery-horror": {
@@ -120,7 +147,18 @@ window.PENELOPE_COLLECTIONS = {
       "agatha christie",
       "the shining",
       "jack torrance",
-      "stephen king"
+      "stephen king",
+      "gone girl",
+      "the silent patient",
+      "the girl with the dragon tattoo",
+      "rebecca",
+      "coraline",
+      "pet sematary",
+      "misery",
+      "it",
+      "the haunting of hill house",
+      "mexican gothic",
+      "the woman in white"
     ]
   },
   "childrens-books": {
@@ -133,7 +171,17 @@ window.PENELOPE_COLLECTIONS = {
       "matilda",
       "matilda wormwood",
       "roald dahl",
-      "the wonderful wizard of oz"
+      "the wonderful wizard of oz",
+      "the giving tree",
+      "where the wild things are",
+      "green eggs and ham",
+      "goodnight moon",
+      "the gruffalo",
+      "bridge to terabithia",
+      "the secret garden",
+      "winnie the pooh",
+      "the cat in the hat",
+      "the very hungry caterpillar"
     ]
   },
   "romance": {
@@ -146,7 +194,17 @@ window.PENELOPE_COLLECTIONS = {
       "red white and royal blue",
       "alex claremont diaz",
       "casey mcquiston",
-      "pride and prejudice"
+      "pride and prejudice",
+      "beach read",
+      "book lovers",
+      "happy place",
+      "people we meet on vacation",
+      "love and other words",
+      "twilight",
+      "outlander",
+      "me before you",
+      "the time travelers wife",
+      "the love hypothesis"
     ]
   },
   "christian-books": {
@@ -160,7 +218,17 @@ window.PENELOPE_COLLECTIONS = {
       "john bunyan",
       "redeeming love",
       "angel redeeming love",
-      "francine rivers"
+      "francine rivers",
+      "the case for christ",
+      "crazy love",
+      "the purpose driven life",
+      "knowing god",
+      "experiencing god",
+      "hinds feet on high places",
+      "the screwtape letters",
+      "celebration of discipline",
+      "heaven",
+      "love does"
     ]
   }
 };

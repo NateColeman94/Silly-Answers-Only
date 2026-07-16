@@ -586,3 +586,5 @@ body.dark .tournament-choice{color:#3f312a}
   .catalog-stamp{font-size:.56rem}
   .checkout-rule{font-size:.56rem}
 }
+
+#tournamentSize{min-width:125px}
