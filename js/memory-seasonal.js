@@ -252,7 +252,14 @@
 
   function achievements(){
     const currentStats=stats();
-    const earnedIds=Storage.get(ACHIEVEMENT_KEY,[]);
+    let earnedIds=Storage.get(ACHIEVEMENT_KEY,[]);
+    if(!Array.isArray(earnedIds)){
+      try{
+        earnedIds=Object.keys(earnedIds||{}).filter(key=>earnedIds[key]);
+      }catch(error){
+        earnedIds=[];
+      }
+    }
     const earnedSet=new Set(Array.isArray(earnedIds)?earnedIds:[]);
     const results=achievementDefs.map(def=>{
       const current=Math.max(0,Number(def.current(currentStats)||0));
@@ -264,7 +271,9 @@
         earned:earnedSet.has(def.id)
       };
     });
-    Storage.set(ACHIEVEMENT_KEY,[...earnedSet]);
+    try{Storage.set(ACHIEVEMENT_KEY,[...earnedSet])}catch(error){
+      console.warn("Passport storage repair failed",error);
+    }
     return results;
   }
 

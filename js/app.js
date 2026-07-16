@@ -135,7 +135,7 @@
     entries.forEach(entry=>{if(Object.prototype.hasOwnProperty.call(counts,entry.type))counts[entry.type]++});
     const wrap=$("libraryHoldings");
     if(wrap)wrap.innerHTML=`<p>Books <strong>${counts.Book}</strong></p><p>Series <strong>${counts["Book Series"]}</strong></p><p>Authors <strong>${counts.Author}</strong></p><p>Characters <strong>${counts.Character}</strong></p><p>Wonderful Misunderstandings <strong>${entries.length}</strong></p>`;
-    const arrival=$("disneyArrivalCount");if(arrival)arrival.textContent="43";
+    const arrival=$("mangaArrivalCount");if(arrival)arrival.textContent="27";
   }
 
   function collectionsForKey(key){
@@ -146,9 +146,19 @@
 
   function renderPassport(){
     const grid=$("passportGrid");
-    if(!grid||!window.PenelopeMemory)return;
+    if(!grid)return;
     grid.innerHTML="";
-    window.PenelopeMemory.achievements().forEach(achievement=>{
+    try{
+      if(!window.PenelopeMemory||typeof window.PenelopeMemory.achievements!=="function"){
+        grid.innerHTML='<p class="passport-fallback">Penelope is still opening the Passport desk. Please refresh once.</p>';
+        return;
+      }
+      const achievements=window.PenelopeMemory.achievements();
+      if(!Array.isArray(achievements)||!achievements.length){
+        grid.innerHTML='<p class="passport-fallback">No stamps loaded yet. Your activity is safe; Penelope is repairing the stamp drawer.</p>';
+        return;
+      }
+      achievements.forEach(achievement=>{
       const card=document.createElement("article");
       card.className="passport-stamp "+(achievement.earned?"earned":"locked");
       const icon=document.createElement("span");
@@ -167,7 +177,11 @@
       track.appendChild(fill);
       card.append(icon,title,detail,track,state);
       grid.appendChild(card);
-    });
+      });
+    }catch(error){
+      console.error("Passport render failed",error);
+      grid.innerHTML='<p class="passport-fallback">The Passport drawer jammed, but your searches and honks are still safe.</p>';
+    }
   }
 
   function checkEasterEgg(value){
@@ -348,6 +362,8 @@
   counters();
   requestAnimationFrame(counters);
   setTimeout(()=>{counters();renderPassport()},120);
+  setTimeout(()=>{counters();renderPassport()},600);
+  window.addEventListener("load",()=>{counters();renderPassport()},{once:true});
   renderSaved();
   renderPassport();
   const visitDays=window.PenelopeMemory?.recordVisit()||1;
