@@ -275,6 +275,14 @@
     }
   });
 
+  window.addEventListener("penelope:desk-open",event=>{
+    const name=event.detail?.name;
+    if(name){
+      $("query").value=name;
+      runSearch(name);
+    }
+  });
+
   $("searchBtn").addEventListener("click",()=>runSearch($("query").value));$("themeBtn").addEventListener("click",toggleTheme);
   $("browseCollectionBtn").addEventListener("click",()=>renderCollection($("collectionSelect").value));
   $("clearCollectionBtn").addEventListener("click",clearCollectionPanel);
