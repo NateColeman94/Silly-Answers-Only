@@ -588,3 +588,32 @@ body.dark .tournament-choice{color:#3f312a}
 }
 
 #tournamentSize{min-width:125px}
+
+/* New Arrivals: Staff Picks, Passport, Seasons, Memory */
+.section-heading-row{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
+.staff-picks-section,.passport-section{margin-top:22px;padding:24px}
+.staff-picks-section h2,.passport-section h2{font-family:Georgia,serif;margin:.2rem 0}
+.staff-picks-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:16px}
+.staff-pick-card{display:flex;flex-direction:column;align-items:flex-start;text-align:left;min-height:180px;background:linear-gradient(145deg,#f4e4c9,#e7cfaa);position:relative}
+.staff-pick-card:nth-child(2n){background:linear-gradient(145deg,#e5ded0,#d8e1d2)}
+.staff-pick-card strong{font-family:Georgia,serif;font-size:1.1rem}
+.staff-pick-card p{font-style:italic;line-height:1.4}
+.staff-pick-card span{margin-top:auto;font-family:"Courier New",monospace;font-size:.62rem;letter-spacing:.06em;border-top:1px dashed currentColor;padding-top:6px}
+.passport-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:11px;margin-top:16px}
+.passport-stamp{display:flex;min-height:150px;flex-direction:column;align-items:center;text-align:center;padding:14px;border:2px dashed var(--ink);border-radius:50% 45% 48% 44%;background:rgba(255,253,247,.75);transform:rotate(-1deg)}
+.passport-stamp:nth-child(2n){transform:rotate(1deg)}
+.passport-stamp.locked{opacity:.42;filter:grayscale(.75)}
+.passport-stamp.earned{border-color:#a26258;box-shadow:inset 0 0 0 3px rgba(162,98,88,.12)}
+.passport-icon{font-size:1.55rem}.passport-stamp strong{margin-top:5px}.passport-stamp small{margin-top:5px;line-height:1.3}.passport-stamp em{margin-top:auto;font-size:.68rem;font-family:"Courier New",monospace}
+.easter-egg-result{text-align:center;padding:20px}.easter-egg-result span{font-size:2.5rem}.easter-egg-result h3{font-family:Georgia,serif;font-size:1.6rem;margin:.3rem}.easter-egg-result p{font-style:italic;font-size:1.15rem}
+.seasonal-layer{position:fixed;inset:0;pointer-events:none;z-index:1;overflow:hidden}
+.seasonal-desk-item{position:absolute;right:8%;top:112px;z-index:5;font-size:2rem;filter:drop-shadow(0 3px 2px rgba(73,55,45,.18));pointer-events:none}
+.season-spring .seasonal-layer::before{content:"🌸  🌿  🌼";position:absolute;top:20px;left:4%;font-size:1.5rem;opacity:.38;letter-spacing:2rem}
+.season-summer .seasonal-layer::before{content:"☀️";position:absolute;top:28px;right:5%;font-size:2.6rem;opacity:.22}
+.season-autumn .seasonal-layer::before,.season-halloween .seasonal-layer::before{content:"🍂  🍁  🍂";position:absolute;top:18px;left:5%;font-size:1.45rem;opacity:.42;letter-spacing:2.5rem}
+.season-winter .seasonal-layer::before,.season-holiday .seasonal-layer::before{content:"❄  ·  ❄  ·  ❄";position:absolute;top:16px;left:8%;font-size:1.25rem;opacity:.35;letter-spacing:2rem}
+.season-valentine .seasonal-layer::before{content:"♡  ♡  ♡";position:absolute;top:20px;left:12%;font-size:1.5rem;opacity:.3;letter-spacing:2.8rem}
+.season-halloween .penelope-panel{box-shadow:inset 0 0 30px rgba(199,120,67,.12)}
+.season-holiday .penelope-panel{border-color:#9e7a59}
+@media(max-width:950px){.staff-picks-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.passport-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:560px){.staff-picks-grid,.passport-grid{grid-template-columns:1fr 1fr}.seasonal-desk-item{right:4%;top:82px}}
