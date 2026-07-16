@@ -190,6 +190,10 @@
       <section class="voting"><h3>🪿 Goose Approve This Explanation</h3><p>Save this exact misunderstanding to your personal collection.</p><button id="saveCardBtn">📚 Save to My Library Card</button><span id="saveMessage" class="save-message" aria-live="polite"></span></section>
 <section class="hall"><div class="library-card-head"><h3>📇 My Library Card</h3><button id="clearCardBtn" class="small-btn">Clear Card</button></div><div id="libraryCard"></div></section>
       <div class="actions">
+        <button id="tryAnother">📖 Think that's bad? Try another!</button>
+        <button id="makeWorse">🎲 Make It Worse</button>
+      </div>
+      <div class="actions">
         <button id="tryAnowindow.LIBRARY_DATA = {
   "the hobbit": {
     "name": "The Hobbit",
@@ -8910,6 +8914,28 @@ function leaveFootprints(){
   }
 }
 
+const PENELOPE_CLICK_RESPONSES={
+  honks:["HONK!","Double honk! HONK HONK!","Librarian honk.","A very official circulation-desk honk."],
+  library:[
+    "This belongs in Fiction... probably.",
+    "I've misplaced the accurate summary.",
+    "Please return all facts to the circulation desk.",
+    "The catalog insists this is somebody else's problem."
+  ],
+  busy:[
+    "You're keeping me very busy today.",
+    "Another search? My feathers are filing overtime.",
+    "The circulation desk has noticed your enthusiasm.",
+    "At this rate, I may need a second stamp."
+  ],
+  repeatVisitor:[
+    "Welcome back! I see you're still looking for accurate summaries.",
+    "You returned. The facts did not.",
+    "Welcome back to the least reliable library in town.",
+    "I saved your usual seat near the inaccurate reference section."
+  ]
+};
+
 const EXACT_PENELOPE_LINES={
   "the hobbit":[
     "I've checked this out 437 times. It's still mostly walking.",
@@ -8998,7 +9024,23 @@ function safeElement(id){
   return document.getElementById(id);
 }
 
+function runCatalogSelfTest(){
+  const health=safeElement("buildHealth");
+  const required=["searchBtn","query","result","title","synopsis","tryAnother","makeWorse"];
+  const missing=required.filter(id=>!safeElement(id));
+  if(health){
+    health.textContent=missing.length
+      ?"Catalog controls need repair: "+missing.join(", ")
+      :"Catalog controls ready";
+    health.className="build-health "+(missing.length?"bad":"ok");
+  }
+  return missing.length===0;
+}
+
 function personalityLine(item,same,lvl){
+  if(searchTotal>0 && searchTotal%6===0){
+    return pick(PENELOPE_CLICK_RESPONSES.busy,searchTotal);
+  }
   const exact=exactPenelopeLine(item);
   if(exact) return exact;
   const byType={
@@ -9108,20 +9150,7 @@ function resolve(q){
   showSuggestions(q);
   return{name:q||"Untitled Book",type:"Mystery Search",key:"default",related:["Mulan","Disney Twisted Tales","Beauty and the Beast","The Fellowship of the Ring"],mild:["Penelope checked the shelves but found only a suspicious blank catalog card."],silly:["This title may be checked out or has not entered the misinformation system yet."],wild:["The catalog goose has declared this title officially missing in action."]};
 }
-function render(q,advance=false){if(!q.trim())q="Percy Jackson";const same=norm(q)===norm(current);cycle=(advance||same)?cycle+1:0;searchTotal++;sessionStorage.setItem("penelopeSearchCount",searchTotal);
-function runCatalogSelfTest(){
-  const health=safeElement("buildHealth");
-  const required=["searchBtn","query","result","title","synopsis","tryAnother","makeWorse"];
-  const missing=required.filter(id=>!safeElement(id));
-  if(health){
-    health.textContent=missing.length?"Catalog controls need repair: "+missing.join(", "):"Catalog controls ready";
-    health.className="build-health "+(missing.length?"bad":"ok");
-  }
-  return missing.length===0;
-}
-runCatalogSelfTest();
-
-updatePersonalityStatus();current=q;item=resolve(q);const lvl=document.getElementById("level").value,baseProfile=PROFILES[item.key]||PROFILES.default;
+function render(q,advance=false){if(!q.trim())q="Percy Jackson";const same=norm(q)===norm(current);cycle=(advance||same)?cycle+1:0;searchTotal++;sessionStorage.setItem("penelopeSearchCount",searchTotal);updatePersonalityStatus();current=q;item=resolve(q);const lvl=document.getElementById("level").value,baseProfile=PROFILES[item.key]||PROFILES.default;
 const p={
   audiences:item.audiences||baseProfile.audiences,
   genres:item.genres||baseProfile.genres,
@@ -9198,28 +9227,46 @@ function renderLibraryCard(){
   });
 }
 function honkPenelope(){
-  honkTotal++;localStorage.setItem("penelopeHonkCount",honkTotal);updatePersonalityStatus();leaveFootprints();
-  const goose=document.getElementById("goose");
-  const bubble=document.getElementById("bubble");
-  goose.classList.remove("honking");
-  void goose.offsetWidth;
-  goose.classList.add("honking");
-  bubble.innerHTML="<strong>Penelope says:</strong><br>“HONK! "+pick(PENNY,Math.floor(Math.random()*PENNY.length)+cycle)+"”";
+  honkTotal++;
+  localStorage.setItem("penelopeHonkCount",honkTotal);
+  updatePersonalityStatus();
+  leaveFootprints();
+
+  const goose=safeElement("goose");
+  const bubble=safeElement("bubble");
+  if(goose){
+    goose.classList.remove("honking");
+    void goose.offsetWidth;
+    goose.classList.add("honking");
+  }
+
+  let category="honks";
+  if(visitCount>2 && honkTotal%4===0) category="repeatVisitor";
+  else if(searchTotal>=5 && honkTotal%3===0) category="busy";
+  else if(honkTotal%2===0) category="library";
+
+  const lines=PENELOPE_CLICK_RESPONSES[category]||PENELOPE_CLICK_RESPONSES.honks;
+  const line=pick(lines,honkTotal+searchTotal);
+  if(bubble) bubble.innerHTML="<strong>Penelope says:</strong><br>“"+line+"”";
 
   try{
     const AudioCtx=window.AudioContext||window.webkitAudioContext;
     const ctx=new AudioCtx();
-    const osc=ctx.createOscillator();
-    const gain=ctx.createGain();
-    osc.type="square";
-    osc.frequency.setValueAtTime(310,ctx.currentTime);
-    osc.frequency.exponentialRampToValueAtTime(190,ctx.currentTime+0.18);
-    gain.gain.setValueAtTime(0.0001,ctx.currentTime);
-    gain.gain.exponentialRampToValueAtTime(0.22,ctx.currentTime+0.02);
-    gain.gain.exponentialRampToValueAtTime(0.0001,ctx.currentTime+0.24);
-    osc.connect(gain);gain.connect(ctx.destination);
-    osc.start();osc.stop(ctx.currentTime+0.25);
-  }catch(e){}
+    const count=(category==="honks"&&line.includes("Double"))?2:1;
+    for(let i=0;i<count;i++){
+      const osc=ctx.createOscillator(),gain=ctx.createGain(),start=ctx.currentTime+i*.22;
+      osc.type="square";
+      osc.frequency.setValueAtTime(310,start);
+      osc.frequency.exponentialRampToValueAtTime(190,start+.18);
+      gain.gain.setValueAtTime(.0001,start);
+      gain.gain.exponentialRampToValueAtTime(.22,start+.02);
+      gain.gain.exponentialRampToValueAtTime(.0001,start+.24);
+      osc.connect(gain);gain.connect(ctx.destination);
+      osc.start(start);osc.stop(start+.25);
+    }
+  }catch(error){
+    console.warn("Honk audio unavailable:",error);
+  }
 }
 
 const searchBtn=safeElement("searchBtn");
