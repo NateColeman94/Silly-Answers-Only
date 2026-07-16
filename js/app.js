@@ -18,7 +18,7 @@
   function counters(){$("searchCount").textContent=searchCount;$("honkCount").textContent=honkCount}
   function bubble(text){$("penelopeBubble").innerHTML="<strong>Penelope says:</strong><br>“"+text+"”"}
   function footprints(){const rect=$("penelopeBtn").getBoundingClientRect();for(let i=0;i<4;i++){const foot=document.createElement("span");foot.className="footprint";foot.textContent=i%2?"•":"𓅰";foot.style.left=rect.left+rect.width*.2+i*18+"px";foot.style.top=rect.bottom-8+i*4+"px";document.body.appendChild(foot);setTimeout(()=>foot.remove(),1600)}}
-  function honk(){honkCount++;window.PenelopeStorage.set("penelopeHonkCount",honkCount);counters();footprints();const text=window.PenelopePersonality.clickLine(honkCount,searchCount,visitCount);bubble(text);const button=$("penelopeBtn");button.classList.remove("honking");void button.offsetWidth;button.classList.add("honking");window.PenelopePersonality.sound(text.includes("Double"))}
+  function honk(){honkCount++;window.PenelopeStorage.set("penelopeHonkCount",honkCount);counters();window.dispatchEvent(new CustomEvent("penelope:activity-changed",{detail:{type:"honk"}}));footprints();const text=window.PenelopePersonality.clickLine(honkCount,searchCount,visitCount);bubble(text);const button=$("penelopeBtn");button.classList.remove("honking");void button.offsetWidth;button.classList.add("honking");window.PenelopePersonality.sound(text.includes("Double"))}
   function profile(entry){const base=profiles[entry.key]||profiles.default||{},result={};["audiences","genres","quotes","reviews","trailers","morals","endings","questions"].forEach(field=>result[field]=entry[field]||base[field]||["Penelope has not cataloged this section yet."]);return result}
   function hideStatus(){$("apiLoading").classList.add("hidden");$("notFound").classList.add("hidden")}
   function showSuggestions(value,target=$("suggestions")){
@@ -91,7 +91,7 @@
     if(!entry.apiSource&&window.PenelopeMemory){
       window.PenelopeMemory.recordSearch(entry,key,collectionsForKey(key));
     }
-    counters();hideStatus();
+    counters();window.dispatchEvent(new CustomEvent("penelope:activity-changed",{detail:{type:"search",key}}));hideStatus();
     const level=$("level").value,options=entry[level]||entry.silly||entry.mild,p=profile(entry);
     $("result").classList.remove("hidden");$("entityType").textContent=entry.type;$("resultTitle").textContent=entry.name;
     const source=$("sourceBadge"),preview=$("sourcePreview");
@@ -286,7 +286,7 @@
   $("tryAgainBtn").addEventListener("click",()=>{if(currentEntry)renderEntry(currentEntry,currentKey,true)});
   $("worseBtn").addEventListener("click",()=>{const level=$("level");level.value=level.value==="mild"?"silly":"wild";if(currentEntry)renderEntry(currentEntry,currentKey,true)});
   $("honkBtn").addEventListener("click",honk);$("penelopeBtn").addEventListener("click",honk);
-  document.querySelectorAll(".save-shelf").forEach(button=>button.addEventListener("click",()=>{if(!currentEntry)return;const saved=window.PenelopeCard.save(currentEntry,$("synopsis").textContent,button.dataset.shelf);$("saveStatus").textContent=saved?`Saved to ${shelfLabel(button.dataset.shelf)}!`:"That exact explanation is already on this shelf.";renderSaved()}));
+  document.querySelectorAll(".save-shelf").forEach(button=>button.addEventListener("click",()=>{if(!currentEntry)return;const saved=window.PenelopeCard.save(currentEntry,$("synopsis").textContent,button.dataset.shelf);if(saved)window.dispatchEvent(new CustomEvent("penelope:activity-changed",{detail:{type:"save",shelf:button.dataset.shelf}}));$("saveStatus").textContent=saved?`Saved to ${shelfLabel(button.dataset.shelf)}!`:"That exact explanation is already on this shelf.";renderSaved()}));
   $("homeCardBtn").addEventListener("click",()=>{
     renderSaved();
     $("homeCardPanel").classList.remove("hidden");
