@@ -214,5 +214,20 @@ window.PENELOPE_ALIASES = {
   "evie descendants": "evie",
   "uma descendants": "uma",
   "red descendants rise of red": "red descendants",
-  "finn kingdom keepers": "finn whitman"
+  "finn kingdom keepers": "finn whitman",
+  "frieren": "frieren beyond journeys end",
+  "frieren beyond journey's end": "frieren beyond journeys end",
+  "kaiju number 8": "kaiju no 8",
+  "danda dan": "dandadan",
+  "dungeon meshi": "delicious in dungeon",
+  "one punch": "one punch man",
+  "aot": "attack on titan",
+  "solo levelling": "solo leveling",
+  "gojo": "satoru gojo",
+  "yuji": "yuji itadori",
+  "loid forger": "loidy forger",
+  "jinwoo": "sung jinwoo",
+  "zoro": "roronoa zoro",
+  "naruto character": "naruto uzumaki",
+  "l deathnote": "l death note"
 };

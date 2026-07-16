@@ -22450,5 +22450,1507 @@ window.PENELOPE_LIBRARY = {
       "How does sisterly plotting shape the central choices?",
       "Would the story work without curse coordination?"
     ]
+  },
+  "jujutsu kaisen": {
+    "name": "Jujutsu Kaisen",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Yuji Itadori",
+      "Satoru Gojo",
+      "Gege Akutami"
+    ],
+    "mild": [
+      "A teenager eats a cursed object and receives the least reassuring school orientation imaginable."
+    ],
+    "audiences": [
+      "readers tracking curse management",
+      "librarians wary of supernatural education",
+      "fans debating finger-related liability"
+    ],
+    "genres": [
+      "Curse Management",
+      "Supernatural Education",
+      "Finger-Related Liability",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that curse management was not in the training manual.",
+      "I have placed supernatural education under illustrated review."
+    ],
+    "reviews": [
+      "Excellent curse management. Concerning supernatural education.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited finger-related liability. No quiet study period."
+    ],
+    "morals": [
+      "Curse Management works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses supernatural education before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does curse management shape the central conflict?",
+      "Would the story work without supernatural education?"
+    ],
+    "silly": [
+      "A continuing series where curse management repeatedly collides with supernatural education and the adults remain understaffed.",
+      "Several volumes prove finger-related liability is a renewable source of trouble.",
+      "A long-running collection powered by curse management, escalating supernatural education, and friendship doing overtime."
+    ],
+    "wild": [
+      "Curse Management acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of supernatural education becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "chainsaw man": {
+    "name": "Chainsaw Man",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Denji",
+      "Power",
+      "Makima",
+      "Tatsuki Fujimoto"
+    ],
+    "mild": [
+      "A financially stressed teenager discovers that workplace benefits remain poor even after becoming a chainsaw."
+    ],
+    "audiences": [
+      "readers tracking devil contracts",
+      "librarians wary of workplace exploitation",
+      "fans debating mechanical transformation"
+    ],
+    "genres": [
+      "Devil Contracts",
+      "Workplace Exploitation",
+      "Mechanical Transformation",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that devil contracts was not in the training manual.",
+      "I have placed workplace exploitation under illustrated review."
+    ],
+    "reviews": [
+      "Excellent devil contracts. Concerning workplace exploitation.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited mechanical transformation. No quiet study period."
+    ],
+    "morals": [
+      "Devil Contracts works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses workplace exploitation before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does devil contracts shape the central conflict?",
+      "Would the story work without workplace exploitation?"
+    ],
+    "silly": [
+      "A continuing series where devil contracts repeatedly collides with workplace exploitation and the adults remain understaffed.",
+      "Several volumes prove mechanical transformation is a renewable source of trouble.",
+      "A long-running collection powered by devil contracts, escalating workplace exploitation, and friendship doing overtime."
+    ],
+    "wild": [
+      "Devil Contracts acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of workplace exploitation becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "frieren beyond journeys end": {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Frieren",
+      "Fern",
+      "Stark",
+      "Kanehito Yamada"
+    ],
+    "mild": [
+      "An elf revisits old adventures and discovers emotional processing has an extremely long checkout period."
+    ],
+    "audiences": [
+      "readers tracking long-lived reflection",
+      "librarians wary of quiet travel",
+      "fans debating post-adventure feelings"
+    ],
+    "genres": [
+      "Long-Lived Reflection",
+      "Quiet Travel",
+      "Post-Adventure Feelings",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that long-lived reflection was not in the training manual.",
+      "I have placed quiet travel under illustrated review."
+    ],
+    "reviews": [
+      "Excellent long-lived reflection. Concerning quiet travel.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited post-adventure feelings. No quiet study period."
+    ],
+    "morals": [
+      "Long-Lived Reflection works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses quiet travel before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does long-lived reflection shape the central conflict?",
+      "Would the story work without quiet travel?"
+    ],
+    "silly": [
+      "A continuing series where long-lived reflection repeatedly collides with quiet travel and the adults remain understaffed.",
+      "Several volumes prove post-adventure feelings is a renewable source of trouble.",
+      "A long-running collection powered by long-lived reflection, escalating quiet travel, and friendship doing overtime."
+    ],
+    "wild": [
+      "Long-Lived Reflection acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of quiet travel becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "kaiju no 8": {
+    "name": "Kaiju No. 8",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Kafka Hibino",
+      "Mina Ashiro",
+      "Naoya Matsumoto"
+    ],
+    "mild": [
+      "A cleanup worker becomes the exact monster his department normally removes."
+    ],
+    "audiences": [
+      "readers tracking kaiju cleanup",
+      "librarians wary of late-career heroism",
+      "fans debating workplace identity conflict"
+    ],
+    "genres": [
+      "Kaiju Cleanup",
+      "Late-Career Heroism",
+      "Workplace Identity Conflict",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that kaiju cleanup was not in the training manual.",
+      "I have placed late-career heroism under illustrated review."
+    ],
+    "reviews": [
+      "Excellent kaiju cleanup. Concerning late-career heroism.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited workplace identity conflict. No quiet study period."
+    ],
+    "morals": [
+      "Kaiju Cleanup works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses late-career heroism before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does kaiju cleanup shape the central conflict?",
+      "Would the story work without late-career heroism?"
+    ],
+    "silly": [
+      "A continuing series where kaiju cleanup repeatedly collides with late-career heroism and the adults remain understaffed.",
+      "Several volumes prove workplace identity conflict is a renewable source of trouble.",
+      "A long-running collection powered by kaiju cleanup, escalating late-career heroism, and friendship doing overtime."
+    ],
+    "wild": [
+      "Kaiju Cleanup acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of late-career heroism becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "dandadan": {
+    "name": "Dandadan",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Momo Ayase",
+      "Okarun",
+      "Yukinobu Tatsu"
+    ],
+    "mild": [
+      "Aliens and ghosts begin a jurisdictional dispute around two teenagers with no adult supervision."
+    ],
+    "audiences": [
+      "readers tracking paranormal rivalry",
+      "librarians wary of teen teamwork",
+      "fans debating supernatural property damage"
+    ],
+    "genres": [
+      "Paranormal Rivalry",
+      "Teen Teamwork",
+      "Supernatural Property Damage",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that paranormal rivalry was not in the training manual.",
+      "I have placed teen teamwork under illustrated review."
+    ],
+    "reviews": [
+      "Excellent paranormal rivalry. Concerning teen teamwork.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited supernatural property damage. No quiet study period."
+    ],
+    "morals": [
+      "Paranormal Rivalry works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses teen teamwork before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does paranormal rivalry shape the central conflict?",
+      "Would the story work without teen teamwork?"
+    ],
+    "silly": [
+      "A continuing series where paranormal rivalry repeatedly collides with teen teamwork and the adults remain understaffed.",
+      "Several volumes prove supernatural property damage is a renewable source of trouble.",
+      "A long-running collection powered by paranormal rivalry, escalating teen teamwork, and friendship doing overtime."
+    ],
+    "wild": [
+      "Paranormal Rivalry acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of teen teamwork becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "delicious in dungeon": {
+    "name": "Delicious in Dungeon",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Laios Touden",
+      "Marcille",
+      "Ryoko Kui"
+    ],
+    "mild": [
+      "A rescue mission becomes a cooking program because the dungeon catering budget was denied."
+    ],
+    "audiences": [
+      "readers tracking dungeon cuisine",
+      "librarians wary of monster recipes",
+      "fans debating rescue logistics"
+    ],
+    "genres": [
+      "Dungeon Cuisine",
+      "Monster Recipes",
+      "Rescue Logistics",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that dungeon cuisine was not in the training manual.",
+      "I have placed monster recipes under illustrated review."
+    ],
+    "reviews": [
+      "Excellent dungeon cuisine. Concerning monster recipes.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited rescue logistics. No quiet study period."
+    ],
+    "morals": [
+      "Dungeon Cuisine works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses monster recipes before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does dungeon cuisine shape the central conflict?",
+      "Would the story work without monster recipes?"
+    ],
+    "silly": [
+      "A continuing series where dungeon cuisine repeatedly collides with monster recipes and the adults remain understaffed.",
+      "Several volumes prove rescue logistics is a renewable source of trouble.",
+      "A long-running collection powered by dungeon cuisine, escalating monster recipes, and friendship doing overtime."
+    ],
+    "wild": [
+      "Dungeon Cuisine acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of monster recipes becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "blue lock": {
+    "name": "Blue Lock",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Yoichi Isagi",
+      "Jinpachi Ego",
+      "Muneyuki Kaneshiro"
+    ],
+    "mild": [
+      "A soccer program decides teamwork can be improved by placing hundreds of strikers in one aggressively competitive building."
+    ],
+    "audiences": [
+      "readers tracking soccer ego",
+      "librarians wary of athletic selection",
+      "fans debating teamwork contradiction"
+    ],
+    "genres": [
+      "Soccer Ego",
+      "Athletic Selection",
+      "Teamwork Contradiction",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that soccer ego was not in the training manual.",
+      "I have placed athletic selection under illustrated review."
+    ],
+    "reviews": [
+      "Excellent soccer ego. Concerning athletic selection.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited teamwork contradiction. No quiet study period."
+    ],
+    "morals": [
+      "Soccer Ego works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses athletic selection before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does soccer ego shape the central conflict?",
+      "Would the story work without athletic selection?"
+    ],
+    "silly": [
+      "A continuing series where soccer ego repeatedly collides with athletic selection and the adults remain understaffed.",
+      "Several volumes prove teamwork contradiction is a renewable source of trouble.",
+      "A long-running collection powered by soccer ego, escalating athletic selection, and friendship doing overtime."
+    ],
+    "wild": [
+      "Soccer Ego acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of athletic selection becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "black clover": {
+    "name": "Black Clover",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Asta",
+      "Yuno",
+      "Yuki Tabata"
+    ],
+    "mild": [
+      "A boy with no magic responds by becoming louder and doing more push-ups."
+    ],
+    "audiences": [
+      "readers tracking anti-magic ambition",
+      "librarians wary of wizard competition",
+      "fans debating volume-based motivation"
+    ],
+    "genres": [
+      "Anti-Magic Ambition",
+      "Wizard Competition",
+      "Volume-Based Motivation",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that anti-magic ambition was not in the training manual.",
+      "I have placed wizard competition under illustrated review."
+    ],
+    "reviews": [
+      "Excellent anti-magic ambition. Concerning wizard competition.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited volume-based motivation. No quiet study period."
+    ],
+    "morals": [
+      "Anti-Magic Ambition works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses wizard competition before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does anti-magic ambition shape the central conflict?",
+      "Would the story work without wizard competition?"
+    ],
+    "silly": [
+      "A continuing series where anti-magic ambition repeatedly collides with wizard competition and the adults remain understaffed.",
+      "Several volumes prove volume-based motivation is a renewable source of trouble.",
+      "A long-running collection powered by anti-magic ambition, escalating wizard competition, and friendship doing overtime."
+    ],
+    "wild": [
+      "Anti-Magic Ambition acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of wizard competition becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "fairy tail": {
+    "name": "Fairy Tail",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Natsu Dragneel",
+      "Lucy Heartfilia",
+      "Hiro Mashima"
+    ],
+    "mild": [
+      "A magical guild treats property damage as an unofficial membership benefit."
+    ],
+    "audiences": [
+      "readers tracking guild friendship",
+      "librarians wary of dragon-slayer travel",
+      "fans debating building-repair economics"
+    ],
+    "genres": [
+      "Guild Friendship",
+      "Dragon-Slayer Travel",
+      "Building-Repair Economics",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that guild friendship was not in the training manual.",
+      "I have placed dragon-slayer travel under illustrated review."
+    ],
+    "reviews": [
+      "Excellent guild friendship. Concerning dragon-slayer travel.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited building-repair economics. No quiet study period."
+    ],
+    "morals": [
+      "Guild Friendship works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses dragon-slayer travel before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does guild friendship shape the central conflict?",
+      "Would the story work without dragon-slayer travel?"
+    ],
+    "silly": [
+      "A continuing series where guild friendship repeatedly collides with dragon-slayer travel and the adults remain understaffed.",
+      "Several volumes prove building-repair economics is a renewable source of trouble.",
+      "A long-running collection powered by guild friendship, escalating dragon-slayer travel, and friendship doing overtime."
+    ],
+    "wild": [
+      "Guild Friendship acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of dragon-slayer travel becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "death note": {
+    "name": "Death Note",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Light Yagami",
+      "L",
+      "Tsugumi Ohba"
+    ],
+    "mild": [
+      "A gifted student finds a notebook and immediately ignores every responsible stationery policy."
+    ],
+    "audiences": [
+      "readers tracking notebook power",
+      "librarians wary of detective rivalry",
+      "fans debating god-complex administration"
+    ],
+    "genres": [
+      "Notebook Power",
+      "Detective Rivalry",
+      "God-Complex Administration",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that notebook power was not in the training manual.",
+      "I have placed detective rivalry under illustrated review."
+    ],
+    "reviews": [
+      "Excellent notebook power. Concerning detective rivalry.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited god-complex administration. No quiet study period."
+    ],
+    "morals": [
+      "Notebook Power works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses detective rivalry before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does notebook power shape the central conflict?",
+      "Would the story work without detective rivalry?"
+    ],
+    "silly": [
+      "A continuing series where notebook power repeatedly collides with detective rivalry and the adults remain understaffed.",
+      "Several volumes prove god-complex administration is a renewable source of trouble.",
+      "A long-running collection powered by notebook power, escalating detective rivalry, and friendship doing overtime."
+    ],
+    "wild": [
+      "Notebook Power acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of detective rivalry becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "one punch man": {
+    "name": "One-Punch Man",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Saitama",
+      "Genos",
+      "ONE"
+    ],
+    "mild": [
+      "A hero becomes too efficient and discovers boredom is not covered by the association's benefits plan."
+    ],
+    "audiences": [
+      "readers tracking overpowered heroism",
+      "librarians wary of rank bureaucracy",
+      "fans debating discount-day priorities"
+    ],
+    "genres": [
+      "Overpowered Heroism",
+      "Rank Bureaucracy",
+      "Discount-Day Priorities",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that overpowered heroism was not in the training manual.",
+      "I have placed rank bureaucracy under illustrated review."
+    ],
+    "reviews": [
+      "Excellent overpowered heroism. Concerning rank bureaucracy.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited discount-day priorities. No quiet study period."
+    ],
+    "morals": [
+      "Overpowered Heroism works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses rank bureaucracy before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does overpowered heroism shape the central conflict?",
+      "Would the story work without rank bureaucracy?"
+    ],
+    "silly": [
+      "A continuing series where overpowered heroism repeatedly collides with rank bureaucracy and the adults remain understaffed.",
+      "Several volumes prove discount-day priorities is a renewable source of trouble.",
+      "A long-running collection powered by overpowered heroism, escalating rank bureaucracy, and friendship doing overtime."
+    ],
+    "wild": [
+      "Overpowered Heroism acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of rank bureaucracy becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "attack on titan": {
+    "name": "Attack on Titan",
+    "type": "Manga Series",
+    "key": "manga-expansion",
+    "related": [
+      "Eren Yeager",
+      "Mikasa Ackerman",
+      "Hajime Isayama"
+    ],
+    "mild": [
+      "A city with very large walls discovers its building code omitted several enormous concerns."
+    ],
+    "audiences": [
+      "readers tracking wall security",
+      "librarians wary of titan emergencies",
+      "fans debating military survival"
+    ],
+    "genres": [
+      "Wall Security",
+      "Titan Emergencies",
+      "Military Survival",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that wall security was not in the training manual.",
+      "I have placed titan emergencies under illustrated review."
+    ],
+    "reviews": [
+      "Excellent wall security. Concerning titan emergencies.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited military survival. No quiet study period."
+    ],
+    "morals": [
+      "Wall Security works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses titan emergencies before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does wall security shape the central conflict?",
+      "Would the story work without titan emergencies?"
+    ],
+    "silly": [
+      "A continuing series where wall security repeatedly collides with titan emergencies and the adults remain understaffed.",
+      "Several volumes prove military survival is a renewable source of trouble.",
+      "A long-running collection powered by wall security, escalating titan emergencies, and friendship doing overtime."
+    ],
+    "wild": [
+      "Wall Security acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of titan emergencies becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "nezuko kamado": {
+    "name": "Nezuko Kamado",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Demon Slayer",
+      "Tanjiro Kamado"
+    ],
+    "mild": [
+      "A demon who communicates mostly through determination and very clear boundary enforcement."
+    ],
+    "audiences": [
+      "readers tracking demon restraint",
+      "librarians wary of sibling loyalty",
+      "fans debating box-based travel"
+    ],
+    "genres": [
+      "Demon Restraint",
+      "Sibling Loyalty",
+      "Box-Based Travel",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that demon restraint was not in the training manual.",
+      "I have placed sibling loyalty under illustrated review."
+    ],
+    "reviews": [
+      "Excellent demon restraint. Concerning sibling loyalty.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited box-based travel. No quiet study period."
+    ],
+    "morals": [
+      "Demon Restraint works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses sibling loyalty before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does demon restraint shape the central conflict?",
+      "Would the story work without sibling loyalty?"
+    ],
+    "silly": [
+      "Nezuko Kamado treats demon restraint as a full-time job and sibling loyalty as optional paperwork.",
+      "A highly specific person powered by demon restraint, box-based travel, and one deeply impractical decision.",
+      "Nezuko Kamado enters the library, reorganizes sibling loyalty, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Demon Restraint acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of sibling loyalty becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "satoru gojo": {
+    "name": "Satoru Gojo",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Jujutsu Kaisen",
+      "Yuji Itadori"
+    ],
+    "mild": [
+      "A teacher whose confidence has exceeded the classroom's structural capacity."
+    ],
+    "audiences": [
+      "readers tracking overpowered teaching",
+      "librarians wary of blindfolded confidence",
+      "fans debating curse instruction"
+    ],
+    "genres": [
+      "Overpowered Teaching",
+      "Blindfolded Confidence",
+      "Curse Instruction",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that overpowered teaching was not in the training manual.",
+      "I have placed blindfolded confidence under illustrated review."
+    ],
+    "reviews": [
+      "Excellent overpowered teaching. Concerning blindfolded confidence.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited curse instruction. No quiet study period."
+    ],
+    "morals": [
+      "Overpowered Teaching works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses blindfolded confidence before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does overpowered teaching shape the central conflict?",
+      "Would the story work without blindfolded confidence?"
+    ],
+    "silly": [
+      "Satoru Gojo treats overpowered teaching as a full-time job and blindfolded confidence as optional paperwork.",
+      "A highly specific person powered by overpowered teaching, curse instruction, and one deeply impractical decision.",
+      "Satoru Gojo enters the library, reorganizes blindfolded confidence, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Overpowered Teaching acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of blindfolded confidence becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "yuji itadori": {
+    "name": "Yuji Itadori",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Jujutsu Kaisen",
+      "Satoru Gojo"
+    ],
+    "mild": [
+      "A kind athlete with the least advisable snack history in supernatural education."
+    ],
+    "audiences": [
+      "readers tracking cursed responsibility",
+      "librarians wary of physical strength",
+      "fans debating teen heroism"
+    ],
+    "genres": [
+      "Cursed Responsibility",
+      "Physical Strength",
+      "Teen Heroism",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that cursed responsibility was not in the training manual.",
+      "I have placed physical strength under illustrated review."
+    ],
+    "reviews": [
+      "Excellent cursed responsibility. Concerning physical strength.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited teen heroism. No quiet study period."
+    ],
+    "morals": [
+      "Cursed Responsibility works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses physical strength before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does cursed responsibility shape the central conflict?",
+      "Would the story work without physical strength?"
+    ],
+    "silly": [
+      "Yuji Itadori treats cursed responsibility as a full-time job and physical strength as optional paperwork.",
+      "A highly specific person powered by cursed responsibility, teen heroism, and one deeply impractical decision.",
+      "Yuji Itadori enters the library, reorganizes physical strength, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Cursed Responsibility acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of physical strength becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "denji": {
+    "name": "Denji",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Chainsaw Man",
+      "Power",
+      "Makima"
+    ],
+    "mild": [
+      "A teenager with modest dreams and an employment contract that needs independent review."
+    ],
+    "audiences": [
+      "readers tracking basic aspirations",
+      "librarians wary of devil hunting",
+      "fans debating workplace exploitation"
+    ],
+    "genres": [
+      "Basic Aspirations",
+      "Devil Hunting",
+      "Workplace Exploitation",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that basic aspirations was not in the training manual.",
+      "I have placed devil hunting under illustrated review."
+    ],
+    "reviews": [
+      "Excellent basic aspirations. Concerning devil hunting.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited workplace exploitation. No quiet study period."
+    ],
+    "morals": [
+      "Basic Aspirations works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses devil hunting before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does basic aspirations shape the central conflict?",
+      "Would the story work without devil hunting?"
+    ],
+    "silly": [
+      "Denji treats basic aspirations as a full-time job and devil hunting as optional paperwork.",
+      "A highly specific person powered by basic aspirations, workplace exploitation, and one deeply impractical decision.",
+      "Denji enters the library, reorganizes devil hunting, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Basic Aspirations acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of devil hunting becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "frieren": {
+    "name": "Frieren",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Frieren: Beyond Journey's End",
+      "Fern"
+    ],
+    "mild": [
+      "An elf who considers ten years a brief errand and feelings a long-term research project."
+    ],
+    "audiences": [
+      "readers tracking long memory",
+      "librarians wary of quiet magic",
+      "fans debating emotional delay"
+    ],
+    "genres": [
+      "Long Memory",
+      "Quiet Magic",
+      "Emotional Delay",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that long memory was not in the training manual.",
+      "I have placed quiet magic under illustrated review."
+    ],
+    "reviews": [
+      "Excellent long memory. Concerning quiet magic.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited emotional delay. No quiet study period."
+    ],
+    "morals": [
+      "Long Memory works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses quiet magic before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does long memory shape the central conflict?",
+      "Would the story work without quiet magic?"
+    ],
+    "silly": [
+      "Frieren treats long memory as a full-time job and quiet magic as optional paperwork.",
+      "A highly specific person powered by long memory, emotional delay, and one deeply impractical decision.",
+      "Frieren enters the library, reorganizes quiet magic, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Long Memory acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of quiet magic becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "loidy forger": {
+    "name": "Loid Forger",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Spy × Family",
+      "Anya Forger",
+      "Yor Forger"
+    ],
+    "mild": [
+      "A master spy discovering that family schedules are harder than international operations."
+    ],
+    "audiences": [
+      "readers tracking spy planning",
+      "librarians wary of fake parenting",
+      "fans debating school strategy"
+    ],
+    "genres": [
+      "Spy Planning",
+      "Fake Parenting",
+      "School Strategy",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that spy planning was not in the training manual.",
+      "I have placed fake parenting under illustrated review."
+    ],
+    "reviews": [
+      "Excellent spy planning. Concerning fake parenting.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited school strategy. No quiet study period."
+    ],
+    "morals": [
+      "Spy Planning works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses fake parenting before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does spy planning shape the central conflict?",
+      "Would the story work without fake parenting?"
+    ],
+    "silly": [
+      "Loid Forger treats spy planning as a full-time job and fake parenting as optional paperwork.",
+      "A highly specific person powered by spy planning, school strategy, and one deeply impractical decision.",
+      "Loid Forger enters the library, reorganizes fake parenting, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Spy Planning acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of fake parenting becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "yor forger": {
+    "name": "Yor Forger",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Spy × Family",
+      "Anya Forger",
+      "Loid Forger"
+    ],
+    "mild": [
+      "An assassin who approaches dinner preparation with the same intensity as professional combat."
+    ],
+    "audiences": [
+      "readers tracking secret identity",
+      "librarians wary of protective parenting",
+      "fans debating culinary risk"
+    ],
+    "genres": [
+      "Secret Identity",
+      "Protective Parenting",
+      "Culinary Risk",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that secret identity was not in the training manual.",
+      "I have placed protective parenting under illustrated review."
+    ],
+    "reviews": [
+      "Excellent secret identity. Concerning protective parenting.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited culinary risk. No quiet study period."
+    ],
+    "morals": [
+      "Secret Identity works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses protective parenting before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does secret identity shape the central conflict?",
+      "Would the story work without protective parenting?"
+    ],
+    "silly": [
+      "Yor Forger treats secret identity as a full-time job and protective parenting as optional paperwork.",
+      "A highly specific person powered by secret identity, culinary risk, and one deeply impractical decision.",
+      "Yor Forger enters the library, reorganizes protective parenting, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Secret Identity acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of protective parenting becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "asta": {
+    "name": "Asta",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Black Clover",
+      "Yuno"
+    ],
+    "mild": [
+      "A magicless teenager who compensates with enthusiasm, muscles, and indoor-volume violations."
+    ],
+    "audiences": [
+      "readers tracking anti-magic",
+      "librarians wary of loud determination",
+      "fans debating wizard ambition"
+    ],
+    "genres": [
+      "Anti-Magic",
+      "Loud Determination",
+      "Wizard Ambition",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that anti-magic was not in the training manual.",
+      "I have placed loud determination under illustrated review."
+    ],
+    "reviews": [
+      "Excellent anti-magic. Concerning loud determination.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited wizard ambition. No quiet study period."
+    ],
+    "morals": [
+      "Anti-Magic works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses loud determination before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does anti-magic shape the central conflict?",
+      "Would the story work without loud determination?"
+    ],
+    "silly": [
+      "Asta treats anti-magic as a full-time job and loud determination as optional paperwork.",
+      "A highly specific person powered by anti-magic, wizard ambition, and one deeply impractical decision.",
+      "Asta enters the library, reorganizes loud determination, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Anti-Magic acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of loud determination becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "natsu dragneel": {
+    "name": "Natsu Dragneel",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Fairy Tail",
+      "Lucy Heartfilia"
+    ],
+    "mild": [
+      "A dragon slayer who can defeat monsters but not motion sickness."
+    ],
+    "audiences": [
+      "readers tracking fire magic",
+      "librarians wary of guild loyalty",
+      "fans debating transportation failure"
+    ],
+    "genres": [
+      "Fire Magic",
+      "Guild Loyalty",
+      "Transportation Failure",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that fire magic was not in the training manual.",
+      "I have placed guild loyalty under illustrated review."
+    ],
+    "reviews": [
+      "Excellent fire magic. Concerning guild loyalty.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited transportation failure. No quiet study period."
+    ],
+    "morals": [
+      "Fire Magic works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses guild loyalty before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does fire magic shape the central conflict?",
+      "Would the story work without guild loyalty?"
+    ],
+    "silly": [
+      "Natsu Dragneel treats fire magic as a full-time job and guild loyalty as optional paperwork.",
+      "A highly specific person powered by fire magic, transportation failure, and one deeply impractical decision.",
+      "Natsu Dragneel enters the library, reorganizes guild loyalty, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Fire Magic acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of guild loyalty becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "light yagami": {
+    "name": "Light Yagami",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Death Note",
+      "L"
+    ],
+    "mild": [
+      "A top student who receives supernatural stationery and immediately develops executive ambitions."
+    ],
+    "audiences": [
+      "readers tracking notebook control",
+      "librarians wary of moral certainty",
+      "fans debating detective evasion"
+    ],
+    "genres": [
+      "Notebook Control",
+      "Moral Certainty",
+      "Detective Evasion",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that notebook control was not in the training manual.",
+      "I have placed moral certainty under illustrated review."
+    ],
+    "reviews": [
+      "Excellent notebook control. Concerning moral certainty.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited detective evasion. No quiet study period."
+    ],
+    "morals": [
+      "Notebook Control works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses moral certainty before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does notebook control shape the central conflict?",
+      "Would the story work without moral certainty?"
+    ],
+    "silly": [
+      "Light Yagami treats notebook control as a full-time job and moral certainty as optional paperwork.",
+      "A highly specific person powered by notebook control, detective evasion, and one deeply impractical decision.",
+      "Light Yagami enters the library, reorganizes moral certainty, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Notebook Control acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of moral certainty becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "l death note": {
+    "name": "L",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "Death Note",
+      "Light Yagami"
+    ],
+    "mild": [
+      "A detective who solves global crimes while sitting like furniture was invented incorrectly."
+    ],
+    "audiences": [
+      "readers tracking deduction",
+      "librarians wary of sugar intake",
+      "fans debating unconventional posture"
+    ],
+    "genres": [
+      "Deduction",
+      "Sugar Intake",
+      "Unconventional Posture",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that deduction was not in the training manual.",
+      "I have placed sugar intake under illustrated review."
+    ],
+    "reviews": [
+      "Excellent deduction. Concerning sugar intake.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited unconventional posture. No quiet study period."
+    ],
+    "morals": [
+      "Deduction works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses sugar intake before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does deduction shape the central conflict?",
+      "Would the story work without sugar intake?"
+    ],
+    "silly": [
+      "L treats deduction as a full-time job and sugar intake as optional paperwork.",
+      "A highly specific person powered by deduction, unconventional posture, and one deeply impractical decision.",
+      "L enters the library, reorganizes sugar intake, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Deduction acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of sugar intake becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "saitama": {
+    "name": "Saitama",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "One-Punch Man",
+      "Genos"
+    ],
+    "mild": [
+      "A hero who solved strength training and accidentally removed most suspense from his career."
+    ],
+    "audiences": [
+      "readers tracking one-hit efficiency",
+      "librarians wary of hero boredom",
+      "fans debating grocery discounts"
+    ],
+    "genres": [
+      "One-Hit Efficiency",
+      "Hero Boredom",
+      "Grocery Discounts",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that one-hit efficiency was not in the training manual.",
+      "I have placed hero boredom under illustrated review."
+    ],
+    "reviews": [
+      "Excellent one-hit efficiency. Concerning hero boredom.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited grocery discounts. No quiet study period."
+    ],
+    "morals": [
+      "One-Hit Efficiency works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses hero boredom before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does one-hit efficiency shape the central conflict?",
+      "Would the story work without hero boredom?"
+    ],
+    "silly": [
+      "Saitama treats one-hit efficiency as a full-time job and hero boredom as optional paperwork.",
+      "A highly specific person powered by one-hit efficiency, grocery discounts, and one deeply impractical decision.",
+      "Saitama enters the library, reorganizes hero boredom, and leaves before anyone can object."
+    ],
+    "wild": [
+      "One-Hit Efficiency acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of hero boredom becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "roronoa zoro": {
+    "name": "Roronoa Zoro",
+    "type": "Character",
+    "key": "manga-expansion",
+    "related": [
+      "One Piece",
+      "Monkey D. Luffy"
+    ],
+    "mild": [
+      "A swordsman with three blades and no reliable relationship with directions."
+    ],
+    "audiences": [
+      "readers tracking swordsmanship",
+      "librarians wary of crew loyalty",
+      "fans debating navigation failure"
+    ],
+    "genres": [
+      "Swordsmanship",
+      "Crew Loyalty",
+      "Navigation Failure",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that swordsmanship was not in the training manual.",
+      "I have placed crew loyalty under illustrated review."
+    ],
+    "reviews": [
+      "Excellent swordsmanship. Concerning crew loyalty.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited navigation failure. No quiet study period."
+    ],
+    "morals": [
+      "Swordsmanship works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses crew loyalty before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does swordsmanship shape the central conflict?",
+      "Would the story work without crew loyalty?"
+    ],
+    "silly": [
+      "Roronoa Zoro treats swordsmanship as a full-time job and crew loyalty as optional paperwork.",
+      "A highly specific person powered by swordsmanship, navigation failure, and one deeply impractical decision.",
+      "Roronoa Zoro enters the library, reorganizes crew loyalty, and leaves before anyone can object."
+    ],
+    "wild": [
+      "Swordsmanship acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of crew loyalty becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "gege akutami": {
+    "name": "Gege Akutami",
+    "type": "Author",
+    "key": "manga-expansion",
+    "related": [
+      "Jujutsu Kaisen",
+      "Satoru Gojo"
+    ],
+    "mild": [
+      "An author who gives readers curses, excellent fights, and very limited emotional job security."
+    ],
+    "audiences": [
+      "readers tracking curse systems",
+      "librarians wary of battle choreography",
+      "fans debating reader distress"
+    ],
+    "genres": [
+      "Curse Systems",
+      "Battle Choreography",
+      "Reader Distress",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that curse systems was not in the training manual.",
+      "I have placed battle choreography under illustrated review."
+    ],
+    "reviews": [
+      "Excellent curse systems. Concerning battle choreography.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited reader distress. No quiet study period."
+    ],
+    "morals": [
+      "Curse Systems works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses battle choreography before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does curse systems shape the central conflict?",
+      "Would the story work without battle choreography?"
+    ],
+    "silly": [
+      "Gege Akutami turns curse systems into an entire publishing department.",
+      "An author combining battle choreography, reader distress, and enough curse systems to require a second shelf.",
+      "Gege Akutami has submitted another volume of professionally managed chaos."
+    ],
+    "wild": [
+      "Curse Systems acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of battle choreography becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
+  },
+  "tatsuki fujimoto": {
+    "name": "Tatsuki Fujimoto",
+    "type": "Author",
+    "key": "manga-expansion",
+    "related": [
+      "Chainsaw Man",
+      "Denji"
+    ],
+    "mild": [
+      "An author who treats normal expectations as optional and emotional whiplash as structure."
+    ],
+    "audiences": [
+      "readers tracking absurd action",
+      "librarians wary of dark humor",
+      "fans debating unpredictable consequences"
+    ],
+    "genres": [
+      "Absurd Action",
+      "Dark Humor",
+      "Unpredictable Consequences",
+      "Manga Shelf Misclassification"
+    ],
+    "quotes": [
+      "Please note that absurd action was not in the training manual.",
+      "I have placed dark humor under illustrated review."
+    ],
+    "reviews": [
+      "Excellent absurd action. Concerning dark humor.",
+      "The panels were clear. Penelope's interpretation was not."
+    ],
+    "trailers": [
+      "One series. Unlimited unpredictable consequences. No quiet study period."
+    ],
+    "morals": [
+      "Absurd Action works best when paired with judgment.",
+      "Friendship remains the most overworked department."
+    ],
+    "endings": [
+      "Everyone discusses dark humor before the final chapter.",
+      "Penelope requires a revised mission plan and snacks."
+    ],
+    "questions": [
+      "How does absurd action shape the central conflict?",
+      "Would the story work without dark humor?"
+    ],
+    "silly": [
+      "Tatsuki Fujimoto turns absurd action into an entire publishing department.",
+      "An author combining dark humor, unpredictable consequences, and enough absurd action to require a second shelf.",
+      "Tatsuki Fujimoto has submitted another volume of professionally managed chaos."
+    ],
+    "wild": [
+      "Absurd Action acquires executive authority and immediately destabilizes the entire arc.",
+      "One case of dark humor becomes a tournament, a prophecy, and an emergency staff meeting."
+    ]
   }
 };
