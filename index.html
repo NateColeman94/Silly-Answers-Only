@@ -104,6 +104,14 @@
   font-weight:850;
 }
 
+
+.suggestions{display:none;margin-top:10px;background:white;border:2px solid var(--ink);border-radius:12px;padding:10px}
+.suggestions.show{display:block}
+.suggestions strong{display:block;margin-bottom:7px}
+.suggestion-buttons{display:flex;flex-wrap:wrap;gap:7px}
+.suggestion-buttons button{background:var(--blue);font-size:.82rem;padding:7px 10px}
+.search-note{font-size:.78rem;opacity:.72;margin-top:6px}
+
 </style>
 </head>
 <body>
@@ -126,7 +134,7 @@
             <option value="wild">Library Emergency</option>
           </select>
           <button id="searchBtn">📖 Misunderstand It</button>
-        </div>
+        </div><div id="suggestions" class="suggestions" aria-live="polite"></div>
 
         <div class="example-row">
           <button class="example" data-query="The Chronicles of Narnia">Book Series</button>
@@ -177,19 +185,7 @@
       <section class="voting"><h3>🪿 Goose Approve This Explanation</h3><p>Save this exact misunderstanding to your personal collection.</p><button id="saveCardBtn">📚 Save to My Library Card</button><span id="saveMessage" class="save-message" aria-live="polite"></span></section>
 <section class="hall"><div class="library-card-head"><h3>📇 My Library Card</h3><button id="clearCardBtn" class="small-btn">Clear Card</button></div><div id="libraryCard"></div></section>
       <div class="actions">
-        <button id="tryAnother">📖 Think that's bad? Try another!</button>
-        <button id="makeWorse">🎲 Make It Worse</button>
-      </div>
-    </article>
-
-    <footer class="library-stamp">
-      <strong>📚 LIBRARY NOTICE</strong><div class="small">Build 5.7 — Collection I Expansion & Penelope Personality</div>
-      <p>No books were responsibly summarized in the making of this application.</p>
-      <p>✓ Accurate Answers have been permanently checked out.</p>
-    </footer>
-  </main>
-<script>
-window.LIBRARY_DATA = {
+        <button id="tryAnowindow.LIBRARY_DATA = {
   "the hobbit": {
     "name": "The Hobbit",
     "type": "Book",
@@ -4133,6 +4129,3958 @@ window.LIBRARY_DATA = {
     "questions": [
       "How does Ende distinguish meaningful imagination from empty escape?"
     ]
+  },
+  "mulan": {
+    "name": "Mulan",
+    "type": "Book",
+    "key": "disney_mulan",
+    "related": [
+      "Mulan Character",
+      "Mushu",
+      "Reflection",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "A daughter protecting her family and country is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "A daughter protecting her family and country becomes a full-scale administrative emergency involving honor management, identity logistics, and one avoidable misunderstanding.",
+      "A familiar tale about a daughter protecting her family and country is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Honor management collides with identity logistics and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving dragon-sized encouragement."
+    ],
+    "audiences": [
+      "readers studying honor management",
+      "librarians tracking identity logistics",
+      "fans debating dragon-sized encouragement"
+    ],
+    "genres": [
+      "Honor Management",
+      "Identity Logistics",
+      "Dragon-Sized Encouragement",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that honor management was not included in the original plan.",
+      "I have reviewed the situation and selected identity logistics."
+    ],
+    "reviews": [
+      "Excellent honor management. Concerning identity logistics.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited dragon-sized encouragement."
+    ],
+    "morals": [
+      "Honor management works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses identity logistics before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does honor management shape the central choices?",
+      "Would the story still work without identity logistics?"
+    ]
+  },
+  "beauty and the beast": {
+    "name": "Beauty and the Beast",
+    "type": "Book",
+    "key": "disney_beauty",
+    "related": [
+      "Belle",
+      "The Beast",
+      "As Old as Time",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a relationship complicated by a curse and a castle is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a relationship complicated by a curse and a castle becomes a full-scale administrative emergency involving library enthusiasm, curse administration, and one avoidable misunderstanding.",
+      "A familiar tale about a relationship complicated by a curse and a castle is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Library enthusiasm collides with curse administration and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving enchanted household staffing."
+    ],
+    "audiences": [
+      "readers studying library enthusiasm",
+      "librarians tracking curse administration",
+      "fans debating enchanted household staffing"
+    ],
+    "genres": [
+      "Library Enthusiasm",
+      "Curse Administration",
+      "Enchanted Household Staffing",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that library enthusiasm was not included in the original plan.",
+      "I have reviewed the situation and selected curse administration."
+    ],
+    "reviews": [
+      "Excellent library enthusiasm. Concerning curse administration.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited enchanted household staffing."
+    ],
+    "morals": [
+      "Library enthusiasm works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses curse administration before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does library enthusiasm shape the central choices?",
+      "Would the story still work without curse administration?"
+    ]
+  },
+  "the little mermaid": {
+    "name": "The Little Mermaid",
+    "type": "Book",
+    "key": "disney_mermaid",
+    "related": [
+      "Ariel",
+      "Ursula",
+      "Part of Your World",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a mermaid pursuing a life beyond her world is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a mermaid pursuing a life beyond her world becomes a full-scale administrative emergency involving voice-contract negotiation, undersea curiosity, and one avoidable misunderstanding.",
+      "A familiar tale about a mermaid pursuing a life beyond her world is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Voice-contract negotiation collides with undersea curiosity and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving sea-witch compliance."
+    ],
+    "audiences": [
+      "readers studying voice-contract negotiation",
+      "librarians tracking undersea curiosity",
+      "fans debating sea-witch compliance"
+    ],
+    "genres": [
+      "Voice-Contract Negotiation",
+      "Undersea Curiosity",
+      "Sea-Witch Compliance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that voice-contract negotiation was not included in the original plan.",
+      "I have reviewed the situation and selected undersea curiosity."
+    ],
+    "reviews": [
+      "Excellent voice-contract negotiation. Concerning undersea curiosity.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited sea-witch compliance."
+    ],
+    "morals": [
+      "Voice-contract negotiation works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses undersea curiosity before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does voice-contract negotiation shape the central choices?",
+      "Would the story still work without undersea curiosity?"
+    ]
+  },
+  "cinderella": {
+    "name": "Cinderella",
+    "type": "Book",
+    "key": "disney_cinderella",
+    "related": [
+      "Cinderella Character",
+      "So This Is Love",
+      "Fairy Godmother",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a resilient young woman attending one highly regulated event is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a resilient young woman attending one highly regulated event becomes a full-scale administrative emergency involving glass-footwear logistics, midnight scheduling, and one avoidable misunderstanding.",
+      "A familiar tale about a resilient young woman attending one highly regulated event is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Glass-footwear logistics collides with midnight scheduling and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving fairy-godmother consulting."
+    ],
+    "audiences": [
+      "readers studying glass-footwear logistics",
+      "librarians tracking midnight scheduling",
+      "fans debating fairy-godmother consulting"
+    ],
+    "genres": [
+      "Glass-Footwear Logistics",
+      "Midnight Scheduling",
+      "Fairy-Godmother Consulting",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that glass-footwear logistics was not included in the original plan.",
+      "I have reviewed the situation and selected midnight scheduling."
+    ],
+    "reviews": [
+      "Excellent glass-footwear logistics. Concerning midnight scheduling.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited fairy-godmother consulting."
+    ],
+    "morals": [
+      "Glass-footwear logistics works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses midnight scheduling before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does glass-footwear logistics shape the central choices?",
+      "Would the story still work without midnight scheduling?"
+    ]
+  },
+  "sleeping beauty": {
+    "name": "Sleeping Beauty",
+    "type": "Book",
+    "key": "disney_sleeping",
+    "related": [
+      "Maleficent",
+      "Once Upon a Dream",
+      "Aurora",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a kingdom managing a curse through extremely long-term planning is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a kingdom managing a curse through extremely long-term planning becomes a full-scale administrative emergency involving spindle risk management, royal sleep policy, and one avoidable misunderstanding.",
+      "A familiar tale about a kingdom managing a curse through extremely long-term planning is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Spindle risk management collides with royal sleep policy and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving fairy intervention."
+    ],
+    "audiences": [
+      "readers studying spindle risk management",
+      "librarians tracking royal sleep policy",
+      "fans debating fairy intervention"
+    ],
+    "genres": [
+      "Spindle Risk Management",
+      "Royal Sleep Policy",
+      "Fairy Intervention",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that spindle risk management was not included in the original plan.",
+      "I have reviewed the situation and selected royal sleep policy."
+    ],
+    "reviews": [
+      "Excellent spindle risk management. Concerning royal sleep policy.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited fairy intervention."
+    ],
+    "morals": [
+      "Spindle risk management works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses royal sleep policy before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does spindle risk management shape the central choices?",
+      "Would the story still work without royal sleep policy?"
+    ]
+  },
+  "snow white and the seven dwarfs": {
+    "name": "Snow White and the Seven Dwarfs",
+    "type": "Book",
+    "key": "disney_snow",
+    "related": [
+      "Snow White",
+      "The Evil Queen",
+      "Mirror Mirror",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a princess escaping a dangerous royal workplace is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a princess escaping a dangerous royal workplace becomes a full-scale administrative emergency involving mirror-based performance review, forest relocation, and one avoidable misunderstanding.",
+      "A familiar tale about a princess escaping a dangerous royal workplace is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Mirror-based performance review collides with forest relocation and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving dwarf household governance."
+    ],
+    "audiences": [
+      "readers studying mirror-based performance review",
+      "librarians tracking forest relocation",
+      "fans debating dwarf household governance"
+    ],
+    "genres": [
+      "Mirror-Based Performance Review",
+      "Forest Relocation",
+      "Dwarf Household Governance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that mirror-based performance review was not included in the original plan.",
+      "I have reviewed the situation and selected forest relocation."
+    ],
+    "reviews": [
+      "Excellent mirror-based performance review. Concerning forest relocation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited dwarf household governance."
+    ],
+    "morals": [
+      "Mirror-based performance review works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses forest relocation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does mirror-based performance review shape the central choices?",
+      "Would the story still work without forest relocation?"
+    ]
+  },
+  "aladdin": {
+    "name": "Aladdin",
+    "type": "Book",
+    "key": "disney_aladdin",
+    "related": [
+      "Aladdin Character",
+      "Princess Jasmine",
+      "A Whole New World",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a young man using magical assistance to change his circumstances is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a young man using magical assistance to change his circumstances becomes a full-scale administrative emergency involving lamp-resource management, identity presentation, and one avoidable misunderstanding.",
+      "A familiar tale about a young man using magical assistance to change his circumstances is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Lamp-resource management collides with identity presentation and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving genie contract interpretation."
+    ],
+    "audiences": [
+      "readers studying lamp-resource management",
+      "librarians tracking identity presentation",
+      "fans debating genie contract interpretation"
+    ],
+    "genres": [
+      "Lamp-Resource Management",
+      "Identity Presentation",
+      "Genie Contract Interpretation",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that lamp-resource management was not included in the original plan.",
+      "I have reviewed the situation and selected identity presentation."
+    ],
+    "reviews": [
+      "Excellent lamp-resource management. Concerning identity presentation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited genie contract interpretation."
+    ],
+    "morals": [
+      "Lamp-resource management works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses identity presentation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does lamp-resource management shape the central choices?",
+      "Would the story still work without identity presentation?"
+    ]
+  },
+  "frozen": {
+    "name": "Frozen",
+    "type": "Book",
+    "key": "disney_frozen",
+    "related": [
+      "Elsa",
+      "Anna",
+      "Conceal Don't Feel",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "two sisters rebuilding trust while managing uncontrolled winter is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "two sisters rebuilding trust while managing uncontrolled winter becomes a full-scale administrative emergency involving ice-power governance, sisterly communication, and one avoidable misunderstanding.",
+      "A familiar tale about two sisters rebuilding trust while managing uncontrolled winter is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Ice-power governance collides with sisterly communication and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving seasonal emergency response."
+    ],
+    "audiences": [
+      "readers studying ice-power governance",
+      "librarians tracking sisterly communication",
+      "fans debating seasonal emergency response"
+    ],
+    "genres": [
+      "Ice-Power Governance",
+      "Sisterly Communication",
+      "Seasonal Emergency Response",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that ice-power governance was not included in the original plan.",
+      "I have reviewed the situation and selected sisterly communication."
+    ],
+    "reviews": [
+      "Excellent ice-power governance. Concerning sisterly communication.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited seasonal emergency response."
+    ],
+    "morals": [
+      "Ice-power governance works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses sisterly communication before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does ice-power governance shape the central choices?",
+      "Would the story still work without sisterly communication?"
+    ]
+  },
+  "tangled": {
+    "name": "Tangled",
+    "type": "Book",
+    "key": "disney_tangled",
+    "related": [
+      "Rapunzel",
+      "What Once Was Mine",
+      "Mother Gothel",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a sheltered young woman discovering the world beyond her tower is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a sheltered young woman discovering the world beyond her tower becomes a full-scale administrative emergency involving tower exit planning, hair-based transportation, and one avoidable misunderstanding.",
+      "A familiar tale about a sheltered young woman discovering the world beyond her tower is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Tower exit planning collides with hair-based transportation and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving lantern-event logistics."
+    ],
+    "audiences": [
+      "readers studying tower exit planning",
+      "librarians tracking hair-based transportation",
+      "fans debating lantern-event logistics"
+    ],
+    "genres": [
+      "Tower Exit Planning",
+      "Hair-Based Transportation",
+      "Lantern-Event Logistics",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that tower exit planning was not included in the original plan.",
+      "I have reviewed the situation and selected hair-based transportation."
+    ],
+    "reviews": [
+      "Excellent tower exit planning. Concerning hair-based transportation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited lantern-event logistics."
+    ],
+    "morals": [
+      "Tower exit planning works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses hair-based transportation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does tower exit planning shape the central choices?",
+      "Would the story still work without hair-based transportation?"
+    ]
+  },
+  "moana": {
+    "name": "Moana",
+    "type": "Book",
+    "key": "disney_moana",
+    "related": [
+      "Moana Character",
+      "How Far I'll Go",
+      "Maui",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a young navigator restoring balance across the ocean is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a young navigator restoring balance across the ocean becomes a full-scale administrative emergency involving ocean navigation, demigod stakeholder management, and one avoidable misunderstanding.",
+      "A familiar tale about a young navigator restoring balance across the ocean is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Ocean navigation collides with demigod stakeholder management and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving island restoration."
+    ],
+    "audiences": [
+      "readers studying ocean navigation",
+      "librarians tracking demigod stakeholder management",
+      "fans debating island restoration"
+    ],
+    "genres": [
+      "Ocean Navigation",
+      "Demigod Stakeholder Management",
+      "Island Restoration",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that ocean navigation was not included in the original plan.",
+      "I have reviewed the situation and selected demigod stakeholder management."
+    ],
+    "reviews": [
+      "Excellent ocean navigation. Concerning demigod stakeholder management.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited island restoration."
+    ],
+    "morals": [
+      "Ocean navigation works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses demigod stakeholder management before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does ocean navigation shape the central choices?",
+      "Would the story still work without demigod stakeholder management?"
+    ]
+  },
+  "hercules": {
+    "name": "Hercules",
+    "type": "Book",
+    "key": "disney_hercules",
+    "related": [
+      "Hercules Character",
+      "Megara",
+      "Go the Distance",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a young hero learning what makes someone truly heroic is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a young hero learning what makes someone truly heroic becomes a full-scale administrative emergency involving hero certification, underworld contracting, and one avoidable misunderstanding.",
+      "A familiar tale about a young hero learning what makes someone truly heroic is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Hero certification collides with underworld contracting and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving strength-brand management."
+    ],
+    "audiences": [
+      "readers studying hero certification",
+      "librarians tracking underworld contracting",
+      "fans debating strength-brand management"
+    ],
+    "genres": [
+      "Hero Certification",
+      "Underworld Contracting",
+      "Strength-Brand Management",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that hero certification was not included in the original plan.",
+      "I have reviewed the situation and selected underworld contracting."
+    ],
+    "reviews": [
+      "Excellent hero certification. Concerning underworld contracting.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited strength-brand management."
+    ],
+    "morals": [
+      "Hero certification works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses underworld contracting before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does hero certification shape the central choices?",
+      "Would the story still work without underworld contracting?"
+    ]
+  },
+  "the princess and the frog": {
+    "name": "The Princess and the Frog",
+    "type": "Book",
+    "key": "disney_tiana",
+    "related": [
+      "Tiana",
+      "Almost There",
+      "Prince Naveen",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "an ambitious entrepreneur dealing with a magical business interruption is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "an ambitious entrepreneur dealing with a magical business interruption becomes a full-scale administrative emergency involving restaurant planning, frog-transformation risk, and one avoidable misunderstanding.",
+      "A familiar tale about an ambitious entrepreneur dealing with a magical business interruption is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Restaurant planning collides with frog-transformation risk and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving New Orleans entrepreneurship."
+    ],
+    "audiences": [
+      "readers studying restaurant planning",
+      "librarians tracking frog-transformation risk",
+      "fans debating New Orleans entrepreneurship"
+    ],
+    "genres": [
+      "Restaurant Planning",
+      "Frog-Transformation Risk",
+      "New Orleans Entrepreneurship",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that restaurant planning was not included in the original plan.",
+      "I have reviewed the situation and selected frog-transformation risk."
+    ],
+    "reviews": [
+      "Excellent restaurant planning. Concerning frog-transformation risk.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited New Orleans entrepreneurship."
+    ],
+    "morals": [
+      "Restaurant planning works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses frog-transformation risk before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does restaurant planning shape the central choices?",
+      "Would the story still work without frog-transformation risk?"
+    ]
+  },
+  "pinocchio": {
+    "name": "Pinocchio",
+    "type": "Book",
+    "key": "disney_pinocchio",
+    "related": [
+      "Pinocchio Character",
+      "When You Wish Upon a Star",
+      "Jiminy Cricket",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a wooden boy learning honesty and responsibility is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a wooden boy learning honesty and responsibility becomes a full-scale administrative emergency involving truth compliance, conscience consulting, and one avoidable misunderstanding.",
+      "A familiar tale about a wooden boy learning honesty and responsibility is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Truth compliance collides with conscience consulting and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving wooden-child onboarding."
+    ],
+    "audiences": [
+      "readers studying truth compliance",
+      "librarians tracking conscience consulting",
+      "fans debating wooden-child onboarding"
+    ],
+    "genres": [
+      "Truth Compliance",
+      "Conscience Consulting",
+      "Wooden-Child Onboarding",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that truth compliance was not included in the original plan.",
+      "I have reviewed the situation and selected conscience consulting."
+    ],
+    "reviews": [
+      "Excellent truth compliance. Concerning conscience consulting.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited wooden-child onboarding."
+    ],
+    "morals": [
+      "Truth compliance works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses conscience consulting before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does truth compliance shape the central choices?",
+      "Would the story still work without conscience consulting?"
+    ]
+  },
+  "the lion king": {
+    "name": "The Lion King",
+    "type": "Book",
+    "key": "disney_lionking",
+    "related": [
+      "Simba",
+      "Scar",
+      "Be Prepared",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a young heir confronting loss, responsibility, and succession is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a young heir confronting loss, responsibility, and succession becomes a full-scale administrative emergency involving savanna succession, uncle-risk management, and one avoidable misunderstanding.",
+      "A familiar tale about a young heir confronting loss, responsibility, and succession is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Savanna succession collides with uncle-risk management and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving circle-of-life governance."
+    ],
+    "audiences": [
+      "readers studying savanna succession",
+      "librarians tracking uncle-risk management",
+      "fans debating circle-of-life governance"
+    ],
+    "genres": [
+      "Savanna Succession",
+      "Uncle-Risk Management",
+      "Circle-Of-Life Governance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that savanna succession was not included in the original plan.",
+      "I have reviewed the situation and selected uncle-risk management."
+    ],
+    "reviews": [
+      "Excellent savanna succession. Concerning uncle-risk management.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited circle-of-life governance."
+    ],
+    "morals": [
+      "Savanna succession works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses uncle-risk management before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does savanna succession shape the central choices?",
+      "Would the story still work without uncle-risk management?"
+    ]
+  },
+  "lilo and stitch": {
+    "name": "Lilo & Stitch",
+    "type": "Book",
+    "key": "disney_lilo",
+    "related": [
+      "Lilo",
+      "Stitch",
+      "Nobody Gets Left Behind",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a lonely child and an alien experiment forming an unconventional family is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a lonely child and an alien experiment forming an unconventional family becomes a full-scale administrative emergency involving alien adoption, ohana policy, and one avoidable misunderstanding.",
+      "A familiar tale about a lonely child and an alien experiment forming an unconventional family is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Alien adoption collides with ohana policy and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving Hawaiian household recovery."
+    ],
+    "audiences": [
+      "readers studying alien adoption",
+      "librarians tracking ohana policy",
+      "fans debating Hawaiian household recovery"
+    ],
+    "genres": [
+      "Alien Adoption",
+      "Ohana Policy",
+      "Hawaiian Household Recovery",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that alien adoption was not included in the original plan.",
+      "I have reviewed the situation and selected ohana policy."
+    ],
+    "reviews": [
+      "Excellent alien adoption. Concerning ohana policy.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited Hawaiian household recovery."
+    ],
+    "morals": [
+      "Alien adoption works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses ohana policy before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does alien adoption shape the central choices?",
+      "Would the story still work without ohana policy?"
+    ]
+  },
+  "encanto": {
+    "name": "Encanto",
+    "type": "Book",
+    "key": "disney_encanto",
+    "related": [
+      "Mirabel",
+      "Waiting on a Miracle",
+      "Bruno",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a magical family confronting pressure, expectations, and hidden fractures is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a magical family confronting pressure, expectations, and hidden fractures becomes a full-scale administrative emergency involving gift-performance management, family expectation audits, and one avoidable misunderstanding.",
+      "A familiar tale about a magical family confronting pressure, expectations, and hidden fractures is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Gift-performance management collides with family expectation audits and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving casita maintenance."
+    ],
+    "audiences": [
+      "readers studying gift-performance management",
+      "librarians tracking family expectation audits",
+      "fans debating casita maintenance"
+    ],
+    "genres": [
+      "Gift-Performance Management",
+      "Family Expectation Audits",
+      "Casita Maintenance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that gift-performance management was not included in the original plan.",
+      "I have reviewed the situation and selected family expectation audits."
+    ],
+    "reviews": [
+      "Excellent gift-performance management. Concerning family expectation audits.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited casita maintenance."
+    ],
+    "morals": [
+      "Gift-performance management works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses family expectation audits before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does gift-performance management shape the central choices?",
+      "Would the story still work without family expectation audits?"
+    ]
+  },
+  "brave": {
+    "name": "Brave",
+    "type": "Book",
+    "key": "disney_brave",
+    "related": [
+      "Merida",
+      "Fate Be Changed",
+      "Queen Elinor",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "a determined princess challenging tradition and repairing a family relationship is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a determined princess challenging tradition and repairing a family relationship becomes a full-scale administrative emergency involving archery diplomacy, fate revision, and one avoidable misunderstanding.",
+      "A familiar tale about a determined princess challenging tradition and repairing a family relationship is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Archery diplomacy collides with fate revision and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving mother-daughter governance."
+    ],
+    "audiences": [
+      "readers studying archery diplomacy",
+      "librarians tracking fate revision",
+      "fans debating mother-daughter governance"
+    ],
+    "genres": [
+      "Archery Diplomacy",
+      "Fate Revision",
+      "Mother-Daughter Governance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that archery diplomacy was not included in the original plan.",
+      "I have reviewed the situation and selected fate revision."
+    ],
+    "reviews": [
+      "Excellent archery diplomacy. Concerning fate revision.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited mother-daughter governance."
+    ],
+    "morals": [
+      "Archery diplomacy works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses fate revision before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does archery diplomacy shape the central choices?",
+      "Would the story still work without fate revision?"
+    ]
+  },
+  "pocahontas": {
+    "name": "Pocahontas",
+    "type": "Book",
+    "key": "disney_pocahontas",
+    "related": [
+      "Pocahontas Character",
+      "John Smith",
+      "Grandmother Willow"
+    ],
+    "mild": [
+      "a young woman navigating conflict between communities is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a young woman navigating conflict between communities becomes a full-scale administrative emergency involving cross-cultural diplomacy, river consultation, and one avoidable misunderstanding.",
+      "A familiar tale about a young woman navigating conflict between communities is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Cross-cultural diplomacy collides with river consultation and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving colonial conflict management."
+    ],
+    "audiences": [
+      "readers studying cross-cultural diplomacy",
+      "librarians tracking river consultation",
+      "fans debating colonial conflict management"
+    ],
+    "genres": [
+      "Cross-Cultural Diplomacy",
+      "River Consultation",
+      "Colonial Conflict Management",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that cross-cultural diplomacy was not included in the original plan.",
+      "I have reviewed the situation and selected river consultation."
+    ],
+    "reviews": [
+      "Excellent cross-cultural diplomacy. Concerning river consultation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited colonial conflict management."
+    ],
+    "morals": [
+      "Cross-cultural diplomacy works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses river consultation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does cross-cultural diplomacy shape the central choices?",
+      "Would the story still work without river consultation?"
+    ]
+  },
+  "the jungle book": {
+    "name": "The Jungle Book",
+    "type": "Book",
+    "key": "disney_jungle",
+    "related": [
+      "Mowgli",
+      "Baloo",
+      "Shere Khan"
+    ],
+    "mild": [
+      "a human child growing up among jungle animals is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a human child growing up among jungle animals becomes a full-scale administrative emergency involving jungle guardianship, bear-led education, and one avoidable misunderstanding.",
+      "A familiar tale about a human child growing up among jungle animals is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Jungle guardianship collides with bear-led education and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving tiger-risk planning."
+    ],
+    "audiences": [
+      "readers studying jungle guardianship",
+      "librarians tracking bear-led education",
+      "fans debating tiger-risk planning"
+    ],
+    "genres": [
+      "Jungle Guardianship",
+      "Bear-Led Education",
+      "Tiger-Risk Planning",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that jungle guardianship was not included in the original plan.",
+      "I have reviewed the situation and selected bear-led education."
+    ],
+    "reviews": [
+      "Excellent jungle guardianship. Concerning bear-led education.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited tiger-risk planning."
+    ],
+    "morals": [
+      "Jungle guardianship works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses bear-led education before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does jungle guardianship shape the central choices?",
+      "Would the story still work without bear-led education?"
+    ]
+  },
+  "one hundred and one dalmatians": {
+    "name": "One Hundred and One Dalmatians",
+    "type": "Book",
+    "key": "disney_dalmatians",
+    "related": [
+      "Cruella de Vil",
+      "Pongo",
+      "Perdita"
+    ],
+    "mild": [
+      "a family of dogs organizing a large-scale rescue is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "a family of dogs organizing a large-scale rescue becomes a full-scale administrative emergency involving puppy logistics, fashion-villain compliance, and one avoidable misunderstanding.",
+      "A familiar tale about a family of dogs organizing a large-scale rescue is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Puppy logistics collides with fashion-villain compliance and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving canine communication."
+    ],
+    "audiences": [
+      "readers studying puppy logistics",
+      "librarians tracking fashion-villain compliance",
+      "fans debating canine communication"
+    ],
+    "genres": [
+      "Puppy Logistics",
+      "Fashion-Villain Compliance",
+      "Canine Communication",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that puppy logistics was not included in the original plan.",
+      "I have reviewed the situation and selected fashion-villain compliance."
+    ],
+    "reviews": [
+      "Excellent puppy logistics. Concerning fashion-villain compliance.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited canine communication."
+    ],
+    "morals": [
+      "Puppy logistics works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses fashion-villain compliance before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does puppy logistics shape the central choices?",
+      "Would the story still work without fashion-villain compliance?"
+    ]
+  },
+  "mulan character": {
+    "name": "Mulan",
+    "type": "Character",
+    "key": "disney_mulan",
+    "related": [
+      "Mulan",
+      "Mushu",
+      "Reflection"
+    ],
+    "mild": [
+      "A character defined by courage, intelligence, adaptability, and devotion to family, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining strategic courage, identity navigation, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include strategic courage, resourceful leadership, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of strategic courage and identity navigation becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying strategic courage",
+      "librarians tracking identity navigation",
+      "fans debating resourceful leadership"
+    ],
+    "genres": [
+      "Strategic Courage",
+      "Identity Navigation",
+      "Resourceful Leadership",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that strategic courage was not included in the original plan.",
+      "I have reviewed the situation and selected identity navigation."
+    ],
+    "reviews": [
+      "Excellent strategic courage. Concerning identity navigation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited resourceful leadership."
+    ],
+    "morals": [
+      "Strategic courage works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses identity navigation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does strategic courage shape the central choices?",
+      "Would the story still work without identity navigation?"
+    ]
+  },
+  "mushu": {
+    "name": "Mushu",
+    "type": "Character",
+    "key": "disney_mulan",
+    "related": [
+      "Mulan",
+      "Mulan Character",
+      "Reflection"
+    ],
+    "mild": [
+      "A character defined by loyalty mixed with ambition, insecurity, and energetic improvisation, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining small-dragon confidence, guardian ambition, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include small-dragon confidence, improvised problem solving, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of small-dragon confidence and guardian ambition becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying small-dragon confidence",
+      "librarians tracking guardian ambition",
+      "fans debating improvised problem solving"
+    ],
+    "genres": [
+      "Small-Dragon Confidence",
+      "Guardian Ambition",
+      "Improvised Problem Solving",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that small-dragon confidence was not included in the original plan.",
+      "I have reviewed the situation and selected guardian ambition."
+    ],
+    "reviews": [
+      "Excellent small-dragon confidence. Concerning guardian ambition.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited improvised problem solving."
+    ],
+    "morals": [
+      "Small-dragon confidence works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses guardian ambition before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does small-dragon confidence shape the central choices?",
+      "Would the story still work without guardian ambition?"
+    ]
+  },
+  "belle": {
+    "name": "Belle",
+    "type": "Character",
+    "key": "disney_beauty",
+    "related": [
+      "Beauty and the Beast",
+      "The Beast",
+      "As Old as Time"
+    ],
+    "mild": [
+      "A character defined by curiosity, independence, empathy, and love of books, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining library devotion, independent judgment, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include library devotion, empathetic courage, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of library devotion and independent judgment becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying library devotion",
+      "librarians tracking independent judgment",
+      "fans debating empathetic courage"
+    ],
+    "genres": [
+      "Library Devotion",
+      "Independent Judgment",
+      "Empathetic Courage",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that library devotion was not included in the original plan.",
+      "I have reviewed the situation and selected independent judgment."
+    ],
+    "reviews": [
+      "Excellent library devotion. Concerning independent judgment.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited empathetic courage."
+    ],
+    "morals": [
+      "Library devotion works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses independent judgment before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does library devotion shape the central choices?",
+      "Would the story still work without independent judgment?"
+    ]
+  },
+  "the beast": {
+    "name": "The Beast",
+    "type": "Character",
+    "key": "disney_beauty",
+    "related": [
+      "Beauty and the Beast",
+      "Belle",
+      "As Old as Time"
+    ],
+    "mild": [
+      "A character defined by anger, isolation, vulnerability, and capacity for change, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining temper management, emotional growth, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include temper management, castle isolation, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of temper management and emotional growth becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying temper management",
+      "librarians tracking emotional growth",
+      "fans debating castle isolation"
+    ],
+    "genres": [
+      "Temper Management",
+      "Emotional Growth",
+      "Castle Isolation",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that temper management was not included in the original plan.",
+      "I have reviewed the situation and selected emotional growth."
+    ],
+    "reviews": [
+      "Excellent temper management. Concerning emotional growth.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited castle isolation."
+    ],
+    "morals": [
+      "Temper management works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses emotional growth before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does temper management shape the central choices?",
+      "Would the story still work without emotional growth?"
+    ]
+  },
+  "ariel": {
+    "name": "Ariel",
+    "type": "Character",
+    "key": "disney_mermaid",
+    "related": [
+      "The Little Mermaid",
+      "Ursula",
+      "Part of Your World"
+    ],
+    "mild": [
+      "A character defined by curiosity, determination, impulsiveness, and longing for another world, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining undersea curiosity, impulsive bargaining, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include undersea curiosity, human-world fascination, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of undersea curiosity and impulsive bargaining becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying undersea curiosity",
+      "librarians tracking impulsive bargaining",
+      "fans debating human-world fascination"
+    ],
+    "genres": [
+      "Undersea Curiosity",
+      "Impulsive Bargaining",
+      "Human-World Fascination",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that undersea curiosity was not included in the original plan.",
+      "I have reviewed the situation and selected impulsive bargaining."
+    ],
+    "reviews": [
+      "Excellent undersea curiosity. Concerning impulsive bargaining.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited human-world fascination."
+    ],
+    "morals": [
+      "Undersea curiosity works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses impulsive bargaining before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does undersea curiosity shape the central choices?",
+      "Would the story still work without impulsive bargaining?"
+    ]
+  },
+  "ursula": {
+    "name": "Ursula",
+    "type": "Character",
+    "key": "disney_mermaid",
+    "related": [
+      "The Little Mermaid",
+      "Ariel",
+      "Part of Your World"
+    ],
+    "mild": [
+      "A character defined by charisma, manipulation, theatrical confidence, and contractual precision, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining sea-witch contracts, villainous charisma, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include sea-witch contracts, dramatic negotiation, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of sea-witch contracts and villainous charisma becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying sea-witch contracts",
+      "librarians tracking villainous charisma",
+      "fans debating dramatic negotiation"
+    ],
+    "genres": [
+      "Sea-Witch Contracts",
+      "Villainous Charisma",
+      "Dramatic Negotiation",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that sea-witch contracts was not included in the original plan.",
+      "I have reviewed the situation and selected villainous charisma."
+    ],
+    "reviews": [
+      "Excellent sea-witch contracts. Concerning villainous charisma.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited dramatic negotiation."
+    ],
+    "morals": [
+      "Sea-witch contracts works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses villainous charisma before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does sea-witch contracts shape the central choices?",
+      "Would the story still work without villainous charisma?"
+    ]
+  },
+  "cinderella character": {
+    "name": "Cinderella",
+    "type": "Character",
+    "key": "disney_cinderella",
+    "related": [
+      "Cinderella",
+      "So This Is Love",
+      "Fairy Godmother"
+    ],
+    "mild": [
+      "A character defined by resilience, kindness, patience, and quiet determination, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining grace under pressure, midnight resilience, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include grace under pressure, kindness strategy, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of grace under pressure and midnight resilience becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying grace under pressure",
+      "librarians tracking midnight resilience",
+      "fans debating kindness strategy"
+    ],
+    "genres": [
+      "Grace Under Pressure",
+      "Midnight Resilience",
+      "Kindness Strategy",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that grace under pressure was not included in the original plan.",
+      "I have reviewed the situation and selected midnight resilience."
+    ],
+    "reviews": [
+      "Excellent grace under pressure. Concerning midnight resilience.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited kindness strategy."
+    ],
+    "morals": [
+      "Grace under pressure works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses midnight resilience before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does grace under pressure shape the central choices?",
+      "Would the story still work without midnight resilience?"
+    ]
+  },
+  "maleficent": {
+    "name": "Maleficent",
+    "type": "Character",
+    "key": "disney_sleeping",
+    "related": [
+      "Sleeping Beauty",
+      "Once Upon a Dream",
+      "Aurora"
+    ],
+    "mild": [
+      "A character defined by pride, power, theatricality, and an extreme reaction to exclusion, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining invitation grievance, dramatic sorcery, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include invitation grievance, curse escalation, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of invitation grievance and dramatic sorcery becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying invitation grievance",
+      "librarians tracking dramatic sorcery",
+      "fans debating curse escalation"
+    ],
+    "genres": [
+      "Invitation Grievance",
+      "Dramatic Sorcery",
+      "Curse Escalation",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that invitation grievance was not included in the original plan.",
+      "I have reviewed the situation and selected dramatic sorcery."
+    ],
+    "reviews": [
+      "Excellent invitation grievance. Concerning dramatic sorcery.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited curse escalation."
+    ],
+    "morals": [
+      "Invitation grievance works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses dramatic sorcery before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does invitation grievance shape the central choices?",
+      "Would the story still work without dramatic sorcery?"
+    ]
+  },
+  "aladdin character": {
+    "name": "Aladdin",
+    "type": "Character",
+    "key": "disney_aladdin",
+    "related": [
+      "Aladdin",
+      "Princess Jasmine",
+      "A Whole New World"
+    ],
+    "mild": [
+      "A character defined by resourcefulness, insecurity, generosity, and desire to be seen as worthy, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining streetwise improvisation, identity insecurity, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include streetwise improvisation, generous risk taking, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of streetwise improvisation and identity insecurity becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying streetwise improvisation",
+      "librarians tracking identity insecurity",
+      "fans debating generous risk taking"
+    ],
+    "genres": [
+      "Streetwise Improvisation",
+      "Identity Insecurity",
+      "Generous Risk Taking",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that streetwise improvisation was not included in the original plan.",
+      "I have reviewed the situation and selected identity insecurity."
+    ],
+    "reviews": [
+      "Excellent streetwise improvisation. Concerning identity insecurity.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited generous risk taking."
+    ],
+    "morals": [
+      "Streetwise improvisation works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses identity insecurity before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does streetwise improvisation shape the central choices?",
+      "Would the story still work without identity insecurity?"
+    ]
+  },
+  "princess jasmine": {
+    "name": "Princess Jasmine",
+    "type": "Character",
+    "key": "disney_aladdin",
+    "related": [
+      "Aladdin",
+      "Aladdin Character",
+      "A Whole New World"
+    ],
+    "mild": [
+      "A character defined by independence, confidence, compassion, and resistance to being controlled, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining royal independence, direct communication, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include royal independence, palace-boundary enforcement, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of royal independence and direct communication becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying royal independence",
+      "librarians tracking direct communication",
+      "fans debating palace-boundary enforcement"
+    ],
+    "genres": [
+      "Royal Independence",
+      "Direct Communication",
+      "Palace-Boundary Enforcement",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that royal independence was not included in the original plan.",
+      "I have reviewed the situation and selected direct communication."
+    ],
+    "reviews": [
+      "Excellent royal independence. Concerning direct communication.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited palace-boundary enforcement."
+    ],
+    "morals": [
+      "Royal independence works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses direct communication before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does royal independence shape the central choices?",
+      "Would the story still work without direct communication?"
+    ]
+  },
+  "elsa": {
+    "name": "Elsa",
+    "type": "Character",
+    "key": "disney_frozen",
+    "related": [
+      "Frozen",
+      "Anna",
+      "Conceal Don't Feel"
+    ],
+    "mild": [
+      "A character defined by self-control, fear, responsibility, isolation, and eventual self-acceptance, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining ice-power control, protective isolation, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include ice-power control, self-acceptance, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of ice-power control and protective isolation becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying ice-power control",
+      "librarians tracking protective isolation",
+      "fans debating self-acceptance"
+    ],
+    "genres": [
+      "Ice-Power Control",
+      "Protective Isolation",
+      "Self-Acceptance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that ice-power control was not included in the original plan.",
+      "I have reviewed the situation and selected protective isolation."
+    ],
+    "reviews": [
+      "Excellent ice-power control. Concerning protective isolation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited self-acceptance."
+    ],
+    "morals": [
+      "Ice-power control works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses protective isolation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does ice-power control shape the central choices?",
+      "Would the story still work without protective isolation?"
+    ]
+  },
+  "anna": {
+    "name": "Anna",
+    "type": "Character",
+    "key": "disney_frozen",
+    "related": [
+      "Frozen",
+      "Elsa",
+      "Conceal Don't Feel"
+    ],
+    "mild": [
+      "A character defined by optimism, loyalty, impulsiveness, and persistent love for her sister, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining relentless optimism, sisterly loyalty, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include relentless optimism, impulsive trust, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of relentless optimism and sisterly loyalty becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying relentless optimism",
+      "librarians tracking sisterly loyalty",
+      "fans debating impulsive trust"
+    ],
+    "genres": [
+      "Relentless Optimism",
+      "Sisterly Loyalty",
+      "Impulsive Trust",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that relentless optimism was not included in the original plan.",
+      "I have reviewed the situation and selected sisterly loyalty."
+    ],
+    "reviews": [
+      "Excellent relentless optimism. Concerning sisterly loyalty.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited impulsive trust."
+    ],
+    "morals": [
+      "Relentless optimism works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses sisterly loyalty before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does relentless optimism shape the central choices?",
+      "Would the story still work without sisterly loyalty?"
+    ]
+  },
+  "rapunzel": {
+    "name": "Rapunzel",
+    "type": "Character",
+    "key": "disney_tangled",
+    "related": [
+      "Tangled",
+      "What Once Was Mine",
+      "Mother Gothel"
+    ],
+    "mild": [
+      "A character defined by curiosity, creativity, courage, and emerging independence, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining tower-born curiosity, creative resilience, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include tower-born curiosity, independence discovery, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of tower-born curiosity and creative resilience becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying tower-born curiosity",
+      "librarians tracking creative resilience",
+      "fans debating independence discovery"
+    ],
+    "genres": [
+      "Tower-Born Curiosity",
+      "Creative Resilience",
+      "Independence Discovery",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that tower-born curiosity was not included in the original plan.",
+      "I have reviewed the situation and selected creative resilience."
+    ],
+    "reviews": [
+      "Excellent tower-born curiosity. Concerning creative resilience.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited independence discovery."
+    ],
+    "morals": [
+      "Tower-born curiosity works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses creative resilience before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does tower-born curiosity shape the central choices?",
+      "Would the story still work without creative resilience?"
+    ]
+  },
+  "moana character": {
+    "name": "Moana",
+    "type": "Character",
+    "key": "disney_moana",
+    "related": [
+      "Moana",
+      "How Far I'll Go",
+      "Maui"
+    ],
+    "mild": [
+      "A character defined by leadership, empathy, navigation, perseverance, and connection to her people, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining ocean leadership, navigator persistence, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include ocean leadership, community responsibility, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of ocean leadership and navigator persistence becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying ocean leadership",
+      "librarians tracking navigator persistence",
+      "fans debating community responsibility"
+    ],
+    "genres": [
+      "Ocean Leadership",
+      "Navigator Persistence",
+      "Community Responsibility",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that ocean leadership was not included in the original plan.",
+      "I have reviewed the situation and selected navigator persistence."
+    ],
+    "reviews": [
+      "Excellent ocean leadership. Concerning navigator persistence.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited community responsibility."
+    ],
+    "morals": [
+      "Ocean leadership works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses navigator persistence before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does ocean leadership shape the central choices?",
+      "Would the story still work without navigator persistence?"
+    ]
+  },
+  "hercules character": {
+    "name": "Hercules",
+    "type": "Character",
+    "key": "disney_hercules",
+    "related": [
+      "Hercules",
+      "Megara",
+      "Go the Distance"
+    ],
+    "mild": [
+      "A character defined by strength, earnestness, insecurity, and a growing understanding of true heroism, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining strength management, hero identity, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include strength management, earnest compassion, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of strength management and hero identity becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying strength management",
+      "librarians tracking hero identity",
+      "fans debating earnest compassion"
+    ],
+    "genres": [
+      "Strength Management",
+      "Hero Identity",
+      "Earnest Compassion",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that strength management was not included in the original plan.",
+      "I have reviewed the situation and selected hero identity."
+    ],
+    "reviews": [
+      "Excellent strength management. Concerning hero identity.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited earnest compassion."
+    ],
+    "morals": [
+      "Strength management works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses hero identity before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does strength management shape the central choices?",
+      "Would the story still work without hero identity?"
+    ]
+  },
+  "tiana": {
+    "name": "Tiana",
+    "type": "Character",
+    "key": "disney_tiana",
+    "related": [
+      "The Princess and the Frog",
+      "Almost There",
+      "Prince Naveen"
+    ],
+    "mild": [
+      "A character defined by discipline, ambition, practicality, and learning to balance work with connection, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining entrepreneurial discipline, restaurant ambition, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include entrepreneurial discipline, work-life balance, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of entrepreneurial discipline and restaurant ambition becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying entrepreneurial discipline",
+      "librarians tracking restaurant ambition",
+      "fans debating work-life balance"
+    ],
+    "genres": [
+      "Entrepreneurial Discipline",
+      "Restaurant Ambition",
+      "Work-Life Balance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that entrepreneurial discipline was not included in the original plan.",
+      "I have reviewed the situation and selected restaurant ambition."
+    ],
+    "reviews": [
+      "Excellent entrepreneurial discipline. Concerning restaurant ambition.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited work-life balance."
+    ],
+    "morals": [
+      "Entrepreneurial discipline works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses restaurant ambition before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does entrepreneurial discipline shape the central choices?",
+      "Would the story still work without restaurant ambition?"
+    ]
+  },
+  "simba": {
+    "name": "Simba",
+    "type": "Character",
+    "key": "disney_lionking",
+    "related": [
+      "The Lion King",
+      "Scar",
+      "Be Prepared"
+    ],
+    "mild": [
+      "A character defined by playfulness, guilt, avoidance, courage, and eventual acceptance of responsibility, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining heir development, responsibility avoidance, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include heir development, courageous return, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of heir development and responsibility avoidance becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying heir development",
+      "librarians tracking responsibility avoidance",
+      "fans debating courageous return"
+    ],
+    "genres": [
+      "Heir Development",
+      "Responsibility Avoidance",
+      "Courageous Return",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that heir development was not included in the original plan.",
+      "I have reviewed the situation and selected responsibility avoidance."
+    ],
+    "reviews": [
+      "Excellent heir development. Concerning responsibility avoidance.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited courageous return."
+    ],
+    "morals": [
+      "Heir development works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses responsibility avoidance before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does heir development shape the central choices?",
+      "Would the story still work without responsibility avoidance?"
+    ]
+  },
+  "scar": {
+    "name": "Scar",
+    "type": "Character",
+    "key": "disney_lionking",
+    "related": [
+      "The Lion King",
+      "Simba",
+      "Be Prepared"
+    ],
+    "mild": [
+      "A character defined by resentment, intelligence, manipulation, theatricality, and hunger for power, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining succession resentment, strategic manipulation, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include succession resentment, villainous presentation, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of succession resentment and strategic manipulation becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying succession resentment",
+      "librarians tracking strategic manipulation",
+      "fans debating villainous presentation"
+    ],
+    "genres": [
+      "Succession Resentment",
+      "Strategic Manipulation",
+      "Villainous Presentation",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that succession resentment was not included in the original plan.",
+      "I have reviewed the situation and selected strategic manipulation."
+    ],
+    "reviews": [
+      "Excellent succession resentment. Concerning strategic manipulation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited villainous presentation."
+    ],
+    "morals": [
+      "Succession resentment works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses strategic manipulation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does succession resentment shape the central choices?",
+      "Would the story still work without strategic manipulation?"
+    ]
+  },
+  "mirabel": {
+    "name": "Mirabel",
+    "type": "Character",
+    "key": "disney_encanto",
+    "related": [
+      "Encanto",
+      "Waiting on a Miracle",
+      "Bruno"
+    ],
+    "mild": [
+      "A character defined by empathy, persistence, observation, and strength without a magical gift, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining gift-free leadership, family insight, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include gift-free leadership, persistent empathy, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of gift-free leadership and family insight becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying gift-free leadership",
+      "librarians tracking family insight",
+      "fans debating persistent empathy"
+    ],
+    "genres": [
+      "Gift-Free Leadership",
+      "Family Insight",
+      "Persistent Empathy",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that gift-free leadership was not included in the original plan.",
+      "I have reviewed the situation and selected family insight."
+    ],
+    "reviews": [
+      "Excellent gift-free leadership. Concerning family insight.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited persistent empathy."
+    ],
+    "morals": [
+      "Gift-free leadership works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses family insight before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does gift-free leadership shape the central choices?",
+      "Would the story still work without family insight?"
+    ]
+  },
+  "merida": {
+    "name": "Merida",
+    "type": "Character",
+    "key": "disney_brave",
+    "related": [
+      "Brave",
+      "Fate Be Changed",
+      "Queen Elinor"
+    ],
+    "mild": [
+      "A character defined by independence, skill, stubbornness, courage, and growing empathy, with strengths and flaws that repeatedly shape their choices."
+    ],
+    "silly": [
+      "A highly specific personality combining archery confidence, tradition resistance, and a strong resistance to ordinary solutions.",
+      "A character whose main talents include archery confidence, family repair, and making every entrance emotionally significant."
+    ],
+    "wild": [
+      "A walking concentration of archery confidence and tradition resistance becomes the kingdom’s most memorable risk factor.",
+      "One personality trait develops a costume, a soundtrack, and full decision-making authority."
+    ],
+    "audiences": [
+      "readers studying archery confidence",
+      "librarians tracking tradition resistance",
+      "fans debating family repair"
+    ],
+    "genres": [
+      "Archery Confidence",
+      "Tradition Resistance",
+      "Family Repair",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that archery confidence was not included in the original plan.",
+      "I have reviewed the situation and selected tradition resistance."
+    ],
+    "reviews": [
+      "Excellent archery confidence. Concerning tradition resistance.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited family repair."
+    ],
+    "morals": [
+      "Archery confidence works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses tradition resistance before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does archery confidence shape the central choices?",
+      "Would the story still work without tradition resistance?"
+    ]
+  },
+  "disney twisted tales": {
+    "name": "Disney A Twisted Tale",
+    "type": "Book Series",
+    "key": "twisted",
+    "related": [
+      "A Whole New World",
+      "Reflection",
+      "Part of Your World",
+      "Fate Be Changed"
+    ],
+    "mild": [
+      "A multi-book collection repeatedly revisits alternate versions of familiar disney stories through increasingly complicated alternate outcomes."
+    ],
+    "silly": [
+      "Disney history enters a scenario-planning workshop where every familiar ending is politely dismantled.",
+      "A series asks one harmless 'what if?' and then gives an entire kingdom several hundred pages of consequences."
+    ],
+    "wild": [
+      "Every happily-ever-after is sent back for revision by the Department of Narrative Chaos.",
+      "Classic stories enter alternate-universe quality control and emerge with significantly more paperwork."
+    ],
+    "audiences": [
+      "readers studying alternate-ending design",
+      "librarians tracking fairy-tale scenario planning",
+      "fans debating narrative consequence management"
+    ],
+    "genres": [
+      "Alternate-Ending Design",
+      "Fairy-Tale Scenario Planning",
+      "Narrative Consequence Management",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that alternate-ending design was not included in the original plan.",
+      "I have reviewed the situation and selected fairy-tale scenario planning."
+    ],
+    "reviews": [
+      "Excellent alternate-ending design. Concerning fairy-tale scenario planning.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited narrative consequence management."
+    ],
+    "morals": [
+      "Alternate-ending design works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses fairy-tale scenario planning before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does alternate-ending design shape the central choices?",
+      "Would the story still work without fairy-tale scenario planning?"
+    ]
+  },
+  "a whole new world": {
+    "name": "A Whole New World",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Aladdin",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Aladdin had never found the lamp? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Aladdin had never found the lamp? becomes a full-scale administrative emergency involving lamp-free strategy, Jafar escalation, and one avoidable misunderstanding.",
+      "A familiar tale about what if aladdin had never found the lamp? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Lamp-free strategy collides with Jafar escalation and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving alternate Agrabah."
+    ],
+    "audiences": [
+      "readers studying lamp-free strategy",
+      "librarians tracking Jafar escalation",
+      "fans debating alternate Agrabah"
+    ],
+    "genres": [
+      "Lamp-Free Strategy",
+      "Jafar Escalation",
+      "Alternate Agrabah",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Aladdin had never found the lamp?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent lamp-free strategy. Concerning Jafar escalation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited alternate Agrabah."
+    ],
+    "morals": [
+      "Lamp-free strategy works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses Jafar escalation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Aladdin?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "once upon a dream": {
+    "name": "Once Upon a Dream",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Sleeping Beauty",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Sleeping Beauty never woke up? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Sleeping Beauty never woke up? becomes a full-scale administrative emergency involving dream-world governance, sleeping-curse expansion, and one avoidable misunderstanding.",
+      "A familiar tale about what if sleeping beauty never woke up? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Dream-world governance collides with sleeping-curse expansion and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving Maleficent control."
+    ],
+    "audiences": [
+      "readers studying dream-world governance",
+      "librarians tracking sleeping-curse expansion",
+      "fans debating Maleficent control"
+    ],
+    "genres": [
+      "Dream-World Governance",
+      "Sleeping-Curse Expansion",
+      "Maleficent Control",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Sleeping Beauty never woke up?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent dream-world governance. Concerning sleeping-curse expansion.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited Maleficent control."
+    ],
+    "morals": [
+      "Dream-world governance works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses sleeping-curse expansion before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Sleeping Beauty?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "as old as time": {
+    "name": "As Old as Time",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Beauty and the Beast",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Belle's mother cursed the Beast? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Belle's mother cursed the Beast? becomes a full-scale administrative emergency involving family-curse history, enchanted-castle investigation, and one avoidable misunderstanding.",
+      "A familiar tale about what if belle's mother cursed the beast? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Family-curse history collides with enchanted-castle investigation and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving maternal mystery."
+    ],
+    "audiences": [
+      "readers studying family-curse history",
+      "librarians tracking enchanted-castle investigation",
+      "fans debating maternal mystery"
+    ],
+    "genres": [
+      "Family-Curse History",
+      "Enchanted-Castle Investigation",
+      "Maternal Mystery",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Belle's mother cursed the Beast?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent family-curse history. Concerning enchanted-castle investigation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited maternal mystery."
+    ],
+    "morals": [
+      "Family-curse history works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses enchanted-castle investigation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Beauty and the Beast?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "reflection": {
+    "name": "Reflection",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Mulan",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Mulan had to travel to the Underworld? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Mulan had to travel to the Underworld? becomes a full-scale administrative emergency involving underworld travel, family honor, and one avoidable misunderstanding.",
+      "A familiar tale about what if mulan had to travel to the underworld? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Underworld travel collides with family honor and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving warrior persistence."
+    ],
+    "audiences": [
+      "readers studying underworld travel",
+      "librarians tracking family honor",
+      "fans debating warrior persistence"
+    ],
+    "genres": [
+      "Underworld Travel",
+      "Family Honor",
+      "Warrior Persistence",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Mulan had to travel to the Underworld?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent underworld travel. Concerning family honor.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited warrior persistence."
+    ],
+    "morals": [
+      "Underworld travel works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses family honor before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Mulan?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "part of your world": {
+    "name": "Part of Your World",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "The Little Mermaid",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Ariel had never defeated Ursula? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Ariel had never defeated Ursula? becomes a full-scale administrative emergency involving sea-witch government, voice recovery, and one avoidable misunderstanding.",
+      "A familiar tale about what if ariel had never defeated ursula? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Sea-witch government collides with voice recovery and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving undersea resistance."
+    ],
+    "audiences": [
+      "readers studying sea-witch government",
+      "librarians tracking voice recovery",
+      "fans debating undersea resistance"
+    ],
+    "genres": [
+      "Sea-Witch Government",
+      "Voice Recovery",
+      "Undersea Resistance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Ariel had never defeated Ursula?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent sea-witch government. Concerning voice recovery.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited undersea resistance."
+    ],
+    "morals": [
+      "Sea-witch government works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses voice recovery before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of The Little Mermaid?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "mirror mirror": {
+    "name": "Mirror, Mirror",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Snow White",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if the Evil Queen poisoned the prince? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if the Evil Queen poisoned the prince? becomes a full-scale administrative emergency involving mirror intelligence, royal poisoning, and one avoidable misunderstanding.",
+      "A familiar tale about what if the evil queen poisoned the prince? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Mirror intelligence collides with royal poisoning and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving princess resistance."
+    ],
+    "audiences": [
+      "readers studying mirror intelligence",
+      "librarians tracking royal poisoning",
+      "fans debating princess resistance"
+    ],
+    "genres": [
+      "Mirror Intelligence",
+      "Royal Poisoning",
+      "Princess Resistance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if the Evil Queen poisoned the prince?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent mirror intelligence. Concerning royal poisoning.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited princess resistance."
+    ],
+    "morals": [
+      "Mirror intelligence works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses royal poisoning before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Snow White?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "conceal dont feel": {
+    "name": "Conceal, Don't Feel",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Frozen",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Anna and Elsa never knew each other? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Anna and Elsa never knew each other? becomes a full-scale administrative emergency involving separated-sister mystery, ice-power discovery, and one avoidable misunderstanding.",
+      "A familiar tale about what if anna and elsa never knew each other? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Separated-sister mystery collides with ice-power discovery and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving royal identity."
+    ],
+    "audiences": [
+      "readers studying separated-sister mystery",
+      "librarians tracking ice-power discovery",
+      "fans debating royal identity"
+    ],
+    "genres": [
+      "Separated-Sister Mystery",
+      "Ice-Power Discovery",
+      "Royal Identity",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Anna and Elsa never knew each other?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent separated-sister mystery. Concerning ice-power discovery.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited royal identity."
+    ],
+    "morals": [
+      "Separated-sister mystery works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses ice-power discovery before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Frozen?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "straight on till morning": {
+    "name": "Straight On Till Morning",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Peter Pan",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Wendy traveled to Never Land with Captain Hook? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Wendy traveled to Never Land with Captain Hook? becomes a full-scale administrative emergency involving Hook-led travel, Wendy independence, and one avoidable misunderstanding.",
+      "A familiar tale about what if wendy traveled to never land with captain hook? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Hook-led travel collides with Wendy independence and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving Neverland alliance."
+    ],
+    "audiences": [
+      "readers studying Hook-led travel",
+      "librarians tracking Wendy independence",
+      "fans debating Neverland alliance"
+    ],
+    "genres": [
+      "Hook-Led Travel",
+      "Wendy Independence",
+      "Neverland Alliance",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Wendy traveled to Never Land with Captain Hook?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent Hook-led travel. Concerning Wendy independence.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited Neverland alliance."
+    ],
+    "morals": [
+      "Hook-led travel works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses Wendy independence before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Peter Pan?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "so this is love": {
+    "name": "So This Is Love",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Cinderella",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Cinderella never tried on the glass slipper? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Cinderella never tried on the glass slipper? becomes a full-scale administrative emergency involving slipper-free romance, palace employment, and one avoidable misunderstanding.",
+      "A familiar tale about what if cinderella never tried on the glass slipper? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Slipper-free romance collides with palace employment and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving identity rediscovery."
+    ],
+    "audiences": [
+      "readers studying slipper-free romance",
+      "librarians tracking palace employment",
+      "fans debating identity rediscovery"
+    ],
+    "genres": [
+      "Slipper-Free Romance",
+      "Palace Employment",
+      "Identity Rediscovery",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Cinderella never tried on the glass slipper?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent slipper-free romance. Concerning palace employment.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited identity rediscovery."
+    ],
+    "morals": [
+      "Slipper-free romance works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses palace employment before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Cinderella?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "unbirthday": {
+    "name": "Unbirthday",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Alice in Wonderland",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Wonderland was in peril and Alice was very late? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Wonderland was in peril and Alice was very late? becomes a full-scale administrative emergency involving late-return crisis, Wonderland rescue, and one avoidable misunderstanding.",
+      "A familiar tale about what if wonderland was in peril and alice was very late? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Late-return crisis collides with Wonderland rescue and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving grown-up Alice."
+    ],
+    "audiences": [
+      "readers studying late-return crisis",
+      "librarians tracking Wonderland rescue",
+      "fans debating grown-up Alice"
+    ],
+    "genres": [
+      "Late-Return Crisis",
+      "Wonderland Rescue",
+      "Grown-Up Alice",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Wonderland was in peril and Alice was very late?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent late-return crisis. Concerning Wonderland rescue.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited grown-up Alice."
+    ],
+    "morals": [
+      "Late-return crisis works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses Wonderland rescue before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Alice in Wonderland?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "go the distance": {
+    "name": "Go the Distance",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Hercules",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Meg had to become a Greek god? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Meg had to become a Greek god? becomes a full-scale administrative emergency involving Megara divinity, Olympian qualification, and one avoidable misunderstanding.",
+      "A familiar tale about what if meg had to become a greek god? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Megara divinity collides with Olympian qualification and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving underworld consequences."
+    ],
+    "audiences": [
+      "readers studying Megara divinity",
+      "librarians tracking Olympian qualification",
+      "fans debating underworld consequences"
+    ],
+    "genres": [
+      "Megara Divinity",
+      "Olympian Qualification",
+      "Underworld Consequences",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Meg had to become a Greek god?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent Megara divinity. Concerning Olympian qualification.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited underworld consequences."
+    ],
+    "morals": [
+      "Megara divinity works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses Olympian qualification before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Hercules?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "what once was mine": {
+    "name": "What Once Was Mine",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Tangled",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Rapunzel's mother drank from the wrong flower? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Rapunzel's mother drank from the wrong flower? becomes a full-scale administrative emergency involving alternate magic, royal-family change, and one avoidable misunderstanding.",
+      "A familiar tale about what if rapunzel's mother drank from the wrong flower? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Alternate magic collides with royal-family change and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving tower mystery."
+    ],
+    "audiences": [
+      "readers studying alternate magic",
+      "librarians tracking royal-family change",
+      "fans debating tower mystery"
+    ],
+    "genres": [
+      "Alternate Magic",
+      "Royal-Family Change",
+      "Tower Mystery",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Rapunzel's mother drank from the wrong flower?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent alternate magic. Concerning royal-family change.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited tower mystery."
+    ],
+    "morals": [
+      "Alternate magic works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses royal-family change before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Tangled?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "almost there": {
+    "name": "Almost There",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "The Princess and the Frog",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Tiana made a deal that changed everything? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Tiana made a deal that changed everything? becomes a full-scale administrative emergency involving dream bargain, New Orleans magic, and one avoidable misunderstanding.",
+      "A familiar tale about what if tiana made a deal that changed everything? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Dream bargain collides with New Orleans magic and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving restaurant destiny."
+    ],
+    "audiences": [
+      "readers studying dream bargain",
+      "librarians tracking New Orleans magic",
+      "fans debating restaurant destiny"
+    ],
+    "genres": [
+      "Dream Bargain",
+      "New Orleans Magic",
+      "Restaurant Destiny",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Tiana made a deal that changed everything?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent dream bargain. Concerning New Orleans magic.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited restaurant destiny."
+    ],
+    "morals": [
+      "Dream bargain works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses New Orleans magic before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of The Princess and the Frog?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "when you wish upon a star": {
+    "name": "When You Wish Upon a Star",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Pinocchio",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if the Blue Fairy were not the one who brought Pinocchio to life? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if the Blue Fairy were not the one who brought Pinocchio to life? becomes a full-scale administrative emergency involving alternate creator, wish mechanics, and one avoidable misunderstanding.",
+      "A familiar tale about what if the blue fairy were not the one who brought pinocchio to life? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Alternate creator collides with wish mechanics and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving wooden-boy identity."
+    ],
+    "audiences": [
+      "readers studying alternate creator",
+      "librarians tracking wish mechanics",
+      "fans debating wooden-boy identity"
+    ],
+    "genres": [
+      "Alternate Creator",
+      "Wish Mechanics",
+      "Wooden-Boy Identity",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if the Blue Fairy were not the one who brought Pinocchio to life?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent alternate creator. Concerning wish mechanics.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited wooden-boy identity."
+    ],
+    "morals": [
+      "Alternate creator works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses wish mechanics before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Pinocchio?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "set in stone": {
+    "name": "Set in Stone",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "The Sword in the Stone",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Arthur were not the only one who could pull the sword? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Arthur were not the only one who could pull the sword? becomes a full-scale administrative emergency involving shared destiny, alternate monarch, and one avoidable misunderstanding.",
+      "A familiar tale about what if arthur were not the only one who could pull the sword? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Shared destiny collides with alternate monarch and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving Camelot succession."
+    ],
+    "audiences": [
+      "readers studying shared destiny",
+      "librarians tracking alternate monarch",
+      "fans debating Camelot succession"
+    ],
+    "genres": [
+      "Shared Destiny",
+      "Alternate Monarch",
+      "Camelot Succession",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Arthur were not the only one who could pull the sword?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent shared destiny. Concerning alternate monarch.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited Camelot succession."
+    ],
+    "morals": [
+      "Shared destiny works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses alternate monarch before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of The Sword in the Stone?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "suddenly super": {
+    "name": "Suddenly Super",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "The Incredibles",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Violet became an agent before her family returned to hero work? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Violet became an agent before her family returned to hero work? becomes a full-scale administrative emergency involving young-hero agency, secret identity, and one avoidable misunderstanding.",
+      "A familiar tale about what if violet became an agent before her family returned to hero work? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Young-hero agency collides with secret identity and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving super-family operations."
+    ],
+    "audiences": [
+      "readers studying young-hero agency",
+      "librarians tracking secret identity",
+      "fans debating super-family operations"
+    ],
+    "genres": [
+      "Young-Hero Agency",
+      "Secret Identity",
+      "Super-Family Operations",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Violet became an agent before her family returned to hero work?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent young-hero agency. Concerning secret identity.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited super-family operations."
+    ],
+    "morals": [
+      "Young-hero agency works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses secret identity before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of The Incredibles?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "fate be changed": {
+    "name": "Fate Be Changed",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Brave",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Merida's mother faced a different magical fate? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Merida's mother faced a different magical fate? becomes a full-scale administrative emergency involving fate revision, mother-daughter rescue, and one avoidable misunderstanding.",
+      "A familiar tale about what if merida's mother faced a different magical fate? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Fate revision collides with mother-daughter rescue and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving Scottish magic."
+    ],
+    "audiences": [
+      "readers studying fate revision",
+      "librarians tracking mother-daughter rescue",
+      "fans debating Scottish magic"
+    ],
+    "genres": [
+      "Fate Revision",
+      "Mother-Daughter Rescue",
+      "Scottish Magic",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Merida's mother faced a different magical fate?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent fate revision. Concerning mother-daughter rescue.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited Scottish magic."
+    ],
+    "morals": [
+      "Fate revision works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses mother-daughter rescue before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Brave?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "princess of thieves": {
+    "name": "Princess of Thieves",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Robin Hood",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Maid Marian became an outlaw hero? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Maid Marian became an outlaw hero? becomes a full-scale administrative emergency involving outlaw princess, Nottingham resistance, and one avoidable misunderstanding.",
+      "A familiar tale about what if maid marian became an outlaw hero? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Outlaw princess collides with Nottingham resistance and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving archery rebellion."
+    ],
+    "audiences": [
+      "readers studying outlaw princess",
+      "librarians tracking Nottingham resistance",
+      "fans debating archery rebellion"
+    ],
+    "genres": [
+      "Outlaw Princess",
+      "Nottingham Resistance",
+      "Archery Rebellion",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Maid Marian became an outlaw hero?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent outlaw princess. Concerning Nottingham resistance.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited archery rebellion."
+    ],
+    "morals": [
+      "Outlaw princess works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses Nottingham resistance before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Robin Hood?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "sallys lament": {
+    "name": "Sally's Lament",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "The Nightmare Before Christmas",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Sally discovered Christmas Town instead of Jack? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Sally discovered Christmas Town instead of Jack? becomes a full-scale administrative emergency involving Sally leadership, Christmas discovery, and one avoidable misunderstanding.",
+      "A familiar tale about what if sally discovered christmas town instead of jack? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Sally leadership collides with Christmas discovery and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving Halloween diplomacy."
+    ],
+    "audiences": [
+      "readers studying Sally leadership",
+      "librarians tracking Christmas discovery",
+      "fans debating Halloween diplomacy"
+    ],
+    "genres": [
+      "Sally Leadership",
+      "Christmas Discovery",
+      "Halloween Diplomacy",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Sally discovered Christmas Town instead of Jack?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent Sally leadership. Concerning Christmas discovery.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited Halloween diplomacy."
+    ],
+    "morals": [
+      "Sally leadership works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses Christmas discovery before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of The Nightmare Before Christmas?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "be prepared": {
+    "name": "Be Prepared",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "The Lion King",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Scar raised Simba after Mufasa's death? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Scar raised Simba after Mufasa's death? becomes a full-scale administrative emergency involving Scar guardianship, Simba manipulation, and one avoidable misunderstanding.",
+      "A familiar tale about what if scar raised simba after mufasa's death? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Scar guardianship collides with Simba manipulation and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving Pride Lands politics."
+    ],
+    "audiences": [
+      "readers studying Scar guardianship",
+      "librarians tracking Simba manipulation",
+      "fans debating Pride Lands politics"
+    ],
+    "genres": [
+      "Scar Guardianship",
+      "Simba Manipulation",
+      "Pride Lands Politics",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Scar raised Simba after Mufasa's death?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent Scar guardianship. Concerning Simba manipulation.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited Pride Lands politics."
+    ],
+    "morals": [
+      "Scar guardianship works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses Simba manipulation before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of The Lion King?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "cruel truth": {
+    "name": "Cruel Truth",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "One Hundred and One Dalmatians",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Cruella discovered a different path? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Cruella discovered a different path? becomes a full-scale administrative emergency involving Cruella reinvention, fashion ambition, and one avoidable misunderstanding.",
+      "A familiar tale about what if cruella discovered a different path? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Cruella reinvention collides with fashion ambition and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving Dalmatian consequences."
+    ],
+    "audiences": [
+      "readers studying Cruella reinvention",
+      "librarians tracking fashion ambition",
+      "fans debating Dalmatian consequences"
+    ],
+    "genres": [
+      "Cruella Reinvention",
+      "Fashion Ambition",
+      "Dalmatian Consequences",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Cruella discovered a different path?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent Cruella reinvention. Concerning fashion ambition.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited Dalmatian consequences."
+    ],
+    "morals": [
+      "Cruella reinvention works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses fashion ambition before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of One Hundred and One Dalmatians?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "how far ill go": {
+    "name": "How Far I'll Go",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Moana",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Moana's voyage followed a different destiny? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Moana's voyage followed a different destiny? becomes a full-scale administrative emergency involving alternate voyage, ocean calling, and one avoidable misunderstanding.",
+      "A familiar tale about what if moana's voyage followed a different destiny? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Alternate voyage collides with ocean calling and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving island leadership."
+    ],
+    "audiences": [
+      "readers studying alternate voyage",
+      "librarians tracking ocean calling",
+      "fans debating island leadership"
+    ],
+    "genres": [
+      "Alternate Voyage",
+      "Ocean Calling",
+      "Island Leadership",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Moana's voyage followed a different destiny?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent alternate voyage. Concerning ocean calling.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited island leadership."
+    ],
+    "morals": [
+      "Alternate voyage works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses ocean calling before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Moana?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "adventure is out there": {
+    "name": "Adventure Is Out There!",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Up",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if the adventure began differently? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if the adventure began differently? becomes a full-scale administrative emergency involving balloon travel, lost adventure, and one avoidable misunderstanding.",
+      "A familiar tale about what if the adventure began differently? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Balloon travel collides with lost adventure and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving unexpected companionship."
+    ],
+    "audiences": [
+      "readers studying balloon travel",
+      "librarians tracking lost adventure",
+      "fans debating unexpected companionship"
+    ],
+    "genres": [
+      "Balloon Travel",
+      "Lost Adventure",
+      "Unexpected Companionship",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if the adventure began differently?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent balloon travel. Concerning lost adventure.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited unexpected companionship."
+    ],
+    "morals": [
+      "Balloon travel works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses lost adventure before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Up?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "nobody gets left behind": {
+    "name": "Nobody Gets Left Behind",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Lilo & Stitch",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Stitch's arrival changed the family in another way? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Stitch's arrival changed the family in another way? becomes a full-scale administrative emergency involving ohana revision, alien pursuit, and one avoidable misunderstanding.",
+      "A familiar tale about what if stitch's arrival changed the family in another way? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Ohana revision collides with alien pursuit and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving family resilience."
+    ],
+    "audiences": [
+      "readers studying ohana revision",
+      "librarians tracking alien pursuit",
+      "fans debating family resilience"
+    ],
+    "genres": [
+      "Ohana Revision",
+      "Alien Pursuit",
+      "Family Resilience",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Stitch's arrival changed the family in another way?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent ohana revision. Concerning alien pursuit.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited family resilience."
+    ],
+    "morals": [
+      "Ohana revision works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses alien pursuit before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Lilo & Stitch?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "waiting on a miracle": {
+    "name": "Waiting on a Miracle",
+    "type": "Book",
+    "key": "twisted",
+    "related": [
+      "Encanto",
+      "Disney Twisted Tales"
+    ],
+    "mild": [
+      "What if Mirabel received a different miracle? is treated as a manageable story until every character chooses the most dramatic available option."
+    ],
+    "silly": [
+      "What if Mirabel received a different miracle? becomes a full-scale administrative emergency involving alternate gift, family pressure, and one avoidable misunderstanding.",
+      "A familiar tale about what if mirabel received a different miracle? is reclassified as a high-risk group project with unusually musical stakeholders."
+    ],
+    "wild": [
+      "Alternate gift collides with family pressure and creates the least efficient happily-ever-after process on record.",
+      "One fairy-tale problem turns into a kingdom-wide compliance incident involving casita transformation."
+    ],
+    "audiences": [
+      "readers studying alternate gift",
+      "librarians tracking family pressure",
+      "fans debating casita transformation"
+    ],
+    "genres": [
+      "Alternate Gift",
+      "Family Pressure",
+      "Casita Transformation",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Penelope's scenario card: What if Mirabel received a different miracle?",
+      "One changed choice has now affected the entire kingdom."
+    ],
+    "reviews": [
+      "Excellent alternate gift. Concerning family pressure.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited casita transformation."
+    ],
+    "morals": [
+      "Alternate gift works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses family pressure before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does this alternate premise change the meaning of Encanto?",
+      "Which original character trait matters most in the new timeline?"
+    ]
+  },
+  "liz braswell": {
+    "name": "Liz Braswell",
+    "type": "Author",
+    "key": "twisted",
+    "related": [
+      "Disney Twisted Tales",
+      "A Whole New World",
+      "As Old as Time"
+    ],
+    "mild": [
+      "An author known for reshaping familiar stories through reimagining familiar disney narratives through alternate outcomes."
+    ],
+    "silly": [
+      "A writer who takes one beloved ending, rotates it slightly, and watches the entire kingdom lose operational stability.",
+      "An author who treats fairy tales like scenario models with significantly more gowns and curses."
+    ],
+    "wild": [
+      "One writer weaponizes 'what if?' against every stable ending in the library.",
+      "An author turns nostalgia into a controlled narrative detonation."
+    ],
+    "audiences": [
+      "readers studying alternate-story design",
+      "librarians tracking fairy-tale revision",
+      "fans debating consequence mapping"
+    ],
+    "genres": [
+      "Alternate-Story Design",
+      "Fairy-Tale Revision",
+      "Consequence Mapping",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that alternate-story design was not included in the original plan.",
+      "I have reviewed the situation and selected fairy-tale revision."
+    ],
+    "reviews": [
+      "Excellent alternate-story design. Concerning fairy-tale revision.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited consequence mapping."
+    ],
+    "morals": [
+      "Alternate-story design works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses fairy-tale revision before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does alternate-story design shape the central choices?",
+      "Would the story still work without fairy-tale revision?"
+    ]
+  },
+  "elizabeth lim": {
+    "name": "Elizabeth Lim",
+    "type": "Author",
+    "key": "twisted",
+    "related": [
+      "Disney Twisted Tales",
+      "So This Is Love",
+      "Reflection"
+    ],
+    "mild": [
+      "An author known for reshaping familiar stories through blending fantasy, culture, romance, and reimagined fairy tales."
+    ],
+    "silly": [
+      "A writer who takes one beloved ending, rotates it slightly, and watches the entire kingdom lose operational stability.",
+      "An author who treats fairy tales like scenario models with significantly more gowns and curses."
+    ],
+    "wild": [
+      "One writer weaponizes 'what if?' against every stable ending in the library.",
+      "An author turns nostalgia into a controlled narrative detonation."
+    ],
+    "audiences": [
+      "readers studying mythic revision",
+      "librarians tracking romantic fantasy",
+      "fans debating cultural storytelling"
+    ],
+    "genres": [
+      "Mythic Revision",
+      "Romantic Fantasy",
+      "Cultural Storytelling",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that mythic revision was not included in the original plan.",
+      "I have reviewed the situation and selected romantic fantasy."
+    ],
+    "reviews": [
+      "Excellent mythic revision. Concerning romantic fantasy.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited cultural storytelling."
+    ],
+    "morals": [
+      "Mythic revision works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses romantic fantasy before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does mythic revision shape the central choices?",
+      "Would the story still work without romantic fantasy?"
+    ]
+  },
+  "farrah rochon": {
+    "name": "Farrah Rochon",
+    "type": "Author",
+    "key": "twisted",
+    "related": [
+      "Disney Twisted Tales",
+      "Almost There",
+      "Fate Be Changed"
+    ],
+    "mild": [
+      "An author known for reshaping familiar stories through reshaping familiar heroines through agency, ambition, and alternate choices."
+    ],
+    "silly": [
+      "A writer who takes one beloved ending, rotates it slightly, and watches the entire kingdom lose operational stability.",
+      "An author who treats fairy tales like scenario models with significantly more gowns and curses."
+    ],
+    "wild": [
+      "One writer weaponizes 'what if?' against every stable ending in the library.",
+      "An author turns nostalgia into a controlled narrative detonation."
+    ],
+    "audiences": [
+      "readers studying heroine agency",
+      "librarians tracking alternate destiny",
+      "fans debating character-centered revision"
+    ],
+    "genres": [
+      "Heroine Agency",
+      "Alternate Destiny",
+      "Character-Centered Revision",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that heroine agency was not included in the original plan.",
+      "I have reviewed the situation and selected alternate destiny."
+    ],
+    "reviews": [
+      "Excellent heroine agency. Concerning alternate destiny.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited character-centered revision."
+    ],
+    "morals": [
+      "Heroine agency works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses alternate destiny before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does heroine agency shape the central choices?",
+      "Would the story still work without alternate destiny?"
+    ]
+  },
+  "jen calonita": {
+    "name": "Jen Calonita",
+    "type": "Author",
+    "key": "twisted",
+    "related": [
+      "Disney Twisted Tales",
+      "Mirror Mirror",
+      "Conceal Don't Feel"
+    ],
+    "mild": [
+      "An author known for reshaping familiar stories through turning familiar worlds into fast-moving alternate adventures."
+    ],
+    "silly": [
+      "A writer who takes one beloved ending, rotates it slightly, and watches the entire kingdom lose operational stability.",
+      "An author who treats fairy tales like scenario models with significantly more gowns and curses."
+    ],
+    "wild": [
+      "One writer weaponizes 'what if?' against every stable ending in the library.",
+      "An author turns nostalgia into a controlled narrative detonation."
+    ],
+    "audiences": [
+      "readers studying alternate adventure",
+      "librarians tracking royal disruption",
+      "fans debating familiar-world remixing"
+    ],
+    "genres": [
+      "Alternate Adventure",
+      "Royal Disruption",
+      "Familiar-World Remixing",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that alternate adventure was not included in the original plan.",
+      "I have reviewed the situation and selected royal disruption."
+    ],
+    "reviews": [
+      "Excellent alternate adventure. Concerning royal disruption.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited familiar-world remixing."
+    ],
+    "morals": [
+      "Alternate adventure works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses royal disruption before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does alternate adventure shape the central choices?",
+      "Would the story still work without royal disruption?"
+    ]
+  },
+  "mari mancusi": {
+    "name": "Mari Mancusi",
+    "type": "Author",
+    "key": "twisted",
+    "related": [
+      "Disney Twisted Tales",
+      "Princess of Thieves"
+    ],
+    "mild": [
+      "An author known for reshaping familiar stories through combining action, romance, and alternate versions of familiar heroes."
+    ],
+    "silly": [
+      "A writer who takes one beloved ending, rotates it slightly, and watches the entire kingdom lose operational stability.",
+      "An author who treats fairy tales like scenario models with significantly more gowns and curses."
+    ],
+    "wild": [
+      "One writer weaponizes 'what if?' against every stable ending in the library.",
+      "An author turns nostalgia into a controlled narrative detonation."
+    ],
+    "audiences": [
+      "readers studying outlaw adventure",
+      "librarians tracking romantic revision",
+      "fans debating heroic role reversal"
+    ],
+    "genres": [
+      "Outlaw Adventure",
+      "Romantic Revision",
+      "Heroic Role Reversal",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that outlaw adventure was not included in the original plan.",
+      "I have reviewed the situation and selected romantic revision."
+    ],
+    "reviews": [
+      "Excellent outlaw adventure. Concerning romantic revision.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited heroic role reversal."
+    ],
+    "morals": [
+      "Outlaw adventure works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses romantic revision before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does outlaw adventure shape the central choices?",
+      "Would the story still work without romantic revision?"
+    ]
+  },
+  "keala kendall": {
+    "name": "Keala Kendall",
+    "type": "Author",
+    "key": "twisted",
+    "related": [
+      "Disney Twisted Tales",
+      "How Far I'll Go",
+      "Nobody Gets Left Behind"
+    ],
+    "mild": [
+      "An author known for reshaping familiar stories through reimagining disney stories through family, identity, and alternate journeys."
+    ],
+    "silly": [
+      "A writer who takes one beloved ending, rotates it slightly, and watches the entire kingdom lose operational stability.",
+      "An author who treats fairy tales like scenario models with significantly more gowns and curses."
+    ],
+    "wild": [
+      "One writer weaponizes 'what if?' against every stable ending in the library.",
+      "An author turns nostalgia into a controlled narrative detonation."
+    ],
+    "audiences": [
+      "readers studying family-centered fantasy",
+      "librarians tracking alternate journeys",
+      "fans debating identity exploration"
+    ],
+    "genres": [
+      "Family-Centered Fantasy",
+      "Alternate Journeys",
+      "Identity Exploration",
+      "Fairy-Tale Operations"
+    ],
+    "quotes": [
+      "Please note that family-centered fantasy was not included in the original plan.",
+      "I have reviewed the situation and selected alternate journeys."
+    ],
+    "reviews": [
+      "Excellent family-centered fantasy. Concerning alternate journeys.",
+      "The character work was strong; the operational controls were not."
+    ],
+    "trailers": [
+      "One story. One twist. Unlimited identity exploration."
+    ],
+    "morals": [
+      "Family-centered fantasy works best when paired with judgment.",
+      "A familiar story can change completely when one decision changes."
+    ],
+    "endings": [
+      "Everyone discusses alternate journeys before the final act.",
+      "The kingdom adopts clearer communication and avoids the sequel-level emergency."
+    ],
+    "questions": [
+      "How does family-centered fantasy shape the central choices?",
+      "Would the story still work without alternate journeys?"
+    ]
   }
 };
 window.HUMOR_PROFILES = {
@@ -4588,6 +8536,27 @@ window.HUMOR_PROFILES = {
       "When does escape become transformation?"
     ]
   }
+};ty Adventure"
+    ],
+    "quotes": [
+      "The reader is now part of the assignment."
+    ],
+    "reviews": [
+      "Extremely immersive. Proceed carefully."
+    ],
+    "trailers": [
+      "One book. One reader. A world requiring imagination."
+    ],
+    "morals": [
+      "Imagination needs self-knowledge."
+    ],
+    "endings": [
+      "The reader receives responsible wish controls."
+    ],
+    "questions": [
+      "When does escape become transformation?"
+    ]
+  }
 };
 </script>
 <script>
@@ -4793,7 +8762,71 @@ function personalityLine(item,same,lvl){
   return pick(byType[item.type]||PENNY,cycle);
 }
 
-function resolve(q){const n=norm(q);if(DATA[n])return DATA[n];for(const[k,v]of Object.entries(DATA))if(n.includes(k)||k.includes(n))return v;return{name:q||"Untitled Book",type:"Mystery Search",key:"default",related:["Percy Jackson","The Fellowship of the Ring","Harry Potter","Gandalf"],mild:["A normal book becomes an avoidable group project."],silly:["A collection of questionable decisions becomes hardcover.","Everyone ignores the obvious solution because the sequel needs material."],wild:["The plot escapes supervision and begins filing paperwork.","A bookmark becomes the most responsible character."]}}
+
+const SEARCH_ALIASES={
+  "mulan":"mulan",
+  "mulan character":"mulan character",
+  "twisted tales":"disney twisted tales",
+  "a twisted tale":"disney twisted tales",
+  "little mermaid":"the little mermaid",
+  "beauty beast":"beauty and the beast",
+  "101 dalmatians":"one hundred and one dalmatians",
+  "lion king":"the lion king",
+  "princess frog":"the princess and the frog",
+  "lilo stitch":"lilo and stitch",
+  "conceal don't feel":"conceal dont feel",
+  "how far i'll go":"how far ill go",
+  "sally's lament":"sallys lament"
+};
+function levenshtein(a,b){
+  const dp=Array.from({length:a.length+1},()=>Array(b.length+1).fill(0));
+  for(let i=0;i<=a.length;i++)dp[i][0]=i;
+  for(let j=0;j<=b.length;j++)dp[0][j]=j;
+  for(let i=1;i<=a.length;i++)for(let j=1;j<=b.length;j++)
+    dp[i][j]=Math.min(dp[i-1][j]+1,dp[i][j-1]+1,dp[i-1][j-1]+(a[i-1]===b[j-1]?0:1));
+  return dp[a.length][b.length];
+}
+function searchCandidates(q){
+  const n=norm(q), keys=Object.keys(DATA);
+  return keys.map(k=>{
+    const name=norm(DATA[k].name);
+    let score=Math.min(levenshtein(n,k),levenshtein(n,name));
+    if(k.includes(n)||name.includes(n))score-=4;
+    if(n.includes(k)||n.includes(name))score-=2;
+    return {key:k,score};
+  }).sort((a,b)=>a.score-b.score).slice(0,5);
+}
+function showSuggestions(q){
+  const box=document.getElementById("suggestions");
+  if(!box)return;
+  const matches=searchCandidates(q).filter(x=>x.score<=Math.max(4,Math.floor(norm(q).length*.45)));
+  box.innerHTML="";
+  if(!matches.length){box.classList.remove("show");return;}
+  const strong=document.createElement("strong");strong.textContent="Did you mean:";
+  const row=document.createElement("div");row.className="suggestion-buttons";
+  matches.forEach(x=>{
+    const b=document.createElement("button");b.textContent=`${DATA[x.key].name} · ${DATA[x.key].type}`;
+    b.onclick=()=>{document.getElementById("query").value=DATA[x.key].name;box.classList.remove("show");render(DATA[x.key].name)};
+    row.appendChild(b);
+  });
+  const note=document.createElement("div");note.className="search-note";note.textContent="Smart Search checks aliases, partial matches, and spelling distance.";
+  box.append(strong,row,note);box.classList.add("show");
+}
+
+function resolve(q){
+  const n=norm(q);
+  const alias=SEARCH_ALIASES[n];
+  if(alias&&DATA[alias])return DATA[alias];
+  if(DATA[n])return DATA[n];
+  const exactName=Object.values(DATA).find(v=>norm(v.name)===n);
+  if(exactName)return exactName;
+  const partial=Object.entries(DATA).filter(([k,v])=>k.includes(n)||norm(v.name).includes(n)||n.includes(k));
+  if(partial.length===1)return partial[0][1];
+  const candidates=searchCandidates(q);
+  if(candidates.length&&candidates[0].score<=Math.max(2,Math.floor(n.length*.25)))return DATA[candidates[0].key];
+  showSuggestions(q);
+  return{name:q||"Untitled Book",type:"Mystery Search",key:"default",related:["Mulan","Disney Twisted Tales","Beauty and the Beast","The Fellowship of the Ring"],mild:["Penelope checked the shelves but found only a suspicious blank catalog card."],silly:["This title may be checked out or has not entered the misinformation system yet."],wild:["The catalog goose has declared this title officially missing in action."]};
+}
 function render(q,advance=false){if(!q.trim())q="Percy Jackson";const same=norm(q)===norm(current);cycle=(advance||same)?cycle+1:0;searchTotal++;sessionStorage.setItem("penelopeSearchCount",searchTotal);updatePersonalityStatus();current=q;item=resolve(q);const lvl=document.getElementById("level").value,baseProfile=PROFILES[item.key]||PROFILES.default;
 const p={
   audiences:item.audiences||baseProfile.audiences,
@@ -4896,6 +8929,7 @@ function honkPenelope(){
 }
 document.getElementById("searchBtn").onclick=()=>render(document.getElementById("query").value);
 document.getElementById("query").onkeydown=e=>{if(e.key==="Enter")render(e.target.value)};
+document.getElementById("query").addEventListener("input",e=>{if(e.target.value.trim().length>=3)showSuggestions(e.target.value);else{const b=document.getElementById("suggestions");if(b)b.classList.remove("show");}});
 document.getElementById("tryAnother").onclick=()=>render(current,true);
 document.getElementById("makeWorse").onclick=()=>{const l=document.getElementById("level");l.value=l.value==="mild"?"silly":"wild";render(current,true)};
 document.getElementById("goose").onclick=honkPenelope;
