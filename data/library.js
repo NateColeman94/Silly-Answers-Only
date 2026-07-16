@@ -16602,5 +16602,3441 @@ window.PENELOPE_LIBRARY = {
       "How does active compassion shape the central choices?",
       "Would the story still work without adventurous faith?"
     ]
+  },
+  "the final empire": {
+    "name": "The Final Empire",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Mistborn Series",
+      "Vin",
+      "Kelsier",
+      "Brandon Sanderson"
+    ],
+    "mild": [
+      "A street thief joins a revolution where people eat metal for professional reasons."
+    ],
+    "silly": [
+      "A street thief joins a revolution where people eat metal for professional reasons. Penelope has filed the matter under Metal-Based Budgeting.",
+      "The Final Empire turns metal-based budgeting into a full administrative crisis involving heist logistics and insufficient tea.",
+      "A routine case of oppressive sky management becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Metal-Based Budgeting acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of heist logistics escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying metal-based budgeting",
+      "librarians monitoring heist logistics",
+      "book clubs debating oppressive sky management"
+    ],
+    "genres": [
+      "Metal-Based Budgeting",
+      "Heist Logistics",
+      "Oppressive Sky Management",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that metal-based budgeting was not in the original catalog plan.",
+      "I have reviewed heist logistics and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent metal-based budgeting. Concerning heist logistics.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited oppressive sky management. No responsible adult in sight."
+    ],
+    "morals": [
+      "Metal-Based Budgeting works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses heist logistics before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does metal-based budgeting shape the central choices?",
+      "Would the story work without heist logistics?"
+    ]
+  },
+  "the well of ascension": {
+    "name": "The Well of Ascension",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Mistborn Series",
+      "Vin",
+      "Elend Venture"
+    ],
+    "mild": [
+      "Winning the revolution turns out to be easier than running the kingdom."
+    ],
+    "silly": [
+      "Winning the revolution turns out to be easier than running the kingdom. Penelope has filed the matter under Post-Revolution Paperwork.",
+      "The Well of Ascension turns post-revolution paperwork into a full administrative crisis involving siege scheduling and insufficient tea.",
+      "A routine case of mysterious well maintenance becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Post-Revolution Paperwork acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of siege scheduling escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying post-revolution paperwork",
+      "librarians monitoring siege scheduling",
+      "book clubs debating mysterious well maintenance"
+    ],
+    "genres": [
+      "Post-Revolution Paperwork",
+      "Siege Scheduling",
+      "Mysterious Well Maintenance",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that post-revolution paperwork was not in the original catalog plan.",
+      "I have reviewed siege scheduling and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent post-revolution paperwork. Concerning siege scheduling.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited mysterious well maintenance. No responsible adult in sight."
+    ],
+    "morals": [
+      "Post-Revolution Paperwork works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses siege scheduling before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does post-revolution paperwork shape the central choices?",
+      "Would the story work without siege scheduling?"
+    ]
+  },
+  "the hero of ages": {
+    "name": "The Hero of Ages",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Mistborn Series",
+      "Vin",
+      "Sazed"
+    ],
+    "mild": [
+      "The apocalypse arrives with footnotes, ash, and several overdue revelations."
+    ],
+    "silly": [
+      "The apocalypse arrives with footnotes, ash, and several overdue revelations. Penelope has filed the matter under World-Ending Disclosure.",
+      "The Hero of Ages turns world-ending disclosure into a full administrative crisis involving ash cleanup and insufficient tea.",
+      "A routine case of prophecy reconciliation becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "World-Ending Disclosure acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of ash cleanup escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying world-ending disclosure",
+      "librarians monitoring ash cleanup",
+      "book clubs debating prophecy reconciliation"
+    ],
+    "genres": [
+      "World-Ending Disclosure",
+      "Ash Cleanup",
+      "Prophecy Reconciliation",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that world-ending disclosure was not in the original catalog plan.",
+      "I have reviewed ash cleanup and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent world-ending disclosure. Concerning ash cleanup.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited prophecy reconciliation. No responsible adult in sight."
+    ],
+    "morals": [
+      "World-Ending Disclosure works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses ash cleanup before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does world-ending disclosure shape the central choices?",
+      "Would the story work without ash cleanup?"
+    ]
+  },
+  "the way of kings": {
+    "name": "The Way of Kings",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "The Stormlight Archive",
+      "Kaladin",
+      "Shallan",
+      "Dalinar"
+    ],
+    "mild": [
+      "A very long book about bridges, storms, trauma, and people refusing therapy."
+    ],
+    "silly": [
+      "A very long book about bridges, storms, trauma, and people refusing therapy. Penelope has filed the matter under Bridge Crew Labor.",
+      "The Way of Kings turns bridge crew labor into a full administrative crisis involving storm safety and insufficient tea.",
+      "A routine case of honor-based overthinking becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Bridge Crew Labor acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of storm safety escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying bridge crew labor",
+      "librarians monitoring storm safety",
+      "book clubs debating honor-based overthinking"
+    ],
+    "genres": [
+      "Bridge Crew Labor",
+      "Storm Safety",
+      "Honor-Based Overthinking",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that bridge crew labor was not in the original catalog plan.",
+      "I have reviewed storm safety and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent bridge crew labor. Concerning storm safety.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited honor-based overthinking. No responsible adult in sight."
+    ],
+    "morals": [
+      "Bridge Crew Labor works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses storm safety before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does bridge crew labor shape the central choices?",
+      "Would the story work without storm safety?"
+    ]
+  },
+  "words of radiance": {
+    "name": "Words of Radiance",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "The Stormlight Archive",
+      "Kaladin",
+      "Shallan"
+    ],
+    "mild": [
+      "Everyone gains powers except the communications department."
+    ],
+    "silly": [
+      "Everyone gains powers except the communications department. Penelope has filed the matter under Magical Oath Compliance.",
+      "Words of Radiance turns magical oath compliance into a full administrative crisis involving shardblade etiquette and insufficient tea.",
+      "A routine case of secret identity scheduling becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Magical Oath Compliance acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of shardblade etiquette escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying magical oath compliance",
+      "librarians monitoring shardblade etiquette",
+      "book clubs debating secret identity scheduling"
+    ],
+    "genres": [
+      "Magical Oath Compliance",
+      "Shardblade Etiquette",
+      "Secret Identity Scheduling",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that magical oath compliance was not in the original catalog plan.",
+      "I have reviewed shardblade etiquette and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent magical oath compliance. Concerning shardblade etiquette.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited secret identity scheduling. No responsible adult in sight."
+    ],
+    "morals": [
+      "Magical Oath Compliance works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses shardblade etiquette before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does magical oath compliance shape the central choices?",
+      "Would the story work without shardblade etiquette?"
+    ]
+  },
+  "oathbringer": {
+    "name": "Oathbringer",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "The Stormlight Archive",
+      "Dalinar",
+      "Odium"
+    ],
+    "mild": [
+      "A warlord writes a memoir and discovers accountability between chapters."
+    ],
+    "silly": [
+      "A warlord writes a memoir and discovers accountability between chapters. Penelope has filed the matter under Memoir-Based Repentance.",
+      "Oathbringer turns memoir-based repentance into a full administrative crisis involving coalition meetings and insufficient tea.",
+      "A routine case of giant sword administration becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Memoir-Based Repentance acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of coalition meetings escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying memoir-based repentance",
+      "librarians monitoring coalition meetings",
+      "book clubs debating giant sword administration"
+    ],
+    "genres": [
+      "Memoir-Based Repentance",
+      "Coalition Meetings",
+      "Giant Sword Administration",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that memoir-based repentance was not in the original catalog plan.",
+      "I have reviewed coalition meetings and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent memoir-based repentance. Concerning coalition meetings.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited giant sword administration. No responsible adult in sight."
+    ],
+    "morals": [
+      "Memoir-Based Repentance works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses coalition meetings before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does memoir-based repentance shape the central choices?",
+      "Would the story work without coalition meetings?"
+    ]
+  },
+  "rhythm of war": {
+    "name": "Rhythm of War",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "The Stormlight Archive",
+      "Navani",
+      "Kaladin"
+    ],
+    "mild": [
+      "Scientists, singers, and soldiers turn a tower into the least relaxing research lab imaginable."
+    ],
+    "silly": [
+      "Scientists, singers, and soldiers turn a tower into the least relaxing research lab imaginable. Penelope has filed the matter under Magical Acoustics.",
+      "Rhythm of War turns magical acoustics into a full administrative crisis involving tower lockdown and insufficient tea.",
+      "A routine case of scholarly warfare becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Magical Acoustics acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of tower lockdown escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying magical acoustics",
+      "librarians monitoring tower lockdown",
+      "book clubs debating scholarly warfare"
+    ],
+    "genres": [
+      "Magical Acoustics",
+      "Tower Lockdown",
+      "Scholarly Warfare",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that magical acoustics was not in the original catalog plan.",
+      "I have reviewed tower lockdown and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent magical acoustics. Concerning tower lockdown.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited scholarly warfare. No responsible adult in sight."
+    ],
+    "morals": [
+      "Magical Acoustics works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses tower lockdown before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does magical acoustics shape the central choices?",
+      "Would the story work without tower lockdown?"
+    ]
+  },
+  "warbreaker": {
+    "name": "Warbreaker",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Brandon Sanderson",
+      "Vivenna",
+      "Siri",
+      "Lightsong"
+    ],
+    "mild": [
+      "Two princesses, one reluctant god, and a magic system powered by color coordination."
+    ],
+    "silly": [
+      "Two princesses, one reluctant god, and a magic system powered by color coordination. Penelope has filed the matter under Breath Accounting.",
+      "Warbreaker turns breath accounting into a full administrative crisis involving royal substitution and insufficient tea.",
+      "A routine case of color-based theology becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Breath Accounting acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of royal substitution escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying breath accounting",
+      "librarians monitoring royal substitution",
+      "book clubs debating color-based theology"
+    ],
+    "genres": [
+      "Breath Accounting",
+      "Royal Substitution",
+      "Color-Based Theology",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that breath accounting was not in the original catalog plan.",
+      "I have reviewed royal substitution and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent breath accounting. Concerning royal substitution.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited color-based theology. No responsible adult in sight."
+    ],
+    "morals": [
+      "Breath Accounting works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses royal substitution before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does breath accounting shape the central choices?",
+      "Would the story work without royal substitution?"
+    ]
+  },
+  "elantris": {
+    "name": "Elantris",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Brandon Sanderson",
+      "Raoden",
+      "Sarene"
+    ],
+    "mild": [
+      "A glowing city loses its warranty and everyone argues about municipal repairs."
+    ],
+    "silly": [
+      "A glowing city loses its warranty and everyone argues about municipal repairs. Penelope has filed the matter under Cursed City Maintenance.",
+      "Elantris turns cursed city maintenance into a full administrative crisis involving religious politics and insufficient tea.",
+      "A routine case of glow-related infrastructure becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Cursed City Maintenance acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of religious politics escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying cursed city maintenance",
+      "librarians monitoring religious politics",
+      "book clubs debating glow-related infrastructure"
+    ],
+    "genres": [
+      "Cursed City Maintenance",
+      "Religious Politics",
+      "Glow-Related Infrastructure",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that cursed city maintenance was not in the original catalog plan.",
+      "I have reviewed religious politics and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent cursed city maintenance. Concerning religious politics.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited glow-related infrastructure. No responsible adult in sight."
+    ],
+    "morals": [
+      "Cursed City Maintenance works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses religious politics before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does cursed city maintenance shape the central choices?",
+      "Would the story work without religious politics?"
+    ]
+  },
+  "tress of the emerald sea": {
+    "name": "Tress of the Emerald Sea",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Brandon Sanderson",
+      "Tress",
+      "Hoid"
+    ],
+    "mild": [
+      "A practical young woman crosses deadly seas because waiting politely seemed ineffective."
+    ],
+    "silly": [
+      "A practical young woman crosses deadly seas because waiting politely seemed ineffective. Penelope has filed the matter under Spore Ocean Navigation.",
+      "Tress of the Emerald Sea turns spore ocean navigation into a full administrative crisis involving cup collecting and insufficient tea.",
+      "A routine case of pirate competency becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Spore Ocean Navigation acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of cup collecting escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying spore ocean navigation",
+      "librarians monitoring cup collecting",
+      "book clubs debating pirate competency"
+    ],
+    "genres": [
+      "Spore Ocean Navigation",
+      "Cup Collecting",
+      "Pirate Competency",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that spore ocean navigation was not in the original catalog plan.",
+      "I have reviewed cup collecting and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent spore ocean navigation. Concerning cup collecting.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited pirate competency. No responsible adult in sight."
+    ],
+    "morals": [
+      "Spore Ocean Navigation works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses cup collecting before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does spore ocean navigation shape the central choices?",
+      "Would the story work without cup collecting?"
+    ]
+  },
+  "yumi and the nightmare painter": {
+    "name": "Yumi and the Nightmare Painter",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Brandon Sanderson",
+      "Yumi",
+      "Painter"
+    ],
+    "mild": [
+      "Two overworked artists swap lives and immediately inherit each other’s impossible job descriptions."
+    ],
+    "silly": [
+      "Two overworked artists swap lives and immediately inherit each other’s impossible job descriptions. Penelope has filed the matter under Spirit Stacking.",
+      "Yumi and the Nightmare Painter turns spirit stacking into a full administrative crisis involving nightmare cleanup and insufficient tea.",
+      "A routine case of body-swap scheduling becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Spirit Stacking acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of nightmare cleanup escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying spirit stacking",
+      "librarians monitoring nightmare cleanup",
+      "book clubs debating body-swap scheduling"
+    ],
+    "genres": [
+      "Spirit Stacking",
+      "Nightmare Cleanup",
+      "Body-Swap Scheduling",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that spirit stacking was not in the original catalog plan.",
+      "I have reviewed nightmare cleanup and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent spirit stacking. Concerning nightmare cleanup.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited body-swap scheduling. No responsible adult in sight."
+    ],
+    "morals": [
+      "Spirit Stacking works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses nightmare cleanup before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does spirit stacking shape the central choices?",
+      "Would the story work without nightmare cleanup?"
+    ]
+  },
+  "the sunlit man": {
+    "name": "The Sunlit Man",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Brandon Sanderson",
+      "Hoid",
+      "The Cosmere"
+    ],
+    "mild": [
+      "A professional runaway visits planets with extremely strict sunlight policies."
+    ],
+    "silly": [
+      "A professional runaway visits planets with extremely strict sunlight policies. Penelope has filed the matter under Planet Hopping.",
+      "The Sunlit Man turns planet hopping into a full administrative crisis involving sunlight compliance and insufficient tea.",
+      "A routine case of investiture exhaustion becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Planet Hopping acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of sunlight compliance escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying planet hopping",
+      "librarians monitoring sunlight compliance",
+      "book clubs debating investiture exhaustion"
+    ],
+    "genres": [
+      "Planet Hopping",
+      "Sunlight Compliance",
+      "Investiture Exhaustion",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that planet hopping was not in the original catalog plan.",
+      "I have reviewed sunlight compliance and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent planet hopping. Concerning sunlight compliance.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited investiture exhaustion. No responsible adult in sight."
+    ],
+    "morals": [
+      "Planet Hopping works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses sunlight compliance before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does planet hopping shape the central choices?",
+      "Would the story work without sunlight compliance?"
+    ]
+  },
+  "the name of the wind": {
+    "name": "The Name of the Wind",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "The Kingkiller Chronicle",
+      "Kvothe",
+      "Patrick Rothfuss"
+    ],
+    "mild": [
+      "A gifted musician explains for a very long time why all of his problems are technically impressive."
+    ],
+    "silly": [
+      "A gifted musician explains for a very long time why all of his problems are technically impressive. Penelope has filed the matter under Musical Tuition.",
+      "The Name of the Wind turns musical tuition into a full administrative crisis involving legend management and insufficient tea.",
+      "A routine case of innkeeper secrecy becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Musical Tuition acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of legend management escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying musical tuition",
+      "librarians monitoring legend management",
+      "book clubs debating innkeeper secrecy"
+    ],
+    "genres": [
+      "Musical Tuition",
+      "Legend Management",
+      "Innkeeper Secrecy",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that musical tuition was not in the original catalog plan.",
+      "I have reviewed legend management and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent musical tuition. Concerning legend management.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited innkeeper secrecy. No responsible adult in sight."
+    ],
+    "morals": [
+      "Musical Tuition works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses legend management before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does musical tuition shape the central choices?",
+      "Would the story work without legend management?"
+    ]
+  },
+  "the wise mans fear": {
+    "name": "The Wise Man’s Fear",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "The Kingkiller Chronicle",
+      "Kvothe",
+      "Patrick Rothfuss"
+    ],
+    "mild": [
+      "A talented student takes the longest possible route through school, romance, and poor decisions."
+    ],
+    "silly": [
+      "A talented student takes the longest possible route through school, romance, and poor decisions. Penelope has filed the matter under Tuition Avoidance.",
+      "The Wise Man’s Fear turns tuition avoidance into a full administrative crisis involving fae internship and insufficient tea.",
+      "A routine case of reputation inflation becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Tuition Avoidance acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of fae internship escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying tuition avoidance",
+      "librarians monitoring fae internship",
+      "book clubs debating reputation inflation"
+    ],
+    "genres": [
+      "Tuition Avoidance",
+      "Fae Internship",
+      "Reputation Inflation",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that tuition avoidance was not in the original catalog plan.",
+      "I have reviewed fae internship and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent tuition avoidance. Concerning fae internship.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited reputation inflation. No responsible adult in sight."
+    ],
+    "morals": [
+      "Tuition Avoidance works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses fae internship before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does tuition avoidance shape the central choices?",
+      "Would the story work without fae internship?"
+    ]
+  },
+  "the lies of locke lamora": {
+    "name": "The Lies of Locke Lamora",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Gentleman Bastard Series",
+      "Locke Lamora",
+      "Jean Tannen"
+    ],
+    "mild": [
+      "A group of thieves runs elaborate scams with excellent dialogue and terrible health insurance."
+    ],
+    "silly": [
+      "A group of thieves runs elaborate scams with excellent dialogue and terrible health insurance. Penelope has filed the matter under Gentleman Theft.",
+      "The Lies of Locke Lamora turns gentleman theft into a full administrative crisis involving disguise procurement and insufficient tea.",
+      "A routine case of canal-city fraud becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Gentleman Theft acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of disguise procurement escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying gentleman theft",
+      "librarians monitoring disguise procurement",
+      "book clubs debating canal-city fraud"
+    ],
+    "genres": [
+      "Gentleman Theft",
+      "Disguise Procurement",
+      "Canal-City Fraud",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that gentleman theft was not in the original catalog plan.",
+      "I have reviewed disguise procurement and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent gentleman theft. Concerning disguise procurement.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited canal-city fraud. No responsible adult in sight."
+    ],
+    "morals": [
+      "Gentleman Theft works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses disguise procurement before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does gentleman theft shape the central choices?",
+      "Would the story work without disguise procurement?"
+    ]
+  },
+  "red seas under red skies": {
+    "name": "Red Seas Under Red Skies",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Gentleman Bastard Series",
+      "Locke Lamora",
+      "Jean Tannen"
+    ],
+    "mild": [
+      "Two thieves attempt casino fraud and accidentally acquire maritime responsibilities."
+    ],
+    "silly": [
+      "Two thieves attempt casino fraud and accidentally acquire maritime responsibilities. Penelope has filed the matter under Casino Deception.",
+      "Red Seas Under Red Skies turns casino deception into a full administrative crisis involving pirate onboarding and insufficient tea.",
+      "A routine case of naval incompetence becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Casino Deception acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of pirate onboarding escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying casino deception",
+      "librarians monitoring pirate onboarding",
+      "book clubs debating naval incompetence"
+    ],
+    "genres": [
+      "Casino Deception",
+      "Pirate Onboarding",
+      "Naval Incompetence",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that casino deception was not in the original catalog plan.",
+      "I have reviewed pirate onboarding and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent casino deception. Concerning pirate onboarding.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited naval incompetence. No responsible adult in sight."
+    ],
+    "morals": [
+      "Casino Deception works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses pirate onboarding before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does casino deception shape the central choices?",
+      "Would the story work without pirate onboarding?"
+    ]
+  },
+  "jade city": {
+    "name": "Jade City",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Green Bone Saga",
+      "Shae",
+      "Hilo",
+      "Fonda Lee"
+    ],
+    "mild": [
+      "A family business discovers that magical gemstones make succession planning considerably more violent."
+    ],
+    "silly": [
+      "A family business discovers that magical gemstones make succession planning considerably more violent. Penelope has filed the matter under Clan Governance.",
+      "Jade City turns clan governance into a full administrative crisis involving jade licensing and insufficient tea.",
+      "A routine case of family meeting escalation becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Clan Governance acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of jade licensing escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying clan governance",
+      "librarians monitoring jade licensing",
+      "book clubs debating family meeting escalation"
+    ],
+    "genres": [
+      "Clan Governance",
+      "Jade Licensing",
+      "Family Meeting Escalation",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that clan governance was not in the original catalog plan.",
+      "I have reviewed jade licensing and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent clan governance. Concerning jade licensing.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited family meeting escalation. No responsible adult in sight."
+    ],
+    "morals": [
+      "Clan Governance works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses jade licensing before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does clan governance shape the central choices?",
+      "Would the story work without jade licensing?"
+    ]
+  },
+  "jade war": {
+    "name": "Jade War",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Green Bone Saga",
+      "Hilo",
+      "Shae"
+    ],
+    "mild": [
+      "International trade policy becomes personal when everyone is armed with magical jade."
+    ],
+    "silly": [
+      "International trade policy becomes personal when everyone is armed with magical jade. Penelope has filed the matter under Geopolitical Jade.",
+      "Jade War turns geopolitical jade into a full administrative crisis involving family diplomacy and insufficient tea.",
+      "A routine case of airport-level tension becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Geopolitical Jade acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of family diplomacy escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying geopolitical jade",
+      "librarians monitoring family diplomacy",
+      "book clubs debating airport-level tension"
+    ],
+    "genres": [
+      "Geopolitical Jade",
+      "Family Diplomacy",
+      "Airport-Level Tension",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that geopolitical jade was not in the original catalog plan.",
+      "I have reviewed family diplomacy and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent geopolitical jade. Concerning family diplomacy.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited airport-level tension. No responsible adult in sight."
+    ],
+    "morals": [
+      "Geopolitical Jade works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses family diplomacy before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does geopolitical jade shape the central choices?",
+      "Would the story work without family diplomacy?"
+    ]
+  },
+  "jade legacy": {
+    "name": "Jade Legacy",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Green Bone Saga",
+      "Fonda Lee",
+      "Hilo"
+    ],
+    "mild": [
+      "One family spends decades proving that succession planning should not involve this many funerals."
+    ],
+    "silly": [
+      "One family spends decades proving that succession planning should not involve this many funerals. Penelope has filed the matter under Generational Leadership.",
+      "Jade Legacy turns generational leadership into a full administrative crisis involving legacy disputes and insufficient tea.",
+      "A routine case of clan accounting becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Generational Leadership acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of legacy disputes escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying generational leadership",
+      "librarians monitoring legacy disputes",
+      "book clubs debating clan accounting"
+    ],
+    "genres": [
+      "Generational Leadership",
+      "Legacy Disputes",
+      "Clan Accounting",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that generational leadership was not in the original catalog plan.",
+      "I have reviewed legacy disputes and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent generational leadership. Concerning legacy disputes.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited clan accounting. No responsible adult in sight."
+    ],
+    "morals": [
+      "Generational Leadership works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses legacy disputes before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does generational leadership shape the central choices?",
+      "Would the story work without legacy disputes?"
+    ]
+  },
+  "babel": {
+    "name": "Babel",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "R.F. Kuang",
+      "Robin Swift",
+      "The Poppy War"
+    ],
+    "mild": [
+      "Oxford discovers that translation can power an empire and students respond with increasingly direct feedback."
+    ],
+    "silly": [
+      "Oxford discovers that translation can power an empire and students respond with increasingly direct feedback. Penelope has filed the matter under Translation Economics.",
+      "Babel turns translation economics into a full administrative crisis involving academic rebellion and insufficient tea.",
+      "A routine case of silver bar logistics becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Translation Economics acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of academic rebellion escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying translation economics",
+      "librarians monitoring academic rebellion",
+      "book clubs debating silver bar logistics"
+    ],
+    "genres": [
+      "Translation Economics",
+      "Academic Rebellion",
+      "Silver Bar Logistics",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that translation economics was not in the original catalog plan.",
+      "I have reviewed academic rebellion and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent translation economics. Concerning academic rebellion.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited silver bar logistics. No responsible adult in sight."
+    ],
+    "morals": [
+      "Translation Economics works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses academic rebellion before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does translation economics shape the central choices?",
+      "Would the story work without academic rebellion?"
+    ]
+  },
+  "the poppy war": {
+    "name": "The Poppy War",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "The Poppy War Series",
+      "Rin",
+      "R.F. Kuang"
+    ],
+    "mild": [
+      "A brilliant student enters military school and finds the curriculum alarmingly literal."
+    ],
+    "silly": [
+      "A brilliant student enters military school and finds the curriculum alarmingly literal. Penelope has filed the matter under War Academy Admissions.",
+      "The Poppy War turns war academy admissions into a full administrative crisis involving divine anger and insufficient tea.",
+      "A routine case of empire collapse becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "War Academy Admissions acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of divine anger escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying war academy admissions",
+      "librarians monitoring divine anger",
+      "book clubs debating empire collapse"
+    ],
+    "genres": [
+      "War Academy Admissions",
+      "Divine Anger",
+      "Empire Collapse",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that war academy admissions was not in the original catalog plan.",
+      "I have reviewed divine anger and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent war academy admissions. Concerning divine anger.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited empire collapse. No responsible adult in sight."
+    ],
+    "morals": [
+      "War Academy Admissions works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses divine anger before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does war academy admissions shape the central choices?",
+      "Would the story work without divine anger?"
+    ]
+  },
+  "assassins apprentice": {
+    "name": "Assassin’s Apprentice",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Realm of the Elderlings",
+      "FitzChivalry",
+      "Robin Hobb"
+    ],
+    "mild": [
+      "A royal child receives animal friendship, poison lessons, and no adequate emotional support."
+    ],
+    "silly": [
+      "A royal child receives animal friendship, poison lessons, and no adequate emotional support. Penelope has filed the matter under Royal Bastardy.",
+      "Assassin’s Apprentice turns royal bastardy into a full administrative crisis involving wolf communication and insufficient tea.",
+      "A routine case of assassin coursework becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Royal Bastardy acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of wolf communication escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying royal bastardy",
+      "librarians monitoring wolf communication",
+      "book clubs debating assassin coursework"
+    ],
+    "genres": [
+      "Royal Bastardy",
+      "Wolf Communication",
+      "Assassin Coursework",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that royal bastardy was not in the original catalog plan.",
+      "I have reviewed wolf communication and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent royal bastardy. Concerning wolf communication.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited assassin coursework. No responsible adult in sight."
+    ],
+    "morals": [
+      "Royal Bastardy works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses wolf communication before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does royal bastardy shape the central choices?",
+      "Would the story work without wolf communication?"
+    ]
+  },
+  "royal assassin": {
+    "name": "Royal Assassin",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Realm of the Elderlings",
+      "FitzChivalry",
+      "Nighteyes"
+    ],
+    "mild": [
+      "The kingdom assigns its most exhausted teenager several impossible jobs at once."
+    ],
+    "silly": [
+      "The kingdom assigns its most exhausted teenager several impossible jobs at once. Penelope has filed the matter under Court Poisoning.",
+      "Royal Assassin turns court poisoning into a full administrative crisis involving wolf teamwork and insufficient tea.",
+      "A routine case of royal burnout becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Court Poisoning acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of wolf teamwork escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying court poisoning",
+      "librarians monitoring wolf teamwork",
+      "book clubs debating royal burnout"
+    ],
+    "genres": [
+      "Court Poisoning",
+      "Wolf Teamwork",
+      "Royal Burnout",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that court poisoning was not in the original catalog plan.",
+      "I have reviewed wolf teamwork and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent court poisoning. Concerning wolf teamwork.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited royal burnout. No responsible adult in sight."
+    ],
+    "morals": [
+      "Court Poisoning works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses wolf teamwork before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does court poisoning shape the central choices?",
+      "Would the story work without wolf teamwork?"
+    ]
+  },
+  "sabriel": {
+    "name": "Sabriel",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Old Kingdom Series",
+      "Sabriel",
+      "Garth Nix"
+    ],
+    "mild": [
+      "A responsible young necromancer returns home because the adults misplaced death itself."
+    ],
+    "silly": [
+      "A responsible young necromancer returns home because the adults misplaced death itself. Penelope has filed the matter under Bell-Based Necromancy.",
+      "Sabriel turns bell-based necromancy into a full administrative crisis involving border crossing and insufficient tea.",
+      "A routine case of dead-person administration becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Bell-Based Necromancy acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of border crossing escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying bell-based necromancy",
+      "librarians monitoring border crossing",
+      "book clubs debating dead-person administration"
+    ],
+    "genres": [
+      "Bell-Based Necromancy",
+      "Border Crossing",
+      "Dead-Person Administration",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that bell-based necromancy was not in the original catalog plan.",
+      "I have reviewed border crossing and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent bell-based necromancy. Concerning border crossing.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited dead-person administration. No responsible adult in sight."
+    ],
+    "morals": [
+      "Bell-Based Necromancy works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses border crossing before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does bell-based necromancy shape the central choices?",
+      "Would the story work without border crossing?"
+    ]
+  },
+  "lirael": {
+    "name": "Lirael",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Old Kingdom Series",
+      "Lirael",
+      "Garth Nix"
+    ],
+    "mild": [
+      "A lonely librarian discovers that the restricted section has career plans for her."
+    ],
+    "silly": [
+      "A lonely librarian discovers that the restricted section has career plans for her. Penelope has filed the matter under Library Clairvoyance.",
+      "Lirael turns library clairvoyance into a full administrative crisis involving dog-shaped magic and insufficient tea.",
+      "A routine case of identity discovery becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Library Clairvoyance acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of dog-shaped magic escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying library clairvoyance",
+      "librarians monitoring dog-shaped magic",
+      "book clubs debating identity discovery"
+    ],
+    "genres": [
+      "Library Clairvoyance",
+      "Dog-Shaped Magic",
+      "Identity Discovery",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that library clairvoyance was not in the original catalog plan.",
+      "I have reviewed dog-shaped magic and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent library clairvoyance. Concerning dog-shaped magic.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited identity discovery. No responsible adult in sight."
+    ],
+    "morals": [
+      "Library Clairvoyance works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses dog-shaped magic before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does library clairvoyance shape the central choices?",
+      "Would the story work without dog-shaped magic?"
+    ]
+  },
+  "abhorsen": {
+    "name": "Abhorsen",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Old Kingdom Series",
+      "Sabriel",
+      "Lirael"
+    ],
+    "mild": [
+      "The fate of two kingdoms depends on bells, librarians, and people finally reading the instructions."
+    ],
+    "silly": [
+      "The fate of two kingdoms depends on bells, librarians, and people finally reading the instructions. Penelope has filed the matter under Necromantic Emergency.",
+      "Abhorsen turns necromantic emergency into a full administrative crisis involving library defense and insufficient tea.",
+      "A routine case of bell sequencing becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Necromantic Emergency acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of library defense escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying necromantic emergency",
+      "librarians monitoring library defense",
+      "book clubs debating bell sequencing"
+    ],
+    "genres": [
+      "Necromantic Emergency",
+      "Library Defense",
+      "Bell Sequencing",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that necromantic emergency was not in the original catalog plan.",
+      "I have reviewed library defense and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent necromantic emergency. Concerning library defense.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited bell sequencing. No responsible adult in sight."
+    ],
+    "morals": [
+      "Necromantic Emergency works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses library defense before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does necromantic emergency shape the central choices?",
+      "Would the story work without library defense?"
+    ]
+  },
+  "castle in the air": {
+    "name": "Castle in the Air",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Howl’s Moving Castle Series",
+      "Diana Wynne Jones"
+    ],
+    "mild": [
+      "A carpet merchant buys transportation without checking the magical warranty."
+    ],
+    "silly": [
+      "A carpet merchant buys transportation without checking the magical warranty. Penelope has filed the matter under Flying Carpet Regulation.",
+      "Castle in the Air turns flying carpet regulation into a full administrative crisis involving princess confusion and insufficient tea.",
+      "A routine case of genie contracting becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Flying Carpet Regulation acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of princess confusion escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying flying carpet regulation",
+      "librarians monitoring princess confusion",
+      "book clubs debating genie contracting"
+    ],
+    "genres": [
+      "Flying Carpet Regulation",
+      "Princess Confusion",
+      "Genie Contracting",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that flying carpet regulation was not in the original catalog plan.",
+      "I have reviewed princess confusion and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent flying carpet regulation. Concerning princess confusion.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited genie contracting. No responsible adult in sight."
+    ],
+    "morals": [
+      "Flying Carpet Regulation works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses princess confusion before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does flying carpet regulation shape the central choices?",
+      "Would the story work without princess confusion?"
+    ]
+  },
+  "house of many ways": {
+    "name": "House of Many Ways",
+    "type": "Book",
+    "key": "fantasy81a",
+    "related": [
+      "Howl’s Moving Castle Series",
+      "Diana Wynne Jones"
+    ],
+    "mild": [
+      "A bookish girl housesits a magical building with severe hallway inconsistency."
+    ],
+    "silly": [
+      "A bookish girl housesits a magical building with severe hallway inconsistency. Penelope has filed the matter under House-Sitting Magic.",
+      "House of Many Ways turns house-sitting magic into a full administrative crisis involving doorway mapping and insufficient tea.",
+      "A routine case of royal paperwork becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "House-Sitting Magic acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of doorway mapping escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying house-sitting magic",
+      "librarians monitoring doorway mapping",
+      "book clubs debating royal paperwork"
+    ],
+    "genres": [
+      "House-Sitting Magic",
+      "Doorway Mapping",
+      "Royal Paperwork",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that house-sitting magic was not in the original catalog plan.",
+      "I have reviewed doorway mapping and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent house-sitting magic. Concerning doorway mapping.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited royal paperwork. No responsible adult in sight."
+    ],
+    "morals": [
+      "House-Sitting Magic works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses doorway mapping before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does house-sitting magic shape the central choices?",
+      "Would the story work without doorway mapping?"
+    ]
+  },
+  "mistborn series": {
+    "name": "Mistborn Series",
+    "type": "Book Series",
+    "key": "fantasy81a",
+    "related": [
+      "Brandon Sanderson",
+      "Vin",
+      "Kelsier"
+    ],
+    "mild": [
+      "A multi-era experiment in eating metal and overthrowing whoever currently owns the government."
+    ],
+    "silly": [
+      "A multi-era experiment in eating metal and overthrowing whoever currently owns the government. Penelope has filed the matter under Metal Magic.",
+      "Mistborn Series turns metal magic into a full administrative crisis involving revolution cycles and insufficient tea.",
+      "A routine case of cosmere paperwork becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Metal Magic acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of revolution cycles escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying metal magic",
+      "librarians monitoring revolution cycles",
+      "book clubs debating cosmere paperwork"
+    ],
+    "genres": [
+      "Metal Magic",
+      "Revolution Cycles",
+      "Cosmere Paperwork",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that metal magic was not in the original catalog plan.",
+      "I have reviewed revolution cycles and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent metal magic. Concerning revolution cycles.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited cosmere paperwork. No responsible adult in sight."
+    ],
+    "morals": [
+      "Metal Magic works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses revolution cycles before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does metal magic shape the central choices?",
+      "Would the story work without revolution cycles?"
+    ]
+  },
+  "the stormlight archive": {
+    "name": "The Stormlight Archive",
+    "type": "Book Series",
+    "key": "fantasy81a",
+    "related": [
+      "Brandon Sanderson",
+      "Kaladin",
+      "Shallan"
+    ],
+    "mild": [
+      "An enormous weather system repeatedly interrupts therapy, warfare, and oath administration."
+    ],
+    "silly": [
+      "An enormous weather system repeatedly interrupts therapy, warfare, and oath administration. Penelope has filed the matter under Storm Scheduling.",
+      "The Stormlight Archive turns storm scheduling into a full administrative crisis involving radiant oaths and insufficient tea.",
+      "A routine case of giant crustaceans becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Storm Scheduling acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of radiant oaths escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying storm scheduling",
+      "librarians monitoring radiant oaths",
+      "book clubs debating giant crustaceans"
+    ],
+    "genres": [
+      "Storm Scheduling",
+      "Radiant Oaths",
+      "Giant Crustaceans",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that storm scheduling was not in the original catalog plan.",
+      "I have reviewed radiant oaths and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent storm scheduling. Concerning radiant oaths.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited giant crustaceans. No responsible adult in sight."
+    ],
+    "morals": [
+      "Storm Scheduling works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses radiant oaths before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does storm scheduling shape the central choices?",
+      "Would the story work without radiant oaths?"
+    ]
+  },
+  "the kingkiller chronicle": {
+    "name": "The Kingkiller Chronicle",
+    "type": "Book Series",
+    "key": "fantasy81a",
+    "related": [
+      "Patrick Rothfuss",
+      "Kvothe"
+    ],
+    "mild": [
+      "A legendary musician narrates his résumé while the third day remains on extended loan."
+    ],
+    "silly": [
+      "A legendary musician narrates his résumé while the third day remains on extended loan. Penelope has filed the matter under Legend Narration.",
+      "The Kingkiller Chronicle turns legend narration into a full administrative crisis involving musical magic and insufficient tea.",
+      "A routine case of publication waiting becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Legend Narration acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of musical magic escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying legend narration",
+      "librarians monitoring musical magic",
+      "book clubs debating publication waiting"
+    ],
+    "genres": [
+      "Legend Narration",
+      "Musical Magic",
+      "Publication Waiting",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that legend narration was not in the original catalog plan.",
+      "I have reviewed musical magic and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent legend narration. Concerning musical magic.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited publication waiting. No responsible adult in sight."
+    ],
+    "morals": [
+      "Legend Narration works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses musical magic before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does legend narration shape the central choices?",
+      "Would the story work without musical magic?"
+    ]
+  },
+  "gentleman bastard series": {
+    "name": "Gentleman Bastard Series",
+    "type": "Book Series",
+    "key": "fantasy81a",
+    "related": [
+      "Scott Lynch",
+      "Locke Lamora",
+      "Jean Tannen"
+    ],
+    "mild": [
+      "Professional thieves demonstrate that friendship is the only reliable insurance policy."
+    ],
+    "silly": [
+      "Professional thieves demonstrate that friendship is the only reliable insurance policy. Penelope has filed the matter under Elaborate Scams.",
+      "Gentleman Bastard Series turns elaborate scams into a full administrative crisis involving found family and insufficient tea.",
+      "A routine case of criminal tailoring becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Elaborate Scams acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of found family escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying elaborate scams",
+      "librarians monitoring found family",
+      "book clubs debating criminal tailoring"
+    ],
+    "genres": [
+      "Elaborate Scams",
+      "Found Family",
+      "Criminal Tailoring",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that elaborate scams was not in the original catalog plan.",
+      "I have reviewed found family and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent elaborate scams. Concerning found family.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited criminal tailoring. No responsible adult in sight."
+    ],
+    "morals": [
+      "Elaborate Scams works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses found family before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does elaborate scams shape the central choices?",
+      "Would the story work without found family?"
+    ]
+  },
+  "green bone saga": {
+    "name": "Green Bone Saga",
+    "type": "Book Series",
+    "key": "fantasy81a",
+    "related": [
+      "Fonda Lee",
+      "Hilo",
+      "Shae"
+    ],
+    "mild": [
+      "A clan-run family business uses magical jade to make every board meeting dangerous."
+    ],
+    "silly": [
+      "A clan-run family business uses magical jade to make every board meeting dangerous. Penelope has filed the matter under Clan Succession.",
+      "Green Bone Saga turns clan succession into a full administrative crisis involving jade power and insufficient tea.",
+      "A routine case of family loyalty becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Clan Succession acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of jade power escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying clan succession",
+      "librarians monitoring jade power",
+      "book clubs debating family loyalty"
+    ],
+    "genres": [
+      "Clan Succession",
+      "Jade Power",
+      "Family Loyalty",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that clan succession was not in the original catalog plan.",
+      "I have reviewed jade power and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent clan succession. Concerning jade power.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited family loyalty. No responsible adult in sight."
+    ],
+    "morals": [
+      "Clan Succession works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses jade power before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does clan succession shape the central choices?",
+      "Would the story work without jade power?"
+    ]
+  },
+  "the poppy war series": {
+    "name": "The Poppy War Series",
+    "type": "Book Series",
+    "key": "fantasy81a",
+    "related": [
+      "R.F. Kuang",
+      "Rin"
+    ],
+    "mild": [
+      "Military school, gods, and empire collide without any responsible de-escalation plan."
+    ],
+    "silly": [
+      "Military school, gods, and empire collide without any responsible de-escalation plan. Penelope has filed the matter under War Academy.",
+      "The Poppy War Series turns war academy into a full administrative crisis involving divine power and insufficient tea.",
+      "A routine case of imperial trauma becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "War Academy acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of divine power escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying war academy",
+      "librarians monitoring divine power",
+      "book clubs debating imperial trauma"
+    ],
+    "genres": [
+      "War Academy",
+      "Divine Power",
+      "Imperial Trauma",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that war academy was not in the original catalog plan.",
+      "I have reviewed divine power and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent war academy. Concerning divine power.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited imperial trauma. No responsible adult in sight."
+    ],
+    "morals": [
+      "War Academy works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses divine power before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does war academy shape the central choices?",
+      "Would the story work without divine power?"
+    ]
+  },
+  "realm of the elderlings": {
+    "name": "Realm of the Elderlings",
+    "type": "Book Series",
+    "key": "fantasy81a",
+    "related": [
+      "Robin Hobb",
+      "FitzChivalry",
+      "Nighteyes"
+    ],
+    "mild": [
+      "Several generations prove that telepathic wolves are better communicators than royal families."
+    ],
+    "silly": [
+      "Several generations prove that telepathic wolves are better communicators than royal families. Penelope has filed the matter under Royal Intrigue.",
+      "Realm of the Elderlings turns royal intrigue into a full administrative crisis involving animal bonds and insufficient tea.",
+      "A routine case of generational sorrow becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Royal Intrigue acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of animal bonds escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying royal intrigue",
+      "librarians monitoring animal bonds",
+      "book clubs debating generational sorrow"
+    ],
+    "genres": [
+      "Royal Intrigue",
+      "Animal Bonds",
+      "Generational Sorrow",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that royal intrigue was not in the original catalog plan.",
+      "I have reviewed animal bonds and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent royal intrigue. Concerning animal bonds.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited generational sorrow. No responsible adult in sight."
+    ],
+    "morals": [
+      "Royal Intrigue works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses animal bonds before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does royal intrigue shape the central choices?",
+      "Would the story work without animal bonds?"
+    ]
+  },
+  "old kingdom series": {
+    "name": "Old Kingdom Series",
+    "type": "Book Series",
+    "key": "fantasy81a",
+    "related": [
+      "Garth Nix",
+      "Sabriel",
+      "Lirael"
+    ],
+    "mild": [
+      "A family of necromancers keeps death organized using bells and excellent library skills."
+    ],
+    "silly": [
+      "A family of necromancers keeps death organized using bells and excellent library skills. Penelope has filed the matter under Death Administration.",
+      "Old Kingdom Series turns death administration into a full administrative crisis involving charter magic and insufficient tea.",
+      "A routine case of librarian heroism becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Death Administration acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of charter magic escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying death administration",
+      "librarians monitoring charter magic",
+      "book clubs debating librarian heroism"
+    ],
+    "genres": [
+      "Death Administration",
+      "Charter Magic",
+      "Librarian Heroism",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that death administration was not in the original catalog plan.",
+      "I have reviewed charter magic and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent death administration. Concerning charter magic.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited librarian heroism. No responsible adult in sight."
+    ],
+    "morals": [
+      "Death Administration works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses charter magic before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does death administration shape the central choices?",
+      "Would the story work without charter magic?"
+    ]
+  },
+  "howls moving castle series": {
+    "name": "Howl’s Moving Castle Series",
+    "type": "Book Series",
+    "key": "fantasy81a",
+    "related": [
+      "Diana Wynne Jones",
+      "Howl",
+      "Sophie Hatter"
+    ],
+    "mild": [
+      "Magical houses, dramatic wizards, and practical women negotiate domestic chaos."
+    ],
+    "silly": [
+      "Magical houses, dramatic wizards, and practical women negotiate domestic chaos. Penelope has filed the matter under Moving Architecture.",
+      "Howl’s Moving Castle Series turns moving architecture into a full administrative crisis involving wizard drama and insufficient tea.",
+      "A routine case of domestic enchantment becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Moving Architecture acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of wizard drama escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying moving architecture",
+      "librarians monitoring wizard drama",
+      "book clubs debating domestic enchantment"
+    ],
+    "genres": [
+      "Moving Architecture",
+      "Wizard Drama",
+      "Domestic Enchantment",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that moving architecture was not in the original catalog plan.",
+      "I have reviewed wizard drama and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent moving architecture. Concerning wizard drama.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited domestic enchantment. No responsible adult in sight."
+    ],
+    "morals": [
+      "Moving Architecture works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses wizard drama before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does moving architecture shape the central choices?",
+      "Would the story work without wizard drama?"
+    ]
+  },
+  "patrick rothfuss": {
+    "name": "Patrick Rothfuss",
+    "type": "Author",
+    "key": "fantasy81a",
+    "related": [
+      "The Kingkiller Chronicle",
+      "Kvothe"
+    ],
+    "mild": [
+      "Created a musician so talented that even his student debt became legendary."
+    ],
+    "silly": [
+      "Created a musician so talented that even his student debt became legendary. Penelope has filed the matter under Lyrical Storytelling.",
+      "Patrick Rothfuss turns lyrical storytelling into a full administrative crisis involving musical arrogance and insufficient tea.",
+      "A routine case of unfinished narration becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Lyrical Storytelling acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of musical arrogance escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying lyrical storytelling",
+      "librarians monitoring musical arrogance",
+      "book clubs debating unfinished narration"
+    ],
+    "genres": [
+      "Lyrical Storytelling",
+      "Musical Arrogance",
+      "Unfinished Narration",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that lyrical storytelling was not in the original catalog plan.",
+      "I have reviewed musical arrogance and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent lyrical storytelling. Concerning musical arrogance.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited unfinished narration. No responsible adult in sight."
+    ],
+    "morals": [
+      "Lyrical Storytelling works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses musical arrogance before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does lyrical storytelling shape the central choices?",
+      "Would the story work without musical arrogance?"
+    ]
+  },
+  "scott lynch": {
+    "name": "Scott Lynch",
+    "type": "Author",
+    "key": "fantasy81a",
+    "related": [
+      "Gentleman Bastard Series",
+      "Locke Lamora"
+    ],
+    "mild": [
+      "Turns elaborate crime into friendship therapy with unusually good insults."
+    ],
+    "silly": [
+      "Turns elaborate crime into friendship therapy with unusually good insults. Penelope has filed the matter under Heist Dialogue.",
+      "Scott Lynch turns heist dialogue into a full administrative crisis involving criminal friendship and insufficient tea.",
+      "A routine case of venetian danger becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Heist Dialogue acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of criminal friendship escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying heist dialogue",
+      "librarians monitoring criminal friendship",
+      "book clubs debating venetian danger"
+    ],
+    "genres": [
+      "Heist Dialogue",
+      "Criminal Friendship",
+      "Venetian Danger",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that heist dialogue was not in the original catalog plan.",
+      "I have reviewed criminal friendship and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent heist dialogue. Concerning criminal friendship.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited venetian danger. No responsible adult in sight."
+    ],
+    "morals": [
+      "Heist Dialogue works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses criminal friendship before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does heist dialogue shape the central choices?",
+      "Would the story work without criminal friendship?"
+    ]
+  },
+  "fonda lee": {
+    "name": "Fonda Lee",
+    "type": "Author",
+    "key": "fantasy81a",
+    "related": [
+      "Green Bone Saga",
+      "Jade City"
+    ],
+    "mild": [
+      "Runs family drama through a magical gemstone economy with no safe quarterly meeting."
+    ],
+    "silly": [
+      "Runs family drama through a magical gemstone economy with no safe quarterly meeting. Penelope has filed the matter under Clan Politics.",
+      "Fonda Lee turns clan politics into a full administrative crisis involving jade economics and insufficient tea.",
+      "A routine case of family loyalty becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Clan Politics acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of jade economics escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying clan politics",
+      "librarians monitoring jade economics",
+      "book clubs debating family loyalty"
+    ],
+    "genres": [
+      "Clan Politics",
+      "Jade Economics",
+      "Family Loyalty",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that clan politics was not in the original catalog plan.",
+      "I have reviewed jade economics and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent clan politics. Concerning jade economics.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited family loyalty. No responsible adult in sight."
+    ],
+    "morals": [
+      "Clan Politics works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses jade economics before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does clan politics shape the central choices?",
+      "Would the story work without jade economics?"
+    ]
+  },
+  "r f kuang": {
+    "name": "R.F. Kuang",
+    "type": "Author",
+    "key": "fantasy81a",
+    "related": [
+      "Babel",
+      "The Poppy War"
+    ],
+    "mild": [
+      "Writes academic and imperial systems that immediately regret underestimating students."
+    ],
+    "silly": [
+      "Writes academic and imperial systems that immediately regret underestimating students. Penelope has filed the matter under Empire Critique.",
+      "R.F. Kuang turns empire critique into a full administrative crisis involving academic anger and insufficient tea.",
+      "A routine case of historical fantasy becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Empire Critique acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of academic anger escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying empire critique",
+      "librarians monitoring academic anger",
+      "book clubs debating historical fantasy"
+    ],
+    "genres": [
+      "Empire Critique",
+      "Academic Anger",
+      "Historical Fantasy",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that empire critique was not in the original catalog plan.",
+      "I have reviewed academic anger and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent empire critique. Concerning academic anger.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited historical fantasy. No responsible adult in sight."
+    ],
+    "morals": [
+      "Empire Critique works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses academic anger before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does empire critique shape the central choices?",
+      "Would the story work without academic anger?"
+    ]
+  },
+  "robin hobb": {
+    "name": "Robin Hobb",
+    "type": "Author",
+    "key": "fantasy81a",
+    "related": [
+      "Realm of the Elderlings",
+      "FitzChivalry"
+    ],
+    "mild": [
+      "Gives readers a wolf, a prince, and several hundred pages of exquisitely managed heartbreak."
+    ],
+    "silly": [
+      "Gives readers a wolf, a prince, and several hundred pages of exquisitely managed heartbreak. Penelope has filed the matter under Character Suffering.",
+      "Robin Hobb turns character suffering into a full administrative crisis involving animal bonds and insufficient tea.",
+      "A routine case of royal intrigue becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Character Suffering acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of animal bonds escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying character suffering",
+      "librarians monitoring animal bonds",
+      "book clubs debating royal intrigue"
+    ],
+    "genres": [
+      "Character Suffering",
+      "Animal Bonds",
+      "Royal Intrigue",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that character suffering was not in the original catalog plan.",
+      "I have reviewed animal bonds and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent character suffering. Concerning animal bonds.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited royal intrigue. No responsible adult in sight."
+    ],
+    "morals": [
+      "Character Suffering works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses animal bonds before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does character suffering shape the central choices?",
+      "Would the story work without animal bonds?"
+    ]
+  },
+  "garth nix": {
+    "name": "Garth Nix",
+    "type": "Author",
+    "key": "fantasy81a",
+    "related": [
+      "Old Kingdom Series",
+      "Sabriel"
+    ],
+    "mild": [
+      "Makes librarians, bells, and necromancers look like one coherent public service."
+    ],
+    "silly": [
+      "Makes librarians, bells, and necromancers look like one coherent public service. Penelope has filed the matter under Charter Magic.",
+      "Garth Nix turns charter magic into a full administrative crisis involving death bureaucracy and insufficient tea.",
+      "A routine case of library courage becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Charter Magic acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of death bureaucracy escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying charter magic",
+      "librarians monitoring death bureaucracy",
+      "book clubs debating library courage"
+    ],
+    "genres": [
+      "Charter Magic",
+      "Death Bureaucracy",
+      "Library Courage",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that charter magic was not in the original catalog plan.",
+      "I have reviewed death bureaucracy and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent charter magic. Concerning death bureaucracy.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited library courage. No responsible adult in sight."
+    ],
+    "morals": [
+      "Charter Magic works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses death bureaucracy before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does charter magic shape the central choices?",
+      "Would the story work without death bureaucracy?"
+    ]
+  },
+  "sazed": {
+    "name": "Sazed",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Mistborn Series"
+    ],
+    "mild": [
+      "A patient scholar carries several religions and eventually far too much responsibility."
+    ],
+    "silly": [
+      "A patient scholar carries several religions and eventually far too much responsibility. Penelope has filed the matter under Religion Cataloging.",
+      "Sazed turns religion cataloging into a full administrative crisis involving calm scholarship and insufficient tea.",
+      "A routine case of world repair becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Religion Cataloging acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of calm scholarship escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying religion cataloging",
+      "librarians monitoring calm scholarship",
+      "book clubs debating world repair"
+    ],
+    "genres": [
+      "Religion Cataloging",
+      "Calm Scholarship",
+      "World Repair",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that religion cataloging was not in the original catalog plan.",
+      "I have reviewed calm scholarship and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent religion cataloging. Concerning calm scholarship.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited world repair. No responsible adult in sight."
+    ],
+    "morals": [
+      "Religion Cataloging works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses calm scholarship before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does religion cataloging shape the central choices?",
+      "Would the story work without calm scholarship?"
+    ]
+  },
+  "kaladin": {
+    "name": "Kaladin",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "The Stormlight Archive",
+      "Syl"
+    ],
+    "mild": [
+      "A gifted soldier keeps saving everyone except his own work-life balance."
+    ],
+    "silly": [
+      "A gifted soldier keeps saving everyone except his own work-life balance. Penelope has filed the matter under Bridge Leadership.",
+      "Kaladin turns bridge leadership into a full administrative crisis involving storm depression and insufficient tea.",
+      "A routine case of oath compliance becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Bridge Leadership acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of storm depression escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying bridge leadership",
+      "librarians monitoring storm depression",
+      "book clubs debating oath compliance"
+    ],
+    "genres": [
+      "Bridge Leadership",
+      "Storm Depression",
+      "Oath Compliance",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that bridge leadership was not in the original catalog plan.",
+      "I have reviewed storm depression and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent bridge leadership. Concerning storm depression.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited oath compliance. No responsible adult in sight."
+    ],
+    "morals": [
+      "Bridge Leadership works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses storm depression before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does bridge leadership shape the central choices?",
+      "Would the story work without storm depression?"
+    ]
+  },
+  "shallan": {
+    "name": "Shallan",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "The Stormlight Archive",
+      "Adolin"
+    ],
+    "mild": [
+      "An artist collects secret identities faster than most people collect bookmarks."
+    ],
+    "silly": [
+      "An artist collects secret identities faster than most people collect bookmarks. Penelope has filed the matter under Lightweaving.",
+      "Shallan turns lightweaving into a full administrative crisis involving identity filing and insufficient tea.",
+      "A routine case of scholarly espionage becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Lightweaving acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of identity filing escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying lightweaving",
+      "librarians monitoring identity filing",
+      "book clubs debating scholarly espionage"
+    ],
+    "genres": [
+      "Lightweaving",
+      "Identity Filing",
+      "Scholarly Espionage",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that lightweaving was not in the original catalog plan.",
+      "I have reviewed identity filing and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent lightweaving. Concerning identity filing.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited scholarly espionage. No responsible adult in sight."
+    ],
+    "morals": [
+      "Lightweaving works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses identity filing before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does lightweaving shape the central choices?",
+      "Would the story work without identity filing?"
+    ]
+  },
+  "dalinar": {
+    "name": "Dalinar",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "The Stormlight Archive"
+    ],
+    "mild": [
+      "A former warlord discovers books, diplomacy, and the alarming contents of his own past."
+    ],
+    "silly": [
+      "A former warlord discovers books, diplomacy, and the alarming contents of his own past. Penelope has filed the matter under Coalition Leadership.",
+      "Dalinar turns coalition leadership into a full administrative crisis involving memoir writing and insufficient tea.",
+      "A routine case of honor reconstruction becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Coalition Leadership acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of memoir writing escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying coalition leadership",
+      "librarians monitoring memoir writing",
+      "book clubs debating honor reconstruction"
+    ],
+    "genres": [
+      "Coalition Leadership",
+      "Memoir Writing",
+      "Honor Reconstruction",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that coalition leadership was not in the original catalog plan.",
+      "I have reviewed memoir writing and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent coalition leadership. Concerning memoir writing.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited honor reconstruction. No responsible adult in sight."
+    ],
+    "morals": [
+      "Coalition Leadership works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses memoir writing before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does coalition leadership shape the central choices?",
+      "Would the story work without memoir writing?"
+    ]
+  },
+  "adolin": {
+    "name": "Adolin",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "The Stormlight Archive",
+      "Shallan"
+    ],
+    "mild": [
+      "A fashionable swordsman proves emotional availability may be the rarest magical power."
+    ],
+    "silly": [
+      "A fashionable swordsman proves emotional availability may be the rarest magical power. Penelope has filed the matter under Dueling Fashion.",
+      "Adolin turns dueling fashion into a full administrative crisis involving supportive partnership and insufficient tea.",
+      "A routine case of shardplate maintenance becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Dueling Fashion acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of supportive partnership escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying dueling fashion",
+      "librarians monitoring supportive partnership",
+      "book clubs debating shardplate maintenance"
+    ],
+    "genres": [
+      "Dueling Fashion",
+      "Supportive Partnership",
+      "Shardplate Maintenance",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that dueling fashion was not in the original catalog plan.",
+      "I have reviewed supportive partnership and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent dueling fashion. Concerning supportive partnership.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited shardplate maintenance. No responsible adult in sight."
+    ],
+    "morals": [
+      "Dueling Fashion works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses supportive partnership before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does dueling fashion shape the central choices?",
+      "Would the story work without supportive partnership?"
+    ]
+  },
+  "hoid": {
+    "name": "Hoid",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Brandon Sanderson"
+    ],
+    "mild": [
+      "A traveling storyteller appears everywhere except where a normal schedule would place him."
+    ],
+    "silly": [
+      "A traveling storyteller appears everywhere except where a normal schedule would place him. Penelope has filed the matter under Cosmere Tourism.",
+      "Hoid turns cosmere tourism into a full administrative crisis involving insult artistry and insufficient tea.",
+      "A routine case of secret knowledge becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Cosmere Tourism acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of insult artistry escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying cosmere tourism",
+      "librarians monitoring insult artistry",
+      "book clubs debating secret knowledge"
+    ],
+    "genres": [
+      "Cosmere Tourism",
+      "Insult Artistry",
+      "Secret Knowledge",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that cosmere tourism was not in the original catalog plan.",
+      "I have reviewed insult artistry and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent cosmere tourism. Concerning insult artistry.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited secret knowledge. No responsible adult in sight."
+    ],
+    "morals": [
+      "Cosmere Tourism works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses insult artistry before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does cosmere tourism shape the central choices?",
+      "Would the story work without insult artistry?"
+    ]
+  },
+  "kvothe": {
+    "name": "Kvothe",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "The Kingkiller Chronicle"
+    ],
+    "mild": [
+      "A brilliant musician turns every mistake into an impressive story about himself."
+    ],
+    "silly": [
+      "A brilliant musician turns every mistake into an impressive story about himself. Penelope has filed the matter under Lute Expertise.",
+      "Kvothe turns lute expertise into a full administrative crisis involving reputation management and insufficient tea.",
+      "A routine case of tuition problems becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Lute Expertise acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of reputation management escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying lute expertise",
+      "librarians monitoring reputation management",
+      "book clubs debating tuition problems"
+    ],
+    "genres": [
+      "Lute Expertise",
+      "Reputation Management",
+      "Tuition Problems",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that lute expertise was not in the original catalog plan.",
+      "I have reviewed reputation management and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent lute expertise. Concerning reputation management.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited tuition problems. No responsible adult in sight."
+    ],
+    "morals": [
+      "Lute Expertise works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses reputation management before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does lute expertise shape the central choices?",
+      "Would the story work without reputation management?"
+    ]
+  },
+  "locke lamora": {
+    "name": "Locke Lamora",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Gentleman Bastard Series",
+      "Jean Tannen"
+    ],
+    "mild": [
+      "A small thief designs scams so complicated that honesty would be cheaper."
+    ],
+    "silly": [
+      "A small thief designs scams so complicated that honesty would be cheaper. Penelope has filed the matter under Confidence Schemes.",
+      "Locke Lamora turns confidence schemes into a full administrative crisis involving disguise planning and insufficient tea.",
+      "A routine case of verbal improvisation becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Confidence Schemes acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of disguise planning escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying confidence schemes",
+      "librarians monitoring disguise planning",
+      "book clubs debating verbal improvisation"
+    ],
+    "genres": [
+      "Confidence Schemes",
+      "Disguise Planning",
+      "Verbal Improvisation",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that confidence schemes was not in the original catalog plan.",
+      "I have reviewed disguise planning and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent confidence schemes. Concerning disguise planning.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited verbal improvisation. No responsible adult in sight."
+    ],
+    "morals": [
+      "Confidence Schemes works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses disguise planning before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does confidence schemes shape the central choices?",
+      "Would the story work without disguise planning?"
+    ]
+  },
+  "jean tannen": {
+    "name": "Jean Tannen",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Gentleman Bastard Series",
+      "Locke Lamora"
+    ],
+    "mild": [
+      "The competent friend who brings axes to meetings where Locke brings optimism."
+    ],
+    "silly": [
+      "The competent friend who brings axes to meetings where Locke brings optimism. Penelope has filed the matter under Protective Friendship.",
+      "Jean Tannen turns protective friendship into a full administrative crisis involving axe diplomacy and insufficient tea.",
+      "A routine case of accounting becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Protective Friendship acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of axe diplomacy escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying protective friendship",
+      "librarians monitoring axe diplomacy",
+      "book clubs debating accounting"
+    ],
+    "genres": [
+      "Protective Friendship",
+      "Axe Diplomacy",
+      "Accounting",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that protective friendship was not in the original catalog plan.",
+      "I have reviewed axe diplomacy and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent protective friendship. Concerning axe diplomacy.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited accounting. No responsible adult in sight."
+    ],
+    "morals": [
+      "Protective Friendship works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses axe diplomacy before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does protective friendship shape the central choices?",
+      "Would the story work without axe diplomacy?"
+    ]
+  },
+  "rin": {
+    "name": "Rin",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "The Poppy War Series"
+    ],
+    "mild": [
+      "A determined student solves institutional exclusion by becoming increasingly impossible to ignore."
+    ],
+    "silly": [
+      "A determined student solves institutional exclusion by becoming increasingly impossible to ignore. Penelope has filed the matter under Military Ambition.",
+      "Rin turns military ambition into a full administrative crisis involving divine fire and insufficient tea.",
+      "A routine case of anger management failure becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Military Ambition acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of divine fire escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying military ambition",
+      "librarians monitoring divine fire",
+      "book clubs debating anger management failure"
+    ],
+    "genres": [
+      "Military Ambition",
+      "Divine Fire",
+      "Anger Management Failure",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that military ambition was not in the original catalog plan.",
+      "I have reviewed divine fire and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent military ambition. Concerning divine fire.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited anger management failure. No responsible adult in sight."
+    ],
+    "morals": [
+      "Military Ambition works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses divine fire before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does military ambition shape the central choices?",
+      "Would the story work without divine fire?"
+    ]
+  },
+  "fitzchivalry": {
+    "name": "FitzChivalry",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Realm of the Elderlings",
+      "Nighteyes"
+    ],
+    "mild": [
+      "A royal assassin with a telepathic wolf and a lifelong shortage of healthy boundaries."
+    ],
+    "silly": [
+      "A royal assassin with a telepathic wolf and a lifelong shortage of healthy boundaries. Penelope has filed the matter under Royal Secrecy.",
+      "FitzChivalry turns royal secrecy into a full administrative crisis involving wolf bond and insufficient tea.",
+      "A routine case of self-sacrifice becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Royal Secrecy acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of wolf bond escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying royal secrecy",
+      "librarians monitoring wolf bond",
+      "book clubs debating self-sacrifice"
+    ],
+    "genres": [
+      "Royal Secrecy",
+      "Wolf Bond",
+      "Self-Sacrifice",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that royal secrecy was not in the original catalog plan.",
+      "I have reviewed wolf bond and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent royal secrecy. Concerning wolf bond.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited self-sacrifice. No responsible adult in sight."
+    ],
+    "morals": [
+      "Royal Secrecy works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses wolf bond before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does royal secrecy shape the central choices?",
+      "Would the story work without wolf bond?"
+    ]
+  },
+  "nighteyes": {
+    "name": "Nighteyes",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Realm of the Elderlings",
+      "FitzChivalry"
+    ],
+    "mild": [
+      "A wolf who offers clearer emotional guidance than the entire royal court."
+    ],
+    "silly": [
+      "A wolf who offers clearer emotional guidance than the entire royal court. Penelope has filed the matter under Wolf Wisdom.",
+      "Nighteyes turns wolf wisdom into a full administrative crisis involving pack loyalty and insufficient tea.",
+      "A routine case of human supervision becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Wolf Wisdom acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of pack loyalty escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying wolf wisdom",
+      "librarians monitoring pack loyalty",
+      "book clubs debating human supervision"
+    ],
+    "genres": [
+      "Wolf Wisdom",
+      "Pack Loyalty",
+      "Human Supervision",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that wolf wisdom was not in the original catalog plan.",
+      "I have reviewed pack loyalty and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent wolf wisdom. Concerning pack loyalty.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited human supervision. No responsible adult in sight."
+    ],
+    "morals": [
+      "Wolf Wisdom works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses pack loyalty before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does wolf wisdom shape the central choices?",
+      "Would the story work without pack loyalty?"
+    ]
+  },
+  "lirael character": {
+    "name": "Lirael",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Old Kingdom Series"
+    ],
+    "mild": [
+      "A shy librarian discovers that solitude was secretly advanced hero training."
+    ],
+    "silly": [
+      "A shy librarian discovers that solitude was secretly advanced hero training. Penelope has filed the matter under Library Research.",
+      "Lirael turns library research into a full administrative crisis involving clairvoyance and insufficient tea.",
+      "A routine case of dog companionship becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Library Research acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of clairvoyance escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying library research",
+      "librarians monitoring clairvoyance",
+      "book clubs debating dog companionship"
+    ],
+    "genres": [
+      "Library Research",
+      "Clairvoyance",
+      "Dog Companionship",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that library research was not in the original catalog plan.",
+      "I have reviewed clairvoyance and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent library research. Concerning clairvoyance.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited dog companionship. No responsible adult in sight."
+    ],
+    "morals": [
+      "Library Research works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses clairvoyance before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does library research shape the central choices?",
+      "Would the story work without clairvoyance?"
+    ]
+  },
+  "mogget": {
+    "name": "Mogget",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Old Kingdom Series"
+    ],
+    "mild": [
+      "A powerful magical being is contained in the approximate shape of an uncooperative cat."
+    ],
+    "silly": [
+      "A powerful magical being is contained in the approximate shape of an uncooperative cat. Penelope has filed the matter under Cat-Shaped Danger.",
+      "Mogget turns cat-shaped danger into a full administrative crisis involving binding magic and insufficient tea.",
+      "A routine case of sarcasm becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Cat-Shaped Danger acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of binding magic escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying cat-shaped danger",
+      "librarians monitoring binding magic",
+      "book clubs debating sarcasm"
+    ],
+    "genres": [
+      "Cat-Shaped Danger",
+      "Binding Magic",
+      "Sarcasm",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that cat-shaped danger was not in the original catalog plan.",
+      "I have reviewed binding magic and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent cat-shaped danger. Concerning binding magic.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited sarcasm. No responsible adult in sight."
+    ],
+    "morals": [
+      "Cat-Shaped Danger works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses binding magic before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does cat-shaped danger shape the central choices?",
+      "Would the story work without binding magic?"
+    ]
+  },
+  "howl": {
+    "name": "Howl",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Howl’s Moving Castle Series",
+      "Sophie Hatter"
+    ],
+    "mild": [
+      "A powerful wizard treats hair color changes as national emergencies."
+    ],
+    "silly": [
+      "A powerful wizard treats hair color changes as national emergencies. Penelope has filed the matter under Wizard Vanity.",
+      "Howl turns wizard vanity into a full administrative crisis involving moving house and insufficient tea.",
+      "A routine case of dramatic avoidance becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Wizard Vanity acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of moving house escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying wizard vanity",
+      "librarians monitoring moving house",
+      "book clubs debating dramatic avoidance"
+    ],
+    "genres": [
+      "Wizard Vanity",
+      "Moving House",
+      "Dramatic Avoidance",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that wizard vanity was not in the original catalog plan.",
+      "I have reviewed moving house and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent wizard vanity. Concerning moving house.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited dramatic avoidance. No responsible adult in sight."
+    ],
+    "morals": [
+      "Wizard Vanity works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses moving house before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does wizard vanity shape the central choices?",
+      "Would the story work without moving house?"
+    ]
+  },
+  "calcifer": {
+    "name": "Calcifer",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Howl’s Moving Castle Series"
+    ],
+    "mild": [
+      "A fire demon powers a moving castle while negotiating constantly for better working conditions."
+    ],
+    "silly": [
+      "A fire demon powers a moving castle while negotiating constantly for better working conditions. Penelope has filed the matter under Hearth Power.",
+      "Calcifer turns hearth power into a full administrative crisis involving contract law and insufficient tea.",
+      "A routine case of breakfast cooking becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Hearth Power acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of contract law escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying hearth power",
+      "librarians monitoring contract law",
+      "book clubs debating breakfast cooking"
+    ],
+    "genres": [
+      "Hearth Power",
+      "Contract Law",
+      "Breakfast Cooking",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that hearth power was not in the original catalog plan.",
+      "I have reviewed contract law and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent hearth power. Concerning contract law.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited breakfast cooking. No responsible adult in sight."
+    ],
+    "morals": [
+      "Hearth Power works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses contract law before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does hearth power shape the central choices?",
+      "Would the story work without contract law?"
+    ]
+  },
+  "tress": {
+    "name": "Tress",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Tress of the Emerald Sea"
+    ],
+    "mild": [
+      "A sensible cup collector becomes a pirate because her society underestimated practical courage."
+    ],
+    "silly": [
+      "A sensible cup collector becomes a pirate because her society underestimated practical courage. Penelope has filed the matter under Cup Collecting.",
+      "Tress turns cup collecting into a full administrative crisis involving spore sailing and insufficient tea.",
+      "A routine case of quiet bravery becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Cup Collecting acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of spore sailing escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying cup collecting",
+      "librarians monitoring spore sailing",
+      "book clubs debating quiet bravery"
+    ],
+    "genres": [
+      "Cup Collecting",
+      "Spore Sailing",
+      "Quiet Bravery",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that cup collecting was not in the original catalog plan.",
+      "I have reviewed spore sailing and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent cup collecting. Concerning spore sailing.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited quiet bravery. No responsible adult in sight."
+    ],
+    "morals": [
+      "Cup Collecting works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses spore sailing before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does cup collecting shape the central choices?",
+      "Would the story work without spore sailing?"
+    ]
+  },
+  "lightsong": {
+    "name": "Lightsong",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Warbreaker"
+    ],
+    "mild": [
+      "A reluctant god spends his immortality insisting he is unqualified for the position."
+    ],
+    "silly": [
+      "A reluctant god spends his immortality insisting he is unqualified for the position. Penelope has filed the matter under Divine Skepticism.",
+      "Lightsong turns divine skepticism into a full administrative crisis involving court comedy and insufficient tea.",
+      "A routine case of accidental heroism becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Divine Skepticism acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of court comedy escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying divine skepticism",
+      "librarians monitoring court comedy",
+      "book clubs debating accidental heroism"
+    ],
+    "genres": [
+      "Divine Skepticism",
+      "Court Comedy",
+      "Accidental Heroism",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that divine skepticism was not in the original catalog plan.",
+      "I have reviewed court comedy and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent divine skepticism. Concerning court comedy.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited accidental heroism. No responsible adult in sight."
+    ],
+    "morals": [
+      "Divine Skepticism works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses court comedy before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does divine skepticism shape the central choices?",
+      "Would the story work without court comedy?"
+    ]
+  },
+  "robin swift": {
+    "name": "Robin Swift",
+    "type": "Character",
+    "key": "fantasy81a",
+    "related": [
+      "Babel"
+    ],
+    "mild": [
+      "A gifted translator discovers that university prestige has an empire hidden in the basement."
+    ],
+    "silly": [
+      "A gifted translator discovers that university prestige has an empire hidden in the basement. Penelope has filed the matter under Translation Magic.",
+      "Robin Swift turns translation magic into a full administrative crisis involving academic rebellion and insufficient tea.",
+      "A routine case of identity conflict becomes a fantasy-wide emergency because nobody reads the circulation notice."
+    ],
+    "wild": [
+      "Translation Magic acquires magical authority and immediately reorganizes the kingdom.",
+      "One instance of academic rebellion escalates until a dragon requests mediation."
+    ],
+    "audiences": [
+      "readers studying translation magic",
+      "librarians monitoring academic rebellion",
+      "book clubs debating identity conflict"
+    ],
+    "genres": [
+      "Translation Magic",
+      "Academic Rebellion",
+      "Identity Conflict",
+      "High Fantasy Mismanagement"
+    ],
+    "quotes": [
+      "Please note that translation magic was not in the original catalog plan.",
+      "I have reviewed academic rebellion and remain professionally concerned."
+    ],
+    "reviews": [
+      "Excellent translation magic. Concerning academic rebellion.",
+      "Distinctive, memorable, and in need of better risk controls."
+    ],
+    "trailers": [
+      "One library card. Unlimited identity conflict. No responsible adult in sight."
+    ],
+    "morals": [
+      "Translation Magic works best when paired with judgment.",
+      "One honest conversation could have shortened the journey."
+    ],
+    "endings": [
+      "Everyone discusses academic rebellion before the final battle.",
+      "Penelope issues the kingdom a revised circulation policy."
+    ],
+    "questions": [
+      "How does translation magic shape the central choices?",
+      "Would the story work without academic rebellion?"
+    ]
   }
 };
