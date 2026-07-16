@@ -29,27 +29,60 @@
     target.append(label,row);target.classList.add("show");
   }
   function shelfLabel(shelf){return{approved:"🪿 Goose Approved",favorites:"📚 My Favorites",shame:"🏆 Hall of Shame"}[shelf]||"Saved"}
-  function renderSaved(){
-    const wrap=$("savedItems"),items=window.PenelopeCard.all();wrap.innerHTML="";
-    if(!items.length){wrap.innerHTML="<p>Your card is empty. Save a favorite misunderstanding above.</p>";return}
+  function renderSavedInto(wrap){
+    if(!wrap)return;
+    const items=window.PenelopeCard.all();
+    wrap.innerHTML="";
+    if(!items.length){
+      wrap.innerHTML="<p>Your card is empty. Save a favorite misunderstanding after searching for a book.</p>";
+      return;
+    }
     ["approved","favorites","shame"].forEach(shelf=>{
-      const shelfItems=items.filter(item=>item.shelf===shelf);if(!shelfItems.length)return;
-      const section=document.createElement("section");section.className="saved-shelf";
-      const heading=document.createElement("div");heading.className="saved-shelf-heading";
-      const h4=document.createElement("h4");h4.textContent=shelfLabel(shelf);
-      const clear=document.createElement("button");clear.className="remove";clear.textContent="Clear shelf";clear.addEventListener("click",()=>{window.PenelopeCard.clearShelf(shelf);renderSaved()});
-      heading.append(h4,clear);section.appendChild(heading);
+      const shelfItems=items.filter(item=>item.shelf===shelf);
+      if(!shelfItems.length)return;
+      const section=document.createElement("section");
+      section.className="saved-shelf";
+      const heading=document.createElement("div");
+      heading.className="saved-shelf-heading";
+      const h4=document.createElement("h4");
+      h4.textContent=shelfLabel(shelf);
+      const clear=document.createElement("button");
+      clear.className="remove";
+      clear.textContent="Clear shelf";
+      clear.addEventListener("click",()=>{
+        window.PenelopeCard.clearShelf(shelf);
+        renderSaved();
+      });
+      heading.append(h4,clear);
+      section.appendChild(heading);
       shelfItems.forEach(item=>{
-        const div=document.createElement("div");div.className="saved-entry";
-        const strong=document.createElement("strong");strong.textContent=item.title+" · "+item.type;
-        const p=document.createElement("p");p.textContent=item.synopsis;
-        const small=document.createElement("small");small.textContent=`Saved ${item.date} · ${item.source}`;
-        const remove=document.createElement("button");remove.className="remove";remove.textContent="Remove";remove.addEventListener("click",()=>{window.PenelopeCard.remove(item.id);renderSaved()});
-        div.append(strong,p,small,document.createElement("br"),remove);section.appendChild(div);
+        const div=document.createElement("div");
+        div.className="saved-entry";
+        const strong=document.createElement("strong");
+        strong.textContent=item.title+" · "+item.type;
+        const p=document.createElement("p");
+        p.textContent=item.synopsis;
+        const small=document.createElement("small");
+        small.textContent=`Saved ${item.date} · ${item.source}`;
+        const remove=document.createElement("button");
+        remove.className="remove";
+        remove.textContent="Remove";
+        remove.addEventListener("click",()=>{
+          window.PenelopeCard.remove(item.id);
+          renderSaved();
+        });
+        div.append(strong,p,small,document.createElement("br"),remove);
+        section.appendChild(div);
       });
       wrap.appendChild(section);
     });
   }
+
+  function renderSaved(){
+    renderSavedInto($("savedItems"));
+    renderSavedInto($("homeSavedItems"));
+  }
+
   function renderEntry(entry,key,advance=false){
     const repeated=currentKey===key;cycle=(advance||repeated)?cycle+1:0;currentKey=key;currentEntry=entry;
     searchCount++;window.PenelopeStorage.set("penelopeSearchCount",searchCount);counters();hideStatus();
@@ -188,6 +221,16 @@
   $("worseBtn").addEventListener("click",()=>{const level=$("level");level.value=level.value==="mild"?"silly":"wild";if(currentEntry)renderEntry(currentEntry,currentKey,true)});
   $("honkBtn").addEventListener("click",honk);$("penelopeBtn").addEventListener("click",honk);
   document.querySelectorAll(".save-shelf").forEach(button=>button.addEventListener("click",()=>{if(!currentEntry)return;const saved=window.PenelopeCard.save(currentEntry,$("synopsis").textContent,button.dataset.shelf);$("saveStatus").textContent=saved?`Saved to ${shelfLabel(button.dataset.shelf)}!`:"That exact explanation is already on this shelf.";renderSaved()}));
+  $("homeCardBtn").addEventListener("click",()=>{
+    renderSaved();
+    $("homeCardPanel").classList.remove("hidden");
+    $("homeCardPanel").scrollIntoView({behavior:"smooth",block:"start"});
+  });
+  $("closeHomeCardBtn").addEventListener("click",()=>{
+    $("homeCardPanel").classList.add("hidden");
+    $("homeCardBtn").scrollIntoView({behavior:"smooth",block:"center"});
+  });
+
   $("openCardBtn").addEventListener("click",()=>{renderSaved();$("savedItems").scrollIntoView({behavior:"smooth",block:"start"})});
   updateThemeButton();counters();renderSaved();bubble(visitCount>1?"Welcome back! I see you're still looking for accurate summaries.":"Welcome to my library. Please keep all facts outside.");
 })();

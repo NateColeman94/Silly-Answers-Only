@@ -6,6 +6,16 @@
   <meta name="penelope-build" content="7.1.1">
   <title>Penelope's Misinformation Library</title>
   <link rel="stylesheet" href="css/styles.css">
+
+  <style>
+    .homepage-card-access{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px}
+    .homepage-card-access span{font-size:.82rem;font-style:italic;opacity:.78}
+    .home-card-panel{margin-top:20px;padding:24px}
+    .home-card-header{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
+    .home-card-header h2{font-family:Georgia,serif;margin:.2rem 0}
+    .home-card-panel .saved-shelf{margin-top:14px}
+  </style>
+
 </head>
 <body>
   <div class="background" aria-hidden="true">
@@ -63,6 +73,10 @@
           <button id="clearCollectionBtn" class="clear-collection">🧹 Clear Shelf</button>
         </div>
         <div id="collectionPanel" class="collection-panel hidden"></div>
+        <div class="homepage-card-access">
+          <button id="homeCardBtn" class="secondary">📇 Open My Library Card</button>
+          <span>View saved favorites without searching first.</span>
+        </div>
 
         <div class="example-row" aria-label="Example searches">
           <button class="example" data-query="Disney Twisted Tales">Book Series</button>
@@ -87,6 +101,19 @@
           “Honk! Accurate summaries are unavailable today.”
         </div>
       </aside>
+    </section>
+
+    
+    <section id="homeCardPanel" class="card home-card-panel hidden" aria-labelledby="homeCardTitle">
+      <div class="home-card-header">
+        <div>
+          <p class="eyebrow">Your personal circulation record</p>
+          <h2 id="homeCardTitle">📇 My Library Card</h2>
+          <p>Goose Approved, Favorites, and Hall of Shame are stored in this browser.</p>
+        </div>
+        <button id="closeHomeCardBtn" class="clear-collection">Close Card</button>
+      </div>
+      <div id="homeSavedItems" class="saved-items"></div>
     </section>
 
     <section id="apiLoading" class="card notice hidden"><h2>🪿 Penelope is checking the public shelves…</h2><p>Handcrafted catalog miss. Searching Open Library for a likely book match.</p></section>
