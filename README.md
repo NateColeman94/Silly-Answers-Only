@@ -1,13 +1,33 @@
-# Penelope's Misinformation Library v5.4.1
+# Penelope's Misinformation Library 6.0
 
-This is a fail-safe single-file build.
+A clean modular rebuild for GitHub Pages.
 
-## Upload instructions
-Replace only the repository-root `index.html` with this file.
+## Included features
+- 148 handcrafted entries
+- Smart Search with aliases, typo tolerance, partial matching, and Did You Mean suggestions
+- Separate book, series, author, and character content
+- Penelope's exact-title witty comments for featured searches
+- Honk, double honk, librarian honk, repeat-visitor, and busy-day reactions
+- My Library Card stored locally in the browser
+- Three silliness levels
+- Think That's Bad and Make It Worse
+- Fantasy Classics, Disney classics, and Twisted Tales content
+- Checked-out notice for unknown searches
 
-The mascot image, CSS, handcrafted fantasy data, search logic, honk feature, and My Library Card are all embedded inside `index.html`. Existing `assets`, `css`, `data`, and `js` folders may remain, but this build does not depend on them.
+## Repository structure
+Upload every file and folder:
 
-After committing:
-1. Wait for GitHub Pages to deploy.
-2. Hard refresh with Ctrl+F5.
-3. Confirm the footer says `Build 5.4.1 — Single-File Fix`.
+index.html
+assets/
+css/
+data/
+js/
+README.md
+
+## Collection audit
+{
+  "Book": 65,
+  "Character": 56,
+  "Book Series": 6,
+  "Author": 21
+}

@@ -1,0 +1,22 @@
+window.PENELOPE_ALIASES = {
+  "lotr": "the lord of the rings series",
+  "lord of the rings": "the lord of the rings series",
+  "the lord of the rings": "the lord of the rings series",
+  "hobbit": "the hobbit",
+  "harry potter series": "harry potter",
+  "hogwarts": "harry potter",
+  "hunger games": "the hunger games",
+  "moby-dick": "moby dick",
+  "moby dick": "moby dick",
+  "twisted tales": "disney twisted tales",
+  "a twisted tale": "disney twisted tales",
+  "little mermaid": "the little mermaid",
+  "beauty beast": "beauty and the beast",
+  "101 dalmatians": "one hundred and one dalmatians",
+  "lion king": "the lion king",
+  "princess frog": "the princess and the frog",
+  "lilo stitch": "lilo and stitch",
+  "conceal don't feel": "conceal dont feel",
+  "how far i'll go": "how far ill go",
+  "sally's lament": "sallys lament"
+};

@@ -1,0 +1,10 @@
+{
+  "total": 148,
+  "counts": {
+    "Book": 65,
+    "Character": 56,
+    "Book Series": 6,
+    "Author": 21
+  },
+  "audit": "PASS"
+}
