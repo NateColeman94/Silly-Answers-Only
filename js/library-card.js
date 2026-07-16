@@ -15,9 +15,9 @@
     const selected=shelves.includes(shelf)?shelf:"favorites",items=load(),id=[entry.name,synopsis,selected].join("|");
     if(items.some(item=>item.id===id))return false;
     items.unshift({id,title:entry.name,type:entry.type,synopsis,shelf:selected,source:entry.apiSource||"Handcrafted collection",date:new Date().toLocaleDateString()});
-    window.PenelopeStorage.set(KEY,items.slice(0,75));return true;
+    window.PenelopeStorage.set(KEY,items.slice(0,75));window.dispatchEvent(new CustomEvent("penelope:card-changed"));return true;
   }
-  function remove(id){window.PenelopeStorage.set(KEY,load().filter(item=>item.id!==id))}
-  function clearShelf(shelf){window.PenelopeStorage.set(KEY,load().filter(item=>item.shelf!==shelf))}
+  function remove(id){window.PenelopeStorage.set(KEY,load().filter(item=>item.id!==id));window.dispatchEvent(new CustomEvent("penelope:card-changed"))}
+  function clearShelf(shelf){window.PenelopeStorage.set(KEY,load().filter(item=>item.shelf!==shelf));window.dispatchEvent(new CustomEvent("penelope:card-changed"))}
   window.PenelopeCard={all,save,remove,clearShelf,shelves};
 })();

@@ -327,6 +327,24 @@
   });
 
   $("openCardBtn").addEventListener("click",()=>{renderSaved();$("savedItems").scrollIntoView({behavior:"smooth",block:"start"})});
+
+  function initializeFoundationModules(){
+    document.documentElement.classList.add("penelope-module-ready");
+    window.PenelopeMemoryV2?.init?.();
+    window.PenelopeSeasonal?.init?.();
+    window.PenelopeDesk?.init?.({library,runSearch,bubble,pick});
+    window.PenelopeTournament?.init?.({library,collections:window.PENELOPE_COLLECTIONS||{}});
+  }
+
+  window.PenelopeApp={
+    search:runSearch,
+    showMessage:bubble,
+    refreshSaved:renderSaved,
+    getCurrentEntry:()=>currentEntry,
+    getCurrentKey:()=>currentKey
+  };
+
+  initializeFoundationModules();
   updateThemeButton();
   counters();
   renderSaved();
