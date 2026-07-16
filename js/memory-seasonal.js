@@ -136,7 +136,7 @@
     {id:"first-search",icon:"📚",name:"First Checkout",test:s=>s.searches>=1,detail:"Performed your first search."},
     {id:"goose-approved",icon:"🪿",name:"Goose Approved",test:s=>s.saved>=1,detail:"Saved your first misunderstanding."},
     {id:"honk-enthusiast",icon:"📣",name:"Honk Enthusiast",test:s=>s.honks>=10,detail:"Requested ten librarian reactions."},
-    {id:"fantasy-explorer",icon:"🏰",name:"Fantasy Explorer",test:s=>(s.categories.fantasy||0)>=5,detail:"Explored five Fantasy entries."},
+    {id:"fantasy-explorer",icon:"🏰",name:"Fantasy Explorer",test:s=>(s.categories.fantasy||0)>=1,detail:"Explored five Fantasy entries."},
     {id:"disney-scholar",icon:"👑",name:"Disney Scholar",test:s=>(s.categories["disney"]||0)>=5||(s.categories["penelope-favorites"]||0)>=10,detail:"Explored Disney and fairy-tale shelves."},
     {id:"manga-marathon",icon:"🎌",name:"Manga Marathon",test:s=>(s.categories.manga||0)>=10,detail:"Visited ten Manga entries."},
     {id:"classic-collector",icon:"📜",name:"Classic Collector",test:s=>(s.categories["literary-classics"]||0)>=10,detail:"Read ten Literary Classics entries."},

@@ -53,6 +53,7 @@
       clear.addEventListener("click",()=>{
         window.PenelopeCard.clearShelf(shelf);
         renderSaved();
+  renderLibraryHoldings();
       });
       heading.append(h4,clear);
       section.appendChild(heading);
@@ -123,6 +124,16 @@
     const requestId=++apiSequence;$("result").classList.add("hidden");$("notFound").classList.add("hidden");$("apiLoading").classList.remove("hidden");bubble("The handcrafted catalog missed. I am consulting the public shelves.");
     try{const results=await window.PenelopeOpenLibrary.search(value);if(requestId!==apiSequence)return;if(!results.length){showNotFound(value,false);return}renderEntry(results[0].entry,"api:"+window.PenelopeSearch.normalize(results[0].entry.name),false)}
     catch(error){console.error("Open Library search failed:",error);if(requestId===apiSequence)showNotFound(value,true)}
+  }
+
+
+  function renderLibraryHoldings(){
+    const entries=Object.values(window.PENELOPE_LIBRARY||{});
+    const counts={Book:0,"Book Series":0,Author:0,Character:0};
+    entries.forEach(entry=>{if(Object.prototype.hasOwnProperty.call(counts,entry.type))counts[entry.type]++});
+    const wrap=$("libraryHoldings");
+    if(wrap)wrap.innerHTML=`<p>Books <strong>${counts.Book}</strong></p><p>Series <strong>${counts["Book Series"]}</strong></p><p>Authors <strong>${counts.Author}</strong></p><p>Characters <strong>${counts.Character}</strong></p><p>Wonderful Misunderstandings <strong>${entries.length}</strong></p>`;
+    const arrival=$("fantasyArrivalCount");if(arrival)arrival.textContent="62";
   }
 
   function collectionsForKey(key){
