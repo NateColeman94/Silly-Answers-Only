@@ -55,7 +55,14 @@
     searchCount++;window.PenelopeStorage.set("penelopeSearchCount",searchCount);counters();hideStatus();
     const level=$("level").value,options=entry[level]||entry.silly||entry.mild,p=profile(entry);
     $("result").classList.remove("hidden");$("entityType").textContent=entry.type;$("resultTitle").textContent=entry.name;
-    const source=$("sourceBadge");if(entry.apiSource){source.textContent="Open Library metadata";source.classList.remove("hidden")}else{source.textContent="";source.classList.add("hidden")}
+    const source=$("sourceBadge"),preview=$("sourcePreview");
+    if(entry.apiSource){
+      source.textContent=entry.apiMetadata&&entry.apiMetadata.descriptionAvailable?"Open Library work description + metadata":"Open Library metadata";
+      source.classList.remove("hidden");
+      if(entry.sourcePreview){preview.textContent=entry.sourcePreview;preview.classList.remove("hidden")}else preview.classList.add("hidden");
+    }else{
+      source.textContent="";source.classList.add("hidden");preview.textContent="";preview.classList.add("hidden");
+    }
     $("award").textContent=pick(["🏆 Certified Librarian Nightmare","🪿 Goose-Approved Misinformation","📚 Book Club Menace","🚨 English Teacher Alert"],cycle+2);
     const witty=entry.apiSource?"I found this on the public shelves. The metadata is real; my explanation remains irresponsible.":window.PenelopePersonality.lineFor(entry,key,cycle,searchCount,repeated,level);
     $("penelopeLine").textContent="🪿 Penelope says: “"+witty+"”";bubble(witty);$("synopsis").textContent=pick(options,cycle);
@@ -106,8 +113,57 @@
     panel.scrollIntoView({behavior:"smooth",block:"start"});
   }
 
+
+  let tournamentQueue=[],tournamentWinners=[],tournamentRound=0,tournamentPairIndex=0;
+  function tournamentExplanation(key){
+    const entry=library[key];
+    return pick(entry.wild||entry.silly||entry.mild,Math.abs(key.length+tournamentRound));
+  }
+  function showTournamentMatch(){
+    const match=$("tournamentMatch"),status=$("tournamentStatus");
+    if(tournamentQueue.length===1&&!tournamentWinners.length){
+      const winner=library[tournamentQueue[0]];
+      status.textContent=`Champion: ${winner.name}`;
+      match.innerHTML="";
+      const card=document.createElement("div");card.className="champion-card";
+      const h=document.createElement("h3");h.textContent="🪿 Penelope crowns "+winner.name;
+      const p=document.createElement("p");p.textContent=tournamentExplanation(tournamentQueue[0]);
+      const save=document.createElement("button");save.textContent="🏆 Save Champion to Hall of Shame";
+      save.addEventListener("click",()=>{
+        window.PenelopeCard.save(winner,p.textContent,"shame");renderSaved();$("saveStatus").textContent="Tournament champion saved!";
+      });
+      card.append(h,p,save);match.appendChild(card);match.classList.remove("hidden");return;
+    }
+    if(tournamentPairIndex>=tournamentQueue.length){
+      tournamentQueue=tournamentWinners;tournamentWinners=[];tournamentPairIndex=0;tournamentRound++;
+      if(tournamentQueue.length===1){showTournamentMatch();return}
+    }
+    const leftKey=tournamentQueue[tournamentPairIndex],rightKey=tournamentQueue[tournamentPairIndex+1];
+    if(!rightKey){tournamentWinners.push(leftKey);tournamentPairIndex+=2;showTournamentMatch();return}
+    status.textContent=`Round ${tournamentRound+1} · Match ${Math.floor(tournamentPairIndex/2)+1}`;
+    match.innerHTML="";
+    [leftKey,rightKey].forEach(key=>{
+      const entry=library[key],button=document.createElement("button");button.className="tournament-choice";
+      const name=document.createElement("strong");name.textContent=entry.name;
+      const type=document.createElement("span");type.textContent=entry.type;
+      const text=document.createElement("p");text.textContent=tournamentExplanation(key);
+      button.append(name,type,text);
+      button.addEventListener("click",()=>{tournamentWinners.push(key);tournamentPairIndex+=2;showTournamentMatch()});
+      match.appendChild(button);
+    });
+    match.classList.remove("hidden");
+  }
+  function startTournament(){
+    const collection=(window.PENELOPE_COLLECTIONS||{})[$("tournamentCollection").value];
+    if(!collection||collection.keys.length<2){$("tournamentStatus").textContent="This shelf needs at least two entries.";return}
+    tournamentQueue=[...collection.keys].sort(()=>Math.random()-.5).slice(0,8);
+    tournamentWinners=[];tournamentRound=0;tournamentPairIndex=0;showTournamentMatch();
+    $("tournament").scrollIntoView({behavior:"smooth",block:"start"});
+  }
+
   $("searchBtn").addEventListener("click",()=>runSearch($("query").value));$("themeBtn").addEventListener("click",toggleTheme);
   $("browseCollectionBtn").addEventListener("click",()=>renderCollection($("collectionSelect").value));
+  $("startTournamentBtn").addEventListener("click",startTournament);
   $("collectionSelect").addEventListener("change",event=>{if(event.target.value)renderCollection(event.target.value)});
   $("query").addEventListener("keydown",event=>{if(event.key==="Enter"){event.preventDefault();runSearch(event.target.value)}});
   $("query").addEventListener("input",event=>{const value=event.target.value.trim();value.length>=3?showSuggestions(value):$("suggestions").classList.remove("show")});

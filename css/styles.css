@@ -113,3 +113,13 @@ body.dark .mascot-button img{filter:brightness(.88) contrast(1.05)}
 body.dark .collection-browser{background:rgba(255,255,255,.05)}
 @media(max-width:820px){.collection-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:520px){.collection-grid{grid-template-columns:1fr}.collection-browser select,.collection-browser button{width:100%}}
+
+.source-preview{margin:14px 0;padding:14px;border:2px solid var(--ink);border-radius:14px;background:var(--mint);font-size:.9rem;line-height:1.45}
+.tournament{margin-top:24px;padding:24px}.tournament h2{font-family:Georgia,serif;font-size:2rem;margin:.2rem 0}
+.tournament-heading{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;flex-wrap:wrap}
+.tournament-controls{display:flex;gap:8px;flex-wrap:wrap}.tournament-status{margin:14px 0;padding:10px;border-left:6px solid var(--gold);background:#fff7d9;border-radius:9px;font-weight:900}
+body.dark .tournament-status{background:#423a25}.tournament-match{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.tournament-choice{display:flex;flex-direction:column;align-items:flex-start;text-align:left;min-height:190px;background:var(--blue)}
+.tournament-choice strong{font-family:Georgia,serif;font-size:1.35rem}.tournament-choice span{margin:.4rem 0;padding:4px 8px;border:1px solid var(--ink);border-radius:999px;font-size:.72rem}
+.tournament-choice p{line-height:1.45}.champion-card{grid-column:1/-1;text-align:center;border:3px double var(--ink);border-radius:16px;padding:20px;background:var(--pink)}
+@media(max-width:650px){.tournament-match{grid-template-columns:1fr}.tournament-controls select,.tournament-controls button{width:100%}}

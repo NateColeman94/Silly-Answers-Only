@@ -1,0 +1,19 @@
+{
+  "total": 218,
+  "counts": {
+    "Book": 73,
+    "Character": 78,
+    "Book Series": 9,
+    "Author": 35,
+    "Graphic Novel": 3,
+    "Manga Series": 9,
+    "Comic Series": 5,
+    "Creator": 5,
+    "Graphic Novel Series": 1
+  },
+  "fantasy_shelf": 15,
+  "tournament": true,
+  "persistent_search_count": true,
+  "open_library_work_description": true,
+  "audit": "PASS"
+}

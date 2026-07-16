@@ -10152,5 +10152,1605 @@ window.PENELOPE_LIBRARY = {
     "questions": [
       "How does Gotouge create sympathy without erasing responsibility?"
     ]
+  },
+  "spider man": {
+    "name": "Spider-Man",
+    "type": "Comic Series",
+    "key": "marvel",
+    "related": [
+      "Peter Parker",
+      "Miles Morales",
+      "Stan Lee",
+      "The Avengers"
+    ],
+    "mild": [
+      "A continuing series centered on a young hero balancing ordinary life with extraordinary responsibility."
+    ],
+    "silly": [
+      "A long-running collection where web-slinging responsibility repeatedly collides with secret-identity scheduling and nobody files a calm incident report.",
+      "A series that transforms web-slinging responsibility into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Web-Slinging Responsibility becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying web-slinging responsibility",
+      "fans debating secret-identity scheduling",
+      "librarians tracking neighborhood heroism"
+    ],
+    "genres": [
+      "Web-Slinging Responsibility",
+      "Secret-Identity Scheduling",
+      "Neighborhood Heroism",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that web-slinging responsibility was not in the original plan.",
+      "I have selected secret-identity scheduling as the least calm option."
+    ],
+    "reviews": [
+      "Excellent web-slinging responsibility. Concerning secret-identity scheduling.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited neighborhood heroism. No quiet afternoon."
+    ],
+    "morals": [
+      "Web-Slinging Responsibility works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses secret-identity scheduling before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does web-slinging responsibility shape the central choices?",
+      "Would the story work without secret-identity scheduling?"
+    ]
+  },
+  "peter parker": {
+    "name": "Peter Parker",
+    "type": "Character",
+    "key": "marvel",
+    "related": [
+      "Spider-Man",
+      "Miles Morales",
+      "Stan Lee"
+    ],
+    "mild": [
+      "Peter Parker is defined by intelligence, guilt, humor, responsibility, and difficulty maintaining work-life balance."
+    ],
+    "silly": [
+      "Peter Parker combines scientific improvisation, responsibility guilt, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from scientific improvisation, rent-related stress, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Scientific Improvisation acquires a costume and full decision-making authority.",
+      "One character turns responsibility guilt into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying scientific improvisation",
+      "fans debating responsibility guilt",
+      "librarians tracking rent-related stress"
+    ],
+    "genres": [
+      "Scientific Improvisation",
+      "Responsibility Guilt",
+      "Rent-Related Stress",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that scientific improvisation was not in the original plan.",
+      "I have selected responsibility guilt as the least calm option."
+    ],
+    "reviews": [
+      "Excellent scientific improvisation. Concerning responsibility guilt.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited rent-related stress. No quiet afternoon."
+    ],
+    "morals": [
+      "Scientific Improvisation works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses responsibility guilt before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does scientific improvisation shape the central choices?",
+      "Would the story work without responsibility guilt?"
+    ]
+  },
+  "miles morales": {
+    "name": "Miles Morales",
+    "type": "Character",
+    "key": "marvel",
+    "related": [
+      "Spider-Man",
+      "Peter Parker",
+      "The Avengers"
+    ],
+    "mild": [
+      "Miles Morales is defined by creativity, empathy, courage, family, and defining heroism on his own terms."
+    ],
+    "silly": [
+      "Miles Morales combines creative heroism, family expectations, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from creative heroism, multiverse adjustment, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Creative Heroism acquires a costume and full decision-making authority.",
+      "One character turns family expectations into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying creative heroism",
+      "fans debating family expectations",
+      "librarians tracking multiverse adjustment"
+    ],
+    "genres": [
+      "Creative Heroism",
+      "Family Expectations",
+      "Multiverse Adjustment",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that creative heroism was not in the original plan.",
+      "I have selected family expectations as the least calm option."
+    ],
+    "reviews": [
+      "Excellent creative heroism. Concerning family expectations.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited multiverse adjustment. No quiet afternoon."
+    ],
+    "morals": [
+      "Creative Heroism works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses family expectations before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does creative heroism shape the central choices?",
+      "Would the story work without family expectations?"
+    ]
+  },
+  "the avengers": {
+    "name": "The Avengers",
+    "type": "Comic Series",
+    "key": "marvel",
+    "related": [
+      "Spider-Man",
+      "Iron Man",
+      "Captain America",
+      "Stan Lee"
+    ],
+    "mild": [
+      "A continuing series centered on powerful heroes repeatedly attempting teamwork during global emergencies."
+    ],
+    "silly": [
+      "A long-running collection where superhero teamwork repeatedly collides with global threat response and nobody files a calm incident report.",
+      "A series that transforms superhero teamwork into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Superhero Teamwork becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying superhero teamwork",
+      "fans debating global threat response",
+      "librarians tracking personality conflict"
+    ],
+    "genres": [
+      "Superhero Teamwork",
+      "Global Threat Response",
+      "Personality Conflict",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that superhero teamwork was not in the original plan.",
+      "I have selected global threat response as the least calm option."
+    ],
+    "reviews": [
+      "Excellent superhero teamwork. Concerning global threat response.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited personality conflict. No quiet afternoon."
+    ],
+    "morals": [
+      "Superhero Teamwork works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses global threat response before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does superhero teamwork shape the central choices?",
+      "Would the story work without global threat response?"
+    ]
+  },
+  "stan lee": {
+    "name": "Stan Lee",
+    "type": "Creator",
+    "key": "marvel",
+    "related": [
+      "Spider-Man",
+      "The Avengers",
+      "Marvel Comics"
+    ],
+    "mild": [
+      "Stan Lee is known for storytelling shaped by co-creating iconic superheroes through personality, flaws, spectacle, and everyday problems."
+    ],
+    "silly": [
+      "A creator who turns flawed superheroes into a complete publishing ecosystem.",
+      "An author who combines flawed superheroes, comic-book showmanship, and enough everyday relatability to require a separate catalog."
+    ],
+    "wild": [
+      "One creator weaponizes flawed superheroes against quiet reading schedules.",
+      "A storyteller turns comic-book showmanship into an international narrative incident."
+    ],
+    "audiences": [
+      "readers studying flawed superheroes",
+      "fans debating comic-book showmanship",
+      "librarians tracking everyday relatability"
+    ],
+    "genres": [
+      "Flawed Superheroes",
+      "Comic-Book Showmanship",
+      "Everyday Relatability",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that flawed superheroes was not in the original plan.",
+      "I have selected comic-book showmanship as the least calm option."
+    ],
+    "reviews": [
+      "Excellent flawed superheroes. Concerning comic-book showmanship.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited everyday relatability. No quiet afternoon."
+    ],
+    "morals": [
+      "Flawed Superheroes works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses comic-book showmanship before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does flawed superheroes shape the central choices?",
+      "Would the story work without comic-book showmanship?"
+    ]
+  },
+  "batman": {
+    "name": "Batman",
+    "type": "Comic Series",
+    "key": "dc",
+    "related": [
+      "Bruce Wayne",
+      "The Joker",
+      "Wonder Woman",
+      "Superman"
+    ],
+    "mild": [
+      "A continuing series centered on a masked detective using preparation, fear, and resources against crime."
+    ],
+    "silly": [
+      "A long-running collection where vigilante preparation repeatedly collides with Gotham risk management and nobody files a calm incident report.",
+      "A series that transforms vigilante preparation into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Vigilante Preparation becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying vigilante preparation",
+      "fans debating Gotham risk management",
+      "librarians tracking bat-themed branding"
+    ],
+    "genres": [
+      "Vigilante Preparation",
+      "Gotham Risk Management",
+      "Bat-Themed Branding",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that vigilante preparation was not in the original plan.",
+      "I have selected Gotham risk management as the least calm option."
+    ],
+    "reviews": [
+      "Excellent vigilante preparation. Concerning Gotham risk management.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited bat-themed branding. No quiet afternoon."
+    ],
+    "morals": [
+      "Vigilante Preparation works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses Gotham risk management before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does vigilante preparation shape the central choices?",
+      "Would the story work without Gotham risk management?"
+    ]
+  },
+  "bruce wayne": {
+    "name": "Bruce Wayne",
+    "type": "Character",
+    "key": "dc",
+    "related": [
+      "Batman",
+      "The Joker",
+      "Superman"
+    ],
+    "mild": [
+      "Bruce Wayne is defined by discipline, trauma, secrecy, intelligence, and an extreme commitment to preparation."
+    ],
+    "silly": [
+      "Bruce Wayne combines contingency planning, billionaire brooding, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from contingency planning, secret-identity management, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Contingency Planning acquires a costume and full decision-making authority.",
+      "One character turns billionaire brooding into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying contingency planning",
+      "fans debating billionaire brooding",
+      "librarians tracking secret-identity management"
+    ],
+    "genres": [
+      "Contingency Planning",
+      "Billionaire Brooding",
+      "Secret-Identity Management",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that contingency planning was not in the original plan.",
+      "I have selected billionaire brooding as the least calm option."
+    ],
+    "reviews": [
+      "Excellent contingency planning. Concerning billionaire brooding.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited secret-identity management. No quiet afternoon."
+    ],
+    "morals": [
+      "Contingency Planning works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses billionaire brooding before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does contingency planning shape the central choices?",
+      "Would the story work without billionaire brooding?"
+    ]
+  },
+  "superman": {
+    "name": "Superman",
+    "type": "Comic Series",
+    "key": "dc",
+    "related": [
+      "Clark Kent",
+      "Batman",
+      "Wonder Woman"
+    ],
+    "mild": [
+      "A continuing series centered on an immensely powerful hero choosing compassion, restraint, and service."
+    ],
+    "silly": [
+      "A long-running collection where superpowered restraint repeatedly collides with journalism scheduling and nobody files a calm incident report.",
+      "A series that transforms superpowered restraint into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Superpowered Restraint becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying superpowered restraint",
+      "fans debating journalism scheduling",
+      "librarians tracking hope-based leadership"
+    ],
+    "genres": [
+      "Superpowered Restraint",
+      "Journalism Scheduling",
+      "Hope-Based Leadership",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that superpowered restraint was not in the original plan.",
+      "I have selected journalism scheduling as the least calm option."
+    ],
+    "reviews": [
+      "Excellent superpowered restraint. Concerning journalism scheduling.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited hope-based leadership. No quiet afternoon."
+    ],
+    "morals": [
+      "Superpowered Restraint works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses journalism scheduling before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does superpowered restraint shape the central choices?",
+      "Would the story work without journalism scheduling?"
+    ]
+  },
+  "wonder woman": {
+    "name": "Wonder Woman",
+    "type": "Comic Series",
+    "key": "dc",
+    "related": [
+      "Diana Prince",
+      "Batman",
+      "Superman"
+    ],
+    "mild": [
+      "A continuing series centered on a warrior and diplomat balancing truth, compassion, justice, and strength."
+    ],
+    "silly": [
+      "A long-running collection where truth-based diplomacy repeatedly collides with Amazon leadership and nobody files a calm incident report.",
+      "A series that transforms truth-based diplomacy into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Truth-Based Diplomacy becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying truth-based diplomacy",
+      "fans debating Amazon leadership",
+      "librarians tracking lasso compliance"
+    ],
+    "genres": [
+      "Truth-Based Diplomacy",
+      "Amazon Leadership",
+      "Lasso Compliance",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that truth-based diplomacy was not in the original plan.",
+      "I have selected Amazon leadership as the least calm option."
+    ],
+    "reviews": [
+      "Excellent truth-based diplomacy. Concerning Amazon leadership.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited lasso compliance. No quiet afternoon."
+    ],
+    "morals": [
+      "Truth-Based Diplomacy works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses Amazon leadership before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does truth-based diplomacy shape the central choices?",
+      "Would the story work without Amazon leadership?"
+    ]
+  },
+  "the joker": {
+    "name": "The Joker",
+    "type": "Character",
+    "key": "dc",
+    "related": [
+      "Batman",
+      "Bruce Wayne",
+      "Watchmen"
+    ],
+    "mild": [
+      "The Joker is defined by chaos, theatricality, manipulation, and obsession with testing moral limits."
+    ],
+    "silly": [
+      "The Joker combines chaos branding, villainous theater, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from chaos branding, Gotham disruption, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Chaos Branding acquires a costume and full decision-making authority.",
+      "One character turns villainous theater into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying chaos branding",
+      "fans debating villainous theater",
+      "librarians tracking Gotham disruption"
+    ],
+    "genres": [
+      "Chaos Branding",
+      "Villainous Theater",
+      "Gotham Disruption",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that chaos branding was not in the original plan.",
+      "I have selected villainous theater as the least calm option."
+    ],
+    "reviews": [
+      "Excellent chaos branding. Concerning villainous theater.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited Gotham disruption. No quiet afternoon."
+    ],
+    "morals": [
+      "Chaos Branding works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses villainous theater before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does chaos branding shape the central choices?",
+      "Would the story work without villainous theater?"
+    ]
+  },
+  "my hero academia": {
+    "name": "My Hero Academia",
+    "type": "Manga Series",
+    "key": "manga_mha",
+    "related": [
+      "Izuku Midoriya",
+      "All Might",
+      "Kohei Horikoshi",
+      "The Avengers"
+    ],
+    "mild": [
+      "A continuing series centered on students training to become professional heroes in a society organized around superpowers."
+    ],
+    "silly": [
+      "A long-running collection where hero education repeatedly collides with quirk management and nobody files a calm incident report.",
+      "A series that transforms hero education into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Hero Education becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying hero education",
+      "fans debating quirk management",
+      "librarians tracking school safety"
+    ],
+    "genres": [
+      "Hero Education",
+      "Quirk Management",
+      "School Safety",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that hero education was not in the original plan.",
+      "I have selected quirk management as the least calm option."
+    ],
+    "reviews": [
+      "Excellent hero education. Concerning quirk management.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited school safety. No quiet afternoon."
+    ],
+    "morals": [
+      "Hero Education works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses quirk management before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does hero education shape the central choices?",
+      "Would the story work without quirk management?"
+    ]
+  },
+  "izuku midoriya": {
+    "name": "Izuku Midoriya",
+    "type": "Character",
+    "key": "manga_mha",
+    "related": [
+      "My Hero Academia",
+      "All Might",
+      "Kohei Horikoshi"
+    ],
+    "mild": [
+      "Izuku Midoriya is defined by analysis, empathy, self-sacrifice, determination, and learning to carry power responsibly."
+    ],
+    "silly": [
+      "Izuku Midoriya combines hero analysis, notebook strategy, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from hero analysis, self-sacrificing courage, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Hero Analysis acquires a costume and full decision-making authority.",
+      "One character turns notebook strategy into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying hero analysis",
+      "fans debating notebook strategy",
+      "librarians tracking self-sacrificing courage"
+    ],
+    "genres": [
+      "Hero Analysis",
+      "Notebook Strategy",
+      "Self-Sacrificing Courage",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that hero analysis was not in the original plan.",
+      "I have selected notebook strategy as the least calm option."
+    ],
+    "reviews": [
+      "Excellent hero analysis. Concerning notebook strategy.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited self-sacrificing courage. No quiet afternoon."
+    ],
+    "morals": [
+      "Hero Analysis works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses notebook strategy before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does hero analysis shape the central choices?",
+      "Would the story work without notebook strategy?"
+    ]
+  },
+  "kohei horikoshi": {
+    "name": "Kohei Horikoshi",
+    "type": "Creator",
+    "key": "manga_mha",
+    "related": [
+      "My Hero Academia",
+      "Izuku Midoriya",
+      "All Might"
+    ],
+    "mild": [
+      "Kohei Horikoshi is known for storytelling shaped by superhero-school storytelling, inherited ideals, identity, and visually inventive powers."
+    ],
+    "silly": [
+      "A creator who turns hero-school worldbuilding into a complete publishing ecosystem.",
+      "An author who combines hero-school worldbuilding, quirk design, and enough legacy storytelling to require a separate catalog."
+    ],
+    "wild": [
+      "One creator weaponizes hero-school worldbuilding against quiet reading schedules.",
+      "A storyteller turns quirk design into an international narrative incident."
+    ],
+    "audiences": [
+      "readers studying hero-school worldbuilding",
+      "fans debating quirk design",
+      "librarians tracking legacy storytelling"
+    ],
+    "genres": [
+      "Hero-School Worldbuilding",
+      "Quirk Design",
+      "Legacy Storytelling",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that hero-school worldbuilding was not in the original plan.",
+      "I have selected quirk design as the least calm option."
+    ],
+    "reviews": [
+      "Excellent hero-school worldbuilding. Concerning quirk design.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited legacy storytelling. No quiet afternoon."
+    ],
+    "morals": [
+      "Hero-School Worldbuilding works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses quirk design before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does hero-school worldbuilding shape the central choices?",
+      "Would the story work without quirk design?"
+    ]
+  },
+  "bleach": {
+    "name": "Bleach",
+    "type": "Manga Series",
+    "key": "manga_bleach",
+    "related": [
+      "Ichigo Kurosaki",
+      "Tite Kubo",
+      "Naruto"
+    ],
+    "mild": [
+      "A continuing series centered on a teenager balancing ordinary life with duties involving spirits and supernatural conflict."
+    ],
+    "silly": [
+      "A long-running collection where spirit administration repeatedly collides with sword-based afterlife work and nobody files a calm incident report.",
+      "A series that transforms spirit administration into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Spirit Administration becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying spirit administration",
+      "fans debating sword-based afterlife work",
+      "librarians tracking teenage responsibility"
+    ],
+    "genres": [
+      "Spirit Administration",
+      "Sword-Based Afterlife Work",
+      "Teenage Responsibility",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that spirit administration was not in the original plan.",
+      "I have selected sword-based afterlife work as the least calm option."
+    ],
+    "reviews": [
+      "Excellent spirit administration. Concerning sword-based afterlife work.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited teenage responsibility. No quiet afternoon."
+    ],
+    "morals": [
+      "Spirit Administration works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses sword-based afterlife work before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does spirit administration shape the central choices?",
+      "Would the story work without sword-based afterlife work?"
+    ]
+  },
+  "ichigo kurosaki": {
+    "name": "Ichigo Kurosaki",
+    "type": "Character",
+    "key": "manga_bleach",
+    "related": [
+      "Bleach",
+      "Tite Kubo",
+      "Naruto Uzumaki"
+    ],
+    "mild": [
+      "Ichigo Kurosaki is defined by protectiveness, bluntness, adaptability, hidden power, and reluctance to accept grand titles."
+    ],
+    "silly": [
+      "Ichigo Kurosaki combines protective instinct, unexpected power upgrades, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from protective instinct, afterlife overtime, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Protective Instinct acquires a costume and full decision-making authority.",
+      "One character turns unexpected power upgrades into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying protective instinct",
+      "fans debating unexpected power upgrades",
+      "librarians tracking afterlife overtime"
+    ],
+    "genres": [
+      "Protective Instinct",
+      "Unexpected Power Upgrades",
+      "Afterlife Overtime",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that protective instinct was not in the original plan.",
+      "I have selected unexpected power upgrades as the least calm option."
+    ],
+    "reviews": [
+      "Excellent protective instinct. Concerning unexpected power upgrades.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited afterlife overtime. No quiet afternoon."
+    ],
+    "morals": [
+      "Protective Instinct works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses unexpected power upgrades before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does protective instinct shape the central choices?",
+      "Would the story work without unexpected power upgrades?"
+    ]
+  },
+  "tite kubo": {
+    "name": "Tite Kubo",
+    "type": "Creator",
+    "key": "manga_bleach",
+    "related": [
+      "Bleach",
+      "Ichigo Kurosaki"
+    ],
+    "mild": [
+      "Tite Kubo is known for storytelling shaped by stylish character design, supernatural combat, identity, and memorable visual presentation."
+    ],
+    "silly": [
+      "A creator who turns fashion-forward combat into a complete publishing ecosystem.",
+      "An author who combines fashion-forward combat, spirit worldbuilding, and enough dramatic silhouettes to require a separate catalog."
+    ],
+    "wild": [
+      "One creator weaponizes fashion-forward combat against quiet reading schedules.",
+      "A storyteller turns spirit worldbuilding into an international narrative incident."
+    ],
+    "audiences": [
+      "readers studying fashion-forward combat",
+      "fans debating spirit worldbuilding",
+      "librarians tracking dramatic silhouettes"
+    ],
+    "genres": [
+      "Fashion-Forward Combat",
+      "Spirit Worldbuilding",
+      "Dramatic Silhouettes",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that fashion-forward combat was not in the original plan.",
+      "I have selected spirit worldbuilding as the least calm option."
+    ],
+    "reviews": [
+      "Excellent fashion-forward combat. Concerning spirit worldbuilding.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited dramatic silhouettes. No quiet afternoon."
+    ],
+    "morals": [
+      "Fashion-Forward Combat works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses spirit worldbuilding before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does fashion-forward combat shape the central choices?",
+      "Would the story work without spirit worldbuilding?"
+    ]
+  },
+  "dragon ball z": {
+    "name": "Dragon Ball Z",
+    "type": "Manga Series",
+    "key": "manga_dbz",
+    "related": [
+      "Goku",
+      "Vegeta",
+      "Akira Toriyama",
+      "Naruto"
+    ],
+    "mild": [
+      "A continuing series centered on powerful martial artists protecting earth through training, rivalry, and escalating battles."
+    ],
+    "silly": [
+      "A long-running collection where power-level escalation repeatedly collides with martial arts rivalry and nobody files a calm incident report.",
+      "A series that transforms power-level escalation into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Power-Level Escalation becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying power-level escalation",
+      "fans debating martial arts rivalry",
+      "librarians tracking planetary emergency response"
+    ],
+    "genres": [
+      "Power-Level Escalation",
+      "Martial Arts Rivalry",
+      "Planetary Emergency Response",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that power-level escalation was not in the original plan.",
+      "I have selected martial arts rivalry as the least calm option."
+    ],
+    "reviews": [
+      "Excellent power-level escalation. Concerning martial arts rivalry.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited planetary emergency response. No quiet afternoon."
+    ],
+    "morals": [
+      "Power-Level Escalation works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses martial arts rivalry before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does power-level escalation shape the central choices?",
+      "Would the story work without martial arts rivalry?"
+    ]
+  },
+  "goku": {
+    "name": "Goku",
+    "type": "Character",
+    "key": "manga_dbz",
+    "related": [
+      "Dragon Ball Z",
+      "Vegeta",
+      "Akira Toriyama"
+    ],
+    "mild": [
+      "Goku is defined by optimism, love of training, appetite, innocence, and confidence in others' potential."
+    ],
+    "silly": [
+      "Goku combines training enthusiasm, battle optimism, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from training enthusiasm, legendary appetite, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Training Enthusiasm acquires a costume and full decision-making authority.",
+      "One character turns battle optimism into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying training enthusiasm",
+      "fans debating battle optimism",
+      "librarians tracking legendary appetite"
+    ],
+    "genres": [
+      "Training Enthusiasm",
+      "Battle Optimism",
+      "Legendary Appetite",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that training enthusiasm was not in the original plan.",
+      "I have selected battle optimism as the least calm option."
+    ],
+    "reviews": [
+      "Excellent training enthusiasm. Concerning battle optimism.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited legendary appetite. No quiet afternoon."
+    ],
+    "morals": [
+      "Training Enthusiasm works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses battle optimism before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does training enthusiasm shape the central choices?",
+      "Would the story work without battle optimism?"
+    ]
+  },
+  "akira toriyama": {
+    "name": "Akira Toriyama",
+    "type": "Creator",
+    "key": "manga_dbz",
+    "related": [
+      "Dragon Ball Z",
+      "Goku",
+      "Vegeta"
+    ],
+    "mild": [
+      "Akira Toriyama is known for storytelling shaped by clean visual comedy, martial-arts adventure, escalating invention, and iconic character design."
+    ],
+    "silly": [
+      "A creator who turns martial-arts adventure into a complete publishing ecosystem.",
+      "An author who combines martial-arts adventure, visual comedy, and enough power escalation to require a separate catalog."
+    ],
+    "wild": [
+      "One creator weaponizes martial-arts adventure against quiet reading schedules.",
+      "A storyteller turns visual comedy into an international narrative incident."
+    ],
+    "audiences": [
+      "readers studying martial-arts adventure",
+      "fans debating visual comedy",
+      "librarians tracking power escalation"
+    ],
+    "genres": [
+      "Martial-Arts Adventure",
+      "Visual Comedy",
+      "Power Escalation",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that martial-arts adventure was not in the original plan.",
+      "I have selected visual comedy as the least calm option."
+    ],
+    "reviews": [
+      "Excellent martial-arts adventure. Concerning visual comedy.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited power escalation. No quiet afternoon."
+    ],
+    "morals": [
+      "Martial-Arts Adventure works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses visual comedy before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does martial-arts adventure shape the central choices?",
+      "Would the story work without visual comedy?"
+    ]
+  },
+  "the apothecary diaries": {
+    "name": "The Apothecary Diaries",
+    "type": "Manga Series",
+    "key": "manga_apothecary",
+    "related": [
+      "Maomao",
+      "Jinshi",
+      "Natsu Hyuga",
+      "Spy x Family"
+    ],
+    "mild": [
+      "A continuing series centered on an observant apothecary solving medical and political mysteries in an imperial court."
+    ],
+    "silly": [
+      "A long-running collection where herbal deduction repeatedly collides with palace mystery and nobody files a calm incident report.",
+      "A series that transforms herbal deduction into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Herbal Deduction becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying herbal deduction",
+      "fans debating palace mystery",
+      "librarians tracking poison enthusiasm"
+    ],
+    "genres": [
+      "Herbal Deduction",
+      "Palace Mystery",
+      "Poison Enthusiasm",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that herbal deduction was not in the original plan.",
+      "I have selected palace mystery as the least calm option."
+    ],
+    "reviews": [
+      "Excellent herbal deduction. Concerning palace mystery.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited poison enthusiasm. No quiet afternoon."
+    ],
+    "morals": [
+      "Herbal Deduction works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses palace mystery before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does herbal deduction shape the central choices?",
+      "Would the story work without palace mystery?"
+    ]
+  },
+  "maomao": {
+    "name": "Maomao",
+    "type": "Character",
+    "key": "manga_apothecary",
+    "related": [
+      "The Apothecary Diaries",
+      "Jinshi",
+      "Natsu Hyuga"
+    ],
+    "mild": [
+      "Maomao is defined by clinical curiosity, intelligence, independence, dry humor, and an alarming interest in poison."
+    ],
+    "silly": [
+      "Maomao combines medical deduction, poison curiosity, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from medical deduction, courtly indifference, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Medical Deduction acquires a costume and full decision-making authority.",
+      "One character turns poison curiosity into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying medical deduction",
+      "fans debating poison curiosity",
+      "librarians tracking courtly indifference"
+    ],
+    "genres": [
+      "Medical Deduction",
+      "Poison Curiosity",
+      "Courtly Indifference",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that medical deduction was not in the original plan.",
+      "I have selected poison curiosity as the least calm option."
+    ],
+    "reviews": [
+      "Excellent medical deduction. Concerning poison curiosity.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited courtly indifference. No quiet afternoon."
+    ],
+    "morals": [
+      "Medical Deduction works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses poison curiosity before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does medical deduction shape the central choices?",
+      "Would the story work without poison curiosity?"
+    ]
+  },
+  "natsu hyuga": {
+    "name": "Natsu Hyuga",
+    "type": "Author",
+    "key": "manga_apothecary",
+    "related": [
+      "The Apothecary Diaries",
+      "Maomao",
+      "Jinshi"
+    ],
+    "mild": [
+      "Natsu Hyuga is known for storytelling shaped by court intrigue, medical mystery, observational intelligence, and restrained character comedy."
+    ],
+    "silly": [
+      "A creator who turns imperial mystery into a complete publishing ecosystem.",
+      "An author who combines imperial mystery, apothecary knowledge, and enough court intrigue to require a separate catalog."
+    ],
+    "wild": [
+      "One creator weaponizes imperial mystery against quiet reading schedules.",
+      "A storyteller turns apothecary knowledge into an international narrative incident."
+    ],
+    "audiences": [
+      "readers studying imperial mystery",
+      "fans debating apothecary knowledge",
+      "librarians tracking court intrigue"
+    ],
+    "genres": [
+      "Imperial Mystery",
+      "Apothecary Knowledge",
+      "Court Intrigue",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that imperial mystery was not in the original plan.",
+      "I have selected apothecary knowledge as the least calm option."
+    ],
+    "reviews": [
+      "Excellent imperial mystery. Concerning apothecary knowledge.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited court intrigue. No quiet afternoon."
+    ],
+    "morals": [
+      "Imperial Mystery works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses apothecary knowledge before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does imperial mystery shape the central choices?",
+      "Would the story work without apothecary knowledge?"
+    ]
+  },
+  "spy x family": {
+    "name": "Spy x Family",
+    "type": "Manga Series",
+    "key": "manga_spyfamily",
+    "related": [
+      "Loid Forger",
+      "Anya Forger",
+      "Yor Forger",
+      "Tatsuya Endo"
+    ],
+    "mild": [
+      "A continuing series centered on a fake family of secret professionals trying to complete a mission while accidentally becoming real."
+    ],
+    "silly": [
+      "A long-running collection where spy-family logistics repeatedly collides with telepathic schoolwork and nobody files a calm incident report.",
+      "A series that transforms spy-family logistics into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Spy-Family Logistics becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying spy-family logistics",
+      "fans debating telepathic schoolwork",
+      "librarians tracking assassin domesticity"
+    ],
+    "genres": [
+      "Spy-Family Logistics",
+      "Telepathic Schoolwork",
+      "Assassin Domesticity",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that spy-family logistics was not in the original plan.",
+      "I have selected telepathic schoolwork as the least calm option."
+    ],
+    "reviews": [
+      "Excellent spy-family logistics. Concerning telepathic schoolwork.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited assassin domesticity. No quiet afternoon."
+    ],
+    "morals": [
+      "Spy-Family Logistics works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses telepathic schoolwork before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does spy-family logistics shape the central choices?",
+      "Would the story work without telepathic schoolwork?"
+    ]
+  },
+  "loid forger": {
+    "name": "Loid Forger",
+    "type": "Character",
+    "key": "manga_spyfamily",
+    "related": [
+      "Spy x Family",
+      "Anya Forger",
+      "Yor Forger"
+    ],
+    "mild": [
+      "Loid Forger is defined by competence, secrecy, duty, emotional denial, and gradual attachment to his improvised family."
+    ],
+    "silly": [
+      "Loid Forger combines spy professionalism, emotional denial, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from spy professionalism, fake-family management, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Spy Professionalism acquires a costume and full decision-making authority.",
+      "One character turns emotional denial into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying spy professionalism",
+      "fans debating emotional denial",
+      "librarians tracking fake-family management"
+    ],
+    "genres": [
+      "Spy Professionalism",
+      "Emotional Denial",
+      "Fake-Family Management",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that spy professionalism was not in the original plan.",
+      "I have selected emotional denial as the least calm option."
+    ],
+    "reviews": [
+      "Excellent spy professionalism. Concerning emotional denial.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited fake-family management. No quiet afternoon."
+    ],
+    "morals": [
+      "Spy Professionalism works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses emotional denial before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does spy professionalism shape the central choices?",
+      "Would the story work without emotional denial?"
+    ]
+  },
+  "anya forger": {
+    "name": "Anya Forger",
+    "type": "Character",
+    "key": "manga_spyfamily",
+    "related": [
+      "Spy x Family",
+      "Loid Forger",
+      "Yor Forger"
+    ],
+    "mild": [
+      "Anya Forger is defined by telepathy, enthusiasm, misinterpretation, loyalty, and determination to keep her family together."
+    ],
+    "silly": [
+      "Anya Forger combines telepathic chaos, school mission support, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from telepathic chaos, peanut diplomacy, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Telepathic Chaos acquires a costume and full decision-making authority.",
+      "One character turns school mission support into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying telepathic chaos",
+      "fans debating school mission support",
+      "librarians tracking peanut diplomacy"
+    ],
+    "genres": [
+      "Telepathic Chaos",
+      "School Mission Support",
+      "Peanut Diplomacy",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that telepathic chaos was not in the original plan.",
+      "I have selected school mission support as the least calm option."
+    ],
+    "reviews": [
+      "Excellent telepathic chaos. Concerning school mission support.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited peanut diplomacy. No quiet afternoon."
+    ],
+    "morals": [
+      "Telepathic Chaos works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses school mission support before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does telepathic chaos shape the central choices?",
+      "Would the story work without school mission support?"
+    ]
+  },
+  "tatsuya endo": {
+    "name": "Tatsuya Endo",
+    "type": "Creator",
+    "key": "manga_spyfamily",
+    "related": [
+      "Spy x Family",
+      "Loid Forger",
+      "Anya Forger"
+    ],
+    "mild": [
+      "Tatsuya Endo is known for storytelling shaped by espionage comedy, found family, hidden identities, and warmth beneath absurd missions."
+    ],
+    "silly": [
+      "A creator who turns spy comedy into a complete publishing ecosystem.",
+      "An author who combines spy comedy, found-family storytelling, and enough secret identity collisions to require a separate catalog."
+    ],
+    "wild": [
+      "One creator weaponizes spy comedy against quiet reading schedules.",
+      "A storyteller turns found-family storytelling into an international narrative incident."
+    ],
+    "audiences": [
+      "readers studying spy comedy",
+      "fans debating found-family storytelling",
+      "librarians tracking secret identity collisions"
+    ],
+    "genres": [
+      "Spy Comedy",
+      "Found-Family Storytelling",
+      "Secret Identity Collisions",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that spy comedy was not in the original plan.",
+      "I have selected found-family storytelling as the least calm option."
+    ],
+    "reviews": [
+      "Excellent spy comedy. Concerning found-family storytelling.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited secret identity collisions. No quiet afternoon."
+    ],
+    "morals": [
+      "Spy Comedy works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses found-family storytelling before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does spy comedy shape the central choices?",
+      "Would the story work without found-family storytelling?"
+    ]
+  },
+  "solo leveling": {
+    "name": "Solo Leveling",
+    "type": "Graphic Novel Series",
+    "key": "manhwa_solo",
+    "related": [
+      "Sung Jinwoo",
+      "Chugong",
+      "My Hero Academia"
+    ],
+    "mild": [
+      "A continuing series centered on a weak hunter gaining a mysterious progression system and rising through increasingly dangerous dungeons."
+    ],
+    "silly": [
+      "A long-running collection where level-up progression repeatedly collides with dungeon administration and nobody files a calm incident report.",
+      "A series that transforms level-up progression into a recurring team assignment with escalating stakes."
+    ],
+    "wild": [
+      "One serialized premise expands until it requires global governance.",
+      "Level-Up Progression becomes a renewable source of cliffhangers."
+    ],
+    "audiences": [
+      "readers studying level-up progression",
+      "fans debating dungeon administration",
+      "librarians tracking shadow-army management"
+    ],
+    "genres": [
+      "Level-Up Progression",
+      "Dungeon Administration",
+      "Shadow-Army Management",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that level-up progression was not in the original plan.",
+      "I have selected dungeon administration as the least calm option."
+    ],
+    "reviews": [
+      "Excellent level-up progression. Concerning dungeon administration.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited shadow-army management. No quiet afternoon."
+    ],
+    "morals": [
+      "Level-Up Progression works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses dungeon administration before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does level-up progression shape the central choices?",
+      "Would the story work without dungeon administration?"
+    ]
+  },
+  "sung jinwoo": {
+    "name": "Sung Jinwoo",
+    "type": "Character",
+    "key": "manhwa_solo",
+    "related": [
+      "Solo Leveling",
+      "Chugong",
+      "Goku"
+    ],
+    "mild": [
+      "Sung Jinwoo is defined by determination, protectiveness, escalating power, strategic calm, and a growing shadow army."
+    ],
+    "silly": [
+      "Sung Jinwoo combines level-up discipline, shadow command, and an impressive ability to make ordinary situations narratively significant.",
+      "A highly specific personality built from level-up discipline, hunter transformation, and several choices requiring adult supervision."
+    ],
+    "wild": [
+      "Level-Up Discipline acquires a costume and full decision-making authority.",
+      "One character turns shadow command into an organization-wide emergency."
+    ],
+    "audiences": [
+      "readers studying level-up discipline",
+      "fans debating shadow command",
+      "librarians tracking hunter transformation"
+    ],
+    "genres": [
+      "Level-Up Discipline",
+      "Shadow Command",
+      "Hunter Transformation",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that level-up discipline was not in the original plan.",
+      "I have selected shadow command as the least calm option."
+    ],
+    "reviews": [
+      "Excellent level-up discipline. Concerning shadow command.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited hunter transformation. No quiet afternoon."
+    ],
+    "morals": [
+      "Level-Up Discipline works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses shadow command before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does level-up discipline shape the central choices?",
+      "Would the story work without shadow command?"
+    ]
+  },
+  "chugong": {
+    "name": "Chugong",
+    "type": "Author",
+    "key": "manhwa_solo",
+    "related": [
+      "Solo Leveling",
+      "Sung Jinwoo"
+    ],
+    "mild": [
+      "Chugong is known for storytelling shaped by progression fantasy, dungeon systems, power growth, and high-stakes action."
+    ],
+    "silly": [
+      "A creator who turns progression systems into a complete publishing ecosystem.",
+      "An author who combines progression systems, dungeon fantasy, and enough power-growth pacing to require a separate catalog."
+    ],
+    "wild": [
+      "One creator weaponizes progression systems against quiet reading schedules.",
+      "A storyteller turns dungeon fantasy into an international narrative incident."
+    ],
+    "audiences": [
+      "readers studying progression systems",
+      "fans debating dungeon fantasy",
+      "librarians tracking power-growth pacing"
+    ],
+    "genres": [
+      "Progression Systems",
+      "Dungeon Fantasy",
+      "Power-Growth Pacing",
+      "Extremely Specific Storytelling"
+    ],
+    "quotes": [
+      "Please note that progression systems was not in the original plan.",
+      "I have selected dungeon fantasy as the least calm option."
+    ],
+    "reviews": [
+      "Excellent progression systems. Concerning dungeon fantasy.",
+      "The story had strong character work and insufficient governance."
+    ],
+    "trailers": [
+      "One story. Unlimited power-growth pacing. No quiet afternoon."
+    ],
+    "morals": [
+      "Progression Systems works best when paired with judgment.",
+      "Power and responsibility should share the same shelf."
+    ],
+    "endings": [
+      "Everyone discusses dungeon fantasy before the final confrontation.",
+      "The entire cast receives clearer communication and one week off."
+    ],
+    "questions": [
+      "How does progression systems shape the central choices?",
+      "Would the story work without dungeon fantasy?"
+    ]
   }
 };

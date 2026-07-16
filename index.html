@@ -38,6 +38,7 @@
           <select id="collectionSelect">
             <option value="">Choose a shelf…</option>
             <option value="penelope-favorites">🪿 Penelope's Favorites</option>
+            <option value="fantasy">🐉 Fantasy</option>
             <option value="ya-favorites">📚 Young Adult Favorites</option>
             <option value="comics-graphic">💥 Comics & Graphic Novels</option>
             <option value="manga">🎌 Manga</option>
@@ -88,6 +89,7 @@
       </header>
 
       <div id="penelopeLine" class="penelope-line"></div>
+      <div id="sourcePreview" class="source-preview hidden"></div>
       <p id="synopsis" class="synopsis"></p>
 
       <div class="rating-strip">
@@ -132,11 +134,35 @@
       </div>
     </article>
 
+
+
+    <section id="tournament" class="card tournament">
+      <div class="tournament-heading">
+        <div>
+          <p class="eyebrow">Penelope's competitive cataloging program</p>
+          <h2>🏆 Misunderstanding Tournament</h2>
+          <p>Choose the sillier explanation. Winners advance until Penelope crowns a champion.</p>
+        </div>
+        <div class="tournament-controls">
+          <select id="tournamentCollection">
+            <option value="penelope-favorites">Penelope's Favorites</option>
+            <option value="fantasy">Fantasy</option>
+            <option value="ya-favorites">Young Adult Favorites</option>
+            <option value="comics-graphic">Comics & Graphic Novels</option>
+            <option value="manga">Manga</option>
+          </select>
+          <button id="startTournamentBtn">Start Tournament</button>
+        </div>
+      </div>
+      <div id="tournamentStatus" class="tournament-status">Select a shelf and start a tournament.</div>
+      <div id="tournamentMatch" class="tournament-match hidden"></div>
+    </section>
+
     <footer class="library-stamp">
       <strong>📚 LIBRARY NOTICE</strong>
       <p>No books were responsibly summarized in the making of this application.</p>
       <p>✓ Accurate Answers have been permanently checked out.</p>
-      <small>Build 6.3 — Persistent Personality & New Collections</small>
+      <small>Build 6.4 — Tournament, Richer Hybrid Search & Expanded Shelves</small>
     </footer>
   </main>
 

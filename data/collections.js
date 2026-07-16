@@ -29,7 +29,9 @@ window.PENELOPE_COLLECTIONS = {
       "six of crows",
       "kaz brekker",
       "fourth wing",
-      "violet sorrengail"
+      "violet sorrengail",
+      "my hero academia",
+      "spy x family"
     ]
   },
   "comics-graphic": {
@@ -42,7 +44,12 @@ window.PENELOPE_COLLECTIONS = {
       "maus",
       "art spiegelman",
       "persepolis",
-      "marjane satrapi"
+      "marjane satrapi",
+      "spider man",
+      "the avengers",
+      "batman",
+      "superman",
+      "wonder woman"
     ]
   },
   "manga": {
@@ -60,7 +67,34 @@ window.PENELOPE_COLLECTIONS = {
       "hiromu arakawa",
       "demon slayer",
       "tanjiro kamado",
-      "koyoharu gotouge"
+      "koyoharu gotouge",
+      "my hero academia",
+      "bleach",
+      "dragon ball z",
+      "the apothecary diaries",
+      "spy x family",
+      "solo leveling"
+    ]
+  },
+  "fantasy": {
+    "name": "Fantasy",
+    "description": "Wizards, dragons, impossible journeys, magical schools, cursed objects, and excessive walking.",
+    "keys": [
+      "the hobbit",
+      "the fellowship of the ring",
+      "the chronicles of narnia",
+      "a wizard of earthsea",
+      "mistborn",
+      "the wheel of time",
+      "howls moving castle",
+      "a wrinkle in time",
+      "the princess bride",
+      "stardust",
+      "the neverending story",
+      "gandalf",
+      "aslan",
+      "vin",
+      "ged"
     ]
   }
 };
