@@ -617,3 +617,7 @@ body.dark .tournament-choice{color:#3f312a}
 .season-holiday .penelope-panel{border-color:#9e7a59}
 @media(max-width:950px){.staff-picks-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.passport-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:560px){.staff-picks-grid,.passport-grid{grid-template-columns:1fr 1fr}.seasonal-desk-item{right:4%;top:82px}}
+
+/* Version 8.0A Patch 1 — modular foundation hooks */
+[data-penelope-module]{contain:content}
+.penelope-module-ready{--penelope-foundation-ready:1}
