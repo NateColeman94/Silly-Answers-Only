@@ -234,6 +234,29 @@
           </div>
           <div id="deskObjectTray" class="desk-object-tray" aria-live="polite"></div>
         </div>
+        <section id="personalRecommendationPanel" class="personal-recommendation-panel">
+          <div class="recommendation-lock" id="recommendationLock">
+            <span class="recommendation-lock-icon">🔒</span>
+            <div>
+              <strong>Penelope's Personal Recommendation</strong>
+              <p id="recommendationProgress">Penelope is still getting to know your reading habits.</p>
+            </div>
+          </div>
+
+          <div id="recommendationUnlocked" class="recommendation-unlocked hidden">
+            <div class="recommendation-copy">
+              <p class="desk-card-label">🪿 Penelope recommends this personally to you</p>
+              <h3 id="personalRecommendationTitle">A suspiciously appropriate book</h3>
+              <blockquote id="personalRecommendationNote"></blockquote>
+              <p id="personalRecommendationReason" class="recommendation-reason"></p>
+            </div>
+            <div class="recommendation-actions">
+              <button id="openPersonalRecommendationBtn">Open Recommendation</button>
+              <button id="refreshPersonalRecommendationBtn" class="secondary">Choose Another</button>
+            </div>
+          </div>
+        </section>
+
         <aside class="desk-mail-slot">
           <div>
             <span class="desk-card-label">📬 Today's Mail</span>
