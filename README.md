@@ -29,3 +29,21 @@ Includes Percy Jackson, The Lightning Thief, Rick Riordan, Annabeth Chase, Harry
 - Synthesized honk sound with no external audio file
 - Goose shake animation and rotating Penelope comments
 - Local Hall of Shame based on votes stored in the visitor's browser
+
+
+## Version 5.2
+- Replaces local vote totals with **Save to My Library Card**
+- Saves the exact explanation, title, type, and date in browser storage
+- Adds remove and clear controls
+- Makes search resilient if `data/library.js` is missing or delayed
+- Keeps Book Series, Book, Author, and Character example buttons functional
+
+
+## Version 5.3 – Penelope Mascot
+- Replaces the goose emoji with the official Penelope librarian mascot
+- Includes round glasses, cardigan, name tag, blue book, and checkout stamp
+- Clicking Penelope still triggers her honk, animation, and rotating dialogue
+- Adds `assets/penelope-librarian.png`
+
+## Upload
+Upload all files and folders, including the new `assets` folder.

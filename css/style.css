@@ -29,3 +29,46 @@
 .hall-title{font-weight:900}
 .hall-votes{white-space:nowrap;font-weight:900}
 .hall-empty{opacity:.7;font-style:italic}
+
+.save-message{display:inline-block;margin-left:10px;font-weight:900}
+.library-card-head{display:flex;justify-content:space-between;gap:10px;align-items:center}
+.library-card-head h3{margin:0}
+.small-btn{font-size:.8rem;padding:7px 10px;background:var(--pink)}
+.card-entry{padding:12px 0;border-bottom:1px dashed var(--ink)}
+.card-entry:last-child{border-bottom:0}
+.card-entry-title{font-weight:950}
+.card-entry-text{font-family:Georgia,serif;margin:5px 0}
+.card-entry-meta{font-size:.78rem;opacity:.72}
+.remove-card{font-size:.78rem;padding:6px 9px;margin-top:6px;background:var(--pink)}
+.data-warning{background:#fff1c7;border:2px solid var(--ink);border-radius:12px;padding:10px;margin-top:10px;font-weight:800}
+
+.mascot-button{
+  display:block;
+  width:min(100%,260px);
+  margin:0 auto;
+  padding:0;
+  border:0;
+  background:transparent;
+  box-shadow:none;
+  border-radius:22px;
+  overflow:hidden;
+}
+.mascot-button:hover{
+  transform:rotate(-2deg) scale(1.02);
+  box-shadow:none;
+}
+.mascot-button:active{
+  transform:rotate(1deg) scale(.99);
+  box-shadow:none;
+}
+.mascot-button img{
+  display:block;
+  width:100%;
+  height:auto;
+  border:3px solid var(--ink);
+  border-radius:22px;
+  box-shadow:var(--shadow);
+}
+.mascot-button.honking{
+  animation:honkShake .45s ease;
+}
