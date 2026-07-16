@@ -47,3 +47,25 @@ Includes Percy Jackson, The Lightning Thief, Rick Riordan, Annabeth Chase, Harry
 
 ## Upload
 Upload all files and folders, including the new `assets` folder.
+
+
+## Version 5.4 – Fantasy Classics Collection
+Adds a large handcrafted fantasy expansion across:
+- Tolkien / Middle-earth
+- The Chronicles of Narnia
+- Earthsea
+- Mistborn
+- The Wheel of Time
+- Shannara
+- The Wonderful Wizard of Oz
+
+Includes books, book series, authors, and characters with rotating context-aware:
+- Synopses
+- Fictional audiences
+- Completely Silly Genres
+- Quotes
+- Reviews
+- Trailers
+- Morals
+- Alternate endings
+- Book club questions
