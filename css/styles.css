@@ -704,3 +704,69 @@ body.dark .desk-object{color:#443229;background:#e8d8bc}
   .desk-object-tray{justify-content:center}
   .desk-object{min-width:68px}
 }
+
+
+/* Version 8.0A Patch 4 — Personal Recommendations */
+.personal-recommendation-panel{
+  margin-top:14px;
+  padding:14px;
+  background:rgba(255,249,236,.58);
+  border:1px solid rgba(73,55,45,.34);
+  border-radius:9px;
+}
+.recommendation-lock{
+  display:flex;
+  align-items:center;
+  gap:13px;
+  color:var(--ink-soft);
+}
+.recommendation-lock-icon{
+  display:grid;
+  width:42px;
+  height:42px;
+  place-items:center;
+  border:1px solid rgba(73,55,45,.34);
+  border-radius:50%;
+  background:rgba(244,230,207,.9);
+  font-size:1.25rem;
+}
+.recommendation-lock p{margin:.25rem 0 0;font-size:.82rem;font-style:italic}
+.recommendation-unlocked{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-end;
+  gap:20px;
+  padding:4px;
+}
+.recommendation-copy h3{
+  margin:.3rem 0;
+  color:#6a4434;
+  font-family:Georgia,serif;
+  font-size:1.4rem;
+}
+.recommendation-copy blockquote{
+  margin:.55rem 0;
+  padding-left:12px;
+  border-left:4px solid var(--rose);
+  font-style:italic;
+  line-height:1.45;
+}
+.recommendation-reason{
+  max-width:680px;
+  color:var(--ink-soft);
+  font-size:.82rem;
+}
+.recommendation-actions{
+  display:flex;
+  min-width:180px;
+  flex-direction:column;
+  gap:8px;
+}
+body.dark .personal-recommendation-panel{background:rgba(55,48,40,.78)}
+body.dark .recommendation-copy h3{color:#ebd4bd}
+body.dark .recommendation-lock-icon{background:#3c352d}
+@media(max-width:700px){
+  .recommendation-unlocked{align-items:stretch;flex-direction:column}
+  .recommendation-actions{width:100%;min-width:0}
+  .recommendation-actions button{width:100%}
+}
