@@ -22,3 +22,10 @@ The interface now explicitly supports:
 
 ## Starter context-aware library
 Includes Percy Jackson, The Lightning Thief, Rick Riordan, Annabeth Chase, Harry Potter, Gandalf, The Fellowship of the Ring, The Lord of the Rings Series, J.R.R. Tolkien, The Hunger Games, and The Great Gatsby, plus a graceful generic fallback.
+
+
+## Version 5.1 additions
+- “Make Penelope Honk” button
+- Synthesized honk sound with no external audio file
+- Goose shake animation and rotating Penelope comments
+- Local Hall of Shame based on votes stored in the visitor's browser
