@@ -123,3 +123,6 @@ body.dark .tournament-status{background:#423a25}.tournament-match{display:grid;g
 .tournament-choice strong{font-family:Georgia,serif;font-size:1.35rem}.tournament-choice span{margin:.4rem 0;padding:4px 8px;border:1px solid var(--ink);border-radius:999px;font-size:.72rem}
 .tournament-choice p{line-height:1.45}.champion-card{grid-column:1/-1;text-align:center;border:3px double var(--ink);border-radius:16px;padding:20px;background:var(--pink)}
 @media(max-width:650px){.tournament-match{grid-template-columns:1fr}.tournament-controls select,.tournament-controls button{width:100%}}
+
+.clear-collection{background:var(--pink)}
+.clear-collection:hover{filter:brightness(1.03)}

@@ -96,5 +96,71 @@ window.PENELOPE_COLLECTIONS = {
       "vin",
       "ged"
     ]
+  },
+  "literary-classics": {
+    "name": "Literary Classics",
+    "description": "Timeless books, sharp social observation, gothic estates, and extremely persistent misunderstandings.",
+    "keys": [
+      "pride and prejudice",
+      "elizabeth bennet",
+      "jane austen",
+      "jane eyre",
+      "jane eyre character",
+      "charlotte bronte",
+      "the great gatsby",
+      "moby dick"
+    ]
+  },
+  "mystery-horror": {
+    "name": "Mystery & Horror",
+    "description": "Detectives, locked rooms, haunted properties, suspicious passengers, and very poor risk disclosure.",
+    "keys": [
+      "murder on the orient express",
+      "hercule poirot",
+      "agatha christie",
+      "the shining",
+      "jack torrance",
+      "stephen king"
+    ]
+  },
+  "childrens-books": {
+    "name": "Children's Books",
+    "description": "Talking animals, brilliant children, gentle wisdom, and adults requiring immediate review.",
+    "keys": [
+      "charlottes web",
+      "wilbur",
+      "e b white",
+      "matilda",
+      "matilda wormwood",
+      "roald dahl",
+      "the wonderful wizard of oz"
+    ]
+  },
+  "romance": {
+    "name": "Romance",
+    "description": "Letters, longing, public-relations problems, symbolic houses, and delayed honest conversations.",
+    "keys": [
+      "the notebook",
+      "noah calhoun",
+      "nicholas sparks",
+      "red white and royal blue",
+      "alex claremont diaz",
+      "casey mcquiston",
+      "pride and prejudice"
+    ]
+  },
+  "christian-books": {
+    "name": "Christian Books",
+    "description": "Faith, apologetics, allegory, redemption, perseverance, and a surprising amount of travel.",
+    "keys": [
+      "mere christianity",
+      "c.s. lewis",
+      "the pilgrims progress",
+      "christian pilgrim",
+      "john bunyan",
+      "redeeming love",
+      "angel redeeming love",
+      "francine rivers"
+    ]
   }
 };

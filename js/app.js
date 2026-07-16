@@ -86,6 +86,15 @@
   function runSearch(value,advance=false){const key=window.PenelopeSearch.keyFor(value);if(key){renderEntry(library[key],key,advance);return}searchOpenLibrary(value)}
 
 
+
+  function clearCollectionPanel(){
+    const panel=$("collectionPanel");
+    panel.innerHTML="";
+    panel.classList.add("hidden");
+    $("collectionSelect").value="";
+    bubble("Shelf cleared. I have returned the books with only minor inaccuracies.");
+  }
+
   function renderCollection(collectionKey){
     const collection=(window.PENELOPE_COLLECTIONS||{})[collectionKey];
     const panel=$("collectionPanel");
@@ -163,6 +172,7 @@
 
   $("searchBtn").addEventListener("click",()=>runSearch($("query").value));$("themeBtn").addEventListener("click",toggleTheme);
   $("browseCollectionBtn").addEventListener("click",()=>renderCollection($("collectionSelect").value));
+  $("clearCollectionBtn").addEventListener("click",clearCollectionPanel);
   $("startTournamentBtn").addEventListener("click",startTournament);
   $("collectionSelect").addEventListener("change",event=>{if(event.target.value)renderCollection(event.target.value)});
   $("query").addEventListener("keydown",event=>{if(event.key==="Enter"){event.preventDefault();runSearch(event.target.value)}});

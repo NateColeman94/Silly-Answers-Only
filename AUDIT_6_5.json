@@ -1,0 +1,25 @@
+{
+  "total_handcrafted_records": 249,
+  "counts_by_type": {
+    "Book": 84,
+    "Character": 88,
+    "Book Series": 9,
+    "Author": 45,
+    "Graphic Novel": 3,
+    "Manga Series": 9,
+    "Comic Series": 5,
+    "Creator": 5,
+    "Graphic Novel Series": 1
+  },
+  "new_shelves": {
+    "literary-classics": 8,
+    "mystery-horror": 6,
+    "childrens-books": 7,
+    "romance": 7,
+    "christian-books": 8
+  },
+  "open_library_synopsis_preface_removed": true,
+  "clear_shelf_feature": true,
+  "javascript_syntax": "PASS",
+  "record_structure": "PASS"
+}

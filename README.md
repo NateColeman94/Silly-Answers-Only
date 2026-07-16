@@ -1,20 +1,28 @@
-# Penelope's Misinformation Library 6.4
+# Penelope's Misinformation Library 6.5
 
-## Added
-- Persistent search count
-- Fantasy shelf
-- Misunderstanding Tournament
-- Richer Open Library fallback using Work descriptions when available
-- Marvel and DC handcrafted entries
-- My Hero Academia, Bleach, Dragon Ball Z, The Apothecary Diaries, Spy x Family, and Solo Leveling entries
+## Open Library result cleanup
+When Open Library provides a description, the app now displays the synopsis directly. It no longer says:
+`Open Library's work record describes...`
 
-Handcrafted records: 218
+The metadata badge may still identify an API-found result, but the synopsis itself reads normally.
+
+## Clear Shelf
+A `Clear Shelf` button closes and empties the currently opened collection panel without requiring the visitor to select a title.
+
+## New handcrafted shelves
+- Literary Classics
+- Mystery & Horror
+- Children's Books
+- Romance
+- Christian Books
+
+Final handcrafted records: 249
 
 {
-  "Book": 73,
-  "Character": 78,
+  "Book": 84,
+  "Character": 88,
   "Book Series": 9,
-  "Author": 35,
+  "Author": 45,
   "Graphic Novel": 3,
   "Manga Series": 9,
   "Comic Series": 5,

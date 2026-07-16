@@ -11752,5 +11752,1600 @@ window.PENELOPE_LIBRARY = {
       "How does progression systems shape the central choices?",
       "Would the story work without dungeon fantasy?"
     ]
+  },
+  "pride and prejudice": {
+    "name": "Pride and Prejudice",
+    "type": "Book",
+    "key": "literary_austen",
+    "related": [
+      "Elizabeth Bennet",
+      "Mr. Darcy",
+      "Jane Austen",
+      "Jane Eyre"
+    ],
+    "mild": [
+      "Two proud, intelligent people repeatedly misunderstand each other before revising their opinions."
+    ],
+    "silly": [
+      "A neighborhood spends several hundred pages conducting romantic due diligence through dancing, gossip, and poorly timed first impressions.",
+      "One marriage market becomes a full-scale reputation-management program with country estates."
+    ],
+    "wild": [
+      "A single insulting dance comment triggers literature's longest corrective-action plan.",
+      "Romantic compatibility is determined through letters, walking, and one extremely expensive house tour."
+    ],
+    "audiences": [
+      "ballroom observers",
+      "families monitoring marriage prospects",
+      "readers tracking first impressions"
+    ],
+    "genres": [
+      "Regency Reputation Management",
+      "Ballroom Negotiation",
+      "Estate-Based Character Development"
+    ],
+    "quotes": [
+      "My opinion has evolved, unfortunately.",
+      "Please submit all romantic misunderstandings in writing."
+    ],
+    "reviews": [
+      "Excellent dialogue. Severe communication delays.",
+      "The estate tour had a measurable impact on stakeholder sentiment."
+    ],
+    "trailers": [
+      "Two opinions. Several dances. One dramatically revised conclusion."
+    ],
+    "morals": [
+      "First impressions should remain provisional."
+    ],
+    "endings": [
+      "Elizabeth and Darcy have one honest conversation before the third misunderstanding."
+    ],
+    "questions": [
+      "How do pride and prejudice operate differently in Elizabeth and Darcy?"
+    ]
+  },
+  "elizabeth bennet": {
+    "name": "Elizabeth Bennet",
+    "type": "Character",
+    "key": "literary_austen",
+    "related": [
+      "Pride and Prejudice",
+      "Mr. Darcy",
+      "Jane Austen",
+      "Jane Eyre"
+    ],
+    "mild": [
+      "A witty, perceptive young woman whose confidence and quick judgments are both strengths and limitations."
+    ],
+    "silly": [
+      "A sharp reader of people discovers that excellent sarcasm is not the same as complete information.",
+      "A highly intelligent woman audits everyone else's character and eventually notices her own assumptions in the spreadsheet."
+    ],
+    "wild": [
+      "One raised eyebrow becomes the most influential analytical tool in Hertfordshire.",
+      "A witty first impression acquires legal standing and refuses correction."
+    ],
+    "audiences": [
+      "readers admiring wit",
+      "people learning from mistaken judgments",
+      "families surviving social events"
+    ],
+    "genres": [
+      "Witty Self-Audit",
+      "Regency Independence",
+      "First-Impression Analytics"
+    ],
+    "quotes": [
+      "I remain correct in tone, if not always in fact.",
+      "My opinion has been updated after further evidence."
+    ],
+    "reviews": [
+      "Smart, funny, and refreshingly capable of changing her mind.",
+      "Her strongest skill was eventually revising her own analysis."
+    ],
+    "trailers": [
+      "One sharp mind. Several assumptions. A very satisfying correction."
+    ],
+    "morals": [
+      "Intelligence includes the willingness to revise judgment."
+    ],
+    "endings": [
+      "Elizabeth requests additional data before finalizing every opinion."
+    ],
+    "questions": [
+      "How does Elizabeth's wit protect her, and when does it prevent deeper understanding?"
+    ]
+  },
+  "jane austen": {
+    "name": "Jane Austen",
+    "type": "Author",
+    "key": "literary_austen",
+    "related": [
+      "Pride and Prejudice",
+      "Elizabeth Bennet",
+      "Sense and Sensibility",
+      "Emma"
+    ],
+    "mild": [
+      "An author known for social observation, irony, marriage, class, judgment, and precise character comedy."
+    ],
+    "silly": [
+      "A writer who turns drawing-room conversation into strategic warfare and makes one raised eyebrow do the work of a chapter.",
+      "An author who proves that community gossip can function as both entertainment and economic infrastructure."
+    ],
+    "wild": [
+      "One novelist weaponizes politeness against class, vanity, and poor judgment.",
+      "A quiet country visit becomes a complete social-systems audit."
+    ],
+    "audiences": [
+      "readers studying irony",
+      "ballroom analysts",
+      "families discussing eligible neighbors"
+    ],
+    "genres": [
+      "Social Satire",
+      "Marriage-Market Systems",
+      "Irony Engineering"
+    ],
+    "quotes": [
+      "The sentence is polite. The judgment is not.",
+      "A small village contains sufficient drama for national analysis."
+    ],
+    "reviews": [
+      "Precise, funny, and devastatingly observant.",
+      "Every conversation contains an invisible performance review."
+    ],
+    "trailers": [
+      "One author. Several estates. Unlimited social intelligence."
+    ],
+    "morals": [
+      "Ordinary social behavior can reveal large systems of power and value."
+    ],
+    "endings": [
+      "Every proposal includes a communication-quality assessment."
+    ],
+    "questions": [
+      "How does Austen use humor to critique social expectations without abandoning empathy?"
+    ]
+  },
+  "jane eyre": {
+    "name": "Jane Eyre",
+    "type": "Book",
+    "key": "literary_bronte",
+    "related": [
+      "Jane Eyre Character",
+      "Mr. Rochester",
+      "Charlotte Brontë",
+      "Pride and Prejudice"
+    ],
+    "mild": [
+      "An independent young woman seeks dignity, love, and moral agency despite hardship and unequal power."
+    ],
+    "silly": [
+      "A governess accepts a position at a large house where management has hidden a major compliance issue upstairs.",
+      "A determined young woman insists on equality while the estate repeatedly fails basic disclosure requirements."
+    ],
+    "wild": [
+      "One locked room destroys the employer's transparency rating.",
+      "A job interview becomes a gothic ethics investigation with weather."
+    ],
+    "audiences": [
+      "governesses reviewing contracts",
+      "estate managers hiding information",
+      "readers studying independence"
+    ],
+    "genres": [
+      "Gothic Employment",
+      "Moral Independence",
+      "Estate Disclosure Failure"
+    ],
+    "quotes": [
+      "I am not an ornament, and I would like the complete property report.",
+      "Equality is not an optional benefit."
+    ],
+    "reviews": [
+      "Strong heroine. Alarming workplace disclosures.",
+      "The house needed an inspection and better onboarding."
+    ],
+    "trailers": [
+      "One governess. One estate. Several undisclosed risks."
+    ],
+    "morals": [
+      "Love should not require surrendering dignity or judgment."
+    ],
+    "endings": [
+      "Jane receives complete information before accepting the position."
+    ],
+    "questions": [
+      "How does Jane preserve her sense of self when others try to define her role?"
+    ]
+  },
+  "jane eyre character": {
+    "name": "Jane Eyre",
+    "type": "Character",
+    "key": "literary_bronte",
+    "related": [
+      "Jane Eyre",
+      "Mr. Rochester",
+      "Charlotte Brontë",
+      "Elizabeth Bennet"
+    ],
+    "mild": [
+      "A principled, observant, emotionally intense young woman committed to dignity, independence, and moral equality."
+    ],
+    "silly": [
+      "A quiet governess with exceptional boundaries repeatedly reminds powerful men that conscience is not negotiable.",
+      "A small, serious woman carries enough moral clarity to audit an entire estate."
+    ],
+    "wild": [
+      "One internal compass defeats money, mystery, and atmospheric weather.",
+      "A governess turns self-respect into the strongest force in the novel."
+    ],
+    "audiences": [
+      "readers valuing independence",
+      "employees setting boundaries",
+      "people choosing dignity over comfort"
+    ],
+    "genres": [
+      "Moral Resolve",
+      "Governess Independence",
+      "Quiet Defiance"
+    ],
+    "quotes": [
+      "I would rather leave than become less myself.",
+      "My conscience has declined the offer."
+    ],
+    "reviews": [
+      "Reserved, intense, and exceptionally clear about equality.",
+      "Her boundaries were stronger than the building."
+    ],
+    "trailers": [
+      "One voice. One conscience. No compromise on personhood."
+    ],
+    "morals": [
+      "Self-respect can demand difficult choices."
+    ],
+    "endings": [
+      "Jane receives equal treatment without having to prove her humanity repeatedly."
+    ],
+    "questions": [
+      "How do Jane's restraint and intensity work together rather than oppose each other?"
+    ]
+  },
+  "charlotte bronte": {
+    "name": "Charlotte Brontë",
+    "type": "Author",
+    "key": "literary_bronte",
+    "related": [
+      "Jane Eyre",
+      "Jane Eyre Character",
+      "Mr. Rochester",
+      "Emily Brontë"
+    ],
+    "mild": [
+      "An author known for emotional intensity, female independence, moral conflict, social constraint, and gothic atmosphere."
+    ],
+    "silly": [
+      "A writer who gives a governess moral authority, a mansion severe weather, and every conversation a hidden furnace.",
+      "An author who turns quiet endurance into revolutionary emotional pressure."
+    ],
+    "wild": [
+      "One novelist puts equality, desire, faith, and a locked room in the same employment file.",
+      "A writer makes weather participate in character development."
+    ],
+    "audiences": [
+      "gothic readers",
+      "students studying independence",
+      "estates under ethical review"
+    ],
+    "genres": [
+      "Gothic Intensity",
+      "Female Moral Agency",
+      "Atmospheric Ethics"
+    ],
+    "quotes": [
+      "The room is locked because the symbolism is busy.",
+      "A quiet voice may still overturn the entire power structure."
+    ],
+    "reviews": [
+      "Emotionally fierce and morally exacting.",
+      "The atmosphere had its own opinion."
+    ],
+    "trailers": [
+      "One author. One governess. An entire storm system of feeling."
+    ],
+    "morals": [
+      "Inner life can challenge social power."
+    ],
+    "endings": [
+      "Every gothic estate submits a complete risk disclosure."
+    ],
+    "questions": [
+      "How does Brontë use gothic elements to deepen questions of equality and freedom?"
+    ]
+  },
+  "murder on the orient express": {
+    "name": "Murder on the Orient Express",
+    "type": "Book",
+    "key": "mystery_christie",
+    "related": [
+      "Hercule Poirot",
+      "Agatha Christie",
+      "The Shining",
+      "Dracula"
+    ],
+    "mild": [
+      "A detective investigates a murder aboard a snowbound luxury train filled with unusually connected passengers."
+    ],
+    "silly": [
+      "A train delay becomes the most organized group project in crime fiction.",
+      "A detective discovers that the passenger list has stronger coordination than the railway timetable."
+    ],
+    "wild": [
+      "One luxury carriage becomes a twelve-person ethics committee with luggage.",
+      "The murder weapon has better attendance than the conductor."
+    ],
+    "audiences": [
+      "train passengers avoiding questions",
+      "detectives reviewing timelines",
+      "railway staff requesting fewer mysteries"
+    ],
+    "genres": [
+      "Luxury Train Detection",
+      "Passenger-Alibi Logistics",
+      "Snowbound Evidence Management"
+    ],
+    "quotes": [
+      "The timetable is delayed, but the motive arrived early.",
+      "Every passenger appears to have completed the same assignment."
+    ],
+    "reviews": [
+      "Elegant mystery. Suspiciously collaborative passengers.",
+      "The dining car required independent oversight."
+    ],
+    "trailers": [
+      "One train. One detective. Too many coordinated alibis."
+    ],
+    "morals": [
+      "Justice and law are not always experienced as the same thing."
+    ],
+    "endings": [
+      "The railway adds background checks and a conflict-disclosure form."
+    ],
+    "questions": [
+      "How does the solution challenge the idea of a single guilty individual?"
+    ]
+  },
+  "hercule poirot": {
+    "name": "Hercule Poirot",
+    "type": "Character",
+    "key": "mystery_christie",
+    "related": [
+      "Murder on the Orient Express",
+      "Agatha Christie",
+      "Sherlock Holmes"
+    ],
+    "mild": [
+      "A meticulous Belgian detective who relies on psychology, order, observation, and confidence in his reasoning."
+    ],
+    "silly": [
+      "A perfectly groomed detective solves crimes by organizing facts until human behavior becomes embarrassed.",
+      "A small man with an immaculate mustache repeatedly defeats chaos through symmetry and controlled irritation."
+    ],
+    "wild": [
+      "One mustache acquires deductive authority over an entire train.",
+      "Disorder enters the room and immediately apologizes."
+    ],
+    "audiences": [
+      "detectives valuing psychology",
+      "mustache-maintenance professionals",
+      "suspects under polite pressure"
+    ],
+    "genres": [
+      "Psychological Detection",
+      "Symmetry-Based Investigation",
+      "Mustache Authority"
+    ],
+    "quotes": [
+      "The facts are disorderly. I shall correct them.",
+      "Your alibi lacks elegance."
+    ],
+    "reviews": [
+      "Precise, theatrical, and deeply attentive to motive.",
+      "The mustache passed every inspection."
+    ],
+    "trailers": [
+      "One detective. Two little gray cells. No tolerance for untidy lies."
+    ],
+    "morals": [
+      "Understanding people can matter more than collecting objects."
+    ],
+    "endings": [
+      "Poirot receives a case with no travel disruption and a perfectly arranged breakfast."
+    ],
+    "questions": [
+      "How does Poirot's love of order shape both his insight and his vanity?"
+    ]
+  },
+  "agatha christie": {
+    "name": "Agatha Christie",
+    "type": "Author",
+    "key": "mystery_christie",
+    "related": [
+      "Murder on the Orient Express",
+      "Hercule Poirot",
+      "And Then There Were None",
+      "Miss Marple"
+    ],
+    "mild": [
+      "An author known for tightly structured mysteries, misleading appearances, social observation, and ingenious solutions."
+    ],
+    "silly": [
+      "A writer who places twelve suspicious people in one location and makes the furniture feel guilty.",
+      "An author who turns tea, travel, inheritance, and polite society into recurring crime infrastructure."
+    ],
+    "wild": [
+      "One novelist converts hospitality into a controlled suspicion environment.",
+      "A village gathering becomes an advanced course in motive."
+    ],
+    "audiences": [
+      "mystery readers",
+      "alibi designers",
+      "tea services under investigation"
+    ],
+    "genres": [
+      "Golden Age Detection",
+      "Closed-Circle Suspicion",
+      "Alibi Engineering"
+    ],
+    "quotes": [
+      "Everyone is polite. Nobody is cleared.",
+      "The seating chart contains the motive."
+    ],
+    "reviews": [
+      "Ingenious, efficient, and highly suspicious of houseguests.",
+      "Every detail eventually submits evidence."
+    ],
+    "trailers": [
+      "One author. Many suspects. No innocent-looking teapot."
+    ],
+    "morals": [
+      "Appearances and social roles can conceal motive."
+    ],
+    "endings": [
+      "Every invitation includes a background-check disclaimer."
+    ],
+    "questions": [
+      "How does Christie use social convention to misdirect the reader?"
+    ]
+  },
+  "the shining": {
+    "name": "The Shining",
+    "type": "Book",
+    "key": "horror_king",
+    "related": [
+      "Jack Torrance",
+      "Stephen King",
+      "Dracula",
+      "Murder on the Orient Express"
+    ],
+    "mild": [
+      "A family becomes isolated in a mountain hotel where supernatural forces exploit existing fears and weaknesses."
+    ],
+    "silly": [
+      "A winter caretaker accepts the least healthy remote-work position in hospitality history.",
+      "A hotel with an aggressive employee-retention strategy turns family isolation into a full psychological systems failure."
+    ],
+    "wild": [
+      "One hotel conducts performance management through ghosts and axes.",
+      "Remote work reaches its least sustainable form."
+    ],
+    "audiences": [
+      "hotel managers reviewing winter staffing",
+      "families avoiding isolated properties",
+      "readers tracking supernatural risk"
+    ],
+    "genres": [
+      "Haunted Hospitality",
+      "Remote-Work Horror",
+      "Family Pressure Systems"
+    ],
+    "quotes": [
+      "The hotel has declined to provide a safe work environment.",
+      "Winter benefits do not include mental stability."
+    ],
+    "reviews": [
+      "Atmospheric, terrifying, and badly in need of an HR department.",
+      "The property listing omitted several concerns."
+    ],
+    "trailers": [
+      "One hotel. One winter. No responsible management."
+    ],
+    "morals": [
+      "Isolation magnifies existing harm; environment does not erase responsibility."
+    ],
+    "endings": [
+      "The family leaves after the first impossible hallway event."
+    ],
+    "questions": [
+      "How does the hotel amplify rather than create Jack's weaknesses?"
+    ]
+  },
+  "jack torrance": {
+    "name": "Jack Torrance",
+    "type": "Character",
+    "key": "horror_king",
+    "related": [
+      "The Shining",
+      "Stephen King",
+      "Wendy Torrance"
+    ],
+    "mild": [
+      "A frustrated, unstable man whose ambition, addiction, anger, and need for control make him vulnerable to the hotel's influence."
+    ],
+    "silly": [
+      "A struggling writer accepts a quiet job and turns every warning sign into a productivity strategy.",
+      "A man with severe emotional risk factors moves into a building designed to monetize them."
+    ],
+    "wild": [
+      "One unfinished manuscript acquires an axe and management authority.",
+      "A bad temper becomes the hotel's preferred operating system."
+    ],
+    "audiences": [
+      "readers studying accountability",
+      "families recognizing danger",
+      "writers avoiding harmful isolation"
+    ],
+    "genres": [
+      "Control and Collapse",
+      "Addiction and Anger",
+      "Haunted Self-Deception"
+    ],
+    "quotes": [
+      "The building made suggestions; I made choices.",
+      "My coping plan has been replaced by denial."
+    ],
+    "reviews": [
+      "Tragic, frightening, and increasingly unsafe.",
+      "He mistook isolation for a solution."
+    ],
+    "trailers": [
+      "One man. One hotel. No meaningful self-awareness."
+    ],
+    "morals": [
+      "External influence does not remove personal responsibility."
+    ],
+    "endings": [
+      "Jack seeks treatment and declines the winter position."
+    ],
+    "questions": [
+      "How should readers balance supernatural influence with Jack's responsibility for harm?"
+    ]
+  },
+  "stephen king": {
+    "name": "Stephen King",
+    "type": "Author",
+    "key": "horror_king",
+    "related": [
+      "The Shining",
+      "Jack Torrance",
+      "It",
+      "Carrie"
+    ],
+    "mild": [
+      "An author known for horror rooted in ordinary communities, psychological fear, addiction, childhood, and moral choice."
+    ],
+    "silly": [
+      "A writer who looks at a hotel, a small town, a car, or a sewer and asks which one needs a supernatural liability waiver.",
+      "An author who gives ordinary American life one impossible problem and several deeply believable human ones."
+    ],
+    "wild": [
+      "One novelist turns local infrastructure into recurring existential risk.",
+      "A typewriter produces enough fear to require regional emergency management."
+    ],
+    "audiences": [
+      "horror readers",
+      "small towns reviewing infrastructure",
+      "writers studying sustained suspense"
+    ],
+    "genres": [
+      "Everyday Horror",
+      "Small-Town Dread",
+      "Psychological Supernaturalism"
+    ],
+    "quotes": [
+      "The monster is frightening. The neighbors may be worse.",
+      "Normal life has failed its inspection."
+    ],
+    "reviews": [
+      "Immersive, humane, and suspicious of ordinary places.",
+      "The horror arrived through familiar doors."
+    ],
+    "trailers": [
+      "One author. One town. Several reasons not to enter the basement."
+    ],
+    "morals": [
+      "Horror often reveals existing human vulnerabilities."
+    ],
+    "endings": [
+      "Every suspicious property receives a transparent inspection report."
+    ],
+    "questions": [
+      "How does King use ordinary settings to make supernatural fear more believable?"
+    ]
+  },
+  "charlottes web": {
+    "name": "Charlotte's Web",
+    "type": "Book",
+    "key": "children_white",
+    "related": [
+      "Wilbur",
+      "Charlotte",
+      "E.B. White",
+      "Matilda"
+    ],
+    "mild": [
+      "A spider uses language, friendship, and careful planning to save a pig."
+    ],
+    "silly": [
+      "A barn hires a spider as its public-relations department and immediately sees measurable results.",
+      "One pig's survival depends on the most effective web-based marketing campaign in children's literature."
+    ],
+    "wild": [
+      "A spider invents influencer branding before the internet.",
+      "A barnyard reputation strategy becomes emotionally devastating."
+    ],
+    "audiences": [
+      "farm animals",
+      "young readers learning friendship",
+      "public-relations professionals studying webs"
+    ],
+    "genres": [
+      "Barnyard Friendship",
+      "Web-Based Marketing",
+      "Agricultural Reputation Management"
+    ],
+    "quotes": [
+      "Some pig. Strong campaign.",
+      "Please review the web before morning chores."
+    ],
+    "reviews": [
+      "Tender, wise, and unexpectedly advanced in marketing.",
+      "The spider delivered exceptional communications value."
+    ],
+    "trailers": [
+      "One pig. One spider. A campaign that changes the county."
+    ],
+    "morals": [
+      "Friendship can involve using one's gifts for another's good."
+    ],
+    "endings": [
+      "Wilbur receives permanent sanctuary without requiring a publicity campaign."
+    ],
+    "questions": [
+      "Why is Charlotte's friendship powerful even though she cannot remain with Wilbur forever?"
+    ]
+  },
+  "wilbur": {
+    "name": "Wilbur",
+    "type": "Character",
+    "key": "children_white",
+    "related": [
+      "Charlotte's Web",
+      "Charlotte",
+      "E.B. White"
+    ],
+    "mild": [
+      "A sensitive, affectionate pig who fears loneliness and death but grows through friendship and responsibility."
+    ],
+    "silly": [
+      "A dramatic young pig learns that emotional support can arrive from a very small spider with excellent writing skills.",
+      "A barn resident with low confidence becomes locally famous through friendship and typography."
+    ],
+    "wild": [
+      "One anxious pig becomes an agricultural celebrity without understanding the media strategy.",
+      "A fear of loneliness acquires county-fair sponsorship."
+    ],
+    "audiences": [
+      "children learning about friendship",
+      "farm animals seeking reassurance",
+      "readers discussing mortality gently"
+    ],
+    "genres": [
+      "Sensitive Barnyard Hero",
+      "Friendship and Growth",
+      "Piglet Publicity"
+    ],
+    "quotes": [
+      "Is breakfast available, and is Charlotte nearby?",
+      "I have concerns, but I am trying to be brave."
+    ],
+    "reviews": [
+      "Sweet, anxious, and capable of growth.",
+      "His emotional honesty made the friendship matter."
+    ],
+    "trailers": [
+      "One pig. One friend. A very large heart."
+    ],
+    "morals": [
+      "Receiving care can teach a person how to care for others."
+    ],
+    "endings": [
+      "Wilbur gains confidence without needing public praise."
+    ],
+    "questions": [
+      "How does Wilbur change from needing friendship to honoring it?"
+    ]
+  },
+  "e b white": {
+    "name": "E.B. White",
+    "type": "Author",
+    "key": "children_white",
+    "related": [
+      "Charlotte's Web",
+      "Wilbur",
+      "Stuart Little"
+    ],
+    "mild": [
+      "An author known for clear prose, gentle humor, nature, friendship, mortality, and respect for young readers."
+    ],
+    "silly": [
+      "A writer who gives a spider better prose than most adults and lets a barn carry serious questions quietly.",
+      "An author who makes simplicity do difficult emotional work."
+    ],
+    "wild": [
+      "One clear sentence enters a barn and leaves generations crying responsibly.",
+      "A children's book becomes an elegant ethics seminar with livestock."
+    ],
+    "audiences": [
+      "young readers",
+      "teachers discussing friendship",
+      "writers studying clarity"
+    ],
+    "genres": [
+      "Gentle Literary Craft",
+      "Barnyard Philosophy",
+      "Clear-Prose Emotion"
+    ],
+    "quotes": [
+      "The sentence is simple because the feeling is not.",
+      "A small story may carry a very large truth."
+    ],
+    "reviews": [
+      "Graceful, humane, and deceptively profound.",
+      "The prose never talks down to the reader."
+    ],
+    "trailers": [
+      "One author. One barn. A lifetime of emotional impact."
+    ],
+    "morals": [
+      "Children deserve honest writing about difficult parts of life."
+    ],
+    "endings": [
+      "Every school reading includes tissues and discussion time."
+    ],
+    "questions": [
+      "How does White use simplicity to deepen rather than reduce emotional complexity?"
+    ]
+  },
+  "matilda": {
+    "name": "Matilda",
+    "type": "Book",
+    "key": "children_dahl",
+    "related": [
+      "Matilda Wormwood",
+      "Miss Honey",
+      "Roald Dahl",
+      "Charlotte's Web"
+    ],
+    "mild": [
+      "A brilliant child confronts neglectful adults and an abusive school leader with intelligence, courage, and unusual abilities."
+    ],
+    "silly": [
+      "A gifted reader discovers that the local education system is less organized than her bookshelf.",
+      "One child becomes the school's entire accountability office after adults decline the assignment."
+    ],
+    "wild": [
+      "A library card develops telekinesis and removes senior management.",
+      "A small reader audits every adult in the building and finds widespread noncompliance."
+    ],
+    "audiences": [
+      "young readers",
+      "teachers supporting gifted children",
+      "school leaders under review"
+    ],
+    "genres": [
+      "Gifted-Child Resistance",
+      "School Accountability",
+      "Telekinetic Literacy"
+    ],
+    "quotes": [
+      "I have read the policy, and you are still wrong.",
+      "Please do not underestimate the child holding six library books."
+    ],
+    "reviews": [
+      "Funny, empowering, and deeply suspicious of cruel adults.",
+      "The library had stronger leadership than the school."
+    ],
+    "trailers": [
+      "One reader. One headmistress. A complete governance correction."
+    ],
+    "morals": [
+      "Children deserve respect, safety, and adults who recognize their abilities."
+    ],
+    "endings": [
+      "Miss Honey receives authority before Matilda must intervene."
+    ],
+    "questions": [
+      "How does reading give Matilda both practical and emotional power?"
+    ]
+  },
+  "matilda wormwood": {
+    "name": "Matilda Wormwood",
+    "type": "Character",
+    "key": "children_dahl",
+    "related": [
+      "Matilda",
+      "Miss Honey",
+      "Roald Dahl"
+    ],
+    "mild": [
+      "A brilliant, self-directed, compassionate child whose intelligence and courage develop despite neglect."
+    ],
+    "silly": [
+      "A tiny reader uses books, observation, and one surprising physical skill to correct adult incompetence.",
+      "A child with advanced literacy discovers that grown-up status is not evidence of sound judgment."
+    ],
+    "wild": [
+      "One library-loving child becomes the district's strongest accountability mechanism.",
+      "A small genius moves objects because moving adults toward responsibility proved harder."
+    ],
+    "audiences": [
+      "gifted children",
+      "teachers recognizing potential",
+      "adults being evaluated by young readers"
+    ],
+    "genres": [
+      "Gifted Resilience",
+      "Bookish Courage",
+      "Child-Led Accountability"
+    ],
+    "quotes": [
+      "I finished the book and your argument remains weak.",
+      "Being small has not reduced the evidence."
+    ],
+    "reviews": [
+      "Brilliant, kind, and appropriately unimpressed.",
+      "Her intelligence never erased her need for care."
+    ],
+    "trailers": [
+      "One child. Many books. No tolerance for cruelty."
+    ],
+    "morals": [
+      "Ability grows best when paired with safety and encouragement."
+    ],
+    "endings": [
+      "Matilda receives support before needing extraordinary self-defense."
+    ],
+    "questions": [
+      "How does Matilda remain compassionate despite the adults who fail her?"
+    ]
+  },
+  "roald dahl": {
+    "name": "Roald Dahl",
+    "type": "Author",
+    "key": "children_dahl",
+    "related": [
+      "Matilda",
+      "Matilda Wormwood",
+      "Charlie and the Chocolate Factory",
+      "The BFG"
+    ],
+    "mild": [
+      "An author known for dark humor, imaginative exaggeration, resourceful children, grotesque adults, and moral reversals."
+    ],
+    "silly": [
+      "A writer who gives children one impossible advantage and gives terrible adults consequences with excellent timing.",
+      "An author who turns school, candy, giants, and family life into cartoonishly efficient justice systems."
+    ],
+    "wild": [
+      "One storyteller weaponizes imagination against unpleasant grown-ups.",
+      "A children's bookshelf acquires a trapdoor beneath every bully."
+    ],
+    "audiences": [
+      "young readers",
+      "adults reviewing behavior",
+      "teachers studying comic exaggeration"
+    ],
+    "genres": [
+      "Dark Children's Comedy",
+      "Grotesque Adult Accountability",
+      "Imaginative Justice"
+    ],
+    "quotes": [
+      "The adult has behaved badly and will now become symbolically inconvenienced.",
+      "The child has been underestimated for the final time."
+    ],
+    "reviews": [
+      "Inventive, mischievous, and unapologetically strange.",
+      "The consequences arrived with excellent comic timing."
+    ],
+    "trailers": [
+      "One author. Many awful adults. Extremely creative outcomes."
+    ],
+    "morals": [
+      "Children's stories can validate young readers' sense of injustice."
+    ],
+    "endings": [
+      "Every cruel adult receives early intervention before magical consequences."
+    ],
+    "questions": [
+      "How does Dahl use exaggeration to make unfairness visible and emotionally satisfying?"
+    ]
+  },
+  "the notebook": {
+    "name": "The Notebook",
+    "type": "Book",
+    "key": "romance_sparks",
+    "related": [
+      "Noah Calhoun",
+      "Allie Hamilton",
+      "Nicholas Sparks",
+      "Pride and Prejudice"
+    ],
+    "mild": [
+      "A lifelong love story unfolds across class differences, separation, memory, and commitment."
+    ],
+    "silly": [
+      "A summer romance becomes a multi-decade records-management problem involving letters, a house, and weather.",
+      "One man renovates a property with enough emotional significance to affect national home-improvement expectations."
+    ],
+    "wild": [
+      "A stack of unanswered letters acquires an entire house.",
+      "Romantic persistence becomes historical preservation."
+    ],
+    "audiences": [
+      "romance readers",
+      "letter carriers",
+      "home renovators managing symbolism"
+    ],
+    "genres": [
+      "Memory and Devotion",
+      "Letter-Based Romance",
+      "Symbolic Home Renovation"
+    ],
+    "quotes": [
+      "I wrote every day. The postal system has questions.",
+      "The house is complete; the emotional timeline remains complicated."
+    ],
+    "reviews": [
+      "Sweeping, emotional, and structurally dependent on missing mail.",
+      "The renovation budget included unresolved longing."
+    ],
+    "trailers": [
+      "One summer. One house. A lifetime of remembering."
+    ],
+    "morals": [
+      "Love can involve sustained care, but persistence should not replace mutual choice."
+    ],
+    "endings": [
+      "The letters are delivered on time and everyone has accurate information."
+    ],
+    "questions": [
+      "How does the novel connect memory with identity and love?"
+    ]
+  },
+  "noah calhoun": {
+    "name": "Noah Calhoun",
+    "type": "Character",
+    "key": "romance_sparks",
+    "related": [
+      "The Notebook",
+      "Allie Hamilton",
+      "Nicholas Sparks"
+    ],
+    "mild": [
+      "A devoted, intense man whose constancy, romantic idealism, and persistence shape a lifelong relationship."
+    ],
+    "silly": [
+      "A quiet man expresses feelings through carpentry, letters, and extremely long-term project management.",
+      "A romantic with one preferred person and one highly symbolic renovation refuses to diversify his emotional portfolio."
+    ],
+    "wild": [
+      "One summer crush acquires lumber, decades, and complete narrative control.",
+      "A renovation becomes the strongest love language in the county."
+    ],
+    "audiences": [
+      "romantics studying devotion",
+      "contractors managing symbolic houses",
+      "readers debating persistence"
+    ],
+    "genres": [
+      "Long-Term Devotion",
+      "Carpentry Romance",
+      "Letter-Based Constancy"
+    ],
+    "quotes": [
+      "I rebuilt the house because normal communication appeared unavailable.",
+      "The project timeline is measured in decades."
+    ],
+    "reviews": [
+      "Devoted, intense, and professionally committed to symbolism.",
+      "The house had excellent emotional branding."
+    ],
+    "trailers": [
+      "One man. One love. A very specific floor plan."
+    ],
+    "morals": [
+      "Devotion is meaningful when it respects the other person's agency."
+    ],
+    "endings": [
+      "Noah communicates directly before beginning major renovations."
+    ],
+    "questions": [
+      "When does Noah's persistence feel loving, and when might it become idealization?"
+    ]
+  },
+  "nicholas sparks": {
+    "name": "Nicholas Sparks",
+    "type": "Author",
+    "key": "romance_sparks",
+    "related": [
+      "The Notebook",
+      "Noah Calhoun",
+      "A Walk to Remember"
+    ],
+    "mild": [
+      "An author known for emotionally intense love stories involving memory, separation, grief, devotion, and symbolic settings."
+    ],
+    "silly": [
+      "A writer who places two people near water, adds letters, removes one source of emotional stability, and waits for readers to cry.",
+      "An author who treats coastal weather as a supporting character in every major feeling."
+    ],
+    "wild": [
+      "One novelist turns tissue sales into a publishing ecosystem.",
+      "A dock, a letter, and a medical diagnosis enter a romance and refuse to leave quietly."
+    ],
+    "audiences": [
+      "romance readers",
+      "tissue manufacturers",
+      "coastal towns under emotional pressure"
+    ],
+    "genres": [
+      "Emotional Romance",
+      "Coastal Symbolism",
+      "Letter and Memory Fiction"
+    ],
+    "quotes": [
+      "The love is enduring. The reader's composure is not.",
+      "Please locate the nearest tissue before chapter ten."
+    ],
+    "reviews": [
+      "Sincere, emotional, and extremely effective at causing tears.",
+      "The setting had weather and emotional obligations."
+    ],
+    "trailers": [
+      "One author. One shoreline. Several unavoidable feelings."
+    ],
+    "morals": [
+      "Love stories often become stories about time, loss, and care."
+    ],
+    "endings": [
+      "Every edition includes tissues and a hydration reminder."
+    ],
+    "questions": [
+      "How does Sparks use setting to intensify emotional memory?"
+    ]
+  },
+  "red white and royal blue": {
+    "name": "Red, White & Royal Blue",
+    "type": "Book",
+    "key": "romance_mcquiston",
+    "related": [
+      "Alex Claremont-Diaz",
+      "Prince Henry",
+      "Casey McQuiston",
+      "The Notebook"
+    ],
+    "mild": [
+      "A political first son and a British prince move from public rivalry to private romance under intense scrutiny."
+    ],
+    "silly": [
+      "An international public-relations problem becomes a romance after both governments fail to control the group chat.",
+      "Diplomatic relations improve dramatically once two highly visible young men stop pretending to dislike each other."
+    ],
+    "wild": [
+      "One cake incident rewrites transatlantic policy.",
+      "A fake friendship becomes the strongest bilateral agreement of the decade."
+    ],
+    "audiences": [
+      "political staffers",
+      "royal communications teams",
+      "romance readers tracking emails"
+    ],
+    "genres": [
+      "Diplomatic Romance",
+      "Public-Relations Recovery",
+      "Royal Email Management"
+    ],
+    "quotes": [
+      "This relationship is not on the official schedule.",
+      "The cake has become a matter of state."
+    ],
+    "reviews": [
+      "Funny, warm, and disastrous for communications staff.",
+      "The email archive had geopolitical consequences."
+    ],
+    "trailers": [
+      "Two public figures. One rivalry. No private life."
+    ],
+    "morals": [
+      "Love and public identity require courage, honesty, and supportive communities."
+    ],
+    "endings": [
+      "The press office receives accurate information before the cake incident."
+    ],
+    "questions": [
+      "How do public roles shape what Alex and Henry believe they are allowed to want?"
+    ]
+  },
+  "alex claremont diaz": {
+    "name": "Alex Claremont-Diaz",
+    "type": "Character",
+    "key": "romance_mcquiston",
+    "related": [
+      "Red, White & Royal Blue",
+      "Prince Henry",
+      "Casey McQuiston"
+    ],
+    "mild": [
+      "An ambitious, energetic political son whose confidence, competitiveness, loyalty, and emerging self-understanding drive the story."
+    ],
+    "silly": [
+      "A hyper-competent political overachiever treats self-discovery like a campaign he forgot to schedule.",
+      "A charming strategist discovers that not every feeling can be converted into polling data."
+    ],
+    "wild": [
+      "One campaign brain becomes an international romantic incident.",
+      "A five-year plan encounters one prince and immediately loses message discipline."
+    ],
+    "audiences": [
+      "young leaders",
+      "political staffers",
+      "readers watching self-discovery"
+    ],
+    "genres": [
+      "Political Ambition",
+      "Competitive Charm",
+      "Identity Campaigning"
+    ],
+    "quotes": [
+      "I have a plan for everything except this.",
+      "Please remove my feelings from the briefing memo."
+    ],
+    "reviews": [
+      "Smart, driven, and hilariously unprepared for his own emotions.",
+      "His confidence required one major update."
+    ],
+    "trailers": [
+      "One strategist. One prince. No approved talking points."
+    ],
+    "morals": [
+      "Self-knowledge can disrupt plans while making life more honest."
+    ],
+    "endings": [
+      "Alex schedules reflection before the international incident."
+    ],
+    "questions": [
+      "How does Alex's ambition both support and complicate his emotional growth?"
+    ]
+  },
+  "casey mcquiston": {
+    "name": "Casey McQuiston",
+    "type": "Author",
+    "key": "romance_mcquiston",
+    "related": [
+      "Red, White & Royal Blue",
+      "Alex Claremont-Diaz",
+      "One Last Stop"
+    ],
+    "mild": [
+      "An author known for queer romance, humor, found family, public identity, history, and emotionally generous storytelling."
+    ],
+    "silly": [
+      "A writer who gives love stories political staff, group chats, historical letters, and enough charm to destabilize public relations.",
+      "An author who turns queer joy into both romance and alternative institutional planning."
+    ],
+    "wild": [
+      "One novelist makes email archives internationally consequential.",
+      "A romance writer converts found family into critical infrastructure."
+    ],
+    "audiences": [
+      "romance readers",
+      "group-chat administrators",
+      "political communications teams"
+    ],
+    "genres": [
+      "Queer Romantic Comedy",
+      "Found-Family Systems",
+      "Public Identity Romance"
+    ],
+    "quotes": [
+      "The group chat has become part of the historical record.",
+      "Joy is now a strategic objective."
+    ],
+    "reviews": [
+      "Warm, funny, and emotionally generous.",
+      "The supporting cast provided excellent infrastructure."
+    ],
+    "trailers": [
+      "One author. Many feelings. A highly active group chat."
+    ],
+    "morals": [
+      "Romance can imagine not only relationships, but more welcoming worlds around them."
+    ],
+    "endings": [
+      "Every public figure receives privacy, support, and good communications staff."
+    ],
+    "questions": [
+      "How does McQuiston use humor to make emotional and political stakes feel accessible?"
+    ]
+  },
+  "mere christianity": {
+    "name": "Mere Christianity",
+    "type": "Book",
+    "key": "christian_lewis",
+    "related": [
+      "C.S. Lewis",
+      "The Pilgrim's Progress",
+      "The Chronicles of Narnia"
+    ],
+    "mild": [
+      "A clear, conversational exploration of core Christian beliefs, morality, faith, and spiritual transformation."
+    ],
+    "silly": [
+      "A former skeptic organizes theology into a series of calm radio conversations and politely asks modern readers to examine the foundations.",
+      "A book attempts to explain major Christian ideas without requiring a committee meeting or fantasy wardrobe."
+    ],
+    "wild": [
+      "One radio microphone becomes a full theological orientation program.",
+      "Moral philosophy enters the room wearing sensible shoes and carrying analogies."
+    ],
+    "audiences": [
+      "readers exploring Christianity",
+      "discussion groups",
+      "students comparing belief and reason"
+    ],
+    "genres": [
+      "Christian Apologetics",
+      "Moral Reasoning",
+      "Faith and Transformation"
+    ],
+    "quotes": [
+      "The argument is conversational; the question remains serious.",
+      "Please examine the foundation before criticizing the wallpaper."
+    ],
+    "reviews": [
+      "Accessible, thoughtful, and designed for discussion.",
+      "The analogies remain remarkably durable."
+    ],
+    "trailers": [
+      "One speaker. Several talks. A broad introduction to Christian belief."
+    ],
+    "morals": [
+      "Faith involves both belief and the transformation of character."
+    ],
+    "endings": [
+      "Every difficult analogy includes a discussion guide."
+    ],
+    "questions": [
+      "How does Lewis distinguish Christianity's core claims from denominational differences?"
+    ]
+  },
+  "the pilgrims progress": {
+    "name": "The Pilgrim's Progress",
+    "type": "Book",
+    "key": "christian_bunyan",
+    "related": [
+      "Christian Pilgrim",
+      "John Bunyan",
+      "Mere Christianity"
+    ],
+    "mild": [
+      "An allegorical traveler journeys from destruction toward salvation while facing temptation, fear, error, and perseverance."
+    ],
+    "silly": [
+      "A man named Christian begins the most literal spiritual road trip in English literature.",
+      "Every internal struggle receives a location, a character name, and extremely clear signage."
+    ],
+    "wild": [
+      "One allegory turns the spiritual life into a fully mapped obstacle course.",
+      "A burden becomes visible and immediately requires travel documentation."
+    ],
+    "audiences": [
+      "readers studying allegory",
+      "pilgrims reviewing routes",
+      "discussion groups tracking symbolism"
+    ],
+    "genres": [
+      "Christian Allegory",
+      "Spiritual Journey",
+      "Virtue and Temptation"
+    ],
+    "quotes": [
+      "This path is difficult, but the map is unusually direct.",
+      "The burden has been visually represented for clarity."
+    ],
+    "reviews": [
+      "Historically influential and unapologetically allegorical.",
+      "The road signs were not subtle."
+    ],
+    "trailers": [
+      "One pilgrim. One journey. Every temptation receives a name."
+    ],
+    "morals": [
+      "Faithfulness often involves perseverance through confusion, fear, and distraction."
+    ],
+    "endings": [
+      "Christian receives a travel companion and clearer rest stops."
+    ],
+    "questions": [
+      "How does turning spiritual experiences into places and characters shape the reader's understanding?"
+    ]
+  },
+  "christian pilgrim": {
+    "name": "Christian",
+    "type": "Character",
+    "key": "christian_bunyan",
+    "related": [
+      "The Pilgrim's Progress",
+      "John Bunyan",
+      "Mere Christianity"
+    ],
+    "mild": [
+      "An earnest but vulnerable pilgrim whose faith is tested by fear, distraction, error, and perseverance."
+    ],
+    "silly": [
+      "A traveler with a visible burden repeatedly learns that reading the directions does not prevent every detour.",
+      "A sincere pilgrim discovers that spiritual growth includes asking for help before entering suspicious side roads."
+    ],
+    "wild": [
+      "One burden begins the longest symbolic hike in devotional literature.",
+      "A traveler turns every internal struggle into a geographic incident."
+    ],
+    "audiences": [
+      "readers discussing perseverance",
+      "pilgrims learning discernment",
+      "groups studying spiritual growth"
+    ],
+    "genres": [
+      "Pilgrim Perseverance",
+      "Symbolic Travel",
+      "Faith Under Pressure"
+    ],
+    "quotes": [
+      "I have the map and still need guidance.",
+      "The side path looked shorter, which should have been concerning."
+    ],
+    "reviews": [
+      "Earnest, imperfect, and persistent.",
+      "His mistakes make the journey recognizable."
+    ],
+    "trailers": [
+      "One pilgrim. Many detours. Continued forward movement."
+    ],
+    "morals": [
+      "Faithfulness does not mean never stumbling; it includes returning to the path."
+    ],
+    "endings": [
+      "Christian checks the route before every shortcut."
+    ],
+    "questions": [
+      "Why is Christian's vulnerability important to the allegory's usefulness?"
+    ]
+  },
+  "john bunyan": {
+    "name": "John Bunyan",
+    "type": "Author",
+    "key": "christian_bunyan",
+    "related": [
+      "The Pilgrim's Progress",
+      "Christian Pilgrim",
+      "Mere Christianity"
+    ],
+    "mild": [
+      "A Christian writer and preacher known for vivid allegory about faith, salvation, temptation, and perseverance."
+    ],
+    "silly": [
+      "A writer who gives every spiritual struggle a proper name, a location, and a dangerous intersection.",
+      "An author who converts theology into a journey map with unusually memorable road hazards."
+    ],
+    "wild": [
+      "One preacher builds an entire symbolic transportation network for the soul.",
+      "A devotional argument acquires geography and refuses abstraction."
+    ],
+    "audiences": [
+      "readers studying allegory",
+      "church discussion groups",
+      "writers mapping spiritual ideas"
+    ],
+    "genres": [
+      "Christian Allegory",
+      "Devotional Journey",
+      "Symbolic Geography"
+    ],
+    "quotes": [
+      "The temptation now has an address.",
+      "Please consult the map before entering Vanity Fair."
+    ],
+    "reviews": [
+      "Direct, vivid, and historically influential.",
+      "The symbolism requires no subtle GPS."
+    ],
+    "trailers": [
+      "One author. One road. Centuries of spiritual metaphor."
+    ],
+    "morals": [
+      "Concrete images can make abstract spiritual questions memorable."
+    ],
+    "endings": [
+      "Every allegorical location receives clearer safety signage."
+    ],
+    "questions": [
+      "How does Bunyan's direct symbolism help some readers while limiting interpretive ambiguity?"
+    ]
+  },
+  "redeeming love": {
+    "name": "Redeeming Love",
+    "type": "Book",
+    "key": "christian_rivers",
+    "related": [
+      "Angel",
+      "Francine Rivers",
+      "Mere Christianity"
+    ],
+    "mild": [
+      "A Christian historical romance about trauma, steadfast love, dignity, faith, and the difficult process of healing."
+    ],
+    "silly": [
+      "A historical romance repeatedly asks whether patient love can outlast fear, shame, and a heroine's extremely justified distrust.",
+      "One relationship becomes a long-term healing plan complicated by trauma and nineteenth-century communication."
+    ],
+    "wild": [
+      "A wagon, a farm, and radical patience attempt emotional restoration against impossible odds.",
+      "Healing receives a romance plot and declines to follow a simple timeline."
+    ],
+    "audiences": [
+      "Christian fiction readers",
+      "romance discussion groups",
+      "readers studying trauma and healing"
+    ],
+    "genres": [
+      "Christian Historical Romance",
+      "Trauma and Restoration",
+      "Patient Love"
+    ],
+    "quotes": [
+      "Healing is not a straight road, and love cannot force it.",
+      "Trust has requested more time."
+    ],
+    "reviews": [
+      "Emotionally intense and focused on restoration.",
+      "The healing process resisted the schedule."
+    ],
+    "trailers": [
+      "One wounded life. One persistent love. A long journey toward dignity."
+    ],
+    "morals": [
+      "Love should support freedom, dignity, and healing rather than control."
+    ],
+    "endings": [
+      "Every act of care is paired with trauma-informed boundaries and support."
+    ],
+    "questions": [
+      "How does the novel distinguish patient love from rescue or control?"
+    ]
+  },
+  "angel redeeming love": {
+    "name": "Angel",
+    "type": "Character",
+    "key": "christian_rivers",
+    "related": [
+      "Redeeming Love",
+      "Francine Rivers"
+    ],
+    "mild": [
+      "A deeply wounded young woman whose guardedness, resilience, shame, and longing for freedom shape her difficult path toward healing."
+    ],
+    "silly": [
+      "A survivor with excellent protective walls repeatedly discovers that healing does not respect deadlines or romantic expectations.",
+      "A guarded woman treats trust like a loan application requiring extensive documentation."
+    ],
+    "wild": [
+      "One trauma response acquires enough armor to withstand an entire frontier.",
+      "A wounded heart turns self-protection into a full operating system."
+    ],
+    "audiences": [
+      "readers discussing trauma",
+      "survivors valuing agency",
+      "romance groups examining healing"
+    ],
+    "genres": [
+      "Trauma and Resilience",
+      "Guarded Trust",
+      "Healing and Agency"
+    ],
+    "quotes": [
+      "Trust is earned slowly and cannot be demanded.",
+      "My survival strategies were built for a reason."
+    ],
+    "reviews": [
+      "Complex, resilient, and deserving of patient understanding.",
+      "Her healing could not be reduced to romance alone."
+    ],
+    "trailers": [
+      "One survivor. Many defenses. A difficult return to hope."
+    ],
+    "morals": [
+      "Healing requires agency, safety, time, and support."
+    ],
+    "endings": [
+      "Angel receives trauma-informed care independent of romantic expectations."
+    ],
+    "questions": [
+      "How do Angel's survival strategies protect her while also complicating connection?"
+    ]
+  },
+  "francine rivers": {
+    "name": "Francine Rivers",
+    "type": "Author",
+    "key": "christian_rivers",
+    "related": [
+      "Redeeming Love",
+      "Angel",
+      "The Mark of the Lion"
+    ],
+    "mild": [
+      "An author known for Christian historical fiction exploring redemption, faith, suffering, love, and transformation."
+    ],
+    "silly": [
+      "A writer who places spiritual restoration inside emotionally intense historical stories and gives healing a very long timeline.",
+      "An author who asks faith, romance, trauma, and history to share one difficult conversation."
+    ],
+    "wild": [
+      "One novelist turns redemption into a full-length emotional endurance event.",
+      "A historical setting receives enough spiritual conflict to require pastoral support."
+    ],
+    "audiences": [
+      "Christian fiction readers",
+      "historical romance readers",
+      "discussion groups studying redemption"
+    ],
+    "genres": [
+      "Christian Historical Fiction",
+      "Redemption Narrative",
+      "Faith and Transformation"
+    ],
+    "quotes": [
+      "Transformation is not a shortcut.",
+      "The spiritual arc requires patience and agency."
+    ],
+    "reviews": [
+      "Emotionally direct and centered on redemption.",
+      "The characters rarely receive easy healing."
+    ],
+    "trailers": [
+      "One author. Many wounds. Long journeys toward faith and restoration."
+    ],
+    "morals": [
+      "Redemption stories are strongest when transformation retains human complexity."
+    ],
+    "endings": [
+      "Every difficult storyline includes content guidance and support resources."
+    ],
+    "questions": [
+      "How does Rivers connect spiritual transformation with emotional and relational healing?"
+    ]
   }
 };

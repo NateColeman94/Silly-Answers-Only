@@ -28,8 +28,8 @@
     const a=subjects[0]||"unexpected decisions",b=subjects[1]||"literary complications",c=subjects[2]||"questionable planning";
     const authorText=authors.length?authors.join(", "):"an unidentified author";
     const premise=description
-      ?`Open Library's work record describes a story involving: ${description}`
-      :`${title} by ${authorText} is associated with ${a.toLowerCase()}, ${b.toLowerCase()}, and ${c.toLowerCase()}.`;
+      ?description
+      :`${title} by ${authorText} involves ${a.toLowerCase()}, ${b.toLowerCase()}, and ${c.toLowerCase()}.`;
     return {
       name:title,type:"Book",key:"openLibrary",apiSource:"Open Library",
       sourcePreview:premise,
