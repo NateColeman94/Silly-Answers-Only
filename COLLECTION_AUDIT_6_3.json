@@ -1,0 +1,22 @@
+{
+  "total_handcrafted": 189,
+  "counts_by_type": {
+    "Book": 73,
+    "Character": 67,
+    "Book Series": 9,
+    "Author": 33,
+    "Graphic Novel": 3,
+    "Manga Series": 4
+  },
+  "collections": {
+    "penelope-favorites": 10,
+    "ya-favorites": 11,
+    "comics-graphic": 7,
+    "manga": 12
+  },
+  "persistent_honk_counter": true,
+  "persistent_search_counter": true,
+  "library_emergency_dialogue": true,
+  "javascript_syntax": "PASS",
+  "record_structure": "PASS"
+}

@@ -19,6 +19,13 @@
     busy:["You're keeping me very busy today.","Another search? My feathers are filing overtime.","At this rate, I may need a second stamp."],
     repeat:["Welcome back! I see you're still looking for accurate summaries.","You returned. The facts did not.","I saved your usual seat near the inaccurate reference section."]
   };
+  const emergency=[
+    "Library Emergency mode activated. I have removed the remaining factual safeguards.",
+    "Honk! The nonsense level has exceeded normal circulation limits.",
+    "Please remain calm. The synopsis is now operating without supervision.",
+    "I have stamped this explanation EXCEPTIONALLY SILLY.",
+    "The accurate summary has evacuated the building."
+  ];
   const byType={
     Book:["I found the plot and immediately misfiled it.","This book has been shelved under Avoidable Complications."],
     "Book Series":["I reviewed every volume and misunderstood them consistently.","The series has been cataloged under Recurring Problems."],
@@ -26,7 +33,8 @@
     Character:["I opened the character file. Their personality needs supervision.","I assessed their strengths, flaws, and questionable choices."]
   };
   const pick=(items,index)=>items[((index%items.length)+items.length)%items.length];
-  function lineFor(entry,key,cycle,searchCount,repeat){
+  function lineFor(entry,key,cycle,searchCount,repeat,level){
+    if(level==="wild")return pick(emergency,cycle+searchCount);
     if(exact[key])return pick(exact[key],cycle);
     if(searchCount>0&&searchCount%6===0)return pick(clicks.busy,searchCount);
     if(repeat)return pick(["You searched this again. I admire your commitment to misinformation.","Still checking? The accurate version remains checked out."],cycle);

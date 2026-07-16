@@ -33,6 +33,19 @@
           <div id="suggestions" class="suggestions" aria-live="polite"></div>
         </div>
 
+        <div class="collection-browser">
+          <label for="collectionSelect">Browse a collection:</label>
+          <select id="collectionSelect">
+            <option value="">Choose a shelf…</option>
+            <option value="penelope-favorites">🪿 Penelope's Favorites</option>
+            <option value="ya-favorites">📚 Young Adult Favorites</option>
+            <option value="comics-graphic">💥 Comics & Graphic Novels</option>
+            <option value="manga">🎌 Manga</option>
+          </select>
+          <button id="browseCollectionBtn" class="secondary">Open Collection</button>
+        </div>
+        <div id="collectionPanel" class="collection-panel hidden"></div>
+
         <div class="example-row" aria-label="Example searches">
           <button class="example" data-query="Disney Twisted Tales">Book Series</button>
           <button class="example" data-query="The Hobbit">Book</button>
@@ -123,13 +136,14 @@
       <strong>📚 LIBRARY NOTICE</strong>
       <p>No books were responsibly summarized in the making of this application.</p>
       <p>✓ Accurate Answers have been permanently checked out.</p>
-      <small>Build 6.2 — Hybrid Search & Personal Library Card</small>
+      <small>Build 6.3 — Persistent Personality & New Collections</small>
     </footer>
   </main>
 
   <script src="data/library.js"></script>
   <script src="data/profiles.js"></script>
   <script src="data/aliases.js"></script>
+  <script src="data/collections.js"></script>
   <script src="js/storage.js"></script>
   <script src="js/search.js"></script>
   <script src="js/penelope.js"></script>

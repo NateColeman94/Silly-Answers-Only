@@ -5,7 +5,7 @@
   const $=id=>document.getElementById(id);
   const pick=(items,index)=>items&&items.length?items[((index%items.length)+items.length)%items.length]:"Penelope misplaced this section.";
   let currentKey=null,currentEntry=null,cycle=0,apiSequence=0;
-  let searchCount=Number(sessionStorage.getItem("penelopeSearchCount")||0);
+  let searchCount=Number(window.PenelopeStorage.get("penelopeSearchCount",0));
   let honkCount=Number(window.PenelopeStorage.get("penelopeHonkCount",0));
   const visitCount=Number(window.PenelopeStorage.get("penelopeVisitCount",0))+1;
   const savedTheme=window.PenelopeStorage.get("penelopeTheme","light");
@@ -52,12 +52,12 @@
   }
   function renderEntry(entry,key,advance=false){
     const repeated=currentKey===key;cycle=(advance||repeated)?cycle+1:0;currentKey=key;currentEntry=entry;
-    searchCount++;sessionStorage.setItem("penelopeSearchCount",searchCount);counters();hideStatus();
+    searchCount++;window.PenelopeStorage.set("penelopeSearchCount",searchCount);counters();hideStatus();
     const level=$("level").value,options=entry[level]||entry.silly||entry.mild,p=profile(entry);
     $("result").classList.remove("hidden");$("entityType").textContent=entry.type;$("resultTitle").textContent=entry.name;
     const source=$("sourceBadge");if(entry.apiSource){source.textContent="Open Library metadata";source.classList.remove("hidden")}else{source.textContent="";source.classList.add("hidden")}
     $("award").textContent=pick(["🏆 Certified Librarian Nightmare","🪿 Goose-Approved Misinformation","📚 Book Club Menace","🚨 English Teacher Alert"],cycle+2);
-    const witty=entry.apiSource?"I found this on the public shelves. The metadata is real; my explanation remains irresponsible.":window.PenelopePersonality.lineFor(entry,key,cycle,searchCount,repeated);
+    const witty=entry.apiSource?"I found this on the public shelves. The metadata is real; my explanation remains irresponsible.":window.PenelopePersonality.lineFor(entry,key,cycle,searchCount,repeated,level);
     $("penelopeLine").textContent="🪿 Penelope says: “"+witty+"”";bubble(witty);$("synopsis").textContent=pick(options,cycle);
     $("rating").textContent=(4.5+((entry.name.length*7+cycle*11)%49)/100).toFixed(2);
     $("audience").textContent="Based on "+(1250+((entry.name.length*643+cycle*977)%8750)).toLocaleString()+" "+pick(p.audiences,cycle+1);
@@ -78,7 +78,37 @@
   }
   function runSearch(value,advance=false){const key=window.PenelopeSearch.keyFor(value);if(key){renderEntry(library[key],key,advance);return}searchOpenLibrary(value)}
 
+
+  function renderCollection(collectionKey){
+    const collection=(window.PENELOPE_COLLECTIONS||{})[collectionKey];
+    const panel=$("collectionPanel");
+    panel.innerHTML="";
+    if(!collection){panel.classList.add("hidden");return}
+    const heading=document.createElement("div");heading.className="collection-heading";
+    const title=document.createElement("h3");title.textContent=collection.name;
+    const description=document.createElement("p");description.textContent=collection.description;
+    heading.append(title,description);panel.appendChild(heading);
+    const grid=document.createElement("div");grid.className="collection-grid";
+    collection.keys.forEach(key=>{
+      const entry=library[key];if(!entry)return;
+      const card=document.createElement("button");card.className="collection-card";
+      const name=document.createElement("strong");name.textContent=entry.name;
+      const type=document.createElement("span");type.textContent=entry.type;
+      const teaser=document.createElement("small");
+      teaser.textContent=collectionKey==="penelope-favorites"
+        ?pick(entry.wild||entry.silly,0)
+        :pick(entry.silly||entry.mild,0);
+      card.append(name,type,teaser);
+      card.addEventListener("click",()=>{$("query").value=entry.name;runSearch(entry.name)});
+      grid.appendChild(card);
+    });
+    panel.appendChild(grid);panel.classList.remove("hidden");
+    panel.scrollIntoView({behavior:"smooth",block:"start"});
+  }
+
   $("searchBtn").addEventListener("click",()=>runSearch($("query").value));$("themeBtn").addEventListener("click",toggleTheme);
+  $("browseCollectionBtn").addEventListener("click",()=>renderCollection($("collectionSelect").value));
+  $("collectionSelect").addEventListener("change",event=>{if(event.target.value)renderCollection(event.target.value)});
   $("query").addEventListener("keydown",event=>{if(event.key==="Enter"){event.preventDefault();runSearch(event.target.value)}});
   $("query").addEventListener("input",event=>{const value=event.target.value.trim();value.length>=3?showSuggestions(value):$("suggestions").classList.remove("show")});
   document.querySelectorAll(".example").forEach(button=>button.addEventListener("click",()=>{$("query").value=button.dataset.query;runSearch(button.dataset.query)}));

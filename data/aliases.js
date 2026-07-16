@@ -28,5 +28,20 @@ window.PENELOPE_ALIASES = {
   "lightning thief": "the lightning thief",
   "rick riordan books": "rick riordan",
   "annabeth": "annabeth chase",
-  "katniss": "the hunger games"
+  "katniss": "the hunger games",
+  "tris": "tris prior",
+  "grishaverse": "shadow and bone",
+  "kaz": "kaz brekker",
+  "fourth wing series": "fourth wing",
+  "violet": "violet sorrengail",
+  "watchmen graphic novel": "watchmen",
+  "rorschach watchmen": "rorschach",
+  "one piece manga": "one piece",
+  "luffy": "monkey d luffy",
+  "naruto manga": "naruto",
+  "fma": "fullmetal alchemist",
+  "full metal alchemist": "fullmetal alchemist",
+  "edward": "edward elric",
+  "demon slayer manga": "demon slayer",
+  "tanjiro": "tanjiro kamado"
 };

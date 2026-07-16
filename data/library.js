@@ -8614,5 +8614,1543 @@ window.PENELOPE_LIBRARY = {
     "questions": [
       "Could this have been solved with one honest text?"
     ]
+  },
+  "divergent": {
+    "name": "Divergent",
+    "type": "Book",
+    "key": "ya_divergent",
+    "related": [
+      "Tris Prior",
+      "Four",
+      "Veronica Roth",
+      "The Hunger Games"
+    ],
+    "mild": [
+      "A teenager enters a social system that expects every person to fit neatly into one category."
+    ],
+    "silly": [
+      "A personality test becomes national policy, and one teenager is considered suspicious for having more than one useful trait.",
+      "A city organizes society like a school cafeteria and is shocked when the seating chart fails."
+    ],
+    "wild": [
+      "One aptitude test destabilizes an entire government.",
+      "A teenager breaks the national sorting algorithm by being a complete person."
+    ],
+    "audiences": [
+      "aptitude-test administrators",
+      "faction leaders reviewing labels",
+      "teenagers resisting one-word identities"
+    ],
+    "genres": [
+      "Personality Sorting",
+      "Faction Administration",
+      "Teenage Systems Failure"
+    ],
+    "quotes": [
+      "Your results indicate excessive complexity.",
+      "Please select one personality trait for permanent use."
+    ],
+    "reviews": [
+      "Strong action. Terrible organizational design.",
+      "The test needed a multidimensional scoring model."
+    ],
+    "trailers": [
+      "One test. Five factions. No room for nuance."
+    ],
+    "morals": [
+      "People are more complicated than the categories built for them."
+    ],
+    "endings": [
+      "The city replaces lifelong factions with flexible career counseling."
+    ],
+    "questions": [
+      "How does Tris's complexity challenge the society around her?"
+    ]
+  },
+  "tris prior": {
+    "name": "Tris Prior",
+    "type": "Character",
+    "key": "ya_divergent",
+    "related": [
+      "Divergent",
+      "Four",
+      "Veronica Roth",
+      "The Hunger Games"
+    ],
+    "mild": [
+      "A determined young woman whose courage, self-doubt, loyalty, and complexity resist a society built on labels."
+    ],
+    "silly": [
+      "A small but stubborn teenager repeatedly defeats systems designed by adults who underestimated both her bravery and her refusal to stay categorized.",
+      "A reluctant action hero combines self-sacrifice, strategic thinking, and a deeply inconvenient inability to fit one box."
+    ],
+    "wild": [
+      "One teenager becomes a walking error message for authoritarian personality testing.",
+      "A complete human being causes a five-faction system outage."
+    ],
+    "audiences": [
+      "faction trainers",
+      "leaders underestimating quiet recruits",
+      "readers debating courage and self-sacrifice"
+    ],
+    "genres": [
+      "Unclassifiable Courage",
+      "Faction Resistance",
+      "Compact Determination"
+    ],
+    "quotes": [
+      "I contain more than one approved trait.",
+      "Underestimating me has become an organizational habit."
+    ],
+    "reviews": [
+      "Brave, complicated, and occasionally too willing to carry everything herself.",
+      "She passed every test except accepting simplistic labels."
+    ],
+    "trailers": [
+      "One recruit. Several traits. A system that cannot process her."
+    ],
+    "morals": [
+      "Courage is not the absence of fear or complexity."
+    ],
+    "endings": [
+      "Tris receives support before volunteering for every dangerous assignment."
+    ],
+    "questions": [
+      "When does Tris's selflessness become a strength, and when does it become self-erasure?"
+    ]
+  },
+  "veronica roth": {
+    "name": "Veronica Roth",
+    "type": "Author",
+    "key": "ya_divergent",
+    "related": [
+      "Divergent",
+      "Tris Prior",
+      "Four",
+      "The Hunger Games"
+    ],
+    "mild": [
+      "An author who uses speculative societies to explore identity, fear, power, and the cost of rigid systems."
+    ],
+    "silly": [
+      "A writer who turns personality categories into government departments and then stress-tests them with teenagers.",
+      "An author who asks what happens when a society confuses one dominant trait with an entire person."
+    ],
+    "wild": [
+      "One novelist gives a personality quiz legislative authority.",
+      "A writer turns self-knowledge into a national security problem."
+    ],
+    "audiences": [
+      "dystopian readers",
+      "personality-test designers",
+      "systems thinkers reviewing factions"
+    ],
+    "genres": [
+      "Identity Dystopia",
+      "Fear Simulation",
+      "Categorical Governance"
+    ],
+    "quotes": [
+      "No person fits one faction, which is inconvenient for the plot's government."
+    ],
+    "reviews": [
+      "Sharp premise. Disturbing career-placement system."
+    ],
+    "trailers": [
+      "One author. Five factions. Infinite identity problems."
+    ],
+    "morals": [
+      "Systems become dangerous when they flatten human complexity."
+    ],
+    "endings": [
+      "Every faction adopts cross-functional teams."
+    ],
+    "questions": [
+      "How does Roth use fear to reveal identity and power?"
+    ]
+  },
+  "shadow and bone": {
+    "name": "Shadow and Bone",
+    "type": "Book",
+    "key": "ya_grishaverse",
+    "related": [
+      "Alina Starkov",
+      "The Darkling",
+      "Leigh Bardugo",
+      "Six of Crows"
+    ],
+    "mild": [
+      "A young soldier discovers a rare power that changes her place in a divided world."
+    ],
+    "silly": [
+      "A mapmaker becomes the country's most valuable lighting system and immediately attracts dangerous executive attention.",
+      "A young woman develops a strategic sunbeam and is transferred into the least emotionally healthy palace department."
+    ],
+    "wild": [
+      "One ray of sunlight creates a military, romantic, and wardrobe emergency.",
+      "A glowing teenager becomes the national infrastructure plan."
+    ],
+    "audiences": [
+      "mapmakers discovering powers",
+      "palace officials managing light",
+      "readers suspicious of charismatic mentors"
+    ],
+    "genres": [
+      "Sunlight Administration",
+      "Shadow Governance",
+      "Magical Palace Politics"
+    ],
+    "quotes": [
+      "My job description did not mention becoming the sun.",
+      "The shadows have submitted a competing proposal."
+    ],
+    "reviews": [
+      "Beautiful atmosphere. Highly suspicious mentorship.",
+      "The lighting department became politically important very quickly."
+    ],
+    "trailers": [
+      "One mapmaker. One shadow wall. Several dangerous promotions."
+    ],
+    "morals": [
+      "Power does not remove the need for judgment or self-trust."
+    ],
+    "endings": [
+      "Alina receives independent advisors and reads every contract."
+    ],
+    "questions": [
+      "How does Alina's need for belonging affect her choices?"
+    ]
+  },
+  "alina starkov": {
+    "name": "Alina Starkov",
+    "type": "Character",
+    "key": "ya_grishaverse",
+    "related": [
+      "Shadow and Bone",
+      "The Darkling",
+      "Leigh Bardugo",
+      "Six of Crows"
+    ],
+    "mild": [
+      "An insecure but resilient young woman learning to understand her power, identity, and desire to belong."
+    ],
+    "silly": [
+      "A reluctant human sunrise tries to develop confidence while everyone else treats her like a national utility.",
+      "A young woman discovers tremendous power and immediately receives more manipulation than useful career guidance."
+    ],
+    "wild": [
+      "One insecure cartographer becomes a solar event with trust issues.",
+      "A teenager's self-discovery becomes the national energy strategy."
+    ],
+    "audiences": [
+      "young women learning power",
+      "leaders attempting manipulation",
+      "sunlight administrators"
+    ],
+    "genres": [
+      "Reluctant Radiance",
+      "Identity and Power",
+      "Solar Boundary Setting"
+    ],
+    "quotes": [
+      "I am a person, not a public lighting contract.",
+      "My confidence is no longer available for external management."
+    ],
+    "reviews": [
+      "Powerful, vulnerable, and learning to choose herself.",
+      "She needed fewer handlers and more honest friends."
+    ],
+    "trailers": [
+      "One young woman. One rare power. Too many people with plans for her."
+    ],
+    "morals": [
+      "Belonging should not require surrendering your judgment."
+    ],
+    "endings": [
+      "Alina creates her own advisory council."
+    ],
+    "questions": [
+      "How does Alina's self-image change as others define her by her power?"
+    ]
+  },
+  "six of crows": {
+    "name": "Six of Crows",
+    "type": "Book",
+    "key": "ya_grishaverse",
+    "related": [
+      "Kaz Brekker",
+      "Inej Ghafa",
+      "Leigh Bardugo",
+      "Shadow and Bone"
+    ],
+    "mild": [
+      "A highly specialized crew accepts an extremely dangerous heist."
+    ],
+    "silly": [
+      "Six talented young criminals create the most effective cross-functional team in fantasy and still refuse normal therapy.",
+      "A teenage project manager assembles experts in knives, explosions, disguises, and unresolved emotional damage."
+    ],
+    "wild": [
+      "One heist plan achieves full operational excellence using trauma and excellent coats.",
+      "A group of teenagers becomes the continent's highest-performing consulting firm."
+    ],
+    "audiences": [
+      "heist planners",
+      "city officials losing sleep",
+      "teams studying complementary skills"
+    ],
+    "genres": [
+      "Criminal Project Management",
+      "Trauma-Based Teamwork",
+      "Impossible Heist Operations"
+    ],
+    "quotes": [
+      "No mourners. No funerals. Also no reasonable risk premium.",
+      "The plan is impossible, which keeps the competitors away."
+    ],
+    "reviews": [
+      "Excellent team composition. Concerning benefits package.",
+      "The project manager needed therapy and a vacation."
+    ],
+    "trailers": [
+      "Six specialists. One impossible job. No healthy coping mechanisms."
+    ],
+    "morals": [
+      "Trust is built through action, but vulnerability still matters."
+    ],
+    "endings": [
+      "The crew negotiates hazard pay and emotional support."
+    ],
+    "questions": [
+      "Why does this crew work despite—and because of—its members' differences?"
+    ]
+  },
+  "kaz brekker": {
+    "name": "Kaz Brekker",
+    "type": "Character",
+    "key": "ya_grishaverse",
+    "related": [
+      "Six of Crows",
+      "Inej Ghafa",
+      "Leigh Bardugo",
+      "Shadow and Bone"
+    ],
+    "mild": [
+      "A brilliant, ruthless strategist shaped by trauma, ambition, and a guarded need for connection."
+    ],
+    "silly": [
+      "A teenage criminal executive turns spite, preparation, and excellent gloves into a competitive advantage.",
+      "A mastermind plans eleven steps ahead because acknowledging one feeling would be operationally disruptive."
+    ],
+    "wild": [
+      "One grudge builds a criminal empire and acquires a cane.",
+      "A teenager converts emotional avoidance into premium project-management software."
+    ],
+    "audiences": [
+      "strategists studying contingency plans",
+      "therapists waiting patiently",
+      "criminal rivals reading the fine print"
+    ],
+    "genres": [
+      "Trauma-Fueled Strategy",
+      "Gloved Leadership",
+      "Contingency Planning"
+    ],
+    "quotes": [
+      "I have a plan, a backup plan, and no intention of discussing my feelings.",
+      "The emotional risk has been transferred to another department."
+    ],
+    "reviews": [
+      "Brilliant planner. Terrible openness metrics.",
+      "He could price every risk except vulnerability."
+    ],
+    "trailers": [
+      "One mastermind. Endless contingencies. No emotional user manual."
+    ],
+    "morals": [
+      "Control can protect a person while also isolating them."
+    ],
+    "endings": [
+      "Kaz schedules one honest conversation without monetizing it."
+    ],
+    "questions": [
+      "How do Kaz's trauma and ambition shape both his genius and his limitations?"
+    ]
+  },
+  "leigh bardugo": {
+    "name": "Leigh Bardugo",
+    "type": "Author",
+    "key": "ya_grishaverse",
+    "related": [
+      "Shadow and Bone",
+      "Six of Crows",
+      "Alina Starkov",
+      "Kaz Brekker"
+    ],
+    "mild": [
+      "An author known for atmospheric fantasy, morally complex characters, power, trauma, and found family."
+    ],
+    "silly": [
+      "A writer who creates beautiful coats, dangerous cities, and teenagers with highly marketable trauma.",
+      "An author who makes magical systems and criminal teams equally interested in power and belonging."
+    ],
+    "wild": [
+      "One novelist turns emotional damage into a complete fantasy economy.",
+      "A writer creates enough morally gray characters to repaint the entire genre."
+    ],
+    "audiences": [
+      "fantasy readers",
+      "heist-team recruiters",
+      "coat designers"
+    ],
+    "genres": [
+      "Grishaverse Worldbuilding",
+      "Morally Gray Team Design",
+      "Atmospheric Fantasy"
+    ],
+    "quotes": [
+      "Every character receives one talent, two secrets, and an excellent coat."
+    ],
+    "reviews": [
+      "Rich world. Complicated people. Outstanding criminal logistics."
+    ],
+    "trailers": [
+      "One author. Several nations. Infinite moral gray."
+    ],
+    "morals": [
+      "Power and belonging are rarely simple or separate."
+    ],
+    "endings": [
+      "Every criminal crew receives preventive counseling."
+    ],
+    "questions": [
+      "How does Bardugo use found family to challenge isolation and power?"
+    ]
+  },
+  "fourth wing": {
+    "name": "Fourth Wing",
+    "type": "Book",
+    "key": "ya_empyrean",
+    "related": [
+      "Violet Sorrengail",
+      "Xaden Riorson",
+      "Rebecca Yarros",
+      "Eragon"
+    ],
+    "mild": [
+      "A physically vulnerable but intellectually strong young woman enters a dangerous dragon-rider academy."
+    ],
+    "silly": [
+      "A bookish student is transferred into dragon aviation despite the academy's extremely aggressive retention policy.",
+      "A young woman uses intelligence, determination, and sarcastic dragons to survive military higher education."
+    ],
+    "wild": [
+      "One library-minded student turns a lethal flight program into an accessibility and leadership case study.",
+      "Dragons conduct admissions interviews with immediate consequences."
+    ],
+    "audiences": [
+      "dragon-rider instructors",
+      "students questioning academy safety",
+      "librarians supporting tactical research"
+    ],
+    "genres": [
+      "Dragon Aviation School",
+      "Deadly Higher Education",
+      "Strategic Rider Training"
+    ],
+    "quotes": [
+      "The student handbook did not adequately describe the dragons.",
+      "Accessibility remains a strategic advantage."
+    ],
+    "reviews": [
+      "Fast, dramatic, and in urgent need of a campus safety office.",
+      "The dragons showed stronger selection standards than administration."
+    ],
+    "trailers": [
+      "One student. Several dragons. An academy with alarming graduation statistics."
+    ],
+    "morals": [
+      "Strength includes adaptation, intelligence, and knowing your own body."
+    ],
+    "endings": [
+      "The academy adopts safety rails and nonlethal orientation."
+    ],
+    "questions": [
+      "How does Violet redefine strength in an institution built around physical power?"
+    ]
+  },
+  "violet sorrengail": {
+    "name": "Violet Sorrengail",
+    "type": "Character",
+    "key": "ya_empyrean",
+    "related": [
+      "Fourth Wing",
+      "Xaden Riorson",
+      "Rebecca Yarros",
+      "Eragon"
+    ],
+    "mild": [
+      "An intelligent, resilient young woman whose physical limitations sharpen her strategy and self-awareness."
+    ],
+    "silly": [
+      "A future librarian enters combat school and survives by reading faster than everyone else thinks.",
+      "A physically fragile strategist repeatedly reminds the academy that intelligence is also a weapon."
+    ],
+    "wild": [
+      "One bookworm becomes an airborne tactical system.",
+      "A student weaponizes research skills against an institution that underestimated her body."
+    ],
+    "audiences": [
+      "students redefining strength",
+      "strategists valuing preparation",
+      "dragons reviewing rider potential"
+    ],
+    "genres": [
+      "Strategic Resilience",
+      "Book-Based Combat Readiness",
+      "Adaptive Leadership"
+    ],
+    "quotes": [
+      "I have already read the section where you underestimate me.",
+      "My body has limits; your assumptions have more."
+    ],
+    "reviews": [
+      "Smart, resilient, and unwilling to let others define capability.",
+      "She turned preparation into survival."
+    ],
+    "trailers": [
+      "One strategist. One dangerous academy. Several revised expectations."
+    ],
+    "morals": [
+      "Adaptation is not lesser strength."
+    ],
+    "endings": [
+      "Violet receives an accessible training plan from day one."
+    ],
+    "questions": [
+      "How does Violet's knowledge change the meaning of physical strength?"
+    ]
+  },
+  "rebecca yarros": {
+    "name": "Rebecca Yarros",
+    "type": "Author",
+    "key": "ya_empyrean",
+    "related": [
+      "Fourth Wing",
+      "Violet Sorrengail",
+      "Xaden Riorson",
+      "Eragon"
+    ],
+    "mild": [
+      "An author known for emotionally intense romance, resilience, military settings, and dragons."
+    ],
+    "silly": [
+      "A writer who combines dragon flight school, tactical danger, emotional tension, and readers forgetting bedtime.",
+      "An author who gives romance and military education the same emergency-level pacing."
+    ],
+    "wild": [
+      "One novelist adds dragons to higher education and removes all reasonable campus policies.",
+      "A writer turns chemistry, combat, and cliffhangers into a single flight formation."
+    ],
+    "audiences": [
+      "romantasy readers",
+      "dragon-academy inspectors",
+      "people reading past midnight"
+    ],
+    "genres": [
+      "Romantasy Escalation",
+      "Dragon Academy Design",
+      "Emotional Cliffhanger Management"
+    ],
+    "quotes": [
+      "The dragon is dangerous, but the unresolved tension has a higher incident rate."
+    ],
+    "reviews": [
+      "Compulsive reading. Concerning academy rules."
+    ],
+    "trailers": [
+      "One author. Several dragons. No early bedtime."
+    ],
+    "morals": [
+      "Resilience and connection can coexist with vulnerability."
+    ],
+    "endings": [
+      "Every cliffhanger receives a warning label."
+    ],
+    "questions": [
+      "How does Yarros use danger to intensify both growth and relationships?"
+    ]
+  },
+  "watchmen": {
+    "name": "Watchmen",
+    "type": "Graphic Novel",
+    "key": "graphic_watchmen",
+    "related": [
+      "Rorschach",
+      "Alan Moore",
+      "Batman: Year One",
+      "Maus"
+    ],
+    "mild": [
+      "Former masked heroes confront a conspiracy while questioning power, morality, and heroism."
+    ],
+    "silly": [
+      "A group of retired costumed professionals discovers that workplace conflict becomes harder when everyone has a secret identity.",
+      "Superheroes conduct the longest possible ethics committee meeting while the world waits."
+    ],
+    "wild": [
+      "One blue physicist and several damaged vigilantes turn public safety into philosophy homework.",
+      "A smiley-face button becomes the least subtle compliance warning in comics."
+    ],
+    "audiences": [
+      "retired heroes",
+      "ethics professors",
+      "governments reviewing masked consultants"
+    ],
+    "genres": [
+      "Superhero Deconstruction",
+      "Vigilante Ethics",
+      "Apocalyptic Governance"
+    ],
+    "quotes": [
+      "Who watches the people who skipped the governance training?",
+      "The costume policy does not answer the moral question."
+    ],
+    "reviews": [
+      "Brilliant, bleak, and deeply suspicious of capes.",
+      "The ethics discussion had an alarming body count."
+    ],
+    "trailers": [
+      "One conspiracy. Several masks. No uncomplicated heroes."
+    ],
+    "morals": [
+      "Power without accountability distorts both people and systems."
+    ],
+    "endings": [
+      "Everyone attends an independent ethics review before acting."
+    ],
+    "questions": [
+      "Does Watchmen criticize superheroes, power itself, or the desire for simple moral certainty?"
+    ]
+  },
+  "rorschach": {
+    "name": "Rorschach",
+    "type": "Character",
+    "key": "graphic_watchmen",
+    "related": [
+      "Watchmen",
+      "Alan Moore",
+      "Batman: Year One"
+    ],
+    "mild": [
+      "An uncompromising vigilante whose moral certainty, trauma, and isolation make him both perceptive and dangerous."
+    ],
+    "silly": [
+      "A masked investigator treats every moral issue as black-and-white because his face is already doing the branding.",
+      "A detective with excellent persistence and zero interest in nuance turns personal damage into an ideology."
+    ],
+    "wild": [
+      "One inkblot acquires a trench coat and absolute moral authority.",
+      "A man refuses compromise so intensely that complexity files a complaint."
+    ],
+    "audiences": [
+      "detectives reviewing absolutism",
+      "therapists waiting outside",
+      "readers debating principle and rigidity"
+    ],
+    "genres": [
+      "Moral Absolutism",
+      "Trench-Coat Investigation",
+      "Trauma and Judgment"
+    ],
+    "quotes": [
+      "The world is complicated. I have rejected the premise.",
+      "Compromise remains unavailable."
+    ],
+    "reviews": [
+      "Sharp observer. Hazardous certainty.",
+      "He saw corruption clearly but could not tolerate ambiguity."
+    ],
+    "trailers": [
+      "One mask. One code. No gray area."
+    ],
+    "morals": [
+      "Principle without self-examination can become another form of blindness."
+    ],
+    "endings": [
+      "Rorschach encounters a moral spectrum and remains for the discussion."
+    ],
+    "questions": [
+      "Is Rorschach's refusal to compromise courageous, destructive, or both?"
+    ]
+  },
+  "alan moore": {
+    "name": "Alan Moore",
+    "type": "Author",
+    "key": "graphic_watchmen",
+    "related": [
+      "Watchmen",
+      "V for Vendetta",
+      "Rorschach",
+      "Batman: Year One"
+    ],
+    "mild": [
+      "A comics writer known for formal experimentation, political critique, symbolism, and deconstructing genre conventions."
+    ],
+    "silly": [
+      "A writer who looks at superheroes, politics, magic, and storytelling and asks them all to explain themselves under oath.",
+      "An author who turns panel layouts into philosophy and genre assumptions into evidence."
+    ],
+    "wild": [
+      "One comics writer deconstructs the building while everyone is still reading inside it.",
+      "A beard acquires literary criticism and structural ambition."
+    ],
+    "audiences": [
+      "comics scholars",
+      "genre conventions under review",
+      "readers studying panel structure"
+    ],
+    "genres": [
+      "Comics Deconstruction",
+      "Political Symbolism",
+      "Formal Panel Engineering"
+    ],
+    "quotes": [
+      "The genre has been asked to remain after class.",
+      "Every panel is now part of the argument."
+    ],
+    "reviews": [
+      "Dense, inventive, and unwilling to let the genre relax.",
+      "The symbolism requires its own reference desk."
+    ],
+    "trailers": [
+      "One writer. Several genres. No unquestioned assumptions."
+    ],
+    "morals": [
+      "Form and content can challenge each other."
+    ],
+    "endings": [
+      "Every deconstruction project includes rebuilding instructions."
+    ],
+    "questions": [
+      "How does Moore use comics form—not just story—to shape meaning?"
+    ]
+  },
+  "maus": {
+    "name": "Maus",
+    "type": "Graphic Novel",
+    "key": "graphic_maus",
+    "related": [
+      "Art Spiegelman",
+      "Persepolis",
+      "Watchmen"
+    ],
+    "mild": [
+      "A son records his father's Holocaust experiences while examining memory, trauma, family, and representation."
+    ],
+    "silly": [
+      "A cartoonist uses animal faces to tell a deeply human history and still cannot make family interviews simple.",
+      "A memoir project becomes both historical testimony and the most emotionally complex parent interview imaginable."
+    ],
+    "wild": [
+      "One family archive carries history, grief, guilt, and several difficult conversations in black-and-white panels."
+    ],
+    "audiences": [
+      "memoir readers",
+      "historians studying representation",
+      "families preserving testimony"
+    ],
+    "genres": [
+      "Graphic Testimony",
+      "Memory and Trauma",
+      "Family History"
+    ],
+    "quotes": [
+      "The drawing is simple; the memory is not.",
+      "Recording history also records the relationship doing the recording."
+    ],
+    "reviews": [
+      "Essential, difficult, and formally powerful.",
+      "The family story and historical testimony cannot be separated neatly."
+    ],
+    "trailers": [
+      "One son. One father's history. Memory drawn into panels."
+    ],
+    "morals": [
+      "Remembering history includes confronting how trauma continues through families."
+    ],
+    "endings": [
+      "Every interview receives patience, context, and emotional support."
+    ],
+    "questions": [
+      "How does the animal imagery create both distance and immediacy?"
+    ]
+  },
+  "art spiegelman": {
+    "name": "Art Spiegelman",
+    "type": "Author",
+    "key": "graphic_maus",
+    "related": [
+      "Maus",
+      "Persepolis",
+      "Watchmen"
+    ],
+    "mild": [
+      "A cartoonist and editor known for expanding the possibilities of autobiographical and literary comics."
+    ],
+    "silly": [
+      "A creator who proves small panels can carry history, family conflict, formal invention, and an entire critical debate.",
+      "An artist who turns the act of drawing memory into part of the memory itself."
+    ],
+    "wild": [
+      "One cartoonist places memoir, history, and medium theory into the same speech balloon."
+    ],
+    "audiences": [
+      "graphic memoir readers",
+      "comics historians",
+      "editors reviewing formal innovation"
+    ],
+    "genres": [
+      "Graphic Memoir",
+      "Comics Formalism",
+      "Historical Representation"
+    ],
+    "quotes": [
+      "The medium is not less serious because it has panels.",
+      "The frame around the memory also matters."
+    ],
+    "reviews": [
+      "Formally inventive and historically essential.",
+      "The cartooning carries complexity rather than simplifying it."
+    ],
+    "trailers": [
+      "One artist. One medium. A major expansion of literary possibility."
+    ],
+    "morals": [
+      "How a story is represented is part of what it means."
+    ],
+    "endings": [
+      "Every medium receives equal space in the literature curriculum."
+    ],
+    "questions": [
+      "How does Spiegelman make the process of creating Maus part of its subject?"
+    ]
+  },
+  "persepolis": {
+    "name": "Persepolis",
+    "type": "Graphic Novel",
+    "key": "graphic_persepolis",
+    "related": [
+      "Marjane Satrapi",
+      "Maus",
+      "Watchmen"
+    ],
+    "mild": [
+      "A young Iranian woman recounts childhood, revolution, exile, identity, and return through graphic memoir."
+    ],
+    "silly": [
+      "A sharp, outspoken child grows up while governments, schools, and adults repeatedly fail to provide consistent explanations.",
+      "A coming-of-age memoir asks history, family, religion, politics, and punk music to share the same black-and-white page."
+    ],
+    "wild": [
+      "One child's direct questions create repeated system errors in authoritarian institutions."
+    ],
+    "audiences": [
+      "students learning history",
+      "families navigating revolution",
+      "readers studying identity and exile"
+    ],
+    "genres": [
+      "Graphic Coming of Age",
+      "Revolution and Identity",
+      "Exile Memoir"
+    ],
+    "quotes": [
+      "I asked a reasonable question and the government changed the subject.",
+      "Growing up remained complicated by national events."
+    ],
+    "reviews": [
+      "Funny, painful, direct, and deeply human.",
+      "The simple art carries extraordinary complexity."
+    ],
+    "trailers": [
+      "One girl. One revolution. A life drawn without euphemism."
+    ],
+    "morals": [
+      "Personal identity persists through political pressure, but never untouched."
+    ],
+    "endings": [
+      "Every authority figure answers Marji's actual question."
+    ],
+    "questions": [
+      "How does Satrapi balance humor and trauma without diminishing either?"
+    ]
+  },
+  "marjane satrapi": {
+    "name": "Marjane Satrapi",
+    "type": "Author",
+    "key": "graphic_persepolis",
+    "related": [
+      "Persepolis",
+      "Maus",
+      "Art Spiegelman"
+    ],
+    "mild": [
+      "An author and filmmaker known for direct visual storytelling about identity, politics, exile, family, and memory."
+    ],
+    "silly": [
+      "A creator who uses stark black-and-white art to make history personal, funny, painful, and impossible to ignore.",
+      "An author who gives political systems exactly as much respect as they earn."
+    ],
+    "wild": [
+      "One cartoonist turns blunt honesty into an international storytelling method."
+    ],
+    "audiences": [
+      "graphic memoir readers",
+      "political historians",
+      "students studying visual narrative"
+    ],
+    "genres": [
+      "Visual Memoir",
+      "Political Autobiography",
+      "Direct Black-and-White Storytelling"
+    ],
+    "quotes": [
+      "Simplicity of line does not mean simplicity of experience.",
+      "The personal and political have declined to remain separate."
+    ],
+    "reviews": [
+      "Clear, fearless, and emotionally precise.",
+      "The visual directness sharpens every contradiction."
+    ],
+    "trailers": [
+      "One artist. One life. History drawn personally."
+    ],
+    "morals": [
+      "Honest self-representation can challenge official narratives."
+    ],
+    "endings": [
+      "Every political slogan is reviewed by the child who has to live under it."
+    ],
+    "questions": [
+      "How does Satrapi's visual simplicity strengthen her political and emotional complexity?"
+    ]
+  },
+  "one piece": {
+    "name": "One Piece",
+    "type": "Manga Series",
+    "key": "manga_onepiece",
+    "related": [
+      "Monkey D. Luffy",
+      "Eiichiro Oda",
+      "Naruto",
+      "Fullmetal Alchemist"
+    ],
+    "mild": [
+      "A rubber-powered pirate and his found family travel the world pursuing freedom and a legendary treasure."
+    ],
+    "silly": [
+      "A young pirate creates the world's most emotionally supportive criminal organization and refuses every conventional management structure.",
+      "A crew with impossible résumés sails from island to island repairing governments they did not apply to manage."
+    ],
+    "wild": [
+      "One stretchy optimist becomes the global standard for leadership, appetite, and regime change.",
+      "A treasure hunt expands until it contains the entire ocean's political history."
+    ],
+    "audiences": [
+      "pirates reviewing found-family policy",
+      "governments noticing one ship",
+      "readers tracking a very long voyage"
+    ],
+    "genres": [
+      "Found-Family Piracy",
+      "Island Liberation",
+      "Rubber Leadership",
+      "Epic Voyage Management"
+    ],
+    "quotes": [
+      "I will become Pirate King after lunch.",
+      "Your government has failed the friendship audit."
+    ],
+    "reviews": [
+      "Endlessly imaginative and emotionally sincere.",
+      "The crew has better culture than most organizations."
+    ],
+    "trailers": [
+      "One treasure. One enormous ocean. A crew that refuses to abandon anyone."
+    ],
+    "morals": [
+      "Freedom gains meaning through loyalty, responsibility, and protecting others."
+    ],
+    "endings": [
+      "Every island government passes a basic fairness review before the crew arrives."
+    ],
+    "questions": [
+      "How does the series connect personal freedom with responsibility to others?"
+    ]
+  },
+  "monkey d luffy": {
+    "name": "Monkey D. Luffy",
+    "type": "Character",
+    "key": "manga_onepiece",
+    "related": [
+      "One Piece",
+      "Eiichiro Oda",
+      "Naruto"
+    ],
+    "mild": [
+      "An optimistic, instinctive leader whose devotion to freedom and friends inspires extraordinary loyalty."
+    ],
+    "silly": [
+      "A rubber-powered captain leads through snacks, emotional clarity, and immediate hostility toward anyone hurting his friends.",
+      "A strategic minimalist who cannot read a map but can identify injustice from three islands away."
+    ],
+    "wild": [
+      "One appetite acquires a pirate crew and revolutionary influence.",
+      "A stretchy optimist defeats authoritarianism without ever completing paperwork."
+    ],
+    "audiences": [
+      "captains studying trust",
+      "friends relying on absolute loyalty",
+      "governments fearing one smiling pirate"
+    ],
+    "genres": [
+      "Instinctive Leadership",
+      "Rubber Resolve",
+      "Friendship-Based Command"
+    ],
+    "quotes": [
+      "I don't need the whole plan. I know who needs help.",
+      "Lunch first. Tyrant second."
+    ],
+    "reviews": [
+      "Simple priorities. Exceptional loyalty.",
+      "He may miss the details but never misses the moral center."
+    ],
+    "trailers": [
+      "One captain. Endless appetite. Unbreakable commitment."
+    ],
+    "morals": [
+      "Leadership can come from clarity of values rather than complexity of strategy."
+    ],
+    "endings": [
+      "Luffy appoints one crew member to manage schedules."
+    ],
+    "questions": [
+      "Why do people trust Luffy despite his impulsiveness?"
+    ]
+  },
+  "eiichiro oda": {
+    "name": "Eiichiro Oda",
+    "type": "Author",
+    "key": "manga_onepiece",
+    "related": [
+      "One Piece",
+      "Monkey D. Luffy",
+      "Naruto"
+    ],
+    "mild": [
+      "A manga creator known for expansive worldbuilding, long-form mysteries, visual invention, humor, and emotional payoffs."
+    ],
+    "silly": [
+      "A creator who introduces a joke in one decade and turns it into essential world history in another.",
+      "An author who builds islands, governments, mysteries, and emotional backstories faster than readers can update the map."
+    ],
+    "wild": [
+      "One mangaka creates enough foreshadowing to require maritime archaeology.",
+      "A writer turns a pirate adventure into a global civilization model."
+    ],
+    "audiences": [
+      "manga theorists",
+      "mapmakers",
+      "readers tracking decades of clues"
+    ],
+    "genres": [
+      "Long-Form Worldbuilding",
+      "Foreshadowing Engineering",
+      "Pirate Mythology"
+    ],
+    "quotes": [
+      "That background joke will become important in approximately six hundred chapters.",
+      "The map is still expanding."
+    ],
+    "reviews": [
+      "Inventive, funny, and extraordinarily committed to payoff.",
+      "Every minor character may own part of the world's history."
+    ],
+    "trailers": [
+      "One creator. One ocean. Decades of interconnected adventure."
+    ],
+    "morals": [
+      "Long stories reward patience when details build genuine meaning."
+    ],
+    "endings": [
+      "Every reader receives a searchable clue database."
+    ],
+    "questions": [
+      "How does Oda balance episodic island stories with one enormous long-term narrative?"
+    ]
+  },
+  "naruto": {
+    "name": "Naruto",
+    "type": "Manga Series",
+    "key": "manga_naruto",
+    "related": [
+      "Naruto Uzumaki",
+      "Masashi Kishimoto",
+      "One Piece",
+      "Demon Slayer"
+    ],
+    "mild": [
+      "A lonely young ninja pursues recognition, friendship, and leadership while confronting cycles of violence."
+    ],
+    "silly": [
+      "A neglected student becomes the village's loudest leadership candidate and solves international conflict through persistence and emotionally intense conversations.",
+      "A ninja training program repeatedly assigns children to military fieldwork and is surprised by the trauma."
+    ],
+    "wild": [
+      "One bowl of ramen powers a continent-wide peace initiative.",
+      "A class clown becomes the primary system for ending inherited hatred."
+    ],
+    "audiences": [
+      "ninja instructors",
+      "villages reviewing child-safety policy",
+      "readers tracking rival friendships"
+    ],
+    "genres": [
+      "Ninja Leadership",
+      "Trauma Cycle Management",
+      "Ramen-Fueled Persistence"
+    ],
+    "quotes": [
+      "Believe it—after the risk assessment.",
+      "The village ignored me until I became its strategic plan."
+    ],
+    "reviews": [
+      "Big emotions, memorable rivals, and questionable youth deployment.",
+      "The ramen shop provided more stability than government."
+    ],
+    "trailers": [
+      "One outcast. One dream. Several generations of unresolved conflict."
+    ],
+    "morals": [
+      "Recognition matters, but empathy can transform both self and society."
+    ],
+    "endings": [
+      "The villages replace child soldiers with supervised education."
+    ],
+    "questions": [
+      "How does Naruto turn his need for recognition into empathy for others?"
+    ]
+  },
+  "naruto uzumaki": {
+    "name": "Naruto Uzumaki",
+    "type": "Character",
+    "key": "manga_naruto",
+    "related": [
+      "Naruto",
+      "Masashi Kishimoto",
+      "Monkey D. Luffy"
+    ],
+    "mild": [
+      "An energetic, lonely, resilient young ninja whose desire for recognition grows into commitment to connection and peace."
+    ],
+    "silly": [
+      "A loud student with one reliable study method—never giving up—eventually becomes the village's most successful relationship manager.",
+      "A ramen-powered optimist responds to trauma by collecting former enemies as emotionally complicated friends."
+    ],
+    "wild": [
+      "One neglected child becomes the entire world's conflict-resolution department.",
+      "A teenager weaponizes empathy and extremely persistent speeches."
+    ],
+    "audiences": [
+      "students needing recognition",
+      "leaders studying perseverance",
+      "rivals receiving unexpected friendship"
+    ],
+    "genres": [
+      "Persistent Optimism",
+      "Ramen Leadership",
+      "Enemy-to-Friend Conversion"
+    ],
+    "quotes": [
+      "I will become Hokage, immediately after ramen.",
+      "You are now my friend; resistance appears ineffective."
+    ],
+    "reviews": [
+      "Loud, loyal, and emotionally transformative.",
+      "His greatest technique may be refusing to give up on people."
+    ],
+    "trailers": [
+      "One ninja. One dream. Unlimited persistence."
+    ],
+    "morals": [
+      "Pain can deepen empathy instead of determining cruelty."
+    ],
+    "endings": [
+      "Naruto receives consistent adult support before becoming a national hero."
+    ],
+    "questions": [
+      "How does Naruto's loneliness shape his ability to understand others?"
+    ]
+  },
+  "masashi kishimoto": {
+    "name": "Masashi Kishimoto",
+    "type": "Author",
+    "key": "manga_naruto",
+    "related": [
+      "Naruto",
+      "Naruto Uzumaki",
+      "One Piece"
+    ],
+    "mild": [
+      "A manga creator known for ninja action, rivalry, loneliness, inherited conflict, perseverance, and bonds."
+    ],
+    "silly": [
+      "A creator who turns every battle into a family history, philosophical disagreement, and friendship intervention.",
+      "An author who gives ninjas spectacular powers and deeply complicated childhoods."
+    ],
+    "wild": [
+      "One mangaka builds an entire military society around teenagers needing therapy.",
+      "A writer turns rivalry into a renewable energy source."
+    ],
+    "audiences": [
+      "manga readers",
+      "ninja-world policy analysts",
+      "rivalry scholars"
+    ],
+    "genres": [
+      "Ninja Worldbuilding",
+      "Rivalry Narratives",
+      "Inherited Conflict"
+    ],
+    "quotes": [
+      "The fight will resume after both characters explain their childhoods.",
+      "Every technique has a backstory."
+    ],
+    "reviews": [
+      "Iconic action and emotionally elaborate rivalry.",
+      "The world needed fewer child missions and more counselors."
+    ],
+    "trailers": [
+      "One creator. Many ninjas. Generations of connected conflict."
+    ],
+    "morals": [
+      "Understanding the roots of conflict is necessary to interrupt it."
+    ],
+    "endings": [
+      "Every ninja academy adds conflict-resolution training."
+    ],
+    "questions": [
+      "How does Kishimoto use rivalry to explore identity and belonging?"
+    ]
+  },
+  "fullmetal alchemist": {
+    "name": "Fullmetal Alchemist",
+    "type": "Manga Series",
+    "key": "manga_fma",
+    "related": [
+      "Edward Elric",
+      "Hiromu Arakawa",
+      "One Piece",
+      "Attack on Titan"
+    ],
+    "mild": [
+      "Two brothers seek to repair the consequences of a forbidden experiment while confronting state power and moral responsibility."
+    ],
+    "silly": [
+      "Two gifted children violate the laws of nature and spend the rest of the series completing the most demanding corrective-action plan imaginable.",
+      "A chemistry mistake becomes a national conspiracy because equivalent exchange apparently includes government reform."
+    ],
+    "wild": [
+      "One failed science project uncovers the country's entire strategic risk model.",
+      "Two brothers audit reality and discover senior leadership has been misusing the budget."
+    ],
+    "audiences": [
+      "alchemists reviewing ethics",
+      "siblings managing consequences",
+      "governments hiding national diagrams"
+    ],
+    "genres": [
+      "Alchemy Compliance",
+      "Sibling Restoration",
+      "Equivalent Exchange Governance"
+    ],
+    "quotes": [
+      "The science worked exactly enough to become a disaster.",
+      "Please review the ethics section before transmutation."
+    ],
+    "reviews": [
+      "Excellent character work. Catastrophic experiment controls.",
+      "The brothers completed accountability better than the government."
+    ],
+    "trailers": [
+      "Two brothers. One forbidden experiment. A country-sized secret."
+    ],
+    "morals": [
+      "Knowledge and power require responsibility, humility, and respect for human limits."
+    ],
+    "endings": [
+      "The brothers consult an ethics board before beginning."
+    ],
+    "questions": [
+      "How does the series distinguish sacrifice from exploitation?"
+    ]
+  },
+  "edward elric": {
+    "name": "Edward Elric",
+    "type": "Character",
+    "key": "manga_fma",
+    "related": [
+      "Fullmetal Alchemist",
+      "Hiromu Arakawa",
+      "Alphonse Elric"
+    ],
+    "mild": [
+      "A brilliant, proud, compassionate young alchemist driven by guilt, love for his brother, and determination to repair harm."
+    ],
+    "silly": [
+      "A short-tempered scientific prodigy responds to one terrible mistake by becoming a licensed government problem.",
+      "A gifted teenager combines guilt, loyalty, stubbornness, and immediate sensitivity regarding height."
+    ],
+    "wild": [
+      "One height comment triggers a state-alchemist emergency.",
+      "A teenager turns personal accountability into nationwide conspiracy detection."
+    ],
+    "audiences": [
+      "scientists studying responsibility",
+      "siblings relying on loyalty",
+      "people learning not to mention height"
+    ],
+    "genres": [
+      "Accountable Genius",
+      "Height-Sensitive Alchemy",
+      "Sibling Devotion"
+    ],
+    "quotes": [
+      "I am not short. The measuring system is corrupt.",
+      "I will fix this without treating anyone else as a resource."
+    ],
+    "reviews": [
+      "Brilliant, difficult, and deeply responsible beneath the anger.",
+      "He grows most when he accepts limits."
+    ],
+    "trailers": [
+      "One alchemist. One brother. Several regrettable shortcuts."
+    ],
+    "morals": [
+      "Real strength includes accepting limits and refusing to sacrifice others."
+    ],
+    "endings": [
+      "Edward receives one calm conversation before each major decision."
+    ],
+    "questions": [
+      "How do pride and guilt both motivate and obstruct Edward?"
+    ]
+  },
+  "hiromu arakawa": {
+    "name": "Hiromu Arakawa",
+    "type": "Author",
+    "key": "manga_fma",
+    "related": [
+      "Fullmetal Alchemist",
+      "Edward Elric",
+      "Silver Spoon"
+    ],
+    "mild": [
+      "A manga creator known for disciplined plotting, moral complexity, humor, political systems, family, and consequences."
+    ],
+    "silly": [
+      "A creator who makes every joke, military policy, scientific law, and minor character report back for the finale.",
+      "An author who understands that tightly plotted fantasy still needs cows, comedy, and ethical accounting."
+    ],
+    "wild": [
+      "One mangaka achieves equivalent exchange between humor, tragedy, politics, and perfect narrative setup.",
+      "A writer turns every early detail into a future invoice."
+    ],
+    "audiences": [
+      "plot-structure analysts",
+      "alchemists reviewing ethics",
+      "readers admiring payoff"
+    ],
+    "genres": [
+      "Narrative Equivalent Exchange",
+      "Political Fantasy",
+      "Long-Term Payoff Engineering"
+    ],
+    "quotes": [
+      "Nothing is introduced without eventually submitting a final report.",
+      "The joke and the tragedy share one accounting system."
+    ],
+    "reviews": [
+      "Exceptionally structured, humane, and satisfying.",
+      "Every subplot pays its debt."
+    ],
+    "trailers": [
+      "One creator. One complete plan. No wasted narrative material."
+    ],
+    "morals": [
+      "Consequences matter most when characters retain the power to choose differently."
+    ],
+    "endings": [
+      "Every adaptation preserves the complete ending."
+    ],
+    "questions": [
+      "How does Arakawa balance systemic critique with individual moral agency?"
+    ]
+  },
+  "demon slayer": {
+    "name": "Demon Slayer",
+    "type": "Manga Series",
+    "key": "manga_demonslayer",
+    "related": [
+      "Tanjiro Kamado",
+      "Koyoharu Gotouge",
+      "Naruto",
+      "Fullmetal Alchemist"
+    ],
+    "mild": [
+      "A compassionate young swordsman fights demons while seeking a cure for his sister."
+    ],
+    "silly": [
+      "A kind teenager enters the least cheerful pest-control profession in Japan and still remembers to empathize with the pests.",
+      "A breathing curriculum becomes a complete combat system with very dramatic weather effects."
+    ],
+    "wild": [
+      "One exceptionally polite swordsman makes demon hunting emotionally reflective.",
+      "A box-carrying brother turns compassion into a tactical advantage."
+    ],
+    "audiences": [
+      "sword instructors",
+      "demons surprised by empathy",
+      "siblings reviewing travel arrangements"
+    ],
+    "genres": [
+      "Compassionate Demon Hunting",
+      "Breathing Technique Education",
+      "Sibling Protection"
+    ],
+    "quotes": [
+      "I will defeat you, but I have also considered your tragic backstory.",
+      "Please breathe according to the approved form."
+    ],
+    "reviews": [
+      "Beautiful action. Remarkably empathetic monster response.",
+      "The training program had excellent visuals and terrible safety."
+    ],
+    "trailers": [
+      "One brother. One sister. An entire profession of dramatic breathing."
+    ],
+    "morals": [
+      "Compassion does not require accepting harm."
+    ],
+    "endings": [
+      "The demon corps introduces safer training and mental-health support."
+    ],
+    "questions": [
+      "How does Tanjiro's empathy shape the meaning of his violence?"
+    ]
+  },
+  "tanjiro kamado": {
+    "name": "Tanjiro Kamado",
+    "type": "Character",
+    "key": "manga_demonslayer",
+    "related": [
+      "Demon Slayer",
+      "Koyoharu Gotouge",
+      "Nezuko Kamado"
+    ],
+    "mild": [
+      "A compassionate, disciplined young swordsman whose grief strengthens rather than destroys his empathy."
+    ],
+    "silly": [
+      "A demon hunter with extraordinary smell, excellent manners, and the emotional intelligence of an entire support department.",
+      "A determined brother apologizes politely before executing the most beautifully animated corrective action."
+    ],
+    "wild": [
+      "One kind teenager becomes the demon corps' conscience and scent-analysis laboratory.",
+      "A swordsman weaponizes empathy without confusing it for surrender."
+    ],
+    "audiences": [
+      "siblings studying devotion",
+      "warriors learning empathy",
+      "demons receiving unexpected understanding"
+    ],
+    "genres": [
+      "Compassionate Strength",
+      "Scent-Based Investigation",
+      "Sibling Devotion"
+    ],
+    "quotes": [
+      "I understand your pain, and I still need you to stop.",
+      "Kindness and boundaries are both active techniques."
+    ],
+    "reviews": [
+      "Gentle, relentless, and emotionally grounded.",
+      "His compassion sharpens rather than weakens his resolve."
+    ],
+    "trailers": [
+      "One swordsman. One promise. Unusually respectful combat."
+    ],
+    "morals": [
+      "Empathy can coexist with firm action against harm."
+    ],
+    "endings": [
+      "Tanjiro receives one week of rest between missions."
+    ],
+    "questions": [
+      "Why does Tanjiro's empathy make him more—not less—effective?"
+    ]
+  },
+  "koyoharu gotouge": {
+    "name": "Koyoharu Gotouge",
+    "type": "Author",
+    "key": "manga_demonslayer",
+    "related": [
+      "Demon Slayer",
+      "Tanjiro Kamado",
+      "Nezuko Kamado"
+    ],
+    "mild": [
+      "A manga creator known for emotionally direct storytelling, family devotion, tragic antagonists, and visually distinctive combat."
+    ],
+    "silly": [
+      "A creator who gives every demon a terrifying power, a tragic history, and approximately twelve seconds to make readers cry.",
+      "An author who turns breathing exercises into elemental cinema."
+    ],
+    "wild": [
+      "One mangaka converts grief into sword choreography and collective emotional damage.",
+      "A writer creates villains who submit their humanity immediately after defeat."
+    ],
+    "audiences": [
+      "manga readers",
+      "animation teams",
+      "people unexpectedly crying over demons"
+    ],
+    "genres": [
+      "Emotional Action",
+      "Tragic Antagonists",
+      "Breathing-System Fantasy"
+    ],
+    "quotes": [
+      "The battle is complete; emotional consequences begin now.",
+      "Every demon receives one final human memory."
+    ],
+    "reviews": [
+      "Direct, moving, and visually memorable.",
+      "The emotional follow-through is extremely efficient."
+    ],
+    "trailers": [
+      "One creator. Many demons. Unlimited feelings after the fight."
+    ],
+    "morals": [
+      "Even people who cause harm may have histories worth understanding, without excusing that harm."
+    ],
+    "endings": [
+      "Every tragic backstory receives advance emotional warning."
+    ],
+    "questions": [
+      "How does Gotouge create sympathy without erasing responsibility?"
+    ]
   }
 };
