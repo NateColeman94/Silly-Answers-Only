@@ -112,10 +112,11 @@
 </div>
 <div class="saved-items" id="homeSavedItems"></div>
 </section>
-<section class="card notice hidden" id="apiLoading"><h2>🪿 Penelope is checking the public shelves…</h2><p>Handcrafted catalog miss. Searching Open Library for a likely book match.</p></section>
+<section class="card notice hidden" id="apiLoading"><h2 id="apiLoadingHeading">📚 Penelope is checking the shelves...</h2><p id="apiLoadingMessage">First stop: the handcrafted collection.</p></section>
 <section class="card notice hidden" id="notFound">
-<h2>📚 Checked Out Notice</h2>
-<p>Penelope checked every shelf. This title may be checked out or it has not entered the misinformation system yet.</p>
+<h2 id="notFoundHeading">📚 Penelope checked every shelf...</h2>
+<p id="notFoundMessage">Oh dear... I searched every nook of my library and even asked the neighboring librarians if they had a traveling copy. We couldn't find this title anywhere, so I'm afraid I can't misunderstand it just yet.</p>
+<div class="not-found-tips" id="notFoundTips"><strong>Try:</strong><ul><li>Double-check the spelling.</li><li>Search by the author's name.</li><li>Or come back later—libraries are always receiving new deliveries!</li></ul></div>
 <div class="button-row" id="notFoundSuggestions"></div>
 </section>
 <article class="card result hidden" id="result">
@@ -343,7 +344,7 @@
 <script src="js/search.js?v=8.4.0"></script>
 <script src="js/penelope.js"></script>
 <script src="js/library-card.js"></script>
-<script src="js/open-library.js?v=8.4.0"></script>
+<script src="js/open-library.js?v=8.4.1"></script>
 <script src="data/easter-eggs.js"></script>
 <script src="js/memory-seasonal.js"></script>
 <script src="data/desk-data.js"></script>
@@ -351,6 +352,6 @@
 <script src="js/seasonal.js"></script>
 <script src="js/desk.js?v=8.3.1"></script>
 <script src="js/tournament.js"></script>
-<script src="js/home-polish.js?v=8.3.1"></script><script src="js/app.js?v=8.4.0"></script>
+<script src="js/home-polish.js?v=8.3.1"></script><script src="js/app.js?v=8.4.1"></script>
 </body>
 </html>
