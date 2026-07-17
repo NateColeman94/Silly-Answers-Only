@@ -1023,3 +1023,10 @@ body.dark .wild-card-pick{background:rgba(74,56,53,.9)}
   .growing-desk-companion{min-height:280px}
   .growing-desk-companion img{width:min(92%,310px);max-height:275px}
 }
+
+/* 8.4.1 Interlibrary experience polish */
+.not-found-tips{margin:16px 0;padding:14px 16px;border:2px dashed rgba(73,55,45,.45);border-radius:14px;background:rgba(244,230,189,.55);line-height:1.6}
+.not-found-tips strong{font-family:Georgia,serif;font-size:1.05rem}
+.not-found-tips ul{margin:8px 0 0 22px;padding:0}
+.source-preview strong{display:block;margin-bottom:5px;font-family:Georgia,serif;font-size:1.05rem}
+.source-preview span{font-style:italic}
