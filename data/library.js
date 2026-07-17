@@ -27451,5 +27451,677 @@ window.PENELOPE_LIBRARY = {
       "Virtual Reality acquires executive authority and immediately destabilizes the entire book.",
       "One case of treasure hunt becomes a prophecy, a scandal, and an emergency staff meeting."
     ]
-  }
+  },
+  "dee henderson": {
+  "name": "Dee Henderson",
+  "type": "Author",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "An author who keeps assigning romance to highly trained professionals during national emergencies."
+  ],
+  "silly": [
+    "An author who keeps assigning romance to highly trained professionals during national emergencies.",
+    "An author who keeps assigning romance to highly trained professionals during national emergencies. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "An author who keeps assigning romance to highly trained professionals during national emergencies. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for Dee Henderson",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about Dee Henderson?"
+  ]
+},
+  "o'malley series": {
+  "name": "O'Malley Series",
+  "type": "Book Series",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "Seven found siblings choose emergency careers so family dinner can double as a municipal crisis briefing."
+  ],
+  "silly": [
+    "Seven found siblings choose emergency careers so family dinner can double as a municipal crisis briefing.",
+    "Seven found siblings choose emergency careers so family dinner can double as a municipal crisis briefing. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "Seven found siblings choose emergency careers so family dinner can double as a municipal crisis briefing. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for O'Malley Series",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about O'Malley Series?"
+  ]
+},
+  "the negotiator": {
+  "name": "The Negotiator",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "A professional negotiator discovers that hostage situations are simpler than accepting one sincere dinner invitation."
+  ],
+  "silly": [
+    "A professional negotiator discovers that hostage situations are simpler than accepting one sincere dinner invitation.",
+    "A professional negotiator discovers that hostage situations are simpler than accepting one sincere dinner invitation. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "A professional negotiator discovers that hostage situations are simpler than accepting one sincere dinner invitation. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for The Negotiator",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about The Negotiator?"
+  ]
+},
+  "the guardian": {
+  "name": "The Guardian",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "A federal marshal protects a witness while everyone quietly suspects the true danger is emotional availability."
+  ],
+  "silly": [
+    "A federal marshal protects a witness while everyone quietly suspects the true danger is emotional availability.",
+    "A federal marshal protects a witness while everyone quietly suspects the true danger is emotional availability. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "A federal marshal protects a witness while everyone quietly suspects the true danger is emotional availability. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for The Guardian",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about The Guardian?"
+  ]
+},
+  "the truth seeker": {
+  "name": "The Truth Seeker",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "A forensic pathologist investigates evidence, faith, and why every conversation has become suspiciously meaningful."
+  ],
+  "silly": [
+    "A forensic pathologist investigates evidence, faith, and why every conversation has become suspiciously meaningful.",
+    "A forensic pathologist investigates evidence, faith, and why every conversation has become suspiciously meaningful. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "A forensic pathologist investigates evidence, faith, and why every conversation has become suspiciously meaningful. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for The Truth Seeker",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about The Truth Seeker?"
+  ]
+},
+  "the protector": {
+  "name": "The Protector",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "A firefighter protects an entire city but remains baffled by one carefully supervised romantic spark."
+  ],
+  "silly": [
+    "A firefighter protects an entire city but remains baffled by one carefully supervised romantic spark.",
+    "A firefighter protects an entire city but remains baffled by one carefully supervised romantic spark. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "A firefighter protects an entire city but remains baffled by one carefully supervised romantic spark. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for The Protector",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about The Protector?"
+  ]
+},
+  "true devotion": {
+  "name": "True Devotion",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "A lifeguard and a Navy SEAL attempt to keep grief, danger, and feelings inside clearly marked swimming lanes."
+  ],
+  "silly": [
+    "A lifeguard and a Navy SEAL attempt to keep grief, danger, and feelings inside clearly marked swimming lanes.",
+    "A lifeguard and a Navy SEAL attempt to keep grief, danger, and feelings inside clearly marked swimming lanes. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "A lifeguard and a Navy SEAL attempt to keep grief, danger, and feelings inside clearly marked swimming lanes. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for True Devotion",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about True Devotion?"
+  ]
+},
+  "karen kingsbury": {
+  "name": "Karen Kingsbury",
+  "type": "Author",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "An author who schedules family feelings with the precision of a holiday airport and twice the luggage."
+  ],
+  "silly": [
+    "An author who schedules family feelings with the precision of a holiday airport and twice the luggage.",
+    "An author who schedules family feelings with the precision of a holiday airport and twice the luggage. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "An author who schedules family feelings with the precision of a holiday airport and twice the luggage. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for Karen Kingsbury",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about Karen Kingsbury?"
+  ]
+},
+  "janette oke": {
+  "name": "Janette Oke",
+  "type": "Author",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "An author who sends romance westward with a bonnet, a wagon, and absolutely no reliable weather forecast."
+  ],
+  "silly": [
+    "An author who sends romance westward with a bonnet, a wagon, and absolutely no reliable weather forecast.",
+    "An author who sends romance westward with a bonnet, a wagon, and absolutely no reliable weather forecast. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "An author who sends romance westward with a bonnet, a wagon, and absolutely no reliable weather forecast. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for Janette Oke",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about Janette Oke?"
+  ]
+},
+  "becky wade": {
+  "name": "Becky Wade",
+  "type": "Author",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "An author who gives accomplished adults one small hometown and several professionally inconvenient emotions."
+  ],
+  "silly": [
+    "An author who gives accomplished adults one small hometown and several professionally inconvenient emotions.",
+    "An author who gives accomplished adults one small hometown and several professionally inconvenient emotions. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "An author who gives accomplished adults one small hometown and several professionally inconvenient emotions. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for Becky Wade",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about Becky Wade?"
+  ]
+},
+  "irene hannon": {
+  "name": "Irene Hannon",
+  "type": "Author",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "An author who treats suspense, coffee, and guarded hearts as essential emergency supplies."
+  ],
+  "silly": [
+    "An author who treats suspense, coffee, and guarded hearts as essential emergency supplies.",
+    "An author who treats suspense, coffee, and guarded hearts as essential emergency supplies. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "An author who treats suspense, coffee, and guarded hearts as essential emergency supplies. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for Irene Hannon",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about Irene Hannon?"
+  ]
+},
+  "the giver": {
+  "name": "The Giver",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "A perfectly organized community appoints one teenager to remember every feeling the filing system misplaced."
+  ],
+  "silly": [
+    "A perfectly organized community appoints one teenager to remember every feeling the filing system misplaced.",
+    "A perfectly organized community appoints one teenager to remember every feeling the filing system misplaced. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "A perfectly organized community appoints one teenager to remember every feeling the filing system misplaced. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for The Giver",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about The Giver?"
+  ]
+},
+  "the book thief": {
+  "name": "The Book Thief",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "A young reader builds an unauthorized lending program while Death provides unusually attentive circulation statistics."
+  ],
+  "silly": [
+    "A young reader builds an unauthorized lending program while Death provides unusually attentive circulation statistics.",
+    "A young reader builds an unauthorized lending program while Death provides unusually attentive circulation statistics. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "A young reader builds an unauthorized lending program while Death provides unusually attentive circulation statistics. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for The Book Thief",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about The Book Thief?"
+  ]
+},
+  "the outsiders": {
+  "name": "The Outsiders",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "Two rival haircut philosophies escalate into a citywide debate about loyalty, belonging, and acceptable jackets."
+  ],
+  "silly": [
+    "Two rival haircut philosophies escalate into a citywide debate about loyalty, belonging, and acceptable jackets.",
+    "Two rival haircut philosophies escalate into a citywide debate about loyalty, belonging, and acceptable jackets. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "Two rival haircut philosophies escalate into a citywide debate about loyalty, belonging, and acceptable jackets. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for The Outsiders",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about The Outsiders?"
+  ]
+},
+  "the color purple": {
+  "name": "The Color Purple",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "A lifetime of letters proves that courage can survive terrible filing conditions and still bloom in the margins."
+  ],
+  "silly": [
+    "A lifetime of letters proves that courage can survive terrible filing conditions and still bloom in the margins.",
+    "A lifetime of letters proves that courage can survive terrible filing conditions and still bloom in the margins. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "A lifetime of letters proves that courage can survive terrible filing conditions and still bloom in the margins. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for The Color Purple",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about The Color Purple?"
+  ]
+},
+  "love comes softly": {
+  "name": "Love Comes Softly",
+  "type": "Book",
+  "key": "final-polish",
+  "related": [],
+  "mild": [
+    "A practical frontier arrangement slowly develops feelings despite harsh weather and a complete absence of dating apps."
+  ],
+  "silly": [
+    "A practical frontier arrangement slowly develops feelings despite harsh weather and a complete absence of dating apps.",
+    "A practical frontier arrangement slowly develops feelings despite harsh weather and a complete absence of dating apps. Penelope has filed the situation under 'Heartfelt but administratively difficult.'"
+  ],
+  "wild": [
+    "A practical frontier arrangement slowly develops feelings despite harsh weather and a complete absence of dating apps. A goose is appointed to supervise."
+  ],
+  "audiences": [
+    "readers searching for Love Comes Softly",
+    "patrons who enjoy confident literary errors"
+  ],
+  "genres": [
+    "Wonderful Misunderstanding",
+    "Popular Shelf"
+  ],
+  "quotes": [
+    "Penelope has reviewed the evidence and misunderstood it beautifully."
+  ],
+  "reviews": [
+    "Recognizable title. Completely unreliable explanation."
+  ],
+  "trailers": [
+    "One story. Several feelings. No responsible summary."
+  ],
+  "morals": [
+    "Accurate cataloging remains optional."
+  ],
+  "endings": [
+    "Penelope stamps the final page and refuses further questions."
+  ],
+  "questions": [
+    "What has Penelope misunderstood about Love Comes Softly?"
+  ]
+}
 };
