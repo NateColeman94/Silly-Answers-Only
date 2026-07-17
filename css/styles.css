@@ -979,3 +979,47 @@ body.dark .wild-card-pick{background:rgba(74,56,53,.9)}
   .growing-desk-penelope img{width:310px;right:-46px;bottom:-95px}
   .growing-desk-book{width:202px;height:126px;right:7px}
 }
+
+/* 8.3.4 — move Penelope into the cream companion column */
+.living-desk-wrap{
+  min-height:470px;
+  padding-right:20px;
+  overflow:hidden;
+}
+.growing-desk-penelope,
+.growing-desk-book{
+  display:none!important;
+}
+.desk-lower-row{
+  grid-template-columns:minmax(0,1fr) minmax(300px,.58fr);
+  align-items:stretch;
+}
+.growing-desk-companion{
+  position:relative;
+  min-height:470px;
+  overflow:hidden;
+  border-radius:12px;
+  background:transparent;
+  display:flex;
+  align-items:flex-end;
+  justify-content:center;
+  pointer-events:none;
+}
+.growing-desk-companion img{
+  display:block;
+  width:min(100%,390px);
+  max-height:455px;
+  object-fit:contain;
+  object-position:center bottom;
+  filter:drop-shadow(0 10px 12px rgba(76,45,35,.18));
+}
+.desk-mail-slot{grid-column:1/-1}
+@media(max-width:900px){
+  .desk-lower-row{grid-template-columns:1fr}
+  .growing-desk-companion{min-height:340px}
+  .growing-desk-companion img{width:min(82%,350px);max-height:330px}
+}
+@media(max-width:520px){
+  .growing-desk-companion{min-height:280px}
+  .growing-desk-companion img{width:min(92%,310px);max-height:275px}
+}
