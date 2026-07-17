@@ -55,7 +55,7 @@
       clear.addEventListener("click",()=>{
         window.PenelopeCard.clearShelf(shelf);
         renderSaved();
-  renderLibraryHoldings();
+  
       });
       heading.append(h4,clear);
       section.appendChild(heading);
@@ -126,66 +126,6 @@
     const requestId=++apiSequence;$("result").classList.add("hidden");$("notFound").classList.add("hidden");$("apiLoading").classList.remove("hidden");bubble("The handcrafted catalog missed. I am consulting the public shelves.");
     try{const results=await window.PenelopeOpenLibrary.search(value);if(requestId!==apiSequence)return;if(!results.length){showNotFound(value,false);return}renderEntry(results[0].entry,"api:"+window.PenelopeSearch.normalize(results[0].entry.name),false)}
     catch(error){console.error("Open Library search failed:",error);if(requestId===apiSequence)showNotFound(value,true)}
-  }
-
-
-  function renderLibraryHoldings(){
-    const wrap=$("libraryHoldings");
-    if(!wrap)return;
-
-    const entries=Object.values(window.PENELOPE_LIBRARY||{});
-    const counts={
-      books:0,
-      series:0,
-      creators:0,
-      characters:0
-    };
-
-    entries.forEach(entry=>{
-      const type=String(entry.type||"").toLowerCase();
-      if(type.includes("character")){
-        counts.characters++;
-      }else if(type.includes("author")||type.includes("creator")){
-        counts.creators++;
-      }else if(type.includes("series")){
-        counts.series++;
-      }else{
-        counts.books++;
-      }
-    });
-
-    wrap.innerHTML="";
-
-    [
-      ["Books",counts.books],
-      ["Series",counts.series],
-      ["Authors & Creators",counts.creators],
-      ["Characters",counts.characters]
-    ].forEach(([label,value])=>{
-      const row=document.createElement("div");
-      row.className="holding-row";
-
-      const name=document.createElement("span");
-      name.textContent=label;
-
-      const total=document.createElement("strong");
-      total.textContent=String(value);
-
-      row.append(name,total);
-      wrap.appendChild(row);
-    });
-
-    const totalRow=document.createElement("div");
-    totalRow.className="holding-row holding-total";
-
-    const totalLabel=document.createElement("span");
-    totalLabel.textContent="Wonderful Misunderstandings";
-
-    const totalValue=document.createElement("strong");
-    totalValue.textContent=String(entries.length);
-
-    totalRow.append(totalLabel,totalValue);
-    wrap.appendChild(totalRow);
   }
 
   function collectionsForKey(key){
