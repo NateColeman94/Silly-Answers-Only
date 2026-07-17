@@ -784,3 +784,25 @@ body.dark .recommendation-lock-icon{background:#3c352d}
 .passport-progress{width:82%;height:10px;margin:8px auto 4px;overflow:hidden;border:1px solid rgba(73,55,45,.28);border-radius:999px;background:rgba(73,55,45,.10)}.passport-progress span{display:block;height:100%;background:var(--rose);transition:width .35s ease}.passport-stamp.earned .passport-progress span{background:var(--sage)}
 
 /* 8.1E — Passport removed; homepage flow simplified. */
+
+/* 8.1E Across the Stacks — Library Holdings */
+#libraryHoldings{display:grid;gap:7px;margin-top:10px}
+.holding-row{display:flex;justify-content:space-between;gap:16px;padding-bottom:5px;border-bottom:1px dotted rgba(73,55,45,.28)}
+.holding-total{margin-top:3px;padding-top:6px;border-top:2px solid rgba(73,55,45,.3);border-bottom:0;font-family:Georgia,serif}
+
+/* 8.2A: Hall of Famous Misunderstandings — scoped additions only */
+.hall-of-fame-card{overflow:hidden}
+.hall-heading{display:flex;justify-content:space-between;gap:1rem;align-items:flex-start}
+.hall-heading h2{margin:.15rem 0}
+.hall-tracks{opacity:.55;letter-spacing:.25rem;white-space:nowrap}
+.hall-display-label{text-align:center;font-weight:800;letter-spacing:.18em;font-size:.78rem;margin:1rem 0;padding:.55rem;border-top:1px solid rgba(82,56,91,.22);border-bottom:1px solid rgba(82,56,91,.22)}
+.hall-exhibit{display:grid;grid-template-columns:minmax(190px,30%) 1fr;gap:1.35rem;align-items:center}
+.hall-frame{margin:0;padding:.55rem;background:#8a693d;border-radius:12px;box-shadow:inset 0 0 0 3px #c9a968,0 7px 18px rgba(51,35,58,.16)}
+.hall-frame img{display:block;width:100%;aspect-ratio:7/5;object-fit:cover;border-radius:7px}
+.hall-copy h3{margin:.1rem 0 .65rem}
+.hall-copy blockquote{margin:.4rem 0 1rem;font-size:1.08rem;line-height:1.55}
+.hall-curator{padding:.85rem 1rem;border-left:4px solid #b89152;background:rgba(255,250,240,.58);border-radius:8px}
+.hall-curator p{margin:.35rem 0}
+.hall-curator small{display:block;text-align:right}
+.hall-controls{display:flex;justify-content:center;gap:.7rem;flex-wrap:wrap;margin-top:1.15rem}
+@media(max-width:720px){.hall-exhibit{grid-template-columns:1fr}.hall-frame{max-width:360px;margin-inline:auto}.hall-heading{display:block}.hall-tracks{display:block;margin-top:.5rem}.hall-controls button{flex:1 1 150px}}
