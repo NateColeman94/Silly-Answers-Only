@@ -826,3 +826,37 @@ body.dark .living-desk-wrap{background:linear-gradient(145deg,#8f5559,#704044);b
 @media(max-width:980px){.new-arrivals-card{grid-template-columns:1fr 1fr}.arrival-letter{grid-column:1/-1}}
 @media(max-width:800px){.new-arrivals-card,.desk-lower-row{grid-template-columns:1fr}.arrival-letter{grid-column:auto}.desk-mail-slot{grid-column:auto}}
 @media(max-width:480px){.compact-recommendation-card .recommendation-actions{grid-template-columns:1fr}.compact-recommendation-card #refreshPersonalRecommendationBtn{grid-column:auto}}
+
+
+/* 8.3.1 final repair: standalone recommendation + restored rose Growing Desk */
+.desk-lower-row{grid-template-columns:minmax(0,1fr) minmax(250px,.55fr);align-items:stretch}
+.living-desk-wrap{
+  background:linear-gradient(145deg,#c98587,#b66f73)!important;
+  border:1px solid #8f565a!important;
+  box-shadow:inset 0 2px rgba(255,255,255,.22),0 5px 0 rgba(111,65,67,.18)!important;
+  color:#fffaf2;
+}
+.living-desk-wrap .desk-card-label,.living-desk-wrap small{color:#fffaf2!important;text-shadow:0 1px 1px rgba(80,39,43,.35)}
+.living-desk-wrap .desk-object{background:rgba(255,250,242,.93);border-color:rgba(107,55,58,.32);color:#49372d}
+.living-desk-wrap .desk-object.locked{background:rgba(255,242,240,.88);border:1px dashed rgba(107,55,58,.48)}
+.living-desk-wrap .desk-object.locked em{color:#704348}
+.personal-recommendation-page{margin-top:22px;padding:24px;background:linear-gradient(145deg,#fffaf0,#f5e6da);border-top:6px solid var(--rose);overflow:hidden}
+.recommendation-page-heading{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:14px}
+.personal-recommendation-page .recommendation-lock{padding:18px;border:1px dashed rgba(150,85,88,.42);border-radius:12px;background:rgba(255,255,255,.55)}
+.personal-recommendation-page .recommendation-unlocked{padding:0}
+.personal-recommendation-page .recommendation-letter{padding:18px 20px;background:rgba(255,255,255,.58);border:1px solid rgba(150,85,88,.24);border-radius:12px}
+.recommendation-letter-opening{font-family:Georgia,serif;font-size:1rem;font-style:italic;line-height:1.6;margin:0 0 15px}
+.recommendation-picks{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(220px,.75fr);gap:14px}
+.recommendation-pick{padding:16px;border-radius:10px;background:#fffaf2;border:1px solid rgba(73,55,45,.18)}
+.recommendation-pick>span{font-size:.72rem;font-weight:800;letter-spacing:.07em;text-transform:uppercase;color:#955b5e}
+.recommendation-pick h3{margin:.45rem 0 .6rem}
+.recommendation-pick blockquote{margin:.5rem 0;padding-left:12px;border-left:3px solid var(--rose)}
+.wild-card-pick{background:#f9ede7}
+.recommendation-footer-row{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:14px}
+.recommendation-footer-row .recommendation-signature{margin:0;text-align:left}
+.recommend-again-btn{white-space:nowrap}
+body.dark .personal-recommendation-page{background:linear-gradient(145deg,#4b3c39,#3f3331)}
+body.dark .personal-recommendation-page .recommendation-letter,body.dark .personal-recommendation-page .recommendation-lock{background:rgba(55,48,40,.78)}
+body.dark .recommendation-pick{background:rgba(62,52,47,.9)}
+body.dark .wild-card-pick{background:rgba(74,56,53,.9)}
+@media(max-width:760px){.desk-lower-row{grid-template-columns:1fr}.recommendation-picks{grid-template-columns:1fr}.recommendation-footer-row{align-items:stretch;flex-direction:column}.recommend-again-btn{width:100%}}
